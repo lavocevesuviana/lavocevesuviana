@@ -102,7 +102,8 @@ def guscio(titolo, contenuto, prof=0):
 </footer>
 </body></html>""".format(
         titolo=escape(titolo), t=escape(TESTATA), claim=escape(CLAIM), su=su, contenuto=contenuto,
-        nav="".join('<a href="%scomuni/%s.html">%s</a>' % (su, slug(c), escape(c)) for c in COMUNI_NAV))
+        nav='<a class="home" href="%sindex.html">Home</a>' % su
+            + "".join('<a href="%scomuni/%s.html">%s</a>' % (su, slug(c), escape(c)) for c in COMUNI_NAV))
 
 
 def sorgente_foto(nome, prof=0):

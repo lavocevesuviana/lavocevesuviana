@@ -19,10 +19,11 @@ main{max-width:1180px;margin:0 auto;padding:0 20px 60px}
 .testata{text-align:center;padding:26px 20px 16px;border-bottom:3px solid var(--nero)}
 .marchio{display:inline-block;text-decoration:none}
 .marchio img{max-height:74px;width:auto}
-.wordmark{font-family:var(--titoli);font-size:clamp(30px,7vw,58px);letter-spacing:-.02em;
-  display:inline-flex;gap:.22em;align-items:baseline;text-transform:uppercase}
-.wordmark b{font-weight:900}
-.wordmark i{font-style:normal;color:var(--giallo);-webkit-text-stroke:1.5px var(--nero)}
+.wordmark{font-family:var(--titoli);font-size:clamp(30px,7vw,58px);letter-spacing:-.03em;
+  display:inline-flex;gap:.14em;align-items:center;text-transform:uppercase;line-height:1}
+.wordmark b{writing-mode:vertical-rl;transform:rotate(180deg);background:var(--nero);
+  color:var(--giallo);font-size:.30em;letter-spacing:.1em;padding:.45em .22em;font-weight:900}
+.wordmark i{font-style:normal;font-weight:900;color:var(--nero)}
 .claim{margin:10px 0 0;font-family:var(--etichette);font-size:12.5px;letter-spacing:.16em;
   text-transform:uppercase;color:var(--grigio)}
 
@@ -31,6 +32,8 @@ main{max-width:1180px;margin:0 auto;padding:0 20px 60px}
 .comuni a{font-family:var(--etichette);font-size:12px;font-weight:700;letter-spacing:.09em;
   text-transform:uppercase;color:#fff;text-decoration:none;padding:13px 15px;transition:.15s}
 .comuni a:hover{background:var(--giallo);color:var(--nero)}
+.comuni a.home{background:var(--giallo);color:var(--nero)}
+.comuni a.home:hover{background:#fff}
 
 /* ---------- striscia sismica ---------- */
 .sismo{background:var(--giallo);border-bottom:2px solid var(--nero);font-family:var(--etichette);
@@ -116,7 +119,7 @@ footer p{max-width:1180px;margin:0 auto;padding:22px 20px;font-family:var(--etic
   </a>
   <p class="claim">Cronaca, politica e vita dei paesi del Vesuvio</p>
 </header>
-<nav class="comuni"><a href="comuni/terzigno.html">Terzigno</a><a href="comuni/boscoreale.html">Boscoreale</a><a href="comuni/ottaviano.html">Ottaviano</a><a href="comuni/poggiomarino.html">Poggiomarino</a><a href="comuni/somma-vesuviana.html">Somma Vesuviana</a><a href="comuni/san-giuseppe-vesuviano.html">San Giuseppe Vesuviano</a><a href="comuni/pompei.html">Pompei</a></nav>
+<nav class="comuni"><a class="home" href="index.html">Home</a><a href="comuni/terzigno.html">Terzigno</a><a href="comuni/boscoreale.html">Boscoreale</a><a href="comuni/ottaviano.html">Ottaviano</a><a href="comuni/poggiomarino.html">Poggiomarino</a><a href="comuni/somma-vesuviana.html">Somma Vesuviana</a><a href="comuni/san-giuseppe-vesuviano.html">San Giuseppe Vesuviano</a><a href="comuni/pompei.html">Pompei</a></nav>
 <main><aside class="sismo"><b>Ultima scossa</b> magnitudo 1.0 — Vesuvio, profondità 0 km · 2026-08-06 ore 18:39 · <a href="https://terremoti.ingv.it/event/46805442" target="_blank" rel="noopener">dati INGV</a> <span class="conta">5 eventi negli ultimi 30 giorni</span></aside>
 <div class="colonne">
   <div class="principale"><article class="apertura">

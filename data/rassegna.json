@@ -1,12 +1,5 @@
 [
  {
-  "titolo": "ANCORA ALLERTA METEO in Campania, tempeste di fulmini e vento forte: fino a quando",
-  "link": "https://www.vesuviolive.it/ultime-notizie/543955-allerta-meteo-campania-oggi-18-agosto-2026/",
-  "fonte": "VesuvioLive",
-  "data": "Tue, 18 Aug 2026 10:37:02 +0000",
-  "comuni": []
- },
- {
   "titolo": "Meraviglia in Campania, da Napoli a Avellino: itinerari mozzafiato a bordo dei treni storici",
   "link": "https://www.vesuviolive.it/ultime-notizie/543952-campania-treni-storici-napoli-caserta-avellino-2026/",
   "fonte": "VesuvioLive",
@@ -349,6 +342,13 @@
   "link": "https://www.vesuviolive.it/ultime-notizie/543785-san-lorenzo-2026-drone-show-capri/",
   "fonte": "VesuvioLive",
   "data": "Tue, 11 Aug 2026 13:53:59 +0000",
+  "comuni": []
+ },
+ {
+  "titolo": "Concerto di Ferragosto ad Amalfi: uno spettacolare show ad ingresso gratis per tutti",
+  "link": "https://www.vesuviolive.it/eventi/543783-concerto-ferragosto-2026-amalfi-gratis/",
+  "fonte": "VesuvioLive",
+  "data": "Tue, 11 Aug 2026 12:56:50 +0000",
   "comuni": []
  },
  {
@@ -716,13 +716,6 @@
   "comuni": []
  },
  {
-  "titolo": "Morto Fulvio Lucisano: il produttore cinematografico di “Ricomincio da tre”",
-  "link": "https://www.metropolisweb.it/2026/08/18/morto-fulvio-lucisano-il-produttore-cinematografico-di-ricomincio-da-tre/",
-  "fonte": "Metropolis",
-  "data": "Tue, 18 Aug 2026 10:15:44 +0000",
-  "comuni": []
- },
- {
   "titolo": "Ospedale di Nola, liste d’attesa ridotte: la cardiologia cambia passo",
   "link": "https://www.metropolisweb.it/2026/08/18/ospedale-nola-liste-dattesa-ridotte-la-cardiologia-cambia-passo/",
   "fonte": "Metropolis",
@@ -750,13 +743,6 @@
   "link": "https://www.metropolisweb.it/2026/08/18/ischia-scoperto-villaggio-abusivo-devastata-unarea-a-rischio-frana/",
   "fonte": "Metropolis",
   "data": "Tue, 18 Aug 2026 09:35:35 +0000",
-  "comuni": []
- },
- {
-  "titolo": "Tornano i treni storici in Campania: il programma da settembre a dicembre",
-  "link": "https://www.metropolisweb.it/2026/08/18/tornano-i-treni-storici-in-campania-il-programma-da-settembre-a-dicembre/",
-  "fonte": "Metropolis",
-  "data": "Tue, 18 Aug 2026 10:27:40 +0000",
   "comuni": []
  },
  {
@@ -1094,6 +1080,20 @@
   "comuni": []
  },
  {
+  "titolo": "Boom crocieristi a Salerno: attese 25mila persone",
+  "link": "https://www.metropolisweb.it/2026/08/14/boom-crocieristi-salerno-attese-25mila-persone/",
+  "fonte": "Metropolis",
+  "data": "Fri, 14 Aug 2026 16:54:35 +0000",
+  "comuni": []
+ },
+ {
+  "titolo": "Ponte Morandi, Torre del Greco ricorda le quattro giovani vittime",
+  "link": "https://www.metropolisweb.it/2026/08/14/840634/",
+  "fonte": "Metropolis",
+  "data": "Fri, 14 Aug 2026 16:47:38 +0000",
+  "comuni": []
+ },
+ {
   "titolo": "Pad X9 Max, il tablet che pensa in grande",
   "link": "https://www.metropolisweb.it/2026/08/18/pad-x9-max-tablet-pensa-grande/",
   "fonte": "Metropolis",
@@ -1350,27 +1350,6 @@
   "link": "https://www.ansa.it/campania/notizie/2026/08/16/il-gran-cono-del-vesuvio-si-conferma-meta-di-ferragosto_d4340c5b-67d2-406c-a3da-2e2c5ec930e8.html",
   "fonte": "ANSA Campania",
   "data": "Sun, 16 Aug 2026 13:58:13 +0200",
-  "comuni": []
- },
- {
-  "titolo": "Concerto di Ferragosto ad Amalfi: uno spettacolare show ad ingresso gratis per tutti",
-  "link": "https://www.vesuviolive.it/eventi/543783-concerto-ferragosto-2026-amalfi-gratis/",
-  "fonte": "VesuvioLive",
-  "data": "Tue, 11 Aug 2026 12:56:50 +0000",
-  "comuni": []
- },
- {
-  "titolo": "Boom crocieristi a Salerno: attese 25mila persone",
-  "link": "https://www.metropolisweb.it/2026/08/14/boom-crocieristi-salerno-attese-25mila-persone/",
-  "fonte": "Metropolis",
-  "data": "Fri, 14 Aug 2026 16:54:35 +0000",
-  "comuni": []
- },
- {
-  "titolo": "Ponte Morandi, Torre del Greco ricorda le quattro giovani vittime",
-  "link": "https://www.metropolisweb.it/2026/08/14/840634/",
-  "fonte": "Metropolis",
-  "data": "Fri, 14 Aug 2026 16:47:38 +0000",
   "comuni": []
  },
  {
