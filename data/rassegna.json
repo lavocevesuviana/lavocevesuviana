@@ -714,6 +714,13 @@
   "comuni": []
  },
  {
+  "titolo": "Torre del Greco, condono «negato» per una casa nel Parco Vesuvio: il Comune sconfitto in tribunale",
+  "link": "https://www.metropolisweb.it/2026/08/18/torre-del-greco-condono-negato-casa-nel-parco-vesuvio-comune-sconfitto-tribunale/",
+  "fonte": "Metropolis",
+  "data": "Tue, 18 Aug 2026 11:24:06 +0000",
+  "comuni": []
+ },
+ {
   "titolo": "Morto Fulvio Lucisano: il produttore cinematografico di “Ricomincio da tre”",
   "link": "https://www.metropolisweb.it/2026/08/18/morto-fulvio-lucisano-il-produttore-cinematografico-di-ricomincio-da-tre/",
   "fonte": "Metropolis",
@@ -1080,13 +1087,6 @@
   "comuni": []
  },
  {
-  "titolo": "Ferragosto: riti antichi e ‘secchiate’, l’altra festa Campania",
-  "link": "https://www.metropolisweb.it/2026/08/15/ferragosto-riti-antichi-secchiate-laltra-festa-campania/",
-  "fonte": "Metropolis",
-  "data": "Sat, 15 Aug 2026 09:45:30 +0000",
-  "comuni": []
- },
- {
   "titolo": "Pad X9 Max, il tablet che pensa in grande",
   "link": "https://www.metropolisweb.it/2026/08/18/pad-x9-max-tablet-pensa-grande/",
   "fonte": "Metropolis",
@@ -1296,15 +1296,6 @@
   "comuni": []
  },
  {
-  "titolo": "Manila Esposito risponde al body shaming con le tre medaglie agli Europei di ginnastica",
-  "link": "https://www.cronachedellacampania.it/2026/08/manila-esposito-risponde-al-body-shaming-con-le-tre-medaglie-agli-europei-di-ginnastica/",
-  "fonte": "Cronache della Campania",
-  "data": "Mon, 17 Aug 2026 19:44:31 +0000",
-  "comuni": [
-   "Torre Annunziata"
-  ]
- },
- {
   "titolo": "Incidente sul lavoro a Striano, operaio investito dal muletto: è in ospedale",
   "link": "https://internapoli.it/incidente-sul-lavoro-a-striano-operaio-investito-dal-muletto-e-in-ospedale/",
   "fonte": "Internapoli",
@@ -1344,6 +1335,22 @@
   "fonte": "ANSA Campania",
   "data": "Sun, 16 Aug 2026 13:58:13 +0200",
   "comuni": []
+ },
+ {
+  "titolo": "Ferragosto: riti antichi e ‘secchiate’, l’altra festa Campania",
+  "link": "https://www.metropolisweb.it/2026/08/15/ferragosto-riti-antichi-secchiate-laltra-festa-campania/",
+  "fonte": "Metropolis",
+  "data": "Sat, 15 Aug 2026 09:45:30 +0000",
+  "comuni": []
+ },
+ {
+  "titolo": "Manila Esposito risponde al body shaming con le tre medaglie agli Europei di ginnastica",
+  "link": "https://www.cronachedellacampania.it/2026/08/manila-esposito-risponde-al-body-shaming-con-le-tre-medaglie-agli-europei-di-ginnastica/",
+  "fonte": "Cronache della Campania",
+  "data": "Mon, 17 Aug 2026 19:44:31 +0000",
+  "comuni": [
+   "Torre Annunziata"
+  ]
  },
  {
   "titolo": "Boscoreale, funerali in forma privata per Franchino Pesacane",
