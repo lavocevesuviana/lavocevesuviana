@@ -3,6 +3,7 @@
 
 import json
 import re
+import hashlib
 import shutil
 from datetime import datetime
 from email.utils import parsedate_to_datetime
@@ -77,6 +78,14 @@ def carica_articoli():
     return articoli
 
 
+def versione_css():
+    """Sigla del foglio di stile, da appendere al collegamento. Cambiando la
+    sigla a ogni modifica, il browser e' costretto a riscaricarlo: senza,
+    i lettori continuerebbero a vedere la pagina nuova con lo stile vecchio."""
+    testo = (STATIC / "style.css").read_bytes()
+    return hashlib.sha1(testo).hexdigest()[:8]
+
+
 def guscio(titolo, contenuto, prof=0):
     su = "../" * prof
     return """<!doctype html>
@@ -84,7 +93,7 @@ def guscio(titolo, contenuto, prof=0):
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>{titolo}</title>
-<link rel="stylesheet" href="{su}style.css">
+<link rel="stylesheet" href="{su}style.css?v={ver}">
 <link rel="icon" href="{su}favicon.png">
 </head><body>
 <header class="testata">
@@ -104,6 +113,7 @@ def guscio(titolo, contenuto, prof=0):
 </footer>
 </body></html>""".format(
         titolo=escape(titolo), t=escape(TESTATA), claim=escape(CLAIM), su=su, contenuto=contenuto,
+        ver=versione_css(),
         nav='<a class="home" href="%sindex.html">Home</a>' % su
             + "".join('<a href="%scomuni/%s.html">%s</a>' % (su, slug(c), escape(c)) for c in COMUNI_NAV))
 
@@ -115,18 +125,18 @@ def copertina(a):
     etichetta = escape((a.get("comune") or TESTATA).upper())
     corpo = escape(a["titolo"])[:78]
     return (
-        '<svg class="copertina" viewBox="0 0 1200 675" preserveAspectRatio="xMidYMid slice" '
+        '<svg class="copertina" viewBox="0 0 1200 430" preserveAspectRatio="xMidYMid slice" '
         'xmlns="http://www.w3.org/2000/svg" role="img" aria-label="%s">'
-        '<rect width="1200" height="675" fill="#111"/>'
-        '<path d="M0 675 L300 330 L410 430 L575 215 L860 575 L965 480 L1200 675 Z" '
-        'fill="#F6D04D" opacity="0.16"/>'
-        '<rect x="70" y="250" width="14" height="150" fill="#F6D04D"/>'
-        '<text x="112" y="312" fill="#F6D04D" font-family="Archivo Black,Helvetica,Arial" '
-        'font-size="52" font-weight="900" letter-spacing="2">%s</text>'
-        '<text x="112" y="372" fill="#ffffff" font-family="Helvetica,Arial" '
-        'font-size="27" opacity="0.82">%s</text>'
-        '<text x="70" y="620" fill="#ffffff" font-family="Helvetica,Arial" font-size="20" '
-        'letter-spacing="5" opacity="0.5">LA VOCE VESUVIANA</text>'
+        '<rect width="1200" height="430" fill="#111"/>'
+        '<path d="M760 430 L900 190 L960 250 L1050 130 L1200 330 L1200 430 Z" '
+        'fill="#F6D04D" opacity="0.14"/>'
+        '<rect x="64" y="150" width="10" height="118" fill="#F6D04D"/>'
+        '<text x="98" y="205" fill="#F6D04D" font-family="Archivo Black,Helvetica,Arial" '
+        'font-size="46" font-weight="900" letter-spacing="2">%s</text>'
+        '<text x="98" y="256" fill="#ffffff" font-family="Helvetica,Arial" '
+        'font-size="25" opacity="0.85">%s</text>'
+        '<text x="64" y="392" fill="#ffffff" font-family="Helvetica,Arial" font-size="17" '
+        'letter-spacing="4" opacity="0.45">LA VOCE VESUVIANA</text>'
         "</svg>" % (etichetta, etichetta, corpo))
 
 
@@ -148,7 +158,8 @@ def scheda(a, prof=0):
 </article>""".format(
         su=su, url=a["url"], titolo=escape(a["titolo"]), sommario=escape(a["sommario"]),
         data=data_lunga(a["dt"]),
-        foto='<a class="foto" href="%s%s">%s</a>' % (su, a["url"],
+        foto='<a class="foto%s" href="%s%s">%s</a>' % (
+            "" if a.get("foto") else " senza-foto", su, a["url"],
             '<img src="%s" alt="" loading="lazy">' % sorgente_foto(a["foto"], prof)
             if a.get("foto") else copertina(a)),
         occhiello='<p class="occhiello">%s</p>' % escape(a["comune"] or a["occhiello"]) if (a["comune"] or a["occhiello"]) else "")
@@ -219,7 +230,8 @@ def costruisci():
           <p class="sommario">{sommario}…</p><p class="meta">{data}</p></article>""".format(
             url=a["url"], titolo=escape(a["titolo"]), sommario=escape(a["sommario"]),
             data=data_lunga(a["dt"]),
-            foto='<a class="foto grande" href="%s">%s</a>' % (a["url"],
+            foto='<a class="foto grande%s" href="%s">%s</a>' % (
+                "" if a.get("foto") else " senza-foto", a["url"],
                 '<img src="%s" alt="">' % sorgente_foto(a["foto"])
                 if a.get("foto") else copertina(a)),
             occhiello='<p class="occhiello">%s</p>' % escape(a["comune"]) if a["comune"] else "")

@@ -110,7 +110,9 @@ footer p{margin:0;padding:6px 0;font-family:var(--etichette);
 
 /* copertina disegnata per gli articoli senza fotografia */
 .foto .copertina{display:block;width:100%;height:100%}
-.scheda .foto .copertina,.apertura .foto.grande .copertina{aspect-ratio:auto}
+/* senza fotografia la copertina e' una fascia, non un riquadro che schiaccia la pagina */
+.apertura .foto.grande.senza-foto{aspect-ratio:2.8/1}
+.scheda .foto.senza-foto{aspect-ratio:2.4/1}
 
 /* miniature della rassegna: immagini ospitate dalle testate d'origine */
 .rassegna li a{display:flex;gap:11px;align-items:flex-start}
