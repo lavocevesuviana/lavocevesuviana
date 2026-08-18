@@ -884,22 +884,6 @@
   "comuni": []
  },
  {
-  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/08/778034198_1065372812610142_1706980837114633856_n-1024x576.jpg",
-  "titolo": "Tamponamento e aggressione a Santa Maria la Carità: anziano picchiato dopo un incidente",
-  "link": "https://www.metropolisweb.it/2026/08/18/tamponamento-aggressione-santa-maria-la-carita-anziano-picchiato-un-incidente/",
-  "fonte": "Metropolis",
-  "data": "Tue, 18 Aug 2026 11:37:28 +0000",
-  "comuni": []
- },
- {
-  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/08/Schermata-2026-08-17-alle-15.23.39.png",
-  "titolo": "Torre del Greco, condono «negato» per una casa nel Parco Vesuvio: il Comune sconfitto in tribunale",
-  "link": "https://www.metropolisweb.it/2026/08/18/torre-del-greco-condono-negato-casa-nel-parco-vesuvio-comune-sconfitto-tribunale/",
-  "fonte": "Metropolis",
-  "data": "Tue, 18 Aug 2026 11:24:06 +0000",
-  "comuni": []
- },
- {
   "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/08/LUCISANO.jpeg",
   "titolo": "Morto Fulvio Lucisano: il produttore cinematografico di “Ricomincio da tre”",
   "link": "https://www.metropolisweb.it/2026/08/18/morto-fulvio-lucisano-il-produttore-cinematografico-di-ricomincio-da-tre/",
@@ -939,14 +923,6 @@
   "link": "https://www.metropolisweb.it/2026/08/18/castellammare-turisti-truffati-lastar-venite-un-nostra-struttura/",
   "fonte": "Metropolis",
   "data": "Tue, 18 Aug 2026 10:42:00 +0000",
-  "comuni": []
- },
- {
-  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/08/ercolano-foto-1024x527.jpeg",
-  "titolo": "Ercolano: controlli dell’abbandono di rifiuti intensificati, due denunce e patenti ritirate",
-  "link": "https://www.metropolisweb.it/2026/08/18/ercolano-controlli-dellabbandono-di-rifiuti-intensificati/",
-  "fonte": "Metropolis",
-  "data": "Tue, 18 Aug 2026 10:43:22 +0000",
   "comuni": []
  },
  {
@@ -1307,6 +1283,38 @@
   "comuni": []
  },
  {
+  "titolo": "Savoia, vittoria da big: perché il successo di Caserta vale doppio",
+  "link": "https://www.metropolisweb.it/2026/08/15/savoia-vittoria-big-perche-successo-caserta-vale-doppio/",
+  "fonte": "Metropolis",
+  "data": "Sat, 15 Aug 2026 16:06:51 +0000",
+  "comuni": [],
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-15-alle-17.57.52.png",
+  "img_provata": true
+ },
+ {
+  "titolo": "Ferragosto: riti antichi e ‘secchiate’, l’altra festa Campania",
+  "link": "https://www.metropolisweb.it/2026/08/15/ferragosto-riti-antichi-secchiate-laltra-festa-campania/",
+  "fonte": "Metropolis",
+  "data": "Sat, 15 Aug 2026 09:45:30 +0000",
+  "comuni": [],
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-15-alle-11.42.03.png",
+  "img_provata": true
+ },
+ {
+  "titolo": "Imprenditore rapito e fatto sparire, cani molecolari sul Vesuvio per cercare il corpo di Vorraro",
+  "link": "https://www.metropolisweb.it/2026/08/15/imprenditore-rapito-sparire-cani-molecolari-sul-vesuvio-cercare-corpo-vorraro/",
+  "fonte": "Metropolis",
+  "data": "Sat, 15 Aug 2026 08:10:20 +0000",
+  "comuni": [
+   "Terzigno",
+   "Ottaviano",
+   "Poggiomarino",
+   "San Giuseppe Vesuviano"
+  ],
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/06/Screenshot-2026-06-03-alle-20.30.38-1024x754.png",
+  "img_provata": true
+ },
+ {
   "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/08/sito-pan-3-1024x576.jpg",
   "titolo": "Pad X9 Max, il tablet che pensa in grande",
   "link": "https://www.metropolisweb.it/2026/08/18/pad-x9-max-tablet-pensa-grande/",
@@ -1604,30 +1612,36 @@
   "img_provata": true
  },
  {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/08/778034198_1065372812610142_1706980837114633856_n-1024x576.jpg",
+  "titolo": "Tamponamento e aggressione a Santa Maria la Carità: anziano picchiato dopo un incidente",
+  "link": "https://www.metropolisweb.it/2026/08/18/tamponamento-aggressione-santa-maria-la-carita-anziano-picchiato-un-incidente/",
+  "fonte": "Metropolis",
+  "data": "Tue, 18 Aug 2026 11:37:28 +0000",
+  "comuni": []
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/08/Schermata-2026-08-17-alle-15.23.39.png",
+  "titolo": "Torre del Greco, condono «negato» per una casa nel Parco Vesuvio: il Comune sconfitto in tribunale",
+  "link": "https://www.metropolisweb.it/2026/08/18/torre-del-greco-condono-negato-casa-nel-parco-vesuvio-comune-sconfitto-tribunale/",
+  "fonte": "Metropolis",
+  "data": "Tue, 18 Aug 2026 11:24:06 +0000",
+  "comuni": []
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/08/ercolano-foto-1024x527.jpeg",
+  "titolo": "Ercolano: controlli dell’abbandono di rifiuti intensificati, due denunce e patenti ritirate",
+  "link": "https://www.metropolisweb.it/2026/08/18/ercolano-controlli-dellabbandono-di-rifiuti-intensificati/",
+  "fonte": "Metropolis",
+  "data": "Tue, 18 Aug 2026 10:43:22 +0000",
+  "comuni": []
+ },
+ {
   "titolo": "Accoltellato nella notte al torace ed alla mano",
   "link": "https://www.ilfattovesuviano.it/2026/08/accoltellato-nella-notte-al-torace-ed-alla-mano",
   "fonte": "Il Fatto Vesuviano",
   "data": "Mon, 17 Aug 2026 11:00:00 +0000",
   "comuni": [],
   "img": "https://cdn13.webmaster360.it/2026/08/covers/01KWSVW6XBXG4BZ5SYQ6TT0WWR.jpg",
-  "img_provata": true
- },
- {
-  "titolo": "Savoia, vittoria da big: perché il successo di Caserta vale doppio",
-  "link": "https://www.metropolisweb.it/2026/08/15/savoia-vittoria-big-perche-successo-caserta-vale-doppio/",
-  "fonte": "Metropolis",
-  "data": "Sat, 15 Aug 2026 16:06:51 +0000",
-  "comuni": [],
-  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-15-alle-17.57.52.png",
-  "img_provata": true
- },
- {
-  "titolo": "Ferragosto: riti antichi e ‘secchiate’, l’altra festa Campania",
-  "link": "https://www.metropolisweb.it/2026/08/15/ferragosto-riti-antichi-secchiate-laltra-festa-campania/",
-  "fonte": "Metropolis",
-  "data": "Sat, 15 Aug 2026 09:45:30 +0000",
-  "comuni": [],
-  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-15-alle-11.42.03.png",
   "img_provata": true
  },
  {
@@ -1659,20 +1673,6 @@
    "Boscoreale"
   ],
   "img": "https://cdn13.webmaster360.it/2026/08/covers/01M07F9YB4VRY9DJJ79ADY270J.jpg",
-  "img_provata": true
- },
- {
-  "titolo": "Imprenditore rapito e fatto sparire, cani molecolari sul Vesuvio per cercare il corpo di Vorraro",
-  "link": "https://www.metropolisweb.it/2026/08/15/imprenditore-rapito-sparire-cani-molecolari-sul-vesuvio-cercare-corpo-vorraro/",
-  "fonte": "Metropolis",
-  "data": "Sat, 15 Aug 2026 08:10:20 +0000",
-  "comuni": [
-   "Terzigno",
-   "Ottaviano",
-   "Poggiomarino",
-   "San Giuseppe Vesuviano"
-  ],
-  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/06/Screenshot-2026-06-03-alle-20.30.38-1024x754.png",
   "img_provata": true
  },
  {
