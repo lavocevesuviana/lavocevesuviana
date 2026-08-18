@@ -4,7 +4,9 @@
 import json
 import re
 import hashlib
+import os
 import shutil
+from urllib.parse import quote
 from datetime import datetime
 from email.utils import parsedate_to_datetime
 from html import escape
@@ -13,6 +15,7 @@ from pathlib import Path
 BASE = Path(__file__).resolve().parent
 DATA, ART, STATIC, OUT = BASE / "data", BASE / "articoli", BASE / "static", BASE / "site"
 
+SITO = os.environ.get("SITO_URL", "https://lavocevesuviana.github.io/lavocevesuviana").rstrip("/")
 TESTATA = "La Voce Vesuviana"
 CLAIM = "Cronaca, politica e vita dei paesi del Vesuvio"
 COMUNI_NAV = ["Terzigno", "Boscoreale", "Ottaviano", "Poggiomarino",
@@ -87,7 +90,32 @@ def versione_css():
     return hashlib.sha1(testo).hexdigest()[:8]
 
 
-def guscio(titolo, contenuto, prof=0):
+def anteprima_social(titolo, descrizione, percorso, immagine=""):
+    """Etichette che Facebook e WhatsApp leggono per costruire l'anteprima del
+    link. Senza queste, chi incolla l'indirizzo vede solo un rettangolo vuoto."""
+    url = "%s/%s" % (SITO, percorso.lstrip("/"))
+    figura = immagine if immagine.startswith("http") else "%s/%s" % (SITO, immagine or "social.png")
+    return "".join(
+        '<meta property="og:%s" content="%s">' % (chiave, escape(valore, True))
+        for chiave, valore in (("type", "article"), ("site_name", TESTATA), ("locale", "it_IT"),
+                               ("title", titolo), ("description", descrizione),
+                               ("url", url), ("image", figura))
+    ) + ('<meta name="twitter:card" content="summary_large_image">'
+         '<meta name="description" content="%s">' % escape(descrizione, True))
+
+
+def condivisione(titolo, percorso):
+    url = "%s/%s" % (SITO, percorso.lstrip("/"))
+    testo = quote("%s — %s" % (titolo, url))
+    return """<div class="condividi">
+      <span class="etichetta">Condividi</span>
+      <a class="wa" href="https://wa.me/?text={testo}" target="_blank" rel="noopener">WhatsApp</a>
+      <a class="fb" href="https://www.facebook.com/sharer/sharer.php?u={u}" target="_blank" rel="noopener">Facebook</a>
+      <button class="copia" data-url="{url}">Copia link</button>
+    </div>""".format(testo=testo, u=quote(url, safe=""), url=escape(url, True))
+
+
+def guscio(titolo, contenuto, prof=0, social=""):
     su = "../" * prof
     return """<!doctype html>
 <html lang="it"><head>
@@ -96,6 +124,7 @@ def guscio(titolo, contenuto, prof=0):
 <title>{titolo}</title>
 <link rel="stylesheet" href="{su}style.css?v={ver}">
 <link rel="icon" href="{su}favicon.png">
+{social}
 </head><body>
 <header class="testata">
   <a class="marchio" href="{su}index.html">
@@ -112,9 +141,40 @@ def guscio(titolo, contenuto, prof=0):
      comunicati della pubblica amministrazione (art. 5 L. 633/1941), con indicazione della fonte.
      La rassegna riporta esclusivamente titoli e collegamenti alle testate originali.</p>
 </footer>
+<script>
+document.addEventListener("click", function (e) {{
+  var b = e.target.closest(".copia");
+  if (!b) return;
+  var url = b.dataset.url, originale = b.dataset.testo || b.textContent;
+  b.dataset.testo = originale;
+  function esito(ok) {{
+    b.textContent = ok ? "Copiato!" : "Premi \u2318C";
+    if (!ok) {{ var s = document.createElement("input"); s.value = url;
+      b.parentNode.insertBefore(s, b.nextSibling); s.select(); }}
+    setTimeout(function () {{
+      b.textContent = originale;
+      var v = b.nextSibling; if (v && v.tagName === "INPUT") v.remove();
+    }}, 2500);
+  }}
+  // via moderna; se non disponibile o rifiutata, si ripiega sul vecchio metodo
+  if (navigator.clipboard && window.isSecureContext) {{
+    navigator.clipboard.writeText(url).then(function () {{ esito(true); }},
+                                            function () {{ ripiego(); }});
+  }} else {{ ripiego(); }}
+  function ripiego() {{
+    try {{
+      var t = document.createElement("textarea");
+      t.value = url; t.style.position = "fixed"; t.style.opacity = "0";
+      document.body.appendChild(t); t.select();
+      var ok = document.execCommand("copy");
+      document.body.removeChild(t); esito(ok);
+    }} catch (err) {{ esito(false); }}
+  }}
+}});
+</script>
 </body></html>""".format(
         titolo=escape(titolo), t=escape(TESTATA), claim=escape(CLAIM), su=su, contenuto=contenuto,
-        ver=versione_css(),
+        ver=versione_css(), social=social,
         nav='<a class="home" href="%sindex.html">Home</a>' % su
             + "".join('<a href="%scomuni/%s.html">%s</a>' % (su, slug(c), escape(c)) for c in COMUNI_NAV))
 
@@ -139,6 +199,12 @@ def copertina(a):
         '<text x="64" y="392" fill="#ffffff" font-family="Helvetica,Arial" font-size="17" '
         'letter-spacing="4" opacity="0.45">LA VOCE VESUVIANA</text>'
         "</svg>" % (etichetta, etichetta, corpo))
+
+
+def sorgente_foto_assoluta(nome):
+    if not nome:
+        return ""
+    return nome if nome.startswith("http") else "foto/" + nome
 
 
 def sorgente_foto(nome, prof=0):
@@ -247,15 +313,23 @@ def costruisci():
 </div>""".format(sismo=blocco_sismico(sismi), apertura=apertura,
                  schede="".join(scheda(a) for a in articoli[1:7]),
                  comuni=blocco_comuni(avvisi), rassegna=blocco_rassegna(rassegna))
-    (OUT / "index.html").write_text(guscio(TESTATA + " — " + CLAIM, home), encoding="utf-8")
+    (OUT / "index.html").write_text(
+        guscio(TESTATA + " — " + CLAIM, home,
+               social=anteprima_social(TESTATA, CLAIM, "index.html")), encoding="utf-8")
 
     for a in articoli:
         pag = """<article class="pezzo">
-          {occhiello}<h1>{titolo}</h1><p class="meta">{data}</p>{foto}{corpo}</article>""".format(
+          {occhiello}<h1>{titolo}</h1><p class="meta">{data}</p>{foto}{corpo}
+          {condividi}</article>""".format(
+            condividi=condivisione(a["titolo"], a["url"]),
             titolo=escape(a["titolo"]), data=data_lunga(a["dt"]), corpo=a["corpo"],
             foto='<figure class="foto principale"><img src="%s" alt=""></figure>' % sorgente_foto(a["foto"], 1) if a.get("foto") else "",
             occhiello='<p class="occhiello">%s</p>' % escape(a["comune"]) if a["comune"] else "")
-        (OUT / a["url"]).write_text(guscio(a["titolo"] + " — " + TESTATA, pag, prof=1), encoding="utf-8")
+        (OUT / a["url"]).write_text(
+            guscio(a["titolo"] + " — " + TESTATA, pag, prof=1,
+                   social=anteprima_social(a["titolo"], a["sommario"], a["url"],
+                                           sorgente_foto_assoluta(a["foto"]))),
+            encoding="utf-8")
 
     for c in COMUNI_NAV:
         suoi = [a for a in articoli if a["comune"] == c]

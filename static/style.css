@@ -133,3 +133,15 @@ footer p{margin:0;padding:6px 0;font-family:var(--etichette);
   border:2px solid var(--nero);text-decoration:none;font-weight:700}
 .pagine a:hover{background:var(--giallo)}
 .pagine a.qui{background:var(--nero);color:#fff}
+
+/* ---------- condivisione ---------- */
+.condividi{display:flex;align-items:center;gap:9px;flex-wrap:wrap;
+  margin:38px 0 10px;padding-top:20px;border-top:2px solid var(--nero)}
+.condividi .etichetta{font-family:var(--etichette);font-size:11px;letter-spacing:.15em;
+  text-transform:uppercase;color:var(--grigio);margin-right:3px}
+.condividi a,.condividi button{font-family:var(--etichette);font-size:13px;font-weight:700;
+  text-decoration:none;padding:9px 15px;border:2px solid var(--nero);background:#fff;
+  color:var(--nero);cursor:pointer;line-height:1}
+.condividi a:hover,.condividi button:hover{background:var(--giallo)}
+.condividi .wa:hover{background:#25D366;border-color:#128C7E;color:#fff}
+.condividi .fb:hover{background:#1877F2;border-color:#0d5dbd;color:#fff}
