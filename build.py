@@ -108,6 +108,28 @@ def guscio(titolo, contenuto, prof=0):
             + "".join('<a href="%scomuni/%s.html">%s</a>' % (su, slug(c), escape(c)) for c in COMUNI_NAV))
 
 
+def copertina(a):
+    """Quando un articolo non ha foto, invece di lasciare un buco disegniamo
+    una copertina con i colori della testata e il nome del comune. E' un SVG
+    scritto dentro la pagina: nessun file da caricare, nessuna libreria."""
+    etichetta = escape((a.get("comune") or TESTATA).upper())
+    corpo = escape(a["titolo"])[:78]
+    return (
+        '<svg class="copertina" viewBox="0 0 1200 675" preserveAspectRatio="xMidYMid slice" '
+        'xmlns="http://www.w3.org/2000/svg" role="img" aria-label="%s">'
+        '<rect width="1200" height="675" fill="#111"/>'
+        '<path d="M0 675 L300 330 L410 430 L575 215 L860 575 L965 480 L1200 675 Z" '
+        'fill="#F6D04D" opacity="0.16"/>'
+        '<rect x="70" y="250" width="14" height="150" fill="#F6D04D"/>'
+        '<text x="112" y="312" fill="#F6D04D" font-family="Archivo Black,Helvetica,Arial" '
+        'font-size="52" font-weight="900" letter-spacing="2">%s</text>'
+        '<text x="112" y="372" fill="#ffffff" font-family="Helvetica,Arial" '
+        'font-size="27" opacity="0.82">%s</text>'
+        '<text x="70" y="620" fill="#ffffff" font-family="Helvetica,Arial" font-size="20" '
+        'letter-spacing="5" opacity="0.5">LA VOCE VESUVIANA</text>'
+        "</svg>" % (etichetta, etichetta, corpo))
+
+
 def sorgente_foto(nome, prof=0):
     """Accetta sia un file dentro static/foto/ sia un indirizzo completo."""
     if not nome:
@@ -126,8 +148,9 @@ def scheda(a, prof=0):
 </article>""".format(
         su=su, url=a["url"], titolo=escape(a["titolo"]), sommario=escape(a["sommario"]),
         data=data_lunga(a["dt"]),
-        foto='<a class="foto" href="%s%s"><img src="%s" alt="" loading="lazy"></a>' % (
-            su, a["url"], sorgente_foto(a["foto"], prof)) if a.get("foto") else "",
+        foto='<a class="foto" href="%s%s">%s</a>' % (su, a["url"],
+            '<img src="%s" alt="" loading="lazy">' % sorgente_foto(a["foto"], prof)
+            if a.get("foto") else copertina(a)),
         occhiello='<p class="occhiello">%s</p>' % escape(a["comune"] or a["occhiello"]) if (a["comune"] or a["occhiello"]) else "")
 
 
@@ -193,8 +216,9 @@ def costruisci():
           <p class="sommario">{sommario}…</p><p class="meta">{data}</p></article>""".format(
             url=a["url"], titolo=escape(a["titolo"]), sommario=escape(a["sommario"]),
             data=data_lunga(a["dt"]),
-            foto='<a class="foto grande" href="%s"><img src="%s" alt=""></a>' % (
-                a["url"], sorgente_foto(a["foto"])) if a.get("foto") else "",
+            foto='<a class="foto grande" href="%s">%s</a>' % (a["url"],
+                '<img src="%s" alt="">' % sorgente_foto(a["foto"])
+                if a.get("foto") else copertina(a)),
             occhiello='<p class="occhiello">%s</p>' % escape(a["comune"]) if a["comune"] else "")
     else:
         apertura = ('<article class="apertura vuota"><h1>Il primo articolo è tuo</h1>'
