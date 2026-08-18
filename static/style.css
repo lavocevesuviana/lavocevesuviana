@@ -111,3 +111,11 @@ footer p{margin:0;padding:6px 0;font-family:var(--etichette);
 /* copertina disegnata per gli articoli senza fotografia */
 .foto .copertina{display:block;width:100%;height:100%}
 .scheda .foto .copertina,.apertura .foto.grande .copertina{aspect-ratio:auto}
+
+/* miniature della rassegna: immagini ospitate dalle testate d'origine */
+.rassegna li a{display:flex;gap:11px;align-items:flex-start}
+.rassegna .miniatura{flex:none;width:84px;height:62px;object-fit:cover;
+  background:#eee;border:1px solid var(--linea)}
+.rassegna .testo{display:block;min-width:0}
+.rassegna .tit{display:block}
+.rassegna li a:hover{background:var(--giallo)}

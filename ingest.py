@@ -99,6 +99,40 @@ def comuni_citati(testo):
     return [c for c in COMUNI if re.sub(r"[^a-z0-9]+", " ", c.lower()) in t]
 
 
+NS_MEDIA = "{http://search.yahoo.com/mrss/}"
+
+
+def immagine_da_feed(item):
+    """L'immagine dichiarata dal feed stesso: e' quella che l'editore pubblica
+    apposta per le anteprime dei link."""
+    for tag in ("thumbnail", "content"):
+        e = item.find(NS_MEDIA + tag)
+        if e is not None and e.get("url"):
+            return e.get("url")
+    e = item.find("enclosure")
+    if e is not None and (e.get("type") or "").startswith("image"):
+        return e.get("url")
+    for campo in ("{http://purl.org/rss/1.0/modules/content/}encoded", "description"):
+        testo = item.findtext(campo) or ""
+        m = re.search(r'<img[^>]+src="([^"]+\.(?:jpe?g|png|webp))', testo, re.I)
+        if m:
+            return m.group(1)
+    return ""
+
+
+def immagine_da_pagina(url):
+    """Ripiego: l'og:image della pagina, cioe' l'anteprima che l'editore
+    espone a Facebook e WhatsApp. Si legge una volta sola per articolo,
+    poi resta nell'archivio."""
+    try:
+        testa = get(url, timeout=12)[:60000]
+    except Exception:
+        return ""
+    m = re.search(r'<meta[^>]+property="og:image"[^>]+content="([^"]+)"', testa, re.I) \
+        or re.search(r'<meta[^>]+content="([^"]+)"[^>]+property="og:image"', testa, re.I)
+    return m.group(1) if m else ""
+
+
 def rassegna():
     """Titolo + link. Nessun testo: e' una rassegna, non una copia."""
     out = []
@@ -119,6 +153,7 @@ def rassegna():
             if solo_locale and not (dove or e_vesuviano(titolo + " " + categorie)):
                 continue          # testata larga: teniamo solo il vesuviano
             out.append({
+                "img": immagine_da_feed(item),
                 "titolo": titolo,
                 "link": link,
                 "fonte": nome,
@@ -181,18 +216,42 @@ def terremoti(giorni=30):
     return out
 
 
+def completa_immagini(voci, massimo=40):
+    """Riempie le anteprime mancanti leggendo l'og:image della pagina.
+    Con un tetto per giro: ogni articolo si legge una volta sola nella sua
+    vita, perche' poi il risultato resta nell'archivio."""
+    da_fare = [v for v in voci if not v.get("img") and not v.get("img_provata")]
+    fatte = 0
+    for v in da_fare[:massimo]:
+        v["img"] = immagine_da_pagina(v["link"])
+        v["img_provata"] = True
+        fatte += v["img"] != ""
+    print("  anteprime lette da pagina: %d riuscite su %d tentativi (%d ancora da fare)"
+          % (fatte, min(len(da_fare), massimo), max(0, len(da_fare) - massimo)))
+    return voci
+
+
 def accumula(nome, nuovi, chiave="link", tetto=1500):
     """I feed mostrano solo le ultime notizie: se ogni volta ripartissimo da
     zero, i paesi piccoli resterebbero sempre vuoti. Qui uniamo il raccolto di
     oggi all'archivio, senza duplicati, tenendo i piu' recenti in cima."""
     f = DATA / (nome + ".json")
     vecchi = json.loads(f.read_text(encoding="utf-8")) if f.exists() else []
+    per_chiave = {v.get(chiave): v for v in vecchi if v.get(chiave)}
     visti, uniti = set(), []
-    for voce in nuovi + vecchi:            # i nuovi hanno la precedenza
+    for voce in nuovi + vecchi:
         k = voce.get(chiave)
-        if k and k not in visti:
-            visti.add(k)
-            uniti.append(voce)
+        if not k or k in visti:
+            continue
+        visti.add(k)
+        precedente = per_chiave.get(k)
+        if precedente is not None and precedente is not voce:
+            # il feed ripropone le stesse voci a ogni giro: se le prendessimo
+            # cosi' come sono, perderemmo l'anteprima gia' recuperata.
+            fuse = dict(precedente)
+            fuse.update({c: d for c, d in voce.items() if d not in ("", None, [])})
+            voce = fuse
+        uniti.append(voce)
     aggiunti = len(uniti) - len(vecchi)
     print("  %-12s %4d in archivio (+%d nuovi)" % (nome, min(len(uniti), tetto), aggiunti))
     return uniti[:tetto]
@@ -206,7 +265,7 @@ if __name__ == "__main__":
     c = comuni_avvisi()
     s = terremoti()
     print("ARCHIVIO")
-    r = accumula("rassegna", r)
+    r = completa_immagini(accumula("rassegna", r))
     c = accumula("comuni", c, tetto=800)
     s = accumula("terremoti", s, chiave="link", tetto=400)
     for nome, dati in (("rassegna", r), ("comuni", c), ("terremoti", s)):

@@ -161,9 +161,12 @@ def blocco_rassegna(rassegna, n=14):
             quando = data_lunga(parsedate_to_datetime(r["data"]))
         except Exception:
             quando = ""
-        voci.append("""<li><a href="{link}" target="_blank" rel="noopener nofollow">{titolo}</a>
-          <span class="fonte">{fonte}{quando}</span></li>""".format(
-            link=escape(r["link"], True), titolo=escape(r["titolo"]),
+        miniatura = ('<img class="miniatura" src="%s" alt="" loading="lazy" '
+                     'onerror="this.remove()">' % escape(r["img"], True)) if r.get("img") else ""
+        voci.append("""<li><a href="{link}" target="_blank" rel="noopener nofollow">{img}
+          <span class="testo"><span class="tit">{titolo}</span>
+          <span class="fonte">{fonte}{quando}</span></span></a></li>""".format(
+            link=escape(r["link"], True), img=miniatura, titolo=escape(r["titolo"]),
             fonte=escape(r["fonte"]), quando=" · " + quando if quando else ""))
     return """<section class="rassegna">
   <h2 class="sezione">Rassegna vesuviana</h2>
