@@ -27,9 +27,39 @@ CTX = ssl.create_default_context()
 CTX.check_hostname = False
 CTX.verify_mode = ssl.CERT_NONE
 
-COMUNI = ["Terzigno", "Boscoreale", "Ottaviano", "Poggiomarino",
-          "Somma Vesuviana", "San Giuseppe Vesuviano", "Striano",
-          "Boscotrecase", "Pompei", "Torre Annunziata"]
+# nome ufficiale -> come lo scrivono davvero le testate nei titoli e negli
+# indirizzi. Serve perche' nessuno scrive "Castellammare di Stabia" per esteso.
+COMUNI = {
+    "Terzigno":                ["terzigno"],
+    "Boscoreale":              ["boscoreale"],
+    "Ottaviano":               ["ottaviano"],
+    "Poggiomarino":            ["poggiomarino", "poggio marino"],
+    "Somma Vesuviana":         ["somma vesuviana"],
+    "San Giuseppe Vesuviano":  ["san giuseppe vesuviano", "s giuseppe vesuviano"],
+    "Striano":                 ["striano"],
+    "Boscotrecase":            ["boscotrecase"],
+    "Trecase":                 ["trecase"],
+    "Pompei":                  ["pompei"],
+    "Torre Annunziata":        ["torre annunziata", "oplonti"],
+    "Torre del Greco":         ["torre del greco"],
+    "Ercolano":                ["ercolano"],
+    "Portici":                 ["portici"],
+    "San Sebastiano al Vesuvio": ["san sebastiano al vesuvio"],
+    "Massa di Somma":          ["massa di somma"],
+    "Pollena Trocchia":        ["pollena trocchia", "pollena"],
+    "Sant'Anastasia":          ["sant anastasia", "santanastasia"],
+    "Cercola":                 ["cercola"],
+    "Volla":                   ["volla"],
+    "San Gennaro Vesuviano":   ["san gennaro vesuviano"],
+    "Palma Campania":          ["palma campania"],
+    "Nola":                    ["nola"],
+    "Marigliano":              ["marigliano"],
+    "Brusciano":               ["brusciano"],
+    "Saviano":                 ["saviano"],
+    "Castellammare di Stabia": ["castellammare"],
+    "Scafati":                 ["scafati"],
+    "Sarno":                   ["sarno"],
+}
 
 RASSEGNA_FEED = [
     # (nome, feed, solo_locale)  solo_locale=True -> tiene solo i pezzi che
@@ -95,9 +125,14 @@ def e_vesuviano(testo):
 
 def comuni_citati(testo):
     """Il comune va cercato anche nelle categorie e nello slug dell'indirizzo:
-    moltissimi pezzi nominano il paese li' dentro e non nel titolo."""
-    t = re.sub(r"[^a-z0-9]+", " ", (testo or "").lower())
-    return [c for c in COMUNI if re.sub(r"[^a-z0-9]+", " ", c.lower()) in t]
+    moltissimi pezzi nominano il paese li' dentro e non nel titolo. Il confronto
+    e' su parole intere, altrimenti 'Nola' scatterebbe dentro 'Marano'."""
+    t = " %s " % re.sub(r"[^a-z0-9]+", " ", (testo or "").lower())
+    trovati = []
+    for ufficiale, forme in COMUNI.items():
+        if any((" %s " % re.sub(r"[^a-z0-9]+", " ", f)) in t for f in forme):
+            trovati.append(ufficiale)
+    return trovati
 
 
 NS_MEDIA = "{http://search.yahoo.com/mrss/}"
@@ -249,6 +284,20 @@ def quando(voce):
         return datetime(1970, 1, 1, tzinfo=timezone.utc)
 
 
+def ritagga(voci, campi=("titolo", "link", "fonte")):
+    """Riesamina tutto l'archivio, non solo l'ultimo arrivo: quando la lista dei
+    paesi si allarga, anche le voci vecchie devono trovare la loro categoria."""
+    cambiate = 0
+    for v in voci:
+        prima = v.get("comuni") or []
+        dopo = comuni_citati(" ".join(str(v.get(c, "")) for c in campi))
+        if sorted(dopo) != sorted(prima):
+            v["comuni"] = dopo
+            cambiate += 1
+    print("  riassegnate %d voci su %d" % (cambiate, len(voci)))
+    return voci
+
+
 def accumula(nome, nuovi, chiave="link", tetto=40000, mesi=None):
     """I feed mostrano solo le ultime notizie: se ogni volta ripartissimo da
     zero, i paesi piccoli resterebbero sempre vuoti. Qui uniamo il raccolto di
@@ -298,7 +347,7 @@ if __name__ == "__main__":
     c = comuni_avvisi()
     s = terremoti()
     print("ARCHIVIO")
-    r = completa_immagini(accumula("rassegna", r, mesi=18))
+    r = ritagga(completa_immagini(accumula("rassegna", r, mesi=18)))
     c = accumula("comuni", c)          # atti pubblici: si tengono tutti
     s = accumula("terremoti", s, chiave="link", mesi=24)
     for nome, dati in (("rassegna", r), ("comuni", c), ("terremoti", s)):

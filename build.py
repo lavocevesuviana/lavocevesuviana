@@ -18,8 +18,11 @@ DATA, ART, STATIC, OUT = BASE / "data", BASE / "articoli", BASE / "static", BASE
 SITO = os.environ.get("SITO_URL", "https://lavocevesuviana.github.io/lavocevesuviana").rstrip("/")
 TESTATA = "La Voce Vesuviana"
 CLAIM = "Cronaca, politica e vita dei paesi del Vesuvio"
+from ingest import COMUNI          # l'elenco dei paesi sta in un posto solo
 COMUNI_NAV = ["Terzigno", "Boscoreale", "Ottaviano", "Poggiomarino",
-              "Somma Vesuviana", "San Giuseppe Vesuviano", "Pompei"]
+              "Somma Vesuviana", "San Giuseppe Vesuviano", "Pompei",
+              "Torre Annunziata", "Torre del Greco", "Ercolano",
+              "Castellammare di Stabia", "Nola"]
 PER_PAGINA = 60
 PONTI_MAX = 3000      # un link condiviso su Facebook deve restare vivo a lungo:
                       # oltre questa soglia la pagina ponte sparirebbe e chi
@@ -180,6 +183,7 @@ document.addEventListener("click", function (e) {{
         ver=versione_css(), social=social,
         canonico='<link rel="canonical" href="%s">' % escape(canonico, True) if canonico else "",
         nav='<a class="home" href="%sindex.html">Home</a>' % su
+            + '<a class="tutte" href="%srassegna-vesuviana.html">Rassegna</a>' % su
             + "".join('<a href="%scomuni/%s.html">%s</a>' % (su, slug(c), escape(c)) for c in COMUNI_NAV))
 
 
@@ -263,7 +267,7 @@ def pagina_ponte(r):
                          condividi=condivisione(r["titolo"], ponte_url(r)))
 
 
-def blocco_rassegna(rassegna, n=14, ponti=True, su=""):
+def blocco_rassegna(rassegna, n=14, ponti=True, su="", intestazione=True):
     voci = []
     for r in rassegna[:n]:
         try:
@@ -280,10 +284,14 @@ def blocco_rassegna(rassegna, n=14, ponti=True, su=""):
             link=escape(destinazione, True), fuori=fuori, img=miniatura,
             titolo=escape(r["titolo"]), fonte=escape(r["fonte"]),
             quando=" · " + quando if quando else ""))
+    if not intestazione:
+        return '<section class="rassegna larga"><ul>%s</ul></section>' % "\n".join(voci)
     return """<section class="rassegna">
-  <h2 class="sezione">Rassegna vesuviana</h2>
+  <h2 class="sezione"><a href="{su}rassegna-vesuviana.html">Rassegna vesuviana</a></h2>
   <p class="nota">Titoli dalle altre testate del territorio. Il collegamento porta all'articolo originale.</p>
-  <ul>%s</ul></section>""" % "\n".join(voci)
+  <ul>{voci}</ul>
+  <p class="tutta"><a href="{su}rassegna-vesuviana.html">Vedi tutta la rassegna &rarr;</a></p>
+  </section>""".format(su=su, voci="\n".join(voci))
 
 
 def blocco_comuni(avvisi, n=12):
@@ -374,6 +382,27 @@ def costruisci():
             guscio(a["titolo"] + " — " + TESTATA, pag, prof=1,
                    social=anteprima_social(a["titolo"], a["sommario"], a["url"],
                                            sorgente_foto_assoluta(a["foto"]))),
+            encoding="utf-8")
+
+    # rassegna completa: tutto l'archivio dall'inizio, sfogliato
+    pagine_r = max(1, -(-len(rassegna) // PER_PAGINA))
+    for n in range(pagine_r):
+        fetta = rassegna[n * PER_PAGINA:(n + 1) * PER_PAGINA]
+        corpo = '<h1 class="titolo-comune">Rassegna vesuviana</h1>'
+        corpo += ('<p class="conteggio">%d titoli raccolti dalle testate del territorio '
+                  'dall\'avvio del sito%s. Ogni voce rimanda alla fonte che l\'ha '
+                  'pubblicata.</p>' % (len(rassegna),
+                                       ", pagina %d di %d" % (n + 1, pagine_r) if pagine_r > 1 else ""))
+        corpo += blocco_rassegna(fetta, n=PER_PAGINA, intestazione=False)
+        if pagine_r > 1:
+            voci = []
+            for i in range(pagine_r):
+                dove = "rassegna-vesuviana" + ("" if i == 0 else "-%d" % (i + 1)) + ".html"
+                voci.append('<a class="%s" href="%s">%d</a>' % ("qui" if i == n else "", dove, i + 1))
+            corpo += '<nav class="pagine"><span>Pagine</span>%s</nav>' % "".join(voci)
+        nome = "rassegna-vesuviana" + ("" if n == 0 else "-%d" % (n + 1)) + ".html"
+        (OUT / nome).write_text(
+            guscio("Rassegna vesuviana — " + TESTATA, '<div class="elenco">%s</div>' % corpo),
             encoding="utf-8")
 
     for c in COMUNI_NAV:
