@@ -213,7 +213,11 @@ def copertina(a):
 
 
 def sorgente_foto_assoluta(nome):
-    if not nome:
+    """Indirizzo dell'immagine per le anteprime dei social. I disegni SVG
+    restano sulla pagina ma non valgono qui: Facebook e WhatsApp non li
+    disegnano e mostrerebbero un riquadro vuoto. In quel caso si ripiega
+    sulla copertina della testata."""
+    if not nome or nome.lower().endswith(".svg"):
         return ""
     return nome if nome.startswith("http") else "foto/" + nome
 

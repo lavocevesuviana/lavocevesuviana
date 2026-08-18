@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img"
+     aria-label="Un prete di spalle, con il breviario in mano, guarda i fuochi d'artificio della festa di paese">
+  <rect width="1200" height="675" fill="#111111"/>
+
+  <path d="M0 640 L300 470 L400 520 L560 405 L720 520 L860 460 L1010 545 L1200 470 L1200 640 Z"
+        fill="#1e1b13"/>
+
+  <path d="M60 250 Q620 120 1160 250" fill="none" stroke="#F6D04D" stroke-width="3" opacity=".45"/>
+  <g fill="#F6D04D">
+    <circle cx="120" cy="235" r="5"/><circle cx="245" cy="199" r="5"/><circle cx="370" cy="172" r="5"/>
+    <circle cx="495" cy="154" r="5"/><circle cx="620" cy="148" r="5"/><circle cx="745" cy="155" r="5"/>
+    <circle cx="870" cy="174" r="5"/><circle cx="995" cy="203" r="5"/><circle cx="1110" cy="238" r="5"/>
+  </g>
+
+  <g transform="translate(800,250)" stroke="#F6D04D" stroke-width="4" stroke-linecap="round">
+    <line x1="0" y1="0" x2="0" y2="-105"/><line x1="0" y1="0" x2="74" y2="-74"/>
+    <line x1="0" y1="0" x2="105" y2="0"/><line x1="0" y1="0" x2="74" y2="74"/>
+    <line x1="0" y1="0" x2="0" y2="105"/><line x1="0" y1="0" x2="-74" y2="74"/>
+    <line x1="0" y1="0" x2="-105" y2="0"/><line x1="0" y1="0" x2="-74" y2="-74"/>
+    <line x1="0" y1="0" x2="40" y2="-97"/><line x1="0" y1="0" x2="97" y2="-40"/>
+    <line x1="0" y1="0" x2="97" y2="40"/><line x1="0" y1="0" x2="40" y2="97"/>
+    <line x1="0" y1="0" x2="-40" y2="97"/><line x1="0" y1="0" x2="-97" y2="40"/>
+    <line x1="0" y1="0" x2="-97" y2="-40"/><line x1="0" y1="0" x2="-40" y2="-97"/>
+  </g>
+  <g fill="#F6D04D">
+    <circle cx="800" cy="134" r="6"/><circle cx="916" cy="250" r="6"/>
+    <circle cx="800" cy="366" r="6"/><circle cx="684" cy="250" r="6"/>
+    <circle cx="882" cy="168" r="4"/><circle cx="882" cy="332" r="4"/>
+    <circle cx="718" cy="332" r="4"/><circle cx="718" cy="168" r="4"/>
+  </g>
+
+  <g transform="translate(1040,388)" stroke="#ffffff" stroke-width="3" stroke-linecap="round" opacity=".8">
+    <line x1="0" y1="0" x2="0" y2="-56"/><line x1="0" y1="0" x2="40" y2="-40"/>
+    <line x1="0" y1="0" x2="56" y2="0"/><line x1="0" y1="0" x2="40" y2="40"/>
+    <line x1="0" y1="0" x2="0" y2="56"/><line x1="0" y1="0" x2="-40" y2="40"/>
+    <line x1="0" y1="0" x2="-56" y2="0"/><line x1="0" y1="0" x2="-40" y2="-40"/>
+  </g>
+
+  <path d="M690 640 Q740 470 790 372" fill="none" stroke="#F6D04D" stroke-width="2" opacity=".3"/>
+  <path d="M1150 640 Q1110 500 1052 448" fill="none" stroke="#ffffff" stroke-width="2" opacity=".22"/>
+
+  <!-- il prete di spalle: tonaca piena, cosi' i fuochi non traspaiono -->
+  <g stroke="#ffffff" stroke-width="8" stroke-linejoin="round" stroke-linecap="round">
+    <path d="M206 642 Q214 468 244 368 Q252 346 280 342 Q308 346 316 368 Q346 468 354 642 Z"
+          fill="#111111"/>
+    <path d="M280 354 L280 636" stroke-width="3" opacity=".4"/>
+    <!-- braccio destro scostato dal fianco, con il breviario in mano -->
+    <path d="M314 384 Q352 440 346 486" fill="none"/>
+    <!-- collo -->
+    <path d="M272 344 L276 322" fill="none"/>
+    <!-- testa, ben visibile sotto la tesa -->
+    <circle cx="286" cy="300" r="25" fill="#111111"/>
+    <!-- saturno: calotta alta appoggiata, poi la tesa larga -->
+    <path d="M260 276 Q260 244 288 244 Q316 244 316 276" fill="#111111"/>
+    <ellipse cx="288" cy="277" rx="56" ry="11" fill="#111111"/>
+  </g>
+  <!-- breviario giallo tenuto in mano -->
+  <g transform="rotate(-14 348 500)">
+    <rect x="322" y="482" width="52" height="36" rx="3" fill="#F6D04D" stroke="#ffffff" stroke-width="5"/>
+    <path d="M348 482 L348 518" stroke="#111111" stroke-width="3"/>
+  </g>
+
+  <path d="M0 642 L1200 642" stroke="#F6D04D" stroke-width="5" opacity=".45"/>
+</svg>
