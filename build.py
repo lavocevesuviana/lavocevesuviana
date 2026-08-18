@@ -55,7 +55,9 @@ def md(testo):
         if b.startswith("## "):
             out.append("<h2>%s</h2>" % b[3:])
         else:
-            out.append("<p>%s</p>" % b.replace("\n", "<br>"))
+            # un a-capo singolo dentro un paragrafo e' solo spazio: chi scrive
+            # manda a capo per comodita', non per andare a capo davvero.
+            out.append("<p>%s</p>" % re.sub(r"\s*\n\s*", " ", b))
     return "\n".join(out)
 
 
