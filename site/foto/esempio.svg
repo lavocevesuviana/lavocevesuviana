@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 750">
-  <rect width="1200" height="750" fill="#F6D04D"/>
-  <path d="M0 750 L360 300 L470 400 L620 210 L900 560 L1000 470 L1200 750 Z" fill="#111"/>
-  <circle cx="980" cy="150" r="62" fill="#fff"/>
-  <text x="600" y="700" font-family="Helvetica,Arial" font-size="30" font-weight="bold"
-        fill="#F6D04D" text-anchor="middle" letter-spacing="6">FOTO DELL'ARTICOLO</text>
-</svg>
