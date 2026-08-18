@@ -139,7 +139,7 @@ def guscio(titolo, contenuto, prof=0, social="", canonico=""):
   </a>
   <p class="claim">{claim}</p>
 </header>
-<nav class="comuni">{nav}</nav>
+<div class="striscia"><nav class="comuni">{nav}</nav></div>
 <main>{contenuto}</main>
 <footer>
   <img class="emblema" src="{su}emblema.png" alt="">
@@ -183,6 +183,7 @@ document.addEventListener("click", function (e) {{
         ver=versione_css(), social=social,
         canonico='<link rel="canonical" href="%s">' % escape(canonico, True) if canonico else "",
         nav='<a class="home" href="%sindex.html">Home</a>' % su
+            + '<a class="tutte" href="%spaesi.html">Paesi</a>' % su
             + '<a class="tutte" href="%srassegna-vesuviana.html">Rassegna</a>' % su
             + "".join('<a href="%scomuni/%s.html">%s</a>' % (su, slug(c), escape(c)) for c in COMUNI_NAV))
 
@@ -300,7 +301,7 @@ def blocco_comuni(avvisi, n=12):
         link=escape(a["link"], True), titolo=escape(a["titolo"]), fonte=escape(a["fonte"]))
         for a in avvisi[:n]]
     return """<section class="istituzionale">
-  <h2 class="sezione">Dai Comuni</h2>
+  <h2 class="sezione"><span>Dai Comuni</span></h2>
   <p class="nota">Avvisi, bandi e ordinanze pubblicati dagli enti. Atti pubblici, liberamente ripubblicabili.</p>
   <ul>%s</ul></section>""" % "\n".join(voci)
 
@@ -319,7 +320,9 @@ def blocco_sismico(eventi):
 
 def costruisci():
     if OUT.exists():
-        shutil.rmtree(OUT)
+        # ignore_errors: sul Mac il Finder infila .DS_Store mentre si svuota la
+        # cartella e la cancellazione fallisce a meta', fermando tutta la build.
+        shutil.rmtree(OUT, ignore_errors=True)
     (OUT / "articoli").mkdir(parents=True)
     (OUT / "comuni").mkdir(parents=True)
     for f in STATIC.glob("*"):
@@ -383,6 +386,29 @@ def costruisci():
                    social=anteprima_social(a["titolo"], a["sommario"], a["url"],
                                            sorgente_foto_assoluta(a["foto"]))),
             encoding="utf-8")
+
+    schede = []
+    for c in COMUNI:
+        n = (len([a for a in articoli if a["comune"] == c])
+             + len([x for x in avvisi if c in x.get("comuni", [])])
+             + len([r for r in rassegna if c in r.get("comuni", [])]))
+        if n:
+            schede.append((n, c))
+    schede.sort(key=lambda x: (-x[0], x[1]))
+    elenco = "".join(
+        '<a class="paese" href="comuni/%s.html"><span class="nome">%s</span>'
+        '<span class="quante">%d</span></a>' % (slug(c), escape(c), n)
+        for n, c in schede)
+    (OUT / "paesi.html").write_text(
+        guscio("Tutti i paesi — " + TESTATA,
+               '<div class="elenco"><h1 class="titolo-comune">Tutti i paesi</h1>'
+               '<p class="conteggio">Ogni paese con almeno una notizia in archivio. '
+               'Il numero indica quante ne contiene.</p>'
+               '<div class="paesi">%s</div></div>' % elenco), encoding="utf-8")
+
+    for c in COMUNI:
+        if c not in COMUNI_NAV and any(c == x for _, x in schede):
+            COMUNI_NAV.append(c)
 
     # rassegna completa: tutto l'archivio dall'inizio, sfogliato
     pagine_r = max(1, -(-len(rassegna) // PER_PAGINA))
