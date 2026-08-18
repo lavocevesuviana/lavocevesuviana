@@ -1,0 +1,189 @@
+<!doctype html>
+<html lang="it"><head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>La Voce Vesuviana — Cronaca, politica e vita dei paesi del Vesuvio</title>
+<style>
+:root{
+  --nero:#111111; --giallo:#F6D04D; --grigio:#6b6b6b; --linea:#e2e2e2; --sfondo:#ffffff;
+  --titoli:"Archivo Black","Helvetica Neue",Impact,"Arial Narrow Bold",sans-serif;
+  --testo:Georgia,"Times New Roman",serif;
+  --etichette:"Helvetica Neue",Arial,sans-serif;
+}
+*{box-sizing:border-box}
+body{margin:0;background:var(--sfondo);color:var(--nero);font-family:var(--testo);line-height:1.6}
+a{color:inherit}
+main{max-width:1180px;margin:0 auto;padding:0 20px 60px}
+
+/* ---------- testata ---------- */
+.testata{text-align:center;padding:26px 20px 16px;border-bottom:3px solid var(--nero)}
+.marchio{display:inline-block;text-decoration:none}
+.marchio img{max-height:74px;width:auto}
+.wordmark{font-family:var(--titoli);font-size:clamp(30px,7vw,58px);letter-spacing:-.02em;
+  display:inline-flex;gap:.22em;align-items:baseline;text-transform:uppercase}
+.wordmark b{font-weight:900}
+.wordmark i{font-style:normal;color:var(--giallo);-webkit-text-stroke:1.5px var(--nero)}
+.claim{margin:10px 0 0;font-family:var(--etichette);font-size:12.5px;letter-spacing:.16em;
+  text-transform:uppercase;color:var(--grigio)}
+
+/* ---------- navigazione comuni ---------- */
+.comuni{background:var(--nero);display:flex;flex-wrap:wrap;justify-content:center;gap:2px;padding:0 10px}
+.comuni a{font-family:var(--etichette);font-size:12px;font-weight:700;letter-spacing:.09em;
+  text-transform:uppercase;color:#fff;text-decoration:none;padding:13px 15px;transition:.15s}
+.comuni a:hover{background:var(--giallo);color:var(--nero)}
+
+/* ---------- striscia sismica ---------- */
+.sismo{background:var(--giallo);border-bottom:2px solid var(--nero);font-family:var(--etichette);
+  font-size:13.5px;padding:11px 20px;margin:0 -20px 30px;text-align:center}
+.sismo b{text-transform:uppercase;letter-spacing:.08em;font-size:12px}
+.sismo.quieto{background:#f4f4f4}
+.sismo .conta{color:#5a4a10;font-size:12px}
+
+/* ---------- impaginazione ---------- */
+.colonne{display:grid;grid-template-columns:1fr 320px;gap:44px;padding-top:6px}
+.griglia{display:grid;grid-template-columns:repeat(2,1fr);gap:26px;margin:34px 0}
+
+/* ---------- apertura ---------- */
+.apertura{border-bottom:3px solid var(--nero);padding-bottom:26px}
+.apertura h1{font-family:var(--titoli);font-size:clamp(30px,4.6vw,50px);line-height:1.04;
+  margin:.12em 0 .34em;letter-spacing:-.015em}
+.apertura h1 a{text-decoration:none}
+.apertura h1 a:hover{background:var(--giallo)}
+.apertura.vuota h1{color:var(--grigio)}
+.occhiello{font-family:var(--etichette);font-size:11.5px;font-weight:700;letter-spacing:.16em;
+  text-transform:uppercase;margin:0;color:var(--nero);
+  background:var(--giallo);display:inline-block;padding:4px 9px}
+.sommario{color:#333;margin:.5em 0}
+.meta{font-family:var(--etichette);font-size:11.5px;letter-spacing:.09em;
+  text-transform:uppercase;color:var(--grigio);margin:.4em 0 0}
+
+/* ---------- schede ---------- */
+.scheda{border-top:2px solid var(--nero);padding-top:14px}
+.scheda h3{font-family:var(--titoli);font-size:20px;line-height:1.16;margin:.4em 0 .3em}
+.scheda h3 a{text-decoration:none}
+.scheda h3 a:hover{background:var(--giallo)}
+.scheda .sommario{font-size:14.5px;color:#4a4a4a}
+
+/* ---------- sezioni elenco ---------- */
+.sezione{font-family:var(--titoli);font-size:15px;text-transform:uppercase;letter-spacing:.05em;
+  margin:0;padding:8px 12px;background:var(--nero);color:#fff}
+.nota{font-family:var(--etichette);font-size:12px;color:var(--grigio);
+  border-left:3px solid var(--giallo);padding-left:10px;margin:12px 0 16px}
+.rassegna ul,.istituzionale ul{list-style:none;margin:0;padding:0}
+.rassegna li,.istituzionale li{border-bottom:1px solid var(--linea);padding:11px 0}
+.rassegna a,.istituzionale a{font-family:var(--etichette);font-size:14px;font-weight:600;
+  line-height:1.35;text-decoration:none;display:block}
+.rassegna a:hover,.istituzionale a:hover{color:#000;background:var(--giallo)}
+.fonte{font-family:var(--etichette);font-size:11px;letter-spacing:.06em;text-transform:uppercase;
+  color:var(--grigio);display:block;margin-top:4px}
+.istituzionale{margin-top:42px}
+.laterale .rassegna{position:sticky;top:16px}
+
+/* ---------- pagina articolo ---------- */
+.pezzo{max-width:730px;margin:34px auto}
+.pezzo h1{font-family:var(--titoli);font-size:clamp(28px,4.2vw,44px);line-height:1.06;margin:.2em 0 .1em}
+.pezzo h2{font-family:var(--titoli);font-size:22px;margin:1.7em 0 .4em}
+.pezzo p{font-size:18px}
+.titolo-comune{font-family:var(--titoli);font-size:38px;text-transform:uppercase;
+  border-bottom:4px solid var(--giallo);padding-bottom:8px;margin:30px 0 4px}
+
+/* ---------- piede ---------- */
+footer{border-top:3px solid var(--nero);background:#fafafa;margin-top:50px}
+footer p{max-width:1180px;margin:0 auto;padding:22px 20px;font-family:var(--etichette);
+  font-size:11.5px;line-height:1.7;color:var(--grigio)}
+
+@media(max-width:900px){
+  .colonne{grid-template-columns:1fr;gap:36px}
+  .griglia{grid-template-columns:1fr}
+  .laterale .rassegna{position:static}
+}
+
+/* ---------- fotografie ---------- */
+.foto{display:block;margin:0 0 12px;overflow:hidden;background:#eee}
+.foto img{display:block;width:100%;height:100%;object-fit:cover;transition:transform .35s}
+.foto:hover img{transform:scale(1.03)}
+.scheda .foto{aspect-ratio:16/10;margin-bottom:14px}
+.apertura .foto.grande{aspect-ratio:16/9;margin-bottom:18px;border-bottom:4px solid var(--giallo)}
+.pezzo .foto.principale{margin:22px 0 26px}
+.pezzo .foto.principale img{width:100%;height:auto}
+
+</style>
+</head><body>
+<header class="testata">
+  <a class="marchio" href="index.html">
+    <img src="logo-mancante.png" alt="La Voce Vesuviana" onerror="this.replaceWith(document.getElementById('wm').content.cloneNode(true))">
+    <template id="wm"><span class="wordmark"><b>LA VOCE</b><i>VESUVIANA</i></span></template>
+  </a>
+  <p class="claim">Cronaca, politica e vita dei paesi del Vesuvio</p>
+</header>
+<nav class="comuni"><a href="comuni/terzigno.html">Terzigno</a><a href="comuni/boscoreale.html">Boscoreale</a><a href="comuni/ottaviano.html">Ottaviano</a><a href="comuni/poggiomarino.html">Poggiomarino</a><a href="comuni/somma-vesuviana.html">Somma Vesuviana</a><a href="comuni/san-giuseppe-vesuviano.html">San Giuseppe Vesuviano</a><a href="comuni/pompei.html">Pompei</a></nav>
+<main><aside class="sismo"><b>Ultima scossa</b> magnitudo 1.0 — Vesuvio, profondità 0 km · 2026-08-06 ore 18:39 · <a href="https://terremoti.ingv.it/event/46805442" target="_blank" rel="noopener">dati INGV</a> <span class="conta">5 eventi negli ultimi 30 giorni</span></aside>
+<div class="colonne">
+  <div class="principale"><article class="apertura">
+          <a class="foto grande" href="articoli/2026-08-18-terzigno-riapre-dopo-tre-anni-la-strada-del-parco-i-residenti-chiedono.html"><img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjAwIDc1MCI+CiAgPHJlY3Qgd2lkdGg9IjEyMDAiIGhlaWdodD0iNzUwIiBmaWxsPSIjRjZEMDREIi8+CiAgPHBhdGggZD0iTTAgNzUwIEwzNjAgMzAwIEw0NzAgNDAwIEw2MjAgMjEwIEw5MDAgNTYwIEwxMDAwIDQ3MCBMMTIwMCA3NTAgWiIgZmlsbD0iIzExMSIvPgogIDxjaXJjbGUgY3g9Ijk4MCIgY3k9IjE1MCIgcj0iNjIiIGZpbGw9IiNmZmYiLz4KICA8dGV4dCB4PSI2MDAiIHk9IjcwMCIgZm9udC1mYW1pbHk9IkhlbHZldGljYSxBcmlhbCIgZm9udC1zaXplPSIzMCIgZm9udC13ZWlnaHQ9ImJvbGQiCiAgICAgICAgZmlsbD0iI0Y2RDA0RCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgbGV0dGVyLXNwYWNpbmc9IjYiPkZPVE8gREVMTCdBUlRJQ09MTzwvdGV4dD4KPC9zdmc+Cg==" alt=""></a><p class="occhiello">Terzigno</p><h1><a href="articoli/2026-08-18-terzigno-riapre-dopo-tre-anni-la-strada-del-parco-i-residenti-chiedono.html">Terzigno, riapre dopo tre anni la strada del Parco: i residenti chiedono i controlli</a></h1>
+          <p class="sommario">Questo è un articolo di esempio: serve solo a farti vedere come appare in apertura un pezzotuo. Quando lo sostituisci con il primo scoop vero, cancella questo file.
+Come si scrive un articol…</p><p class="meta">18 agosto 2026</p></article><div class="griglia"></div><section class="istituzionale">
+  <h2 class="sezione">Dai Comuni</h2>
+  <p class="nota">Avvisi, bandi e ordinanze pubblicati dagli enti. Atti pubblici, liberamente ripubblicabili.</p>
+  <ul><li><a href="https://www.comune.ottaviano.na.it/it/news/piano-strategico-della-citta-metropolitana-di-napoli-realizzazione-di-un-polo-scolastico-per-l-infanzia" target="_blank" rel="noopener">Piano Strategico della Città Metropolitana di Napoli - Realizzazione di un polo scolastico per l&#x27;infanzia</a>
+             <span class="fonte">Comune di Ottaviano</span></li>
+<li><a href="https://www.comune.ottaviano.na.it/it/news/procedura-aperta-ai-sensi-dell-art-71-del-d-lgs-36-2023-per-laffidamento-del-servizio-ristorazione-scolastica-anni-scolastici-aa-ss-2026-2027-2027-2028-2028-2029-cig-bc998baff5" target="_blank" rel="noopener">Procedura aperta ai sensi dell&#x27;art.71 del D.Lgs. 36/2023 per l’AFFIDAMENTO DEL SERVIZIO RISTORAZIONE SCOLASTICA, – ANNI SCOLASTICI – AA.SS. 2026/2027 – 2027/2028 - 2028/2029 CIG:BC998BAFF5</a>
+             <span class="fonte">Comune di Ottaviano</span></li>
+<li><a href="https://www.comune.ottaviano.na.it/it/news/avviso-pubblico-indagine-esplorativa-tramite-manifestazione-di-interesse-per-l-affidamento-diretto-di-servizi-sociali-per-la-gestione-del-micronido-con-sede-in-via-pozini-ottaviano-presso-l-i-c-piero-angela" target="_blank" rel="noopener">AVVISO PUBBLICO - Indagine esplorativa tramite manifestazione di interesse per l&#x27;affidamento diretto di servizi sociali, per la gestione del micronido con sede in Via Pozini, Ottaviano, presso l&#x27;I.C. “Piero Angela”</a>
+             <span class="fonte">Comune di Ottaviano</span></li>
+<li><a href="https://www.comune.ottaviano.na.it/it/news/convocazione-consiglio-comunale-di-giovedi-30-luglio-2026" target="_blank" rel="noopener">Convocazione Consiglio Comunale di giovedi 30 luglio 2026</a>
+             <span class="fonte">Comune di Ottaviano</span></li>
+<li><a href="https://www.comune.ottaviano.na.it/it/news/avviso-elenco-cartolibrerie-accreditate-a-s-2026-2027" target="_blank" rel="noopener">AVVISO - Elenco cartolibrerie accreditate A.S. 2026/2027</a>
+             <span class="fonte">Comune di Ottaviano</span></li>
+<li><a href="https://www.comune.ottaviano.na.it/it/news/avviso-emergenza-caldo-servizio-di-assistenza-per-le-persone-piu-fragili" target="_blank" rel="noopener">AVVISO - Emergenza caldo. Servizio di assistenza per le persone piu&#x27; fragili</a>
+             <span class="fonte">Comune di Ottaviano</span></li>
+<li><a href="https://www.comune.ottaviano.na.it/it/news/bando-cedole-librarie-anno-scolastico-2026-2027" target="_blank" rel="noopener">Bando cedole librarie anno scolastico 2026/2027</a>
+             <span class="fonte">Comune di Ottaviano</span></li>
+<li><a href="https://www.comune.ottaviano.na.it/it/news/avviso-casi-di-validita-carta-di-identita-rilasciate-su-modello-cartaceo-dopo-il-3-agosto-2026" target="_blank" rel="noopener">AVVISO - Casi di validità carta di identità rilasciate su modello cartaceo dopo il 3 agosto 2026</a>
+             <span class="fonte">Comune di Ottaviano</span></li>
+<li><a href="https://www.comune.ottaviano.na.it/it/news/buoni-libro-a-s-2026-27-a-favore-di-alunni-delle-scuole-secondarie-di-i-e-ii-grado" target="_blank" rel="noopener">BUONI LIBRO – A.S. 2026/27 a favore di alunni delle SCUOLE SECONDARIE di I e II GRADO</a>
+             <span class="fonte">Comune di Ottaviano</span></li>
+<li><a href="https://www.comune.ottaviano.na.it/it/news/elezioni-comunali-24-e-25-maggio-2026-2000490" target="_blank" rel="noopener">Elezioni Amministrative 24 e 25 maggio 2026 - RISULTATI BALLOTTAGGIO</a>
+             <span class="fonte">Comune di Ottaviano</span></li>
+<li><a href="https://www.comune.ottaviano.na.it/it/news/avviso-servizio-di-trasporto-scolastico-a-s-2026-2027" target="_blank" rel="noopener">AVVISO - Servizio di Trasporto Scolastico A.S. 2026 / 2027</a>
+             <span class="fonte">Comune di Ottaviano</span></li>
+<li><a href="https://www.comune.ottaviano.na.it/it/news/manifestazione-di-interesse-da-parte-delle-librerie-cartolibrerie-per-l-erogazione-di-cedole-scuola-primaria-e-fornitura-libri-di-testo-a-s-2026-2027" target="_blank" rel="noopener">Manifestazione di interesse da parte delle LIBRERIE/CARTOLIBRERIE per l&#x27;erogazione di Cedole Scuola Primaria e Fornitura Libri di Testo - A.S. 2026/2027</a>
+             <span class="fonte">Comune di Ottaviano</span></li></ul></section></div>
+  <div class="laterale"><section class="rassegna">
+  <h2 class="sezione">Rassegna vesuviana</h2>
+  <p class="nota">Titoli dalle altre testate del territorio. Il collegamento porta all'articolo originale.</p>
+  <ul><li><a href="https://www.vesuviolive.it/ultime-notizie/543952-campania-treni-storici-napoli-caserta-avellino-2026/" target="_blank" rel="noopener nofollow">Meraviglia in Campania, da Napoli a Avellino: itinerari mozzafiato a bordo dei treni storici</a>
+          <span class="fonte">VesuvioLive · 18 agosto 2026</span></li>
+<li><a href="https://www.vesuviolive.it/ultime-notizie/543950-ferragosto-benevento-ucciso-moglie-omicidio/" target="_blank" rel="noopener nofollow">Tragedia di Ferragosto in Campania, uccide la moglie in casa mentre cucina: “Un raptus”</a>
+          <span class="fonte">VesuvioLive · 18 agosto 2026</span></li>
+<li><a href="https://www.vesuviolive.it/ultime-notizie/543937-rivoluzione-free-flow-autostrada-come-funziona-dove-gia-attivo-nuovo-pedaggio/" target="_blank" rel="noopener nofollow">Rivoluzione Free Flow in autostrada, come funziona e dove è già attivo il nuovo pedaggio</a>
+          <span class="fonte">VesuvioLive · 18 agosto 2026</span></li>
+<li><a href="https://www.vesuviolive.it/ultime-notizie/543945-barano-ischia-villaggio-abusivo-scogli/" target="_blank" rel="noopener nofollow">Scoperto a Ischia un villaggio di lusso abusivo: devastata un’area protetta a rischio frana</a>
+          <span class="fonte">VesuvioLive · 18 agosto 2026</span></li>
+<li><a href="https://www.vesuviolive.it/aree-locali/notizie-di-torre-del-greco/543941-capitaneria-porto-torre-greco-compie-118-anni/" target="_blank" rel="noopener nofollow">Torre del Greco, la Capitaneria di Porto compie 118 anni. Da D’Angelo a Sannino: gli auguri</a>
+          <span class="fonte">VesuvioLive · 18 agosto 2026</span></li>
+<li><a href="https://www.vesuviolive.it/ultime-notizie/cronaca/543931-yael-trepy-lattaccante-del-cagliari-in-coma-farmacologico-stava-annegando-in-piscina/" target="_blank" rel="noopener nofollow">Yael Trepy, l’attaccante del Cagliari in coma farmacologico: stava annegando in piscina</a>
+          <span class="fonte">VesuvioLive · 17 agosto 2026</span></li>
+<li><a href="https://www.vesuviolive.it/ultime-notizie/543932-west-nile-virus-zanzare-giugliano/" target="_blank" rel="noopener nofollow">West Nile nel Napoletano, il sindaco: “Non ci sono casi. Faremo una disinfestazione”</a>
+          <span class="fonte">VesuvioLive · 17 agosto 2026</span></li>
+<li><a href="https://www.vesuviolive.it/ultime-notizie/543929-francia-spiagge-libere-bacoli-le-point/" target="_blank" rel="noopener nofollow">La Francia loda Bacoli: le spiagge napoletane sul prestigioso settimanale Le Point</a>
+          <span class="fonte">VesuvioLive · 17 agosto 2026</span></li>
+<li><a href="https://www.vesuviolive.it/ultime-notizie/543927-camposano-papa-accoltellato-figlio-lite/" target="_blank" rel="noopener nofollow">Orrore nel Napoletano, litiga con la sorella in casa e accoltella il papà: cosa è successo</a>
+          <span class="fonte">VesuvioLive · 17 agosto 2026</span></li>
+<li><a href="https://www.vesuviolive.it/ultime-notizie/543923-allerta-meteo-campania-17-18-agosto-2026/" target="_blank" rel="noopener nofollow">ALLERTA METEO in Campania, oltre 24 ore di temporali e rischio grandine: da quando</a>
+          <span class="fonte">VesuvioLive · 17 agosto 2026</span></li>
+<li><a href="https://www.vesuviolive.it/calcio-napoli/543916-mercato-napoli-colpi-badiashile-e-favasuli-per-allegri-rebus-attacco-dallarsenal/" target="_blank" rel="noopener nofollow">Da Badiashile a Jesus, da Lang a Lucca: il punto sul mercato Napoli a 5 giorni dalla prima di Serie A</a>
+          <span class="fonte">VesuvioLive · 17 agosto 2026</span></li>
+<li><a href="https://www.vesuviolive.it/ultime-notizie/cronaca/543914-colpito-da-un-fulmine-sulletna-morto-in-ospedale-era-in-un-versante-vietato-del-vulcano/" target="_blank" rel="noopener nofollow">Colpito da un fulmine sull’Etna, morto in ospedale. Era in un versante vietato del vulcano</a>
+          <span class="fonte">VesuvioLive · 17 agosto 2026</span></li>
+<li><a href="https://www.vesuviolive.it/eventi/543913-non-compleanno-festa-beneficenza-tumori-nabilah-bacoli/" target="_blank" rel="noopener nofollow">Torna il Non Compleanno: la grande serata benefica sul mare per la lotta contro i tumori</a>
+          <span class="fonte">VesuvioLive · 17 agosto 2026</span></li>
+<li><a href="https://www.vesuviolive.it/aree-locali/notizie-di-pompei/543909-primark-pompei-napoli-data-apertura-2026-lavoro/" target="_blank" rel="noopener nofollow">Primark apre nel Napoletano, oltre 3 mila mq di store: la data e le assunzioni in Campania</a>
+          <span class="fonte">VesuvioLive · 17 agosto 2026</span></li></ul></section></div>
+</div></main>
+<footer>
+  <p><strong>La Voce Vesuviana</strong> — testata in costruzione. Contenuti istituzionali ripresi da atti e
+     comunicati della pubblica amministrazione (art. 5 L. 633/1941), con indicazione della fonte.
+     La rassegna riporta esclusivamente titoli e collegamenti alle testate originali.</p>
+</footer>
+</body></html>

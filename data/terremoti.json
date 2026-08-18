@@ -1,0 +1,47 @@
+[
+ {
+  "data": "2026-08-06T18:39:27.200000",
+  "lat": 40.820667,
+  "lon": 14.4295,
+  "prof": 0.4,
+  "magnitudo": 1.0,
+  "luogo": "Vesuvio",
+  "link": "https://terremoti.ingv.it/event/46805442"
+ },
+ {
+  "data": "2026-08-02T12:53:50.690000",
+  "lat": 40.822333,
+  "lon": 14.422667,
+  "prof": 0.4,
+  "magnitudo": 1.6,
+  "luogo": "Vesuvio",
+  "link": "https://terremoti.ingv.it/event/46747152"
+ },
+ {
+  "data": "2026-07-30T17:11:32.980000",
+  "lat": 40.818167,
+  "lon": 14.417167,
+  "prof": 2.0,
+  "magnitudo": 2.1,
+  "luogo": "Vesuvio",
+  "link": "https://terremoti.ingv.it/event/46715342"
+ },
+ {
+  "data": "2026-07-28T03:38:28.519000",
+  "lat": 40.820667,
+  "lon": 14.426333,
+  "prof": 0.1,
+  "magnitudo": 1.0,
+  "luogo": "Vesuvio",
+  "link": "https://terremoti.ingv.it/event/46689242"
+ },
+ {
+  "data": "2026-07-21T06:40:22.230000",
+  "lat": 40.821,
+  "lon": 14.430167,
+  "prof": 0.2,
+  "magnitudo": 1.9,
+  "luogo": "Vesuvio",
+  "link": "https://terremoti.ingv.it/event/46609912"
+ }
+]
