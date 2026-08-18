@@ -54,3 +54,15 @@ l'articolo è online e su Facebook.
 - degli articoli altrui si pubblicano solo titolo e collegamento
 - gli atti della pubblica amministrazione si ripubblicano citando l'ente (art. 5 L. 633/1941)
 - su Facebook finiscono in automatico solo gli articoli scritti da noi
+
+## Illustrazioni per gli articoli
+
+I disegni si fanno in SVG dentro `static/foto/`, ma **l'articolo deve puntare a un JPG**:
+Facebook e WhatsApp non disegnano gli SVG e mostrerebbero un riquadro vuoto nell'anteprima.
+
+Per convertire, sul Mac:
+
+    qlmanage -t -s 1200 -o /tmp static/foto/nome.svg
+
+poi si ritaglia la fascia illustrata e si salva come JPG a 1200 pixel di larghezza.
+L'SVG resta come sorgente per le modifiche future.

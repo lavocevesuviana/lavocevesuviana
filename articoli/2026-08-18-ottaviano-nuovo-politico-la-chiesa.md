@@ -2,7 +2,7 @@ titolo: A Ottaviano è nato un nuovo soggetto politico e non ha una lista: è la
 comune: Ottaviano
 data: 2026-08-18
 occhiello: Il commento
-foto: don-abbondio-fuochi.svg
+foto: don-abbondio-fuochi.jpg
 ---
 Diciamolo con la franchezza che merita, senza girarci intorno e senza quel tono compunto
 che da queste parti si usa ogni volta che si nomina una chiesa: a San Gennarello, in questa
