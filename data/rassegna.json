@@ -21,6 +21,17 @@
   "visto": "2026-08-18T13:01:59+00:00"
  },
  {
+  "img": "https://www.cronachedellacampania.it/wp-content/uploads/2026/08/il-caldo-non-ferma-il-parco-archeologico-di-ercolano-2-790-visitatori-nel-weekend-di-ferragosto-sIb2.jpg",
+  "titolo": "Il caldo non ferma il parco archeologico di Ercolano: 2.790 visitatori nel weekend di Ferragosto",
+  "link": "https://www.cronachedellacampania.it/2026/08/il-caldo-non-ferma-il-parco-archeologico-di-ercolano-2-790-visitatori-nel-weekend-di-ferragosto/",
+  "fonte": "Cronache della Campania",
+  "data": "Tue, 18 Aug 2026 12:45:19 +0000",
+  "comuni": [
+   "Ercolano"
+  ],
+  "visto": "2026-08-18T13:28:29+00:00"
+ },
+ {
   "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/08/Schermata-2026-08-17-alle-17.49.33-1.png",
   "titolo": "Schianto nella galleria a Seiano, stabili i due feriti",
   "link": "https://www.metropolisweb.it/2026/08/18/schianto-nella-galleria-seiano-stabili-due-feriti/",
@@ -35,9 +46,7 @@
   "link": "https://www.cronachedellacampania.it/2026/08/riqualificare-non-significa-copiare-il-sud-ha-bisogno-di-interventi-pensati-per-i-suoi-territori/",
   "fonte": "Cronache della Campania",
   "data": "Tue, 18 Aug 2026 12:15:59 +0000",
-  "comuni": [
-   "Torre Annunziata"
-  ],
+  "comuni": [],
   "visto": "2026-08-18T12:54:50+00:00"
  },
  {
@@ -64,7 +73,9 @@
   "link": "https://www.metropolisweb.it/2026/08/18/torre-del-greco-condono-negato-casa-nel-parco-vesuvio-comune-sconfitto-tribunale/",
   "fonte": "Metropolis",
   "data": "Tue, 18 Aug 2026 11:24:06 +0000",
-  "comuni": [],
+  "comuni": [
+   "Torre del Greco"
+  ],
   "visto": "2026-08-18T12:54:50+00:00"
  },
  {
@@ -82,7 +93,9 @@
   "link": "https://www.metropolisweb.it/2026/08/18/ercolano-controlli-dellabbandono-di-rifiuti-intensificati/",
   "fonte": "Metropolis",
   "data": "Tue, 18 Aug 2026 10:43:22 +0000",
-  "comuni": [],
+  "comuni": [
+   "Ercolano"
+  ],
   "visto": "2026-08-18T12:54:50+00:00"
  },
  {
@@ -91,7 +104,9 @@
   "link": "https://www.metropolisweb.it/2026/08/18/castellammare-turisti-truffati-lastar-venite-un-nostra-struttura/",
   "fonte": "Metropolis",
   "data": "Tue, 18 Aug 2026 10:42:00 +0000",
-  "comuni": [],
+  "comuni": [
+   "Castellammare di Stabia"
+  ],
   "visto": "2026-08-18T12:54:50+00:00"
  },
  {
@@ -147,7 +162,9 @@
   "link": "https://www.ilfattovesuviano.it/2026/08/investito-in-scooter-a-scafati-muore-in-ospedale-per-setticemia",
   "fonte": "Il Fatto Vesuviano",
   "data": "Tue, 18 Aug 2026 10:00:00 +0000",
-  "comuni": [],
+  "comuni": [
+   "Scafati"
+  ],
   "visto": "2026-08-18T12:54:50+00:00"
  },
  {
@@ -156,7 +173,9 @@
   "link": "https://www.metropolisweb.it/2026/08/18/ospedale-nola-liste-dattesa-ridotte-la-cardiologia-cambia-passo/",
   "fonte": "Metropolis",
   "data": "Tue, 18 Aug 2026 09:53:53 +0000",
-  "comuni": [],
+  "comuni": [
+   "Nola"
+  ],
   "visto": "2026-08-18T12:54:50+00:00"
  },
  {
@@ -174,7 +193,9 @@
   "link": "https://www.laprovinciaonline.info/cardiologia-ospedale-di-nola-giu-le-liste-di-attesa-il-modello-di-day-hospital-same-day-discharge-funziona/",
   "fonte": "La Provincia Online",
   "data": "Tue, 18 Aug 2026 09:20:38 +0000",
-  "comuni": [],
+  "comuni": [
+   "Nola"
+  ],
   "img_provata": true,
   "visto": "2026-08-18T12:54:50+00:00"
  },
@@ -207,12 +228,25 @@
   "visto": "2026-08-18T12:54:50+00:00"
  },
  {
+  "img": "https://citynews-napolitoday.stgy.ovh/~media/original-hi/26996429286188/lotto-7.jpg",
+  "titolo": "Il Lotto premia la provincia di Napoli: la vincita",
+  "link": "https://www.napolitoday.it/attualita/lotto-vincita-ercolano.html",
+  "fonte": "NapoliToday",
+  "data": "Tue, 18 Aug 2026 10:50:58 +0200",
+  "comuni": [
+   "Ercolano"
+  ],
+  "visto": "2026-08-18T13:28:29+00:00"
+ },
+ {
   "img": "https://www.loravesuviana.it/wp-content/uploads/2026/08/TRUE-1200X675-23-300x169.jpg",
   "titolo": "Emergenza sicurezza a Volla, il prefetto istituisce la zona rossa: arrivano i controlli speciali e l’allontanamento immediato per soggetti pericolosi",
   "link": "https://www.loravesuviana.it/news/zona-rossa-a-volla.html/",
   "fonte": "L'Ora Vesuviana",
   "data": "Tue, 18 Aug 2026 08:49:01 +0000",
-  "comuni": [],
+  "comuni": [
+   "Volla"
+  ],
   "visto": "2026-08-18T12:54:50+00:00"
  },
  {
@@ -271,7 +305,7 @@
   "fonte": "Metropolis",
   "data": "Tue, 18 Aug 2026 08:01:55 +0000",
   "comuni": [
-   "Torre Annunziata"
+   "Scafati"
   ],
   "visto": "2026-08-18T12:54:50+00:00"
  },
@@ -337,7 +371,9 @@
   "link": "https://www.metropolisweb.it/2026/08/18/rifiuti-torre-del-greco-spunta-unaltra-porta-allo-stadio-liguori-video/",
   "fonte": "Metropolis",
   "data": "Tue, 18 Aug 2026 07:30:06 +0000",
-  "comuni": [],
+  "comuni": [
+   "Torre del Greco"
+  ],
   "visto": "2026-08-18T12:54:50+00:00"
  },
  {
@@ -356,7 +392,9 @@
   "link": "https://www.vesuviolive.it/aree-locali/notizie-di-torre-del-greco/543941-capitaneria-porto-torre-greco-compie-118-anni/",
   "fonte": "VesuvioLive",
   "data": "Tue, 18 Aug 2026 07:22:01 +0000",
-  "comuni": [],
+  "comuni": [
+   "Torre del Greco"
+  ],
   "img_provata": true,
   "visto": "2026-08-18T12:54:50+00:00"
  },
@@ -389,6 +427,17 @@
    "Pompei"
   ],
   "visto": "2026-08-18T12:54:50+00:00"
+ },
+ {
+  "img": "https://citynews-napolitoday.stgy.ovh/~media/original-hi/53218153890785/preparazione-festa-gigli-2023-00_00_16_27-immagine001.jpg",
+  "titolo": "Stretta sulla festa dei Gigli: decise le nuove regole",
+  "link": "https://www.napolitoday.it/cronaca/festa-gigli-brusciano.html",
+  "fonte": "NapoliToday",
+  "data": "Tue, 18 Aug 2026 08:09:05 +0200",
+  "comuni": [
+   "Brusciano"
+  ],
+  "visto": "2026-08-18T13:28:29+00:00"
  },
  {
   "img": "https://cdn13.webmaster360.it/2026/08/covers/zC8geqsGDMLDBtpklS8zE2ZCxX8ZE2cYvDi9fn7H.jpg",
@@ -462,9 +511,7 @@
   "link": "https://www.cronachedellacampania.it/2026/08/manila-esposito-risponde-al-body-shaming-con-le-tre-medaglie-agli-europei-di-ginnastica/",
   "fonte": "Cronache della Campania",
   "data": "Mon, 17 Aug 2026 19:44:31 +0000",
-  "comuni": [
-   "Torre Annunziata"
-  ],
+  "comuni": [],
   "img": "",
   "img_provata": true,
   "visto": "2026-08-18T12:54:50+00:00"
@@ -620,10 +667,7 @@
   "link": "https://www.metropolisweb.it/2026/08/17/body-shaming-su-manila-esposito-vinco-col-mio-corpo/",
   "fonte": "Metropolis",
   "data": "Mon, 17 Aug 2026 14:50:27 +0000",
-  "comuni": [
-   "Boscotrecase",
-   "Torre Annunziata"
-  ],
+  "comuni": [],
   "visto": "2026-08-18T12:54:50+00:00"
  },
  {
@@ -652,7 +696,9 @@
   "link": "https://www.metropolisweb.it/2026/08/17/castellammare-scatole-di-san-valentino-imposte-dal-boss-crollano-le-accuse-dellantimafia/",
   "fonte": "Metropolis",
   "data": "Mon, 17 Aug 2026 14:08:12 +0000",
-  "comuni": [],
+  "comuni": [
+   "Castellammare di Stabia"
+  ],
   "visto": "2026-08-18T12:54:50+00:00"
  },
  {
@@ -661,10 +707,7 @@
   "link": "https://www.metropolisweb.it/2026/08/17/vesuvio-locchio-del-diavolo-non-ce-piu-crollo-nellarea-protetta/",
   "fonte": "Metropolis",
   "data": "Mon, 17 Aug 2026 14:07:12 +0000",
-  "comuni": [
-   "Ottaviano",
-   "Somma Vesuviana"
-  ],
+  "comuni": [],
   "visto": "2026-08-18T12:54:50+00:00"
  },
  {
@@ -675,6 +718,17 @@
   "data": "Mon, 17 Aug 2026 14:00:00 +0000",
   "comuni": [],
   "visto": "2026-08-18T12:54:50+00:00"
+ },
+ {
+  "img": "https://internapoli.it/mato.clanto.cloud/piwik.php?idsite=6&rec=1&url=https%3A%2F%2Finternapoli.it%2Ftorre-del-greco-nascondeva-la-droga-negli-slip-mentre-era-ai-domiciliari-arrestato%2F&action_name=Torre%20del%20Greco%2C%20nascondeva%20la%20droga%20negli%20slip%20mentre%20era%20ai%20domiciliari%3A%20arrestato&urlref=https%3A%2F%2Finternapoli.it%2Ffeed%2F",
+  "titolo": "Torre del Greco, nascondeva la droga negli slip mentre era ai domiciliari: arrestato",
+  "link": "https://internapoli.it/torre-del-greco-nascondeva-la-droga-negli-slip-mentre-era-ai-domiciliari-arrestato/",
+  "fonte": "Internapoli",
+  "data": "Mon, 17 Aug 2026 13:38:08 +0000",
+  "comuni": [
+   "Torre del Greco"
+  ],
+  "visto": "2026-08-18T13:28:29+00:00"
  },
  {
   "img": "https://www.vesuviolive.it/wp-content/uploads/sites/6/2026/06/mare-bacoli.jpg",
@@ -701,7 +755,9 @@
   "link": "https://www.metropolisweb.it/2026/08/17/casa-vacanze-fantasma-castellammare-paga-300-euro-lalloggio-occupato/",
   "fonte": "Metropolis",
   "data": "Mon, 17 Aug 2026 13:28:24 +0000",
-  "comuni": [],
+  "comuni": [
+   "Castellammare di Stabia"
+  ],
   "visto": "2026-08-18T12:54:50+00:00"
  },
  {
@@ -710,7 +766,9 @@
   "link": "https://www.laprovinciaonline.info/nobel-per-la-pace-ai-bambini-di-gaza-saviano-democratica-aderisce-alla-campagna-e-porta-la-mozione-in-consiglio/",
   "fonte": "La Provincia Online",
   "data": "Mon, 17 Aug 2026 13:11:26 +0000",
-  "comuni": [],
+  "comuni": [
+   "Saviano"
+  ],
   "img_provata": true,
   "visto": "2026-08-18T12:54:50+00:00"
  },
@@ -729,9 +787,7 @@
   "link": "https://www.metropolisweb.it/2026/08/17/lomaggio-del-savoia-a-ciro-immobile-il-saluto-a-un-grande-campionissimo/",
   "fonte": "Metropolis",
   "data": "Mon, 17 Aug 2026 12:49:13 +0000",
-  "comuni": [
-   "Torre Annunziata"
-  ],
+  "comuni": [],
   "visto": "2026-08-18T12:54:50+00:00"
  },
  {
@@ -749,7 +805,9 @@
   "link": "https://www.metropolisweb.it/2026/08/17/castellammare-restauro-antiche-terme-via-allappalto-12-milioni/",
   "fonte": "Metropolis",
   "data": "Mon, 17 Aug 2026 12:29:59 +0000",
-  "comuni": [],
+  "comuni": [
+   "Castellammare di Stabia"
+  ],
   "visto": "2026-08-18T12:54:50+00:00"
  },
  {
@@ -833,9 +891,7 @@
   "link": "https://internapoli.it/funerali-privati-per-il-boss-del-clan-vesuviano-motivi-di-ordine-pubblico/",
   "fonte": "Internapoli",
   "data": "Mon, 17 Aug 2026 10:43:22 +0000",
-  "comuni": [
-   "Boscoreale"
-  ],
+  "comuni": [],
   "visto": "2026-08-18T12:54:50+00:00"
  },
  {
@@ -973,8 +1029,7 @@
   "fonte": "Metropolis",
   "data": "Mon, 17 Aug 2026 08:03:16 +0000",
   "comuni": [
-   "Boscoreale",
-   "Boscotrecase"
+   "Boscoreale"
   ],
   "visto": "2026-08-18T12:54:50+00:00"
  },
@@ -1052,12 +1107,23 @@
   "visto": "2026-08-18T12:54:50+00:00"
  },
  {
+  "img": "https://internapoli.it/mato.clanto.cloud/piwik.php?idsite=6&rec=1&url=https%3A%2F%2Finternapoli.it%2Flascia-i-domiciliari-per-partecipare-ad-una-funzione-religiosa-arrestato%2F&action_name=Lascia%20i%20domiciliari%20per%20partecipare%20ad%20una%20funzione%20religiosa%2C%20arrestato&urlref=https%3A%2F%2Finternapoli.it%2Ffeed%2F",
+  "titolo": "Lascia i domiciliari per partecipare ad una funzione religiosa, arrestato",
+  "link": "https://internapoli.it/lascia-i-domiciliari-per-partecipare-ad-una-funzione-religiosa-arrestato/",
+  "fonte": "Internapoli",
+  "data": "Sun, 16 Aug 2026 09:57:46 +0000",
+  "comuni": [],
+  "visto": "2026-08-18T13:28:29+00:00"
+ },
+ {
   "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/01/piazza-santa-croce-natale-2023-auto-vigili-urbani-1024x768.jpg",
   "titolo": "Torre del Greco, in piazza con un coltello: suona il braccialetto elettronico, arrestato 29enne",
   "link": "https://www.metropolisweb.it/2026/08/16/torre-del-greco-piazza-un-coltello-suona-braccialetto-elettronico-arrestato-29enne/",
   "fonte": "Metropolis",
   "data": "Sun, 16 Aug 2026 08:00:47 +0000",
-  "comuni": [],
+  "comuni": [
+   "Torre del Greco"
+  ],
   "visto": "2026-08-18T12:54:50+00:00"
  },
  {
@@ -1114,7 +1180,9 @@
   "link": "https://www.metropolisweb.it/2026/08/15/sicurezza-zero-ercolano-giovane-ferito-rissa/",
   "fonte": "Metropolis",
   "data": "Sat, 15 Aug 2026 12:12:52 +0000",
-  "comuni": [],
+  "comuni": [
+   "Ercolano"
+  ],
   "visto": "2026-08-18T12:54:50+00:00"
  },
  {
@@ -1159,12 +1227,7 @@
   "link": "https://www.metropolisweb.it/2026/08/15/imprenditore-rapito-sparire-cani-molecolari-sul-vesuvio-cercare-corpo-vorraro/",
   "fonte": "Metropolis",
   "data": "Sat, 15 Aug 2026 08:10:20 +0000",
-  "comuni": [
-   "Terzigno",
-   "Ottaviano",
-   "Poggiomarino",
-   "San Giuseppe Vesuviano"
-  ],
+  "comuni": [],
   "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/06/Screenshot-2026-06-03-alle-20.30.38-1024x754.png",
   "img_provata": true,
   "visto": "2026-08-18T12:54:50+00:00"
@@ -1174,7 +1237,9 @@
   "link": "https://www.metropolisweb.it/2026/08/15/castellammare-parcheggiatore-abusivo-nove-anni/",
   "fonte": "Metropolis",
   "data": "Sat, 15 Aug 2026 07:34:26 +0000",
-  "comuni": [],
+  "comuni": [
+   "Castellammare di Stabia"
+  ],
   "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/08/Schermata-2026-08-14-alle-13.28.18.png",
   "img_provata": true,
   "visto": "2026-08-18T12:54:50+00:00"
@@ -1207,8 +1272,7 @@
   "fonte": "Metropolis",
   "data": "Fri, 14 Aug 2026 20:04:19 +0000",
   "comuni": [
-   "Terzigno",
-   "San Giuseppe Vesuviano"
+   "Terzigno"
   ],
   "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-13-alle-16.11.18-1024x619.png",
   "img_provata": true,
@@ -1239,7 +1303,9 @@
   "link": "https://www.metropolisweb.it/2026/08/14/840634/",
   "fonte": "Metropolis",
   "data": "Fri, 14 Aug 2026 16:47:38 +0000",
-  "comuni": [],
+  "comuni": [
+   "Torre del Greco"
+  ],
   "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-14-alle-18.43.04.png",
   "img_provata": true,
   "visto": "2026-08-18T12:54:50+00:00"
@@ -1269,7 +1335,9 @@
   "link": "https://www.metropolisweb.it/2026/08/14/torre-del-greco-travolto-dalla-sua-auto-senza-freno-mano-muore-44enne/",
   "fonte": "Metropolis",
   "data": "Fri, 14 Aug 2026 14:29:08 +0000",
-  "comuni": [],
+  "comuni": [
+   "Torre del Greco"
+  ],
   "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/03/maresca-ospedale-esterno-pronto-soccorso-1-scaled-1024x768.jpg",
   "img_provata": true,
   "visto": "2026-08-18T12:54:50+00:00"
@@ -1320,7 +1388,9 @@
   "link": "https://www.vesuviolive.it/ultime-notizie/543898-torre-del-greco-lacrime-e-voglia-di-giustizia-nel-giorno-del-ricordo-per-le-vittime-del-ponte-morandi/",
   "fonte": "VesuvioLive",
   "data": "Fri, 14 Aug 2026 12:28:11 +0000",
-  "comuni": [],
+  "comuni": [
+   "Torre del Greco"
+  ],
   "img_provata": true,
   "visto": "2026-08-18T12:54:50+00:00"
  },
@@ -1369,7 +1439,9 @@
   "link": "https://www.metropolisweb.it/2026/08/14/addio-pasqualino-imperato-paladino-degli-ammalati-sla/",
   "fonte": "Metropolis",
   "data": "Fri, 14 Aug 2026 10:14:31 +0000",
-  "comuni": [],
+  "comuni": [
+   "Torre del Greco"
+  ],
   "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/08/Gemini_Generated_Image_dl8tx0dl8tx0dl8t-1024x768.jpeg",
   "img_provata": true,
   "visto": "2026-08-18T12:54:50+00:00"
@@ -1390,7 +1462,9 @@
   "link": "https://www.vesuviolive.it/aree-locali/notizie-di-ercolano/543883-scavi-ercolano-aperti-ferragosto-2026/",
   "fonte": "VesuvioLive",
   "data": "Fri, 14 Aug 2026 09:42:53 +0000",
-  "comuni": [],
+  "comuni": [
+   "Ercolano"
+  ],
   "img_provata": true,
   "visto": "2026-08-18T12:54:50+00:00"
  },
@@ -1459,9 +1533,7 @@
   "link": "https://www.vesuvianonews.it/ac-savoia-francesco-criscuoli-settore-giovanile/",
   "fonte": "Vesuviano News",
   "data": "Thu, 13 Aug 2026 19:55:54 +0000",
-  "comuni": [
-   "Torre Annunziata"
-  ],
+  "comuni": [],
   "img_provata": true,
   "visto": "2026-08-18T12:54:50+00:00"
  },
@@ -1471,7 +1543,9 @@
   "link": "https://www.vesuvianonews.it/torre-del-greco-sequestro-settebello-demanio/",
   "fonte": "Vesuviano News",
   "data": "Thu, 13 Aug 2026 17:57:51 +0000",
-  "comuni": [],
+  "comuni": [
+   "Torre del Greco"
+  ],
   "img_provata": true,
   "visto": "2026-08-18T12:54:50+00:00"
  },
@@ -1510,7 +1584,9 @@
   "link": "https://www.vesuviolive.it/aree-locali/notizie-di-torre-del-greco/543857-miss-ondina-sport-tappa-in-litoranea-tra-musica-e-sfilate-eletta-la-piu-bella-di-torre-del-greco/",
   "fonte": "VesuvioLive",
   "data": "Thu, 13 Aug 2026 10:46:55 +0000",
-  "comuni": [],
+  "comuni": [
+   "Torre del Greco"
+  ],
   "visto": "2026-08-18T12:54:50+00:00"
  },
  {
@@ -1588,7 +1664,9 @@
   "link": "https://www.vesuvianonews.it/torre-del-greco-aggressione-municipale-obbligo-di-firma/",
   "fonte": "Vesuviano News",
   "data": "Wed, 12 Aug 2026 19:16:52 +0000",
-  "comuni": [],
+  "comuni": [
+   "Torre del Greco"
+  ],
   "img_provata": true,
   "visto": "2026-08-18T12:54:50+00:00"
  },
@@ -1608,7 +1686,9 @@
   "link": "https://www.ilmediano.com/tufino-marigliano-controllo-ispettivo-presso-agenzia-di-onoranze-funebri-chiusura-e-sanzioni/",
   "fonte": "Il Mediano",
   "data": "Wed, 12 Aug 2026 16:38:11 +0000",
-  "comuni": [],
+  "comuni": [
+   "Marigliano"
+  ],
   "img_provata": true,
   "visto": "2026-08-18T12:54:50+00:00"
  },
@@ -1638,7 +1718,9 @@
   "link": "https://www.vesuviolive.it/aree-locali/notizie-di-torre-del-greco/543800-miramare-unestate-di-eventi-dal-tango-al-tributo-ai-cranberries-ogni-sera-e-uno-spettacolo/",
   "fonte": "VesuvioLive",
   "data": "Wed, 12 Aug 2026 13:26:49 +0000",
-  "comuni": [],
+  "comuni": [
+   "Torre del Greco"
+  ],
   "visto": "2026-08-18T12:54:50+00:00"
  },
  {
@@ -1647,7 +1729,9 @@
   "link": "https://www.vesuviolive.it/aree-locali/notizie-di-torre-del-greco/543818-aggressione-polizia-municipale-torre-greco-arresto/",
   "fonte": "VesuvioLive",
   "data": "Wed, 12 Aug 2026 12:17:00 +0000",
-  "comuni": [],
+  "comuni": [
+   "Torre del Greco"
+  ],
   "img_provata": true,
   "visto": "2026-08-18T12:54:50+00:00"
  },
@@ -1657,7 +1741,9 @@
   "link": "https://www.vesuviolive.it/aree-locali/notizie-di-torre-del-greco/543813-ponte-morandi-una-preghiera-per-le-quattro-vittime-torresi-nellanniversario-della-tragedia/",
   "fonte": "VesuvioLive",
   "data": "Wed, 12 Aug 2026 11:07:11 +0000",
-  "comuni": [],
+  "comuni": [
+   "Torre del Greco"
+  ],
   "img_provata": true,
   "visto": "2026-08-18T12:54:50+00:00"
  },
@@ -1739,7 +1825,9 @@
   "link": "https://www.vesuviolive.it/aree-locali/notizie-di-ercolano/543794-scavi-ercolano-suicidio-uomo-salvato-maresca/",
   "fonte": "VesuvioLive",
   "data": "Wed, 12 Aug 2026 07:08:44 +0000",
-  "comuni": [],
+  "comuni": [
+   "Ercolano"
+  ],
   "img_provata": true,
   "visto": "2026-08-18T12:54:50+00:00"
  },
@@ -1793,7 +1881,9 @@
   "link": "https://www.ilmediano.com/nola-terzo-incendio-nel-giro-di-una-settimana/",
   "fonte": "Il Mediano",
   "data": "Tue, 11 Aug 2026 20:49:47 +0000",
-  "comuni": [],
+  "comuni": [
+   "Nola"
+  ],
   "img_provata": true,
   "visto": "2026-08-18T12:54:50+00:00"
  },
@@ -1909,7 +1999,9 @@
   "link": "https://www.ilmediano.com/da-piazzolla-di-nola-alla-guida-michelin-il-sogno-americano-dello-chef-marco-giugliano-conquista-miami/",
   "fonte": "Il Mediano",
   "data": "Tue, 11 Aug 2026 07:17:43 +0000",
-  "comuni": [],
+  "comuni": [
+   "Nola"
+  ],
   "img_provata": true,
   "visto": "2026-08-18T12:54:50+00:00"
  },
@@ -2041,7 +2133,9 @@
   "link": "https://www.loravesuviana.it/news/blitz-dei-carabinieri-a-ercolano-in-un-appartamento-la-centrale-dello-spaccio-arrestati-tre-uomini-e-una-donna.html/",
   "fonte": "L'Ora Vesuviana",
   "data": "Mon, 20 Jul 2026 14:02:24 +0000",
-  "comuni": [],
+  "comuni": [
+   "Ercolano"
+  ],
   "img_provata": true,
   "visto": "2026-08-18T12:54:50+00:00"
  },
@@ -2051,7 +2145,9 @@
   "link": "https://www.loravesuviana.it/news/a-santanastasia-il-sindaco-mariano-caserta-nomina-la-giunta-e-va-dritto-per-la-sua-strada-nonostante-i-mal-di-pancia-dentro-il-pd.html/",
   "fonte": "L'Ora Vesuviana",
   "data": "Sat, 18 Jul 2026 06:58:40 +0000",
-  "comuni": [],
+  "comuni": [
+   "Sant'Anastasia"
+  ],
   "visto": "2026-08-18T12:54:50+00:00"
  },
  {
@@ -2060,7 +2156,9 @@
   "link": "https://www.loravesuviana.it/news/antimafia-ciro-di-martino.html/",
   "fonte": "L'Ora Vesuviana",
   "data": "Sat, 18 Jul 2026 06:22:36 +0000",
-  "comuni": [],
+  "comuni": [
+   "Portici"
+  ],
   "visto": "2026-08-18T12:54:50+00:00"
  },
  {
