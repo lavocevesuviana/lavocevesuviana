@@ -85,6 +85,7 @@ def guscio(titolo, contenuto, prof=0):
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>{titolo}</title>
 <link rel="stylesheet" href="{su}style.css">
+<link rel="icon" href="{su}favicon.png">
 </head><body>
 <header class="testata">
   <a class="marchio" href="{su}index.html">
@@ -96,6 +97,7 @@ def guscio(titolo, contenuto, prof=0):
 <nav class="comuni">{nav}</nav>
 <main>{contenuto}</main>
 <footer>
+  <img class="emblema" src="{su}emblema.png" alt="">
   <p><strong>{t}</strong> — testata in costruzione. Contenuti istituzionali ripresi da atti e
      comunicati della pubblica amministrazione (art. 5 L. 633/1941), con indicazione della fonte.
      La rassegna riporta esclusivamente titoli e collegamenti alle testate originali.</p>
