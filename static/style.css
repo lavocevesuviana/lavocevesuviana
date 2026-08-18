@@ -145,3 +145,17 @@ footer p{margin:0;padding:6px 0;font-family:var(--etichette);
 .condividi a:hover,.condividi button:hover{background:var(--giallo)}
 .condividi .wa:hover{background:#25D366;border-color:#128C7E;color:#fff}
 .condividi .fb:hover{background:#1877F2;border-color:#0d5dbd;color:#fff}
+
+/* ---------- pagina di rimando alla fonte ---------- */
+.ponte{max-width:720px;margin:36px auto}
+.ponte h1{font-family:var(--titoli);font-size:clamp(26px,4vw,40px);line-height:1.08;
+  margin:.3em 0 .5em}
+.ponte .scatto{width:100%;height:auto;display:block;border:2px solid var(--nero)}
+.ponte .avvertenza{font-family:var(--etichette);font-size:13.5px;line-height:1.65;
+  color:#4a4a4a;background:#fafafa;border-left:4px solid var(--giallo);
+  padding:14px 16px;margin:22px 0}
+.ponte .prosegui{margin:26px 0 6px}
+.ponte .prosegui a{display:inline-block;font-family:var(--etichette);font-size:15px;
+  font-weight:700;text-decoration:none;background:var(--nero);color:#fff;
+  padding:15px 26px;border:2px solid var(--nero)}
+.ponte .prosegui a:hover{background:var(--giallo);color:var(--nero)}

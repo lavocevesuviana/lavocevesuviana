@@ -21,6 +21,9 @@ CLAIM = "Cronaca, politica e vita dei paesi del Vesuvio"
 COMUNI_NAV = ["Terzigno", "Boscoreale", "Ottaviano", "Poggiomarino",
               "Somma Vesuviana", "San Giuseppe Vesuviano", "Pompei"]
 PER_PAGINA = 60
+PONTI_MAX = 3000      # un link condiviso su Facebook deve restare vivo a lungo:
+                      # oltre questa soglia la pagina ponte sparirebbe e chi
+                      # ci clicca troverebbe un errore.
 MESI = ["gennaio", "febbraio", "marzo", "aprile", "maggio", "giugno", "luglio",
         "agosto", "settembre", "ottobre", "novembre", "dicembre"]
 
@@ -115,7 +118,7 @@ def condivisione(titolo, percorso):
     </div>""".format(testo=testo, u=quote(url, safe=""), url=escape(url, True))
 
 
-def guscio(titolo, contenuto, prof=0, social=""):
+def guscio(titolo, contenuto, prof=0, social="", canonico=""):
     su = "../" * prof
     return """<!doctype html>
 <html lang="it"><head>
@@ -124,7 +127,7 @@ def guscio(titolo, contenuto, prof=0, social=""):
 <title>{titolo}</title>
 <link rel="stylesheet" href="{su}style.css?v={ver}">
 <link rel="icon" href="{su}favicon.png">
-{social}
+{canonico}{social}
 </head><body>
 <header class="testata">
   <a class="marchio" href="{su}index.html">
@@ -175,6 +178,7 @@ document.addEventListener("click", function (e) {{
 </body></html>""".format(
         titolo=escape(titolo), t=escape(TESTATA), claim=escape(CLAIM), su=su, contenuto=contenuto,
         ver=versione_css(), social=social,
+        canonico='<link rel="canonical" href="%s">' % escape(canonico, True) if canonico else "",
         nav='<a class="home" href="%sindex.html">Home</a>' % su
             + "".join('<a href="%scomuni/%s.html">%s</a>' % (su, slug(c), escape(c)) for c in COMUNI_NAV))
 
@@ -232,7 +236,34 @@ def scheda(a, prof=0):
         occhiello='<p class="occhiello">%s</p>' % escape(a["comune"] or a["occhiello"]) if (a["comune"] or a["occhiello"]) else "")
 
 
-def blocco_rassegna(rassegna, n=14):
+def ponte_url(r):
+    """Indirizzo stabile della pagina ponte: deve restare uguale nel tempo,
+    altrimenti i link gia' condivisi su Facebook smetterebbero di funzionare."""
+    firma = hashlib.sha1(r["link"].encode()).hexdigest()[:7]
+    return "rassegna/%s-%s.html" % (slug(r["titolo"])[:58], firma)
+
+
+def pagina_ponte(r):
+    """Pagina di rimando: titolo, fonte, immagine e un pulsante che porta
+    all'originale. Nessuna riga del testo altrui viene ripresa."""
+    figura = ('<img class="scatto" src="%s" alt="" onerror="this.remove()">'
+              % escape(r["img"], True)) if r.get("img") else ""
+    return """<article class="ponte">
+      <p class="occhiello">{fonte}</p>
+      <h1>{titolo}</h1>
+      {figura}
+      <p class="avvertenza">Questo articolo &egrave; stato scritto e pubblicato da
+        <strong>{fonte}</strong>. La Voce Vesuviana ne segnala il titolo e rimanda
+        alla fonte: il testo si legge sul sito che lo ha prodotto.</p>
+      <p class="prosegui"><a href="{link}" target="_blank" rel="noopener nofollow">
+        Continua a leggere su {fonte}</a></p>
+      {condividi}
+    </article>""".format(fonte=escape(r["fonte"]), titolo=escape(r["titolo"]),
+                         figura=figura, link=escape(r["link"], True),
+                         condividi=condivisione(r["titolo"], ponte_url(r)))
+
+
+def blocco_rassegna(rassegna, n=14, ponti=True, su=""):
     voci = []
     for r in rassegna[:n]:
         try:
@@ -241,11 +272,14 @@ def blocco_rassegna(rassegna, n=14):
             quando = ""
         miniatura = ('<img class="miniatura" src="%s" alt="" loading="lazy" '
                      'onerror="this.remove()">' % escape(r["img"], True)) if r.get("img") else ""
-        voci.append("""<li><a href="{link}" target="_blank" rel="noopener nofollow">{img}
+        destinazione = ("%s%s" % (su, ponte_url(r))) if (ponti and r.get("ponte")) else r["link"]
+        fuori = "" if (ponti and r.get("ponte")) else ' target="_blank" rel="noopener nofollow"'
+        voci.append("""<li><a href="{link}"{fuori}>{img}
           <span class="testo"><span class="tit">{titolo}</span>
           <span class="fonte">{fonte}{quando}</span></span></a></li>""".format(
-            link=escape(r["link"], True), img=miniatura, titolo=escape(r["titolo"]),
-            fonte=escape(r["fonte"]), quando=" · " + quando if quando else ""))
+            link=escape(destinazione, True), fuori=fuori, img=miniatura,
+            titolo=escape(r["titolo"]), fonte=escape(r["fonte"]),
+            quando=" · " + quando if quando else ""))
     return """<section class="rassegna">
   <h2 class="sezione">Rassegna vesuviana</h2>
   <p class="nota">Titoli dalle altre testate del territorio. Il collegamento porta all'articolo originale.</p>
@@ -288,6 +322,17 @@ def costruisci():
 
     articoli = carica_articoli()
     rassegna, avvisi, sismi = leggi_json("rassegna"), leggi_json("comuni"), leggi_json("terremoti")
+
+    (OUT / "rassegna").mkdir(exist_ok=True)
+    for r in rassegna[:PONTI_MAX]:
+        r["ponte"] = True
+        (OUT / ponte_url(r)).write_text(
+            guscio(r["titolo"] + " — " + TESTATA, pagina_ponte(r), prof=1,
+                   social=anteprima_social(r["titolo"],
+                                           "Segnalato da %s. Il testo si legge sulla fonte." % r["fonte"],
+                                           ponte_url(r), r.get("img", "")),
+                   canonico=r["link"]),
+            encoding="utf-8")
 
     apertura = ""
     if articoli:
@@ -354,7 +399,7 @@ def costruisci():
             if fetta_atti:
                 corpo += blocco_comuni(fetta_atti, n=PER_PAGINA)
             if fetta_loro:
-                corpo += blocco_rassegna(fetta_loro, n=PER_PAGINA)
+                corpo += blocco_rassegna(fetta_loro, n=PER_PAGINA, su="../")
             if pagine > 1:
                 voci = []
                 for i in range(pagine):
