@@ -12,7 +12,7 @@ main{max-width:1180px;margin:0 auto;padding:0 20px 60px}
 /* ---------- testata ---------- */
 .testata{text-align:center;padding:26px 20px 16px;border-bottom:3px solid var(--nero)}
 .marchio{display:inline-block;text-decoration:none}
-.marchio img{max-height:74px;width:auto}
+.marchio img{max-height:74px;width:auto;max-width:100%}
 .wordmark{font-family:var(--titoli);font-size:clamp(30px,7vw,58px);letter-spacing:-.03em;
   display:inline-flex;gap:.14em;align-items:center;text-transform:uppercase;line-height:1}
 .wordmark b{writing-mode:vertical-rl;transform:rotate(180deg);background:var(--nero);
