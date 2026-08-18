@@ -1,0 +1,49 @@
+name: Aggiorna La Voce Vesuviana
+
+on:
+  schedule:
+    - cron: "0 * * * *"
+  push:
+    branches: [main]
+    paths-ignore:
+      - "data/**"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+jobs:
+  aggiorna:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+
+      - name: Raccogli le fonti
+        run: python ingest.py
+
+      - name: Genera il sito
+        run: python build.py
+
+      - name: Pubblica su Facebook
+        env:
+          FB_PAGE_ID: ${{ secrets.FB_PAGE_ID }}
+          FB_TOKEN:   ${{ secrets.FB_TOKEN }}
+          SITO_URL:   ${{ vars.SITO_URL }}
+        run: python facebook.py
+
+      - name: Salva lo stato
+        run: |
+          git config user.name  "La Voce Vesuviana (bot)"
+          git config user.email "bot@users.noreply.github.com"
+          git add data/
+          git diff --staged --quiet || git commit -m "aggiornamento fonti $(date +'%d/%m %H:%M')"
+          git push
+
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with: { path: site }
+      - uses: actions/deploy-pages@v4
