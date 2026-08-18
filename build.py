@@ -17,6 +17,7 @@ TESTATA = "La Voce Vesuviana"
 CLAIM = "Cronaca, politica e vita dei paesi del Vesuvio"
 COMUNI_NAV = ["Terzigno", "Boscoreale", "Ottaviano", "Poggiomarino",
               "Somma Vesuviana", "San Giuseppe Vesuviano", "Pompei"]
+PER_PAGINA = 60
 MESI = ["gennaio", "febbraio", "marzo", "aprile", "maggio", "giugno", "luglio",
         "agosto", "settembre", "ottobre", "novembre", "dicembre"]
 
@@ -260,20 +261,37 @@ def costruisci():
         suoi = [a for a in articoli if a["comune"] == c]
         loro = [r for r in rassegna if c in r.get("comuni", [])]
         atti = [x for x in avvisi if c in x.get("comuni", [])]
-        corpo = '<h1 class="titolo-comune">%s</h1>' % escape(c)
-        corpo += ('<div class="griglia">%s</div>' % "".join(scheda(a, prof=1) for a in suoi)
-                  if suoi else '<p class="nota">Ancora nessun articolo nostro su %s.</p>' % escape(c))
-        if atti:
-            corpo += blocco_comuni(atti, n=20)
-        if loro:
-            corpo += blocco_rassegna(loro, n=20)
-        (OUT / "comuni" / (slug(c) + ".html")).write_text(
-            guscio(c + " — " + TESTATA, corpo, prof=1), encoding="utf-8")
+        totale = len(suoi) + len(atti) + len(loro)
 
-    (DATA / "indice.json").write_text(json.dumps(
-        [{"titolo": a["titolo"], "url": a["url"], "sommario": a["sommario"],
-          "comune": a["comune"], "data": a["dt"].strftime("%Y-%m-%d")} for a in articoli],
-        ensure_ascii=False, indent=1), encoding="utf-8")
+        # l'archivio non si taglia: si sfoglia. Cosi' cresce senza limite.
+        pagine = max(1, -(-max(len(atti), len(loro)) // PER_PAGINA))
+        for n in range(pagine):
+            fetta_atti = atti[n * PER_PAGINA:(n + 1) * PER_PAGINA]
+            fetta_loro = loro[n * PER_PAGINA:(n + 1) * PER_PAGINA]
+
+            corpo = '<h1 class="titolo-comune">%s</h1>' % escape(c)
+            corpo += ('<p class="conteggio">%d fra articoli, atti comunali e titoli dalle '
+                      'altre testate%s. L\'archivio cresce a ogni aggiornamento.</p>'
+                      % (totale, " — pagina %d di %d" % (n + 1, pagine) if pagine > 1 else ""))
+            if n == 0:
+                corpo += ('<div class="griglia">%s</div>' % "".join(scheda(a, prof=1) for a in suoi)
+                          if suoi else
+                          '<p class="nota">Ancora nessun articolo nostro su %s.</p>' % escape(c))
+            if fetta_atti:
+                corpo += blocco_comuni(fetta_atti, n=PER_PAGINA)
+            if fetta_loro:
+                corpo += blocco_rassegna(fetta_loro, n=PER_PAGINA)
+            if pagine > 1:
+                voci = []
+                for i in range(pagine):
+                    dove = slug(c) + ("" if i == 0 else "-%d" % (i + 1)) + ".html"
+                    voci.append('<a class="%s" href="%s">%d</a>'
+                                % ("qui" if i == n else "", dove, i + 1))
+                corpo += '<nav class="pagine"><span>Pagine</span>%s</nav>' % "".join(voci)
+
+            nome = slug(c) + ("" if n == 0 else "-%d" % (n + 1))
+            (OUT / "comuni" / (nome + ".html")).write_text(
+                guscio(c + " — " + TESTATA, corpo, prof=1), encoding="utf-8")
 
     print("Generato: 1 home, %d articoli, %d pagine comune" % (len(articoli), len(COMUNI_NAV)))
     print("  rassegna %d · avvisi %d · eventi sismici %d" % (len(rassegna), len(avvisi), len(sismi)))

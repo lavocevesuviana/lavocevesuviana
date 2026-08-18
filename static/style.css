@@ -121,3 +121,15 @@ footer p{margin:0;padding:6px 0;font-family:var(--etichette);
 .rassegna .testo{display:block;min-width:0}
 .rassegna .tit{display:block}
 .rassegna li a:hover{background:var(--giallo)}
+
+.conteggio{font-family:var(--etichette);font-size:12px;color:var(--grigio);
+  margin:10px 0 26px;letter-spacing:.02em}
+
+.pagine{display:flex;gap:6px;align-items:center;flex-wrap:wrap;margin:32px 0 10px;
+  font-family:var(--etichettes,var(--etichette));font-size:13px}
+.pagine span{font-size:11px;letter-spacing:.14em;text-transform:uppercase;
+  color:var(--grigio);margin-right:6px}
+.pagine a{display:inline-block;min-width:34px;text-align:center;padding:7px 9px;
+  border:2px solid var(--nero);text-decoration:none;font-weight:700}
+.pagine a:hover{background:var(--giallo)}
+.pagine a.qui{background:var(--nero);color:#fff}

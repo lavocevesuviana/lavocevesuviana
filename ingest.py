@@ -15,6 +15,7 @@ import re
 import ssl
 import urllib.request
 from datetime import datetime, timedelta, timezone
+from email.utils import parsedate_to_datetime
 from html import unescape
 from pathlib import Path
 from xml.etree import ElementTree
@@ -231,7 +232,24 @@ def completa_immagini(voci, massimo=40):
     return voci
 
 
-def accumula(nome, nuovi, chiave="link", tetto=1500):
+def quando(voce):
+    """Data piu' attendibile disponibile: quella dichiarata dalla fonte,
+    altrimenti il momento in cui l'abbiamo vista comparire."""
+    grezza = voce.get("data") or ""
+    for tentativo in (lambda: parsedate_to_datetime(grezza),
+                      lambda: datetime.fromisoformat(grezza.replace("Z", "+00:00"))):
+        try:
+            d = tentativo()
+            return d if d.tzinfo else d.replace(tzinfo=timezone.utc)
+        except Exception:
+            pass
+    try:
+        return datetime.fromisoformat(voce["visto"])
+    except Exception:
+        return datetime(1970, 1, 1, tzinfo=timezone.utc)
+
+
+def accumula(nome, nuovi, chiave="link", tetto=40000, mesi=None):
     """I feed mostrano solo le ultime notizie: se ogni volta ripartissimo da
     zero, i paesi piccoli resterebbero sempre vuoti. Qui uniamo il raccolto di
     oggi all'archivio, senza duplicati, tenendo i piu' recenti in cima."""
@@ -252,8 +270,23 @@ def accumula(nome, nuovi, chiave="link", tetto=1500):
             fuse.update({c: d for c, d in voce.items() if d not in ("", None, [])})
             voce = fuse
         uniti.append(voce)
-    aggiunti = len(uniti) - len(vecchi)
-    print("  %-12s %4d in archivio (+%d nuovi)" % (nome, min(len(uniti), tetto), aggiunti))
+    adesso = datetime.now(timezone.utc)
+    for v in uniti:
+        v.setdefault("visto", adesso.isoformat(timespec="seconds"))
+
+    uniti.sort(key=quando, reverse=True)      # sempre dal piu' recente
+
+    scartati = 0
+    if mesi:
+        limite = adesso - timedelta(days=31 * mesi)
+        prima = len(uniti)
+        uniti = [v for v in uniti if quando(v) >= limite]
+        scartati = prima - len(uniti)
+
+    aggiunti = len(uniti) - len(vecchi) + scartati
+    print("  %-12s %5d in archivio (+%d nuovi%s)"
+          % (nome, min(len(uniti), tetto), aggiunti,
+             ", %d oltre i %d mesi" % (scartati, mesi) if scartati else ""))
     return uniti[:tetto]
 
 
@@ -265,9 +298,9 @@ if __name__ == "__main__":
     c = comuni_avvisi()
     s = terremoti()
     print("ARCHIVIO")
-    r = completa_immagini(accumula("rassegna", r))
-    c = accumula("comuni", c, tetto=800)
-    s = accumula("terremoti", s, chiave="link", tetto=400)
+    r = completa_immagini(accumula("rassegna", r, mesi=18))
+    c = accumula("comuni", c)          # atti pubblici: si tengono tutti
+    s = accumula("terremoti", s, chiave="link", mesi=24)
     for nome, dati in (("rassegna", r), ("comuni", c), ("terremoti", s)):
         (DATA / (nome + ".json")).write_text(
             json.dumps(dati, ensure_ascii=False, indent=1), encoding="utf-8")
