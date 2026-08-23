@@ -1,5 +1,25 @@
 [
  {
+  "img": "https://cdn13.webmaster360.it/2026/08/covers/01KTNRJ91YTPT9CHBST9DARY3B.jpg",
+  "titolo": "Fiamme in casa, proprietario ustionato",
+  "link": "https://www.ilfattovesuviano.it/2026/08/fiamme-in-casa-proprietario-ustionato",
+  "fonte": "Il Fatto Vesuviano",
+  "data": "Sun, 23 Aug 2026 11:00:00 +0000",
+  "comuni": [],
+  "visto": "2026-08-23T11:46:31+00:00"
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/08/Scafati-municipio-770x470-1.jpeg",
+  "titolo": "Scafati, il Pd: “Colata di cemento sulle aree agricole”",
+  "link": "https://www.metropolisweb.it/2026/08/23/latto-daccusa-del-pd-sulla-zes-di-scafati/",
+  "fonte": "Metropolis",
+  "data": "Sun, 23 Aug 2026 10:44:27 +0000",
+  "comuni": [
+   "Scafati"
+  ],
+  "visto": "2026-08-23T11:46:31+00:00"
+ },
+ {
   "img": "https://cdn13.webmaster360.it/2026/08/covers/01M0PWFEJ8EN4V1WZBDR32KH5N.jpg",
   "titolo": "Fabio muore in un incidente all'alba sulla Statale",
   "link": "https://www.ilfattovesuviano.it/2026/08/fabio-muore-in-un-incidente-allalba-sulla-statale",
@@ -17,6 +37,15 @@
   "comuni": [],
   "visto": "2026-08-23T10:55:49+00:00",
   "img_provata": true
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/08/Schermata-2026-08-22-alle-16.07.46-e1787407689181.png",
+  "titolo": "Juve Stabia: Sibilli e Di Nardo possibili occasioni sul traguardo",
+  "link": "https://www.metropolisweb.it/2026/08/23/juve-stabia-sibilli-e-di-nardo-possibili-occasioni-sul-traguardo/",
+  "fonte": "Metropolis",
+  "data": "Sun, 23 Aug 2026 09:26:49 +0000",
+  "comuni": [],
+  "visto": "2026-08-23T11:46:31+00:00"
  },
  {
   "img": "https://cdn.positanonews.it/photogallery_new/images/2026/08/generico-agosto-2026-3471590.jpg",
@@ -80,7 +109,7 @@
  },
  {
   "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/02/vigili-fuoco.png",
-  "titolo": "Sant’Antonio: incendio in un’abitazione, proprietario resta ustionato",
+  "titolo": "Sant’Antonio Abate: incendio in un’abitazione, proprietario resta ustionato",
   "link": "https://www.metropolisweb.it/2026/08/23/fiamme-in-unabitazione-proprietario-ferito/",
   "fonte": "Metropolis",
   "data": "Sun, 23 Aug 2026 08:09:34 +0000",
@@ -307,7 +336,7 @@
  },
  {
   "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2025/05/PIANTAGIONE-MARIJUANA-copia-scaled-1024x682.jpg",
-  "titolo": "Gragnano | Marijuana coltiva sul monte Faito: condannato il nipote del boss",
+  "titolo": "Gragnano | Marijuana coltivata sul monte Faito: condannato il nipote del boss",
   "link": "https://www.metropolisweb.it/2026/08/22/gragnano-marijuana-coltiva-sul-monte-faito-condannato-nipote-del-boss/",
   "fonte": "Metropolis",
   "data": "Sat, 22 Aug 2026 16:00:54 +0000",
