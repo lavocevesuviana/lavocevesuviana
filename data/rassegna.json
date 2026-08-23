@@ -1,5 +1,55 @@
 [
  {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-22-alle-13.17.44-1024x922.png",
+  "titolo": "La caramella Rossana compie cento anni: ma nessuno se n’è accorto",
+  "link": "https://www.metropolisweb.it/2026/08/23/la-caramella-rossana-compie-cento-anni-nessuno-ne-accorto/",
+  "fonte": "Metropolis",
+  "data": "Sun, 23 Aug 2026 07:28:13 +0000",
+  "comuni": [],
+  "visto": "2026-08-23T07:50:05+00:00"
+ },
+ {
+  "img": "https://cdn13.webmaster360.it/2026/08/covers/01M0P71464TPTQ40VJPNK0RQG6.jpg",
+  "titolo": "Ritrovata senza vita la donna scomparsa tre giorni fa",
+  "link": "https://www.ilfattovesuviano.it/2026/08/ritrovata-senza-vita-la-donna-scomparsa-tre-giorni-fa",
+  "fonte": "Il Fatto Vesuviano",
+  "data": "Sun, 23 Aug 2026 07:00:00 +0000",
+  "comuni": [],
+  "visto": "2026-08-23T07:50:05+00:00"
+ },
+ {
+  "img": "https://cdn.positanonews.it/photogallery_new/images/2026/08/castellammare-3471576.jpg",
+  "titolo": "Castellammare, sabato caotico e per una multa per la ZTL un vigile sarebbe stato aggredito",
+  "link": "https://www.positanonews.it/2026/08/castellammare-sabato-caotico-e-per-una-multa-per-la-ztl-un-vigile-sarebbe-stato-aggredito/3853125/",
+  "fonte": "Positano News",
+  "data": "Sun, 23 Aug 2026 06:43:29 +0000",
+  "comuni": [
+   "Castellammare di Stabia"
+  ],
+  "visto": "2026-08-23T07:50:05+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/08/Schermata-2026-08-22-alle-10.00.07.png",
+  "titolo": "Ecosistema acquatico e biodiversità marina: a Torre del Greco il polo della sanità negli ex Molini",
+  "link": "https://www.metropolisweb.it/2026/08/23/ecosistema-acquatico-biodiversita-marina-torre-del-greco-polo-della-sanita-negli-ex-molini/?ta_paidstory",
+  "fonte": "Metropolis",
+  "data": "Sun, 23 Aug 2026 06:30:58 +0000",
+  "comuni": [
+   "Torre del Greco"
+  ],
+  "visto": "2026-08-23T07:50:05+00:00"
+ },
+ {
+  "img": "https://cdn13.webmaster360.it/2026/08/covers/01M0P6WDSKZYWYXH2P2JYY6VNB.jpg",
+  "titolo": "Crolla pezzo di Castel Sant'Elmo",
+  "link": "https://www.ilfattovesuviano.it/2026/08/crolla-pezzo-di-castel-santelmo",
+  "fonte": "Il Fatto Vesuviano",
+  "data": "Sun, 23 Aug 2026 06:00:00 +0000",
+  "comuni": [],
+  "visto": "2026-08-23T07:50:05+00:00"
+ },
+ {
   "img": "https://cdn13.webmaster360.it/2026/08/covers/01M0P6R17YKF87GEAMA9301G7N.jpg",
   "titolo": "Tromba marina da paura in Costiera",
   "link": "https://www.ilfattovesuviano.it/2026/08/tromba-marina-da-paura-in-costiera",
@@ -168,7 +218,7 @@
   "visto": "2026-08-22T16:57:10+00:00"
  },
  {
-  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-22-alle-17.27.12-1024x661.png",
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-22-alle-19.16.44-1024x755.png",
   "titolo": "Cede una porzione di parete, chiuso Castel Sant’Elmo a Napoli",
   "link": "https://www.metropolisweb.it/2026/08/22/cede-porzione-parete-chiuso-castel-santelmo-napoli/",
   "fonte": "Metropolis",
