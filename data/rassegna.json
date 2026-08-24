@@ -1,5 +1,84 @@
 [
  {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/08/dd687dca-5ffe-434e-b204-8abb06ec8d2c.jpeg",
+  "titolo": "Gigi D’Alessio e Alfa: Genova abbraccia Napoli al Ferraris",
+  "link": "https://www.metropolisweb.it/2026/08/24/gigi-dalessio-alfa-genova-abbraccia-napoli-al-ferraris/",
+  "fonte": "Metropolis",
+  "data": "Mon, 24 Aug 2026 11:44:00 +0000",
+  "comuni": [],
+  "visto": "2026-08-24T12:01:08+00:00"
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/04/carabinieri-arresto-1024x683.jpg",
+  "titolo": "Casoria, scoperta “parure di droga”: arrestato 33enne",
+  "link": "https://www.metropolisweb.it/2026/08/24/casoria-scoperta-parure-droga-arrestato-33enne/",
+  "fonte": "Metropolis",
+  "data": "Mon, 24 Aug 2026 11:26:17 +0000",
+  "comuni": [],
+  "visto": "2026-08-24T12:01:08+00:00"
+ },
+ {
+  "img": "https://www.vesuviolive.it/wp-content/uploads/sites/6/2022/01/spesa-supermercato.jpg",
+  "titolo": "Buoni Spesa 2026 a Torre del Greco: potenziato il sostegno alle famiglie. I nuovi requisiti",
+  "link": "https://www.vesuviolive.it/ultime-notizie/544093-buoni-spesa-2026-a-torre-del-greco-tutte-le-novita/",
+  "fonte": "VesuvioLive",
+  "data": "Mon, 24 Aug 2026 11:20:22 +0000",
+  "comuni": [
+   "Torre del Greco"
+  ],
+  "visto": "2026-08-24T12:01:08+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://www.vesuviolive.it/wp-content/uploads/sites/6/2026/08/colbert-pompei.png",
+  "titolo": "Pompei invasa da enormi aragoste: è la più grande mostra dell’artista di fama mondiale",
+  "link": "https://www.vesuviolive.it/eventi/544102-aragoste-mostra-philip-colbert-parco-archeologico-pompei/",
+  "fonte": "VesuvioLive",
+  "data": "Mon, 24 Aug 2026 11:11:23 +0000",
+  "comuni": [
+   "Pompei"
+  ],
+  "visto": "2026-08-24T12:01:08+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://www.ansa.it/webimages/img_1280x720/2019/3/5/1616b16dd6c9b0fd6995d62be81dfb25.jpg",
+  "titolo": "Comitato pendolari Circumvesuviana, 'il tempo delle promesse è scaduto'",
+  "link": "https://www.ansa.it/campania/notizie/2026/08/24/comitato-pendolari-circumvesuviana-il-tempo-delle-promesse-e-scaduto_e1e8c25e-0bf1-4d07-88f9-2ccb263329c9.html",
+  "fonte": "ANSA Campania",
+  "data": "Mon, 24 Aug 2026 13:05:07 +0200",
+  "comuni": [],
+  "visto": "2026-08-24T12:01:08+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/08/IMG_0386-1024x603.jpeg",
+  "titolo": "Malasanità a Napoli, muore feto a termine della gravidanza: ginecologo condannato al risarcimento",
+  "link": "https://www.metropolisweb.it/2026/08/24/malasanita-napoli-muore-feto-termine-della-gravidanza-ginecologo-condannato-al-risarcimento/",
+  "fonte": "Metropolis",
+  "data": "Mon, 24 Aug 2026 11:03:50 +0000",
+  "comuni": [],
+  "visto": "2026-08-24T12:01:08+00:00"
+ },
+ {
+  "img": "https://cdn13.webmaster360.it/2026/08/covers/xSUTO3vTXxF0bKKJGhBMSgqvlv0kiYWovMvkGNNU.jpg",
+  "titolo": "Feto morto a fine gravidanza, risarcimento da 600mila euro",
+  "link": "https://www.ilfattovesuviano.it/2026/08/feto-morto-a-fine-gravidanza-risarcimento-da-600mila-euro",
+  "fonte": "Il Fatto Vesuviano",
+  "data": "Mon, 24 Aug 2026 11:00:00 +0000",
+  "comuni": [],
+  "visto": "2026-08-24T12:01:08+00:00"
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/08/IMG_0815-1024x698.jpeg",
+  "titolo": "Campi Flegrei, registrati oltre 1000 terremoti in tre giorni",
+  "link": "https://www.metropolisweb.it/2026/08/24/campi-flegrei-lintelligenza-artificiale-scopre-oltre-1000-terremoti-tre-giorni/",
+  "fonte": "Metropolis",
+  "data": "Mon, 24 Aug 2026 10:58:48 +0000",
+  "comuni": [],
+  "visto": "2026-08-24T12:01:08+00:00"
+ },
+ {
   "img": "https://www.vesuviolive.it/wp-content/uploads/sites/6/2024/04/premio-de-filippo-copertina.png",
   "titolo": "Premio Fratelli De Filippo, Torre del Greco celebra il teatro e il cinema",
   "link": "https://www.vesuviolive.it/eventi/544097-premio-fratelli-de-filippo-torre-del-greco-celebra-teatro-e-cinema/",
@@ -20,6 +99,24 @@
   "comuni": [],
   "visto": "2026-08-24T11:00:12+00:00",
   "img_provata": true
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/08/IMG_0812-1024x680.jpeg",
+  "titolo": "Sala Da Vinci arriva a Capri: concerto alla Certosa di San Giacomo",
+  "link": "https://www.metropolisweb.it/2026/08/24/sala-vinci-arriva-capri-concerto-alla-certosa-san-giacomo/",
+  "fonte": "Metropolis",
+  "data": "Mon, 24 Aug 2026 10:21:06 +0000",
+  "comuni": [],
+  "visto": "2026-08-24T12:01:08+00:00"
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/08/IMG_0383-1024x574.jpeg",
+  "titolo": "Eclissi di Luna: osservazione gratuita al Planetario di Caserta",
+  "link": "https://www.metropolisweb.it/2026/08/24/eclissi-luna-osservazione-gratuita-al-planetario-caserta/",
+  "fonte": "Metropolis",
+  "data": "Mon, 24 Aug 2026 10:15:27 +0000",
+  "comuni": [],
+  "visto": "2026-08-24T12:01:08+00:00"
  },
  {
   "img": "https://www.vesuviolive.it/wp-content/uploads/sites/6/2016/05/marte.jpg",
@@ -43,6 +140,15 @@
   "visto": "2026-08-24T11:00:12+00:00"
  },
  {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/08/IMG_0811-1024x685.jpeg",
+  "titolo": "Napoli, violenza sessuale in un’attività commerciale: denunciato 29enne",
+  "link": "https://www.metropolisweb.it/2026/08/24/napoli-violenza-sessuale-unattivita-commerciale-denunciato-29enne/",
+  "fonte": "Metropolis",
+  "data": "Mon, 24 Aug 2026 09:48:15 +0000",
+  "comuni": [],
+  "visto": "2026-08-24T12:01:08+00:00"
+ },
+ {
   "img": "https://www.vesuviolive.it/wp-content/uploads/sites/6/2024/05/Via-Toledo-1.jpeg",
   "titolo": "La blocca nel bagno di un negozio per violentarla, l’orrore a Napoli: la vittima è una 20enne",
   "link": "https://www.vesuviolive.it/ultime-notizie/544089-violenza-sessuale-napoli-turista-negozio/",
@@ -51,6 +157,15 @@
   "comuni": [],
   "visto": "2026-08-24T11:00:12+00:00",
   "img_provata": true
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/08/Schermata-2026-08-24-alle-12.56.09.png",
+  "titolo": "Massa Lubrense, la droga nascosta nell’ulivo: arrestato un 55enne",
+  "link": "https://www.metropolisweb.it/2026/08/24/massa-lubrense-la-droga-nascosta-nellulivo-arrestato-un-55enne/",
+  "fonte": "Metropolis",
+  "data": "Mon, 24 Aug 2026 09:07:43 +0000",
+  "comuni": [],
+  "visto": "2026-08-24T12:01:08+00:00"
  },
  {
   "img": "https://www.vesuviolive.it/wp-content/uploads/sites/6/2026/08/Comanda-in-un-noto-locale-di-Riccione.jpg",
@@ -70,6 +185,17 @@
   "data": "Mon, 24 Aug 2026 09:00:00 +0000",
   "comuni": [],
   "visto": "2026-08-24T11:00:12+00:00"
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2025/09/Carabinieri-e1757863710554.jpg",
+  "titolo": "Tentano il furto nell’hotel abbandonato: tre arresti a Pompei",
+  "link": "https://www.metropolisweb.it/2026/08/24/tentano-il-furto-nellhotel-abbandonato-tre-arresti-a-pompei/",
+  "fonte": "Metropolis",
+  "data": "Mon, 24 Aug 2026 08:58:46 +0000",
+  "comuni": [
+   "Pompei"
+  ],
+  "visto": "2026-08-24T12:01:08+00:00"
  },
  {
   "img": "https://www.vesuviolive.it/wp-content/uploads/sites/6/2019/10/estate-caldo-varcaturo.jpg",
