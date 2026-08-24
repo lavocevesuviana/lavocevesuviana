@@ -1,5 +1,62 @@
 [
  {
+  "img": "https://cdn13.webmaster360.it/2026/08/covers/01M0T5H87HV3HZ3VBCC41H9ZXS.jpg",
+  "titolo": "La temperatura del mare a Napoli supera i 30 gradi",
+  "link": "https://www.ilfattovesuviano.it/2026/08/la-temperatura-del-mare-a-napoli-supera-i-30-gradi",
+  "fonte": "Il Fatto Vesuviano",
+  "data": "Mon, 24 Aug 2026 18:00:00 +0000",
+  "comuni": [],
+  "visto": "2026-08-24T18:05:29+00:00"
+ },
+ {
+  "img": "https://www.cronachedellacampania.it/wp-content/uploads/2026/08/quarantadue-rigori-per-il-derby-di-coppa-italia-la-sarnese-piega-lebolitana-ytpj.jpg",
+  "titolo": "Partita epica: 42 rigori per il derby di Coppa Italia: la Sarnese piega l’Ebolitana",
+  "link": "https://www.cronachedellacampania.it/2026/08/partita-epica-42-rigori-per-il-derby-di-coppa-italia-la-sarnese-piega-lebolitana/",
+  "fonte": "Cronache della Campania",
+  "data": "Mon, 24 Aug 2026 17:59:07 +0000",
+  "comuni": [],
+  "visto": "2026-08-24T18:05:29+00:00"
+ },
+ {
+  "img": "https://citynews-napolitoday.stgy.ovh/~media/original-hi/28227412575190/stazione-circum-san-giorgio-wikipedia-2.jpg",
+  "titolo": "Circumvesuviana, i pendolari scrivono alla Regione: \"Riaprire la linea Napoli-Baiano\"",
+  "link": "https://www.napolitoday.it/attualita/circumvesuviana-napoli-baiano-protesta-pendolari.html",
+  "fonte": "NapoliToday",
+  "data": "Mon, 24 Aug 2026 19:09:22 +0200",
+  "comuni": [],
+  "visto": "2026-08-24T18:05:29+00:00"
+ },
+ {
+  "img": "https://cdn13.webmaster360.it/2026/08/covers/01M0T56VGF19J4RRFQCSTME3N6.jpg",
+  "titolo": "Incendio nel noto residence in Campania: turisti nel panico",
+  "link": "https://www.ilfattovesuviano.it/2026/08/incendio-nel-noto-residence-in-campania-turisti-nel-panico",
+  "fonte": "Il Fatto Vesuviano",
+  "data": "Mon, 24 Aug 2026 17:00:00 +0000",
+  "comuni": [],
+  "visto": "2026-08-24T18:05:29+00:00"
+ },
+ {
+  "img": "https://cdn.positanonews.it/photogallery_new/images/2024/10/circumvesuviana-3426856.jpg",
+  "titolo": "Weekend nero per la Circumvesuviana: stop ai treni per Pompei e Sorrento",
+  "link": "https://www.positanonews.it/2026/08/stop-circumvesuviana-lavori-gallerie-napoli-sorrento-pompei-agosto-2026/3853341/",
+  "fonte": "Positano News",
+  "data": "Mon, 24 Aug 2026 16:45:42 +0000",
+  "comuni": [
+   "Pompei"
+  ],
+  "visto": "2026-08-24T18:05:29+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/08/Schermata-2026-08-24-alle-18.23.02.png",
+  "titolo": "Capri capitale del calciomercato: Sky Sport sbarca all’ombra dei Faraglioni",
+  "link": "https://www.metropolisweb.it/2026/08/24/capri-capitale-del-calciomercato-sky-sport-sbarca-allombra-dei-faragli/",
+  "fonte": "Metropolis",
+  "data": "Mon, 24 Aug 2026 16:23:22 +0000",
+  "comuni": [],
+  "visto": "2026-08-24T18:05:29+00:00"
+ },
+ {
   "img": "https://cdn13.webmaster360.it/2026/08/covers/WJRLSyTEoJhf4SPxXilrvjj5Nzaj2gmSjZGUsba6.jpg",
   "titolo": "Ferita nell'incidente mortale, ragazzina in elisoccorso all'Ospedale del Mare",
   "link": "https://www.ilfattovesuviano.it/2026/08/ferita-nellincidente-mortale-ragazzina-in-elisoccorso-allospedale-del-mare",
@@ -7,6 +64,44 @@
   "data": "Mon, 24 Aug 2026 16:00:00 +0000",
   "comuni": [],
   "visto": "2026-08-24T16:21:55+00:00"
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/08/IMG-20260823-WA0030-1024x683.jpg",
+  "titolo": "Mennella porta bene alla nuova Turris",
+  "link": "https://www.metropolisweb.it/2026/08/24/il-sindaco-gigi-mennella-porta-bene-alla-nuova-turris/",
+  "fonte": "Metropolis",
+  "data": "Mon, 24 Aug 2026 15:51:41 +0000",
+  "comuni": [],
+  "visto": "2026-08-24T18:05:29+00:00"
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/08/12f2df4c313a7381dc078361253845e0.jpg",
+  "titolo": "Castellammare | Facevano pagare l’ingresso in spiaggia ai bambini: multati i gestori dello Stone",
+  "link": "https://www.metropolisweb.it/2026/08/24/castellammare-facevano-pagare-lingresso-spiaggia-ai-bambini-multati-gestori-dello-stone/",
+  "fonte": "Metropolis",
+  "data": "Mon, 24 Aug 2026 15:34:17 +0000",
+  "comuni": [
+   "Castellammare di Stabia"
+  ],
+  "visto": "2026-08-24T18:05:29+00:00"
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/08/a5cc0726a7660f721d213fed0c95b532.jpg",
+  "titolo": "Circumvesuviana, i pendolari riaprono la mobilitazione: «Basta promesse, ora vogliamo verità e dignità»",
+  "link": "https://www.metropolisweb.it/2026/08/24/circumvesuviana-basta-promesse-ora-vogliamo-verita-e-dignita/",
+  "fonte": "Metropolis",
+  "data": "Mon, 24 Aug 2026 15:13:45 +0000",
+  "comuni": [],
+  "visto": "2026-08-24T18:05:29+00:00"
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/08/Schermata-2026-08-24-alle-15.54.59-e1787583629236.png",
+  "titolo": "Juve Stabia, colpo in attacco: in arrivo bomber Di Nardo",
+  "link": "https://www.metropolisweb.it/2026/08/24/juve-stabia-colpo-in-attacco-in-arrivo-bomber-di-nardo/",
+  "fonte": "Metropolis",
+  "data": "Mon, 24 Aug 2026 15:00:49 +0000",
+  "comuni": [],
+  "visto": "2026-08-24T18:05:29+00:00"
  },
  {
   "img": "https://cdn13.webmaster360.it/2026/08/covers/01KY2PFBP05E3WM1PSTDN4X56Z.jpg",
