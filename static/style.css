@@ -26,7 +26,7 @@ main{max-width:1180px;margin:0 auto;padding:0 20px 60px}
   overflow-x:auto;scrollbar-width:none;-ms-overflow-style:none;
   justify-content:flex-start;scroll-snap-type:x proximity}
 .comuni::-webkit-scrollbar{display:none}
-@media(min-width:1100px){.comuni{justify-content:center}}
+@media(min-width:1100px){.comuni{justify-content:safe center}}
 .comuni a{font-family:var(--etichette);font-size:12px;font-weight:700;letter-spacing:.09em;
   text-transform:uppercase;color:#fff;text-decoration:none;padding:13px 15px;transition:.15s;
   white-space:nowrap;flex:none;scroll-snap-align:start}
@@ -194,3 +194,16 @@ footer p{margin:0;padding:6px 0;font-family:var(--etichette);
 .paese .nome{font-family:var(--titoli);font-size:15px;text-transform:uppercase;line-height:1.15}
 .paese .quante{font-family:var(--etichette);font-size:12px;font-weight:700;
   background:var(--nero);color:#fff;padding:4px 9px;flex:none}
+
+/* marca temporale: il sito dichiara quando si e' aggiornato */
+.orologio{margin:0;padding:7px 20px;text-align:center;background:#fafafa;
+  border-bottom:1px solid var(--linea);font-family:var(--etichette);
+  font-size:11px;letter-spacing:.13em;text-transform:uppercase;color:var(--grigio)}
+
+/* apertura presa dalla rassegna */
+.apertura.dalla-rassegna h1 a{text-decoration:none}
+.occhiello.fonte-viva{background:var(--nero);color:var(--giallo)}
+
+/* fascia dei nostri articoli, per non farli sparire sotto la rassegna */
+.nostri{margin:40px 0 0}
+.nostri .griglia{margin-top:22px}

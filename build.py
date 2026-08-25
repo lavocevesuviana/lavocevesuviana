@@ -90,6 +90,13 @@ def carica_articoli():
     return articoli
 
 
+def momento():
+    """Data e ora dell'ultima ricostruzione. E' il segnale piu' onesto che il
+    sito e' vivo: non lo dice a parole, lo dimostra col minuto."""
+    o = datetime.now()
+    return "%s alle %s" % (data_lunga(o), o.strftime("%H:%M"))
+
+
 def versione_css():
     """Sigla del foglio di stile, da appendere al collegamento. Cambiando la
     sigla a ogni modifica, il browser e' costretto a riscaricarlo: senza,
@@ -142,6 +149,7 @@ def guscio(titolo, contenuto, prof=0, social="", canonico=""):
   <p class="claim">{claim}</p>
 </header>
 <div class="striscia"><nav class="comuni">{nav}</nav></div>
+<p class="orologio">Aggiornato {adesso}</p>
 <main>{contenuto}</main>
 <footer>
   <img class="emblema" src="{su}emblema.png" alt="">
@@ -182,7 +190,7 @@ document.addEventListener("click", function (e) {{
 </script>
 </body></html>""".format(
         titolo=escape(titolo), t=escape(TESTATA), claim=escape(CLAIM), su=su, contenuto=contenuto,
-        ver=versione_css(), social=social,
+        adesso=momento(), ver=versione_css(), social=social,
         canonico='<link rel="canonical" href="%s">' % escape(canonico, True) if canonico else "",
         nav='<a class="home" href="%sindex.html">Home</a>' % su
             + '<a class="tutte" href="%spaesi.html">Paesi</a>' % su
@@ -351,29 +359,41 @@ def costruisci():
                    canonico=r["link"]),
             encoding="utf-8")
 
+    # In apertura va il pezzo piu' fresco della rassegna: cambia a ogni giro
+    # e la home non resta mai ferma. Gli articoli nostri stanno subito sotto,
+    # in una fascia loro, altrimenti la firma della testata sparisce.
     apertura = ""
+    if rassegna:
+        r = rassegna[0]
+        try:
+            quando = data_lunga(parsedate_to_datetime(r["data"]))
+        except Exception:
+            quando = ""
+        apertura = """<article class="apertura dalla-rassegna">
+          {foto}
+          <p class="occhiello fonte-viva">{fonte}</p>
+          <h1><a href="{url}">{titolo}</a></h1>
+          <p class="meta">{quando}{sep}l'articolo si legge su {fonte}</p></article>""".format(
+            url=escape(ponte_url(r), True) if r.get("ponte") else escape(r["link"], True),
+            titolo=escape(r["titolo"]), fonte=escape(r["fonte"]), quando=quando,
+            sep=" · " if quando else "",
+            foto=('<a class="foto grande" href="%s"><img src="%s" alt=""></a>'
+                  % (escape(ponte_url(r), True) if r.get("ponte") else escape(r["link"], True),
+                     escape(r["img"], True))) if r.get("img") else "")
+    elif articoli:
+        apertura = scheda(articoli[0])
+
+    nostri = ""
     if articoli:
-        a = articoli[0]
-        apertura = """<article class="apertura">
-          {foto}{occhiello}<h1><a href="{url}">{titolo}</a></h1>
-          <p class="sommario">{sommario}…</p><p class="meta">{data}</p></article>""".format(
-            url=a["url"], titolo=escape(a["titolo"]), sommario=escape(a["sommario"]),
-            data=data_lunga(a["dt"]),
-            foto='<a class="foto grande%s" href="%s">%s</a>' % (
-                "" if a.get("foto") else " senza-foto", a["url"],
-                '<img src="%s" alt="">' % sorgente_foto(a["foto"])
-                if a.get("foto") else copertina(a)),
-            occhiello='<p class="occhiello">%s</p>' % escape(a["comune"]) if a["comune"] else "")
-    else:
-        apertura = ('<article class="apertura vuota"><h1>Il primo articolo è tuo</h1>'
-                    '<p class="sommario">Aggiungi un file in <code>articoli/</code> e comparirà qui in apertura.</p></article>')
+        nostri = ('<section class="nostri"><h2 class="sezione"><span>I nostri articoli</span></h2>'
+                  '<div class="griglia">%s</div></section>'
+                  % "".join(scheda(a) for a in articoli[:6]))
 
     home = """{sismo}
 <div class="colonne">
-  <div class="principale">{apertura}<div class="griglia">{schede}</div>{comuni}</div>
+  <div class="principale">{apertura}{nostri}{comuni}</div>
   <div class="laterale">{rassegna}</div>
-</div>""".format(sismo=blocco_sismico(sismi), apertura=apertura,
-                 schede="".join(scheda(a) for a in articoli[1:7]),
+</div>""".format(sismo=blocco_sismico(sismi), apertura=apertura, nostri=nostri,
                  comuni=blocco_comuni(avvisi), rassegna=blocco_rassegna(rassegna))
     (OUT / "index.html").write_text(
         guscio(TESTATA + " — " + CLAIM, home,
@@ -412,9 +432,12 @@ def costruisci():
                'Il numero indica quante ne contiene.</p>'
                '<div class="paesi">%s</div></div>' % elenco), encoding="utf-8")
 
-    for c in COMUNI:
-        if c not in COMUNI_NAV and any(c == x for _, x in schede):
+    # in barra restano i nostri paesi piu' quelli con piu' materiale: oltre la
+    # dozzina la striscia diventa un chilometro e nessuno la scorre fino in fondo.
+    for _, c in schede[:6]:
+        if c not in COMUNI_NAV:
             COMUNI_NAV.append(c)
+    con_contenuto = [c for _, c in schede] + [c for c in COMUNI_NAV if c not in {x for _, x in schede}]
 
     # rassegna completa: tutto l'archivio dall'inizio, sfogliato
     pagine_r = max(1, -(-len(rassegna) // PER_PAGINA))
@@ -437,7 +460,7 @@ def costruisci():
             guscio("Rassegna vesuviana — " + TESTATA, '<div class="elenco">%s</div>' % corpo),
             encoding="utf-8")
 
-    for c in COMUNI_NAV:
+    for c in con_contenuto:
         suoi = [a for a in articoli if a["comune"] == c]
         loro = [r for r in rassegna if c in r.get("comuni", [])]
         atti = [x for x in avvisi if c in x.get("comuni", [])]
