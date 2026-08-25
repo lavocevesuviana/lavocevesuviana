@@ -385,7 +385,7 @@ def costruisci():
 
     nostri = ""
     if articoli:
-        nostri = ('<section class="nostri"><h2 class="sezione"><span>I nostri articoli</span></h2>'
+        nostri = ('<section class="nostri"><h2 class="sezione"><span>I pi&ugrave; letti</span></h2>'
                   '<div class="griglia">%s</div></section>'
                   % "".join(scheda(a) for a in articoli[:6]))
 
