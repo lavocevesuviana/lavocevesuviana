@@ -202,7 +202,7 @@ footer p{margin:0;padding:6px 0;font-family:var(--etichette);
 
 /* apertura presa dalla rassegna */
 .apertura.dalla-rassegna h1 a{text-decoration:none}
-.occhiello.fonte-viva{background:var(--nero);color:var(--giallo)}
+.occhiello.ultima-ora{background:var(--nero);color:var(--giallo)}
 
 /* fascia dei nostri articoli, per non farli sparire sotto la rassegna */
 .nostri{margin:40px 0 0}

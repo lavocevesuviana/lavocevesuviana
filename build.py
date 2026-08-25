@@ -371,7 +371,7 @@ def costruisci():
             quando = ""
         apertura = """<article class="apertura dalla-rassegna">
           {foto}
-          <p class="occhiello fonte-viva">{fonte}</p>
+          <p class="occhiello ultima-ora">Ultima ora</p>
           <h1><a href="{url}">{titolo}</a></h1>
           <p class="meta">{quando}{sep}l'articolo si legge su {fonte}</p></article>""".format(
             url=escape(ponte_url(r), True) if r.get("ponte") else escape(r["link"], True),
