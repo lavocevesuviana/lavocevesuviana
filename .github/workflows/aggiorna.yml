@@ -2,7 +2,10 @@ name: Aggiorna La Voce Vesuviana
 
 on:
   schedule:
-    - cron: "0 * * * *"
+    # Le esecuzioni programmate su GitHub sono "quando riesco", non puntuali:
+    # vengono rimandate o saltate quando i loro computer sono carichi. Chiedendo
+    # ogni venti minuti, anche se ne saltano molte ne passa comunque qualcuna.
+    - cron: "*/20 * * * *"
   push:
     branches: [main]
     paths-ignore:
