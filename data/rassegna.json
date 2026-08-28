@@ -10,7 +10,7 @@
   "img_provata": true
  },
  {
-  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/08/IMG_2955.jpeg",
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/08/IMG_2955-1.jpeg",
   "titolo": "Il Picerno cala il bis ad Agropoli, la Scafatese ko 0-2",
   "link": "https://www.metropolisweb.it/2026/08/28/il-picerno-cala-il-bis-ad-agropoli-la-scafatese-ko-0-2/",
   "fonte": "Metropolis",
@@ -145,6 +145,17 @@
   "visto": "2026-08-28T21:57:34+00:00"
  },
  {
+  "img": "https://citynews-napolitoday.stgy.ovh/~media/original-hi/59175763514292/circum-2.jpg",
+  "titolo": "Disagi Cirum: risolti i guasti, ma la linea è interrotta per lavori",
+  "link": "https://www.napolitoday.it/cronaca/disagi-circumvesuviana-napoli-torre-del-greco.html",
+  "fonte": "NapoliToday",
+  "data": "Fri, 28 Aug 2026 17:24:04 +0200",
+  "comuni": [
+   "Torre del Greco"
+  ],
+  "visto": "2026-08-28T22:11:09+00:00"
+ },
+ {
   "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/08/Schermata-2026-08-28-alle-17.22.53.png",
   "titolo": "Gragnano | Incendio in un appartamento in via Vittorio Veneto: morta un’anziana",
   "link": "https://www.metropolisweb.it/2026/08/28/gragnano-esplosione-un-appartamento-morta-unanziana/",
@@ -220,6 +231,17 @@
    "Pompei"
   ],
   "visto": "2026-08-28T21:57:34+00:00"
+ },
+ {
+  "img": "https://citynews-napolitoday.stgy.ovh/~media/original-hi/19709802995696/truffa-agenzia-viaggi-portici.jpg",
+  "titolo": "Vacanze pagate ma è tutto falso: presunta truffa dell'agenzia",
+  "link": "https://www.napolitoday.it/cronaca/truffa-agenzia-viaggi-portici-protesta.html",
+  "fonte": "NapoliToday",
+  "data": "Fri, 28 Aug 2026 15:59:19 +0200",
+  "comuni": [
+   "Portici"
+  ],
+  "visto": "2026-08-28T22:11:09+00:00"
  },
  {
   "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/08/Schermata-2026-08-28-alle-15.51.19-1024x615.png",
@@ -348,6 +370,17 @@
   "comuni": [],
   "visto": "2026-08-28T21:57:34+00:00",
   "img_provata": true
+ },
+ {
+  "img": "https://citynews-napolitoday.stgy.ovh/~media/original-hi/23641812212960/img-20260828-wa0001.jpg",
+  "titolo": "Fratello Universo, la collettiva d'arte contemporanea dedicata a San Francesco fa tappa a San Gennarello di Ottaviano",
+  "link": "https://www.napolitoday.it/eventi/mostra-fratello-universo-san-gennarello-ottaviano.html",
+  "fonte": "NapoliToday",
+  "data": "Fri, 28 Aug 2026 12:15:33 +0200",
+  "comuni": [
+   "Ottaviano"
+  ],
+  "visto": "2026-08-28T22:11:09+00:00"
  },
  {
   "img": "https://www.vesuviolive.it/wp-content/uploads/sites/6/2026/08/eclissi-luna.jpeg",
