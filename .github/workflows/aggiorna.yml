@@ -5,7 +5,12 @@ on:
     # Le esecuzioni programmate su GitHub sono "quando riesco", non puntuali:
     # vengono rimandate o saltate quando i loro computer sono carichi. Chiedendo
     # ogni venti minuti, anche se ne saltano molte ne passa comunque qualcuna.
-    - cron: "*/20 * * * *"
+    #
+    # I minuti sono scelti apposta fuori tondo: allo scoccare dell'ora, e a meta'
+    # e a un terzo di ora, si accalca mezzo mondo e le nostre richieste finivano
+    # in coda dietro a tutte le altre. Sette, ventisette e quarantasette sono
+    # momenti tranquilli, a parita' di tre passaggi ogni ora.
+    - cron: "7,27,47 * * * *"
   push:
     branches: [main]
     paths-ignore:
