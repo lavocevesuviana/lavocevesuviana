@@ -1,5 +1,43 @@
 [
  {
+  "img": "https://cdn13.webmaster360.it/2026/08/covers/01M16B98F91FHWE5TKH6NC108N.jpg",
+  "titolo": "Addio Anna, il maresciallo della Finanza muore a 29 anni",
+  "link": "https://www.ilfattovesuviano.it/2026/08/addio-anna-il-maresciallo-della-finanza-muore-a-29-anni",
+  "fonte": "Il Fatto Vesuviano",
+  "data": "Sat, 29 Aug 2026 10:30:00 +0000",
+  "comuni": [],
+  "visto": "2026-08-29T10:31:09+00:00"
+ },
+ {
+  "img": "https://www.vesuvianonews.it/wp-content/uploads/2026/08/maxresdefault-2.jpg",
+  "titolo": "La nuova mappa dello spaccio: l’inchiesta dei Carabinieri ribalta la prospettiva e mette al centro il cliente",
+  "link": "https://www.vesuvianonews.it/inchiesta-carabinieri-mappa-spaccio-cliente/",
+  "fonte": "Vesuviano News",
+  "data": "Sat, 29 Aug 2026 10:26:14 +0000",
+  "comuni": [],
+  "visto": "2026-08-29T10:31:09+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/03/Schermata-2026-03-31-alle-12.05.03.png",
+  "titolo": "Dove va il cliente, arriva la droga: la nuova mappa dello spaccio a Napoli e provincia",
+  "link": "https://www.metropolisweb.it/2026/08/29/dove-va-il-cliente-arriva-la-droga-la-nuova-mappa-dello-spaccio-a-napoli-e-provincia/",
+  "fonte": "Metropolis",
+  "data": "Sat, 29 Aug 2026 10:18:05 +0000",
+  "comuni": [],
+  "visto": "2026-08-29T10:31:09+00:00"
+ },
+ {
+  "img": "https://www.vesuviolive.it/wp-content/uploads/sites/6/2026/08/teatro-bacoli.jpg",
+  "titolo": "Meraviglia nel Napoletano: parcheggio abusivo diventa un teatro all’aperto mozzafiato",
+  "link": "https://www.vesuviolive.it/ultime-notizie/544287-bacoli-teatro-pubblico-villa-ferretti-parcheggio/",
+  "fonte": "VesuvioLive",
+  "data": "Sat, 29 Aug 2026 10:15:58 +0000",
+  "comuni": [],
+  "visto": "2026-08-29T10:31:09+00:00",
+  "img_provata": true
+ },
+ {
   "img": "https://cdn13.webmaster360.it/2026/08/covers/01M16BP3DKEYJ95R17FTQMQBEH.jpg",
   "titolo": "Morto l'infermiere di San Valentino Torio ustionato insieme alla moglie",
   "link": "https://www.ilfattovesuviano.it/2026/08/morto-linfermiere-di-san-valentino-torio-ustionato-insieme-alla-moglie",
@@ -361,7 +399,7 @@
  },
  {
   "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/08/Schermata-2026-08-28-alle-17.22.53.png",
-  "titolo": "Gragnano | Incendio in un appartamento in via Vittorio Veneto: morta un’anziana",
+  "titolo": "Gragnano | Incendio in un appartamento in via Vittorio Veneto, morta un’anziana: è la nonna di Alex",
   "link": "https://www.metropolisweb.it/2026/08/28/gragnano-esplosione-un-appartamento-morta-unanziana/",
   "fonte": "Metropolis",
   "data": "Fri, 28 Aug 2026 15:19:37 +0000",
