@@ -1,5 +1,24 @@
 [
  {
+  "img": "https://cdn13.webmaster360.it/2026/08/covers/01M1BDW309HHTDRFRX43T2QJQ1.jpg",
+  "titolo": "Addio alla prof Giusy, aveva 37 anni",
+  "link": "https://www.ilfattovesuviano.it/2026/08/addio-alla-prof-giusy-aveva-37-anni",
+  "fonte": "Il Fatto Vesuviano",
+  "data": "Mon, 31 Aug 2026 10:30:00 +0000",
+  "comuni": [],
+  "visto": "2026-08-31T10:31:32+00:00"
+ },
+ {
+  "img": "https://www.vesuviolive.it/wp-content/uploads/sites/6/2020/10/scuola-classe-banchi.jpg",
+  "titolo": "“Spostare l’apertura delle scuole a ottobre per il troppo caldo”: la petizione in Campania",
+  "link": "https://www.vesuviolive.it/ultime-notizie/544309-caldo-petizione-apertura-scuole-campania/",
+  "fonte": "VesuvioLive",
+  "data": "Mon, 31 Aug 2026 10:27:41 +0000",
+  "comuni": [],
+  "visto": "2026-08-31T10:31:32+00:00",
+  "img_provata": true
+ },
+ {
   "img": "https://cdn13.webmaster360.it/2026/08/covers/01M1BJKVKK9DF3QBPPB7AQNGC0.jpg",
   "titolo": "Ragazza violentata al Centro Direzionale, preso il maniaco",
   "link": "https://www.ilfattovesuviano.it/2026/08/ragazza-violentata-al-centro-direzionale-preso-il-maniaco",
@@ -58,6 +77,17 @@
   ],
   "visto": "2026-08-31T09:11:14+00:00",
   "img_provata": true
+ },
+ {
+  "img": "https://citynews-napolitoday.stgy.ovh/~media/original-hi/34635103406566/vigili-del-fuoco-8-13.jpg",
+  "titolo": "A fuoco un centro commerciale cinese a Ercolano: completamente distrutto",
+  "link": "https://www.napolitoday.it/cronaca/incendio-negozio-cinese-ercolano.html",
+  "fonte": "NapoliToday",
+  "data": "Mon, 31 Aug 2026 11:08:29 +0200",
+  "comuni": [
+   "Ercolano"
+  ],
+  "visto": "2026-08-31T10:31:32+00:00"
  },
  {
   "img": "https://www.laprovinciaonline.info/wp-content/uploads/2026/08/fed33521-cc2e-45a1-bef1-35d0c7d2aa3a.jpeg",
