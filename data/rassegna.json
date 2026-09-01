@@ -1,5 +1,26 @@
 [
  {
+  "img": "https://www.ilmediano.com/wp-content/uploads/2026/09/omicidio_bn.jpg",
+  "titolo": "Lite per ristorante di famiglia sfocia in strage: uccide i 2 fratelli poi si toglie la vita",
+  "link": "https://www.ilmediano.com/lite-per-ristorante-di-famiglia-sfocia-in-strage-uccide-i-2-fratelli-poi-si-toglie-la-vita/",
+  "fonte": "Il Mediano",
+  "data": "Tue, 01 Sep 2026 13:46:52 +0000",
+  "comuni": [],
+  "visto": "2026-09-01T13:53:06+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://www.vesuviolive.it/wp-content/uploads/sites/6/2026/09/02.png",
+  "titolo": "Jazz Festival a Torre del Greco, a settembre otto serate con i grandi della musica: area food ed ingresso gratuito",
+  "link": "https://www.vesuviolive.it/aree-locali/notizie-di-torre-del-greco/544367-jazz-festival-a-torre-del-greco-a-settembre-otto-serate-con-i-grandi-della-musica-area-food-ed-ingresso-gratuito/",
+  "fonte": "VesuvioLive",
+  "data": "Tue, 01 Sep 2026 13:40:39 +0000",
+  "comuni": [
+   "Torre del Greco"
+  ],
+  "visto": "2026-09-01T13:53:06+00:00"
+ },
+ {
   "img": "https://www.vesuviolive.it/wp-content/uploads/sites/6/2023/06/carabinieri-scientifica.jpg",
   "titolo": "Uccide i 2 fratelli nel suo ristorante, poi si toglie la vita: la tragedia in Campania",
   "link": "https://www.vesuviolive.it/ultime-notizie/544366-apice-fratelli-morti-omicidio-suicidio/",
@@ -305,12 +326,21 @@
  },
  {
   "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/09/forum-2025-2-1024x574.jpg",
-  "titolo": "Napoli capitale del caffè: torna l’International Coffee Forum",
+  "titolo": "Napoli capitale del caffè: torna l’International Coffee Forum l’1 e 2 ottobre",
   "link": "https://www.metropolisweb.it/2026/09/01/napoli-capitale-del-caffe-torna-linternational-coffee-forum/",
   "fonte": "Metropolis",
   "data": "Tue, 01 Sep 2026 09:47:09 +0000",
   "comuni": [],
   "visto": "2026-09-01T10:36:51+00:00"
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-30-alle-19.36.57-1024x604.png",
+  "titolo": "Penisola Sorrentina: scoperto gruppo whatsApp con 300 membri per segnalare posti di blocco",
+  "link": "https://www.metropolisweb.it/2026/09/01/penisola-sorrentina-il-gruppo-whatsapp-per-segnalare-posti-di-blocco/",
+  "fonte": "Metropolis",
+  "data": "Tue, 01 Sep 2026 09:35:12 +0000",
+  "comuni": [],
+  "visto": "2026-09-01T13:53:06+00:00"
  },
  {
   "img": "https://www.vesuviolive.it/wp-content/uploads/sites/6/2026/09/scuola-classe.jpg",
@@ -713,7 +743,7 @@
   "visto": "2026-08-31T17:11:13+00:00"
  },
  {
-  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/07/Vino-Calici.jpg",
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/08/WhatsApp-Image-2026-08-05-at-13.11.14.jpeg",
   "titolo": "Napoli. Vino, torna il grande appuntamento con Campania Wine",
   "link": "https://www.metropolisweb.it/2026/08/31/napoli-vino-torna-grande-appuntamento-campania-wine/",
   "fonte": "Metropolis",
