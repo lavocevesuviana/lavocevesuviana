@@ -1,5 +1,23 @@
 [
  {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/09/IMG_0410-1024x565.jpeg",
+  "titolo": "Legambiente, pubblicato report “Mare Monstrum”: Campania maglia nera nazionale",
+  "link": "https://www.metropolisweb.it/2026/09/01/legambiente-pubblicato-report-mare-monstrum-campania-maglia-nera-nazionale/",
+  "fonte": "Metropolis",
+  "data": "Tue, 01 Sep 2026 11:18:52 +0000",
+  "comuni": [],
+  "visto": "2026-09-01T11:33:54+00:00"
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/04/Screenshot-2026-04-29-alle-18.15.28.png",
+  "titolo": "Drastica riduzione dei roghi boschivi in Campania",
+  "link": "https://www.metropolisweb.it/2026/09/01/drastica-riduzione-dei-roghi-boschivi-campania/",
+  "fonte": "Metropolis",
+  "data": "Tue, 01 Sep 2026 11:15:59 +0000",
+  "comuni": [],
+  "visto": "2026-09-01T11:33:54+00:00"
+ },
+ {
   "img": "https://internapoli.it/mato.clanto.cloud/piwik.php?idsite=6&rec=1&url=https%3A%2F%2Finternapoli.it%2Fgioca-un-gratta-e-vinci-da-5-euro-e-vince-mezzo-milione-e-festa-grande-nel-napoletano%2F&action_name=Gioca%20un%20gratta%20e%20vinci%20da%205%20euro%20e%20vince%20mezzo%20milione%3A%20%C3%A8%20festa%20grande%20nel%20Napoletano&urlref=https%3A%2F%2Finternapoli.it%2Ffeed%2F",
   "titolo": "Gioca un gratta e vinci da 5 euro e vince mezzo milione: è festa grande nel Napoletano",
   "link": "https://internapoli.it/gioca-un-gratta-e-vinci-da-5-euro-e-vince-mezzo-milione-e-festa-grande-nel-napoletano/",
@@ -7,6 +25,17 @@
   "data": "Tue, 01 Sep 2026 11:14:44 +0000",
   "comuni": [],
   "visto": "2026-09-01T11:18:42+00:00"
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/09/Screenshot-2026-09-01-alle-13.00.53.png",
+  "titolo": "Marigliano, terremoto politico: si dimette il sindaco Bocchino",
+  "link": "https://www.metropolisweb.it/2026/09/01/845762/",
+  "fonte": "Metropolis",
+  "data": "Tue, 01 Sep 2026 11:03:24 +0000",
+  "comuni": [
+   "Marigliano"
+  ],
+  "visto": "2026-09-01T11:33:54+00:00"
  },
  {
   "img": "https://cdn13.webmaster360.it/2026/09/covers/yrZUyHLFy1sml5O2cT8T7l3UFaxlSSKiS2sVQn0v.jpg",
@@ -28,6 +57,15 @@
   ],
   "visto": "2026-09-01T11:18:42+00:00",
   "img_provata": true
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/09/Screenshot-2026-09-01-123707-1024x703.png",
+  "titolo": "De Koninck torna a brillare a Sorrento: restaurata la Scena di caccia",
+  "link": "https://www.metropolisweb.it/2026/09/01/de-koninck-torna-brillare-sorrento-restaurata-la-scena-caccia/",
+  "fonte": "Metropolis",
+  "data": "Tue, 01 Sep 2026 10:45:10 +0000",
+  "comuni": [],
+  "visto": "2026-09-01T11:33:54+00:00"
  },
  {
   "img": "https://www.vesuviolive.it/wp-content/uploads/sites/6/2026/01/Polizia-di-Stato.jpeg",
@@ -101,7 +139,7 @@
  },
  {
   "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/09/Screenshot-2026-09-01-120112.png",
-  "titolo": "Una mappa WhatsApp dei posti di blocco: 300 persone segnalano i controlli a Vico Equense",
+  "titolo": "Una mappa WhatsApp dei posti di blocco a Vico Equense",
   "link": "https://www.metropolisweb.it/2026/09/01/mappa-whatsapp-dei-posti-blocco-300-persone-segnalano-controlli-vico-equense/",
   "fonte": "Metropolis",
   "data": "Tue, 01 Sep 2026 10:01:45 +0000",
@@ -110,7 +148,7 @@
  },
  {
   "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/09/giglio-gentile-1024x575.jpeg",
-  "titolo": "Il prefetto di Napoli Michele di Bari riceve il “Giglio gentile”, il riconoscimento per il suo servizio",
+  "titolo": "Il prefetto di Napoli Michele di Bari riceve il “Giglio gentile”",
   "link": "https://www.metropolisweb.it/2026/09/01/michele-di-bari-riceve-il-giglio-gentile-il-riconoscimento-per-il-suo-servizio/",
   "fonte": "Metropolis",
   "data": "Tue, 01 Sep 2026 10:01:33 +0000",
@@ -156,7 +194,7 @@
  },
  {
   "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/09/forum-2025-2-1024x574.jpg",
-  "titolo": "Napoli capitale del caffè: torna l’International Coffee Forum l’1 e 2 ottobre",
+  "titolo": "Napoli capitale del caffè: torna l’International Coffee Forum",
   "link": "https://www.metropolisweb.it/2026/09/01/napoli-capitale-del-caffe-torna-linternational-coffee-forum/",
   "fonte": "Metropolis",
   "data": "Tue, 01 Sep 2026 09:47:09 +0000",
