@@ -1,5 +1,23 @@
 [
  {
+  "titolo": "Attestazione di inutilizzabilità dei veicoli sottoposti a fermo amministrativo.",
+  "link": "https://www.comune.ottaviano.na.it/it/news/attestazione-di-inutilizzabilita-dei-veicoli-sottoposti-a-fermo-amministrativo",
+  "fonte": "Comune di Ottaviano",
+  "comuni": [
+   "Ottaviano"
+  ],
+  "visto": "2026-09-01T00:29:10+00:00"
+ },
+ {
+  "titolo": "Modifica orari estivi pomeridiani Biblioteca Comunale",
+  "link": "https://www.comune.ottaviano.na.it/it/news/modifica-orari-estivi-pomeridiani-biblioteca-comunale",
+  "fonte": "Comune di Ottaviano",
+  "comuni": [
+   "Ottaviano"
+  ],
+  "visto": "2026-09-01T00:29:10+00:00"
+ },
+ {
   "titolo": "AVVISO - Voucher farmaceutici XIII edizione – elenco beneficiari ed esclusi",
   "link": "https://www.comune.ottaviano.na.it/it/news/avviso-voucher-farmaceutici-xiii-edizione-elenco-beneficiari-ed-esclusi",
   "fonte": "Comune di Ottaviano",
@@ -36,26 +54,8 @@
   "visto": "2026-08-18T12:54:50+00:00"
  },
  {
-  "titolo": "Convocazione Consiglio Comunale di giovedi 30 luglio 2026",
-  "link": "https://www.comune.ottaviano.na.it/it/news/convocazione-consiglio-comunale-di-giovedi-30-luglio-2026",
-  "fonte": "Comune di Ottaviano",
-  "comuni": [
-   "Ottaviano"
-  ],
-  "visto": "2026-08-18T12:54:50+00:00"
- },
- {
   "titolo": "AVVISO - Elenco cartolibrerie accreditate A.S. 2026/2027",
   "link": "https://www.comune.ottaviano.na.it/it/news/avviso-elenco-cartolibrerie-accreditate-a-s-2026-2027",
-  "fonte": "Comune di Ottaviano",
-  "comuni": [
-   "Ottaviano"
-  ],
-  "visto": "2026-08-18T12:54:50+00:00"
- },
- {
-  "titolo": "AVVISO - Emergenza caldo. Servizio di assistenza per le persone piu' fragili",
-  "link": "https://www.comune.ottaviano.na.it/it/news/avviso-emergenza-caldo-servizio-di-assistenza-per-le-persone-piu-fragili",
   "fonte": "Comune di Ottaviano",
   "comuni": [
    "Ottaviano"
@@ -74,15 +74,6 @@
  {
   "titolo": "AVVISO - Casi di validità carta di identità rilasciate su modello cartaceo dopo il 3 agosto 2026",
   "link": "https://www.comune.ottaviano.na.it/it/news/avviso-casi-di-validita-carta-di-identita-rilasciate-su-modello-cartaceo-dopo-il-3-agosto-2026",
-  "fonte": "Comune di Ottaviano",
-  "comuni": [
-   "Ottaviano"
-  ],
-  "visto": "2026-08-18T12:54:50+00:00"
- },
- {
-  "titolo": "BUONI LIBRO – A.S. 2026/27 a favore di alunni delle SCUOLE SECONDARIE di I e II GRADO",
-  "link": "https://www.comune.ottaviano.na.it/it/news/buoni-libro-a-s-2026-27-a-favore-di-alunni-delle-scuole-secondarie-di-i-e-ii-grado",
   "fonte": "Comune di Ottaviano",
   "comuni": [
    "Ottaviano"
@@ -128,6 +119,15 @@
  {
   "titolo": "Comunicazione apertura e chiusura Farmacia Comunale anno 2026",
   "link": "https://www.comune.ottaviano.na.it/it/news/comunicazione-apertura-e-chiusura-farmacia-comunale-anno-2026",
+  "fonte": "Comune di Ottaviano",
+  "comuni": [
+   "Ottaviano"
+  ],
+  "visto": "2026-08-18T12:54:50+00:00"
+ },
+ {
+  "titolo": "AVVISO - Istanza per la definizione agevolata delle Entrate Comunali",
+  "link": "https://www.comune.ottaviano.na.it/it/news/avviso-istanza-per-la-definizione-agevolata-delle-entrate-comunali",
   "fonte": "Comune di Ottaviano",
   "comuni": [
    "Ottaviano"
@@ -369,8 +369,8 @@
   "visto": "2026-08-18T12:54:50+00:00"
  },
  {
-  "titolo": "AVVISO PUBBLICO - Indagine esplorativa tramite manifestazione di interesse per l'affidamento diretto di servizi sociali, per la gestione del micronido con sede in Via Pozini, Ottaviano, presso l'I.C. “Piero Angela”",
-  "link": "https://www.comune.ottaviano.na.it/it/news/avviso-pubblico-indagine-esplorativa-tramite-manifestazione-di-interesse-per-l-affidamento-diretto-di-servizi-sociali-per-la-gestione-del-micronido-con-sede-in-via-pozini-ottaviano-presso-l-i-c-piero-angela",
+  "titolo": "Convocazione Consiglio Comunale di giovedi 30 luglio 2026",
+  "link": "https://www.comune.ottaviano.na.it/it/news/convocazione-consiglio-comunale-di-giovedi-30-luglio-2026",
   "fonte": "Comune di Ottaviano",
   "comuni": [
    "Ottaviano"
@@ -378,8 +378,26 @@
   "visto": "2026-08-18T12:54:50+00:00"
  },
  {
-  "titolo": "AVVISO - Istanza per la definizione agevolata delle Entrate Comunali",
-  "link": "https://www.comune.ottaviano.na.it/it/news/avviso-istanza-per-la-definizione-agevolata-delle-entrate-comunali",
+  "titolo": "AVVISO - Emergenza caldo. Servizio di assistenza per le persone piu' fragili",
+  "link": "https://www.comune.ottaviano.na.it/it/news/avviso-emergenza-caldo-servizio-di-assistenza-per-le-persone-piu-fragili",
+  "fonte": "Comune di Ottaviano",
+  "comuni": [
+   "Ottaviano"
+  ],
+  "visto": "2026-08-18T12:54:50+00:00"
+ },
+ {
+  "titolo": "BUONI LIBRO – A.S. 2026/27 a favore di alunni delle SCUOLE SECONDARIE di I e II GRADO",
+  "link": "https://www.comune.ottaviano.na.it/it/news/buoni-libro-a-s-2026-27-a-favore-di-alunni-delle-scuole-secondarie-di-i-e-ii-grado",
+  "fonte": "Comune di Ottaviano",
+  "comuni": [
+   "Ottaviano"
+  ],
+  "visto": "2026-08-18T12:54:50+00:00"
+ },
+ {
+  "titolo": "AVVISO PUBBLICO - Indagine esplorativa tramite manifestazione di interesse per l'affidamento diretto di servizi sociali, per la gestione del micronido con sede in Via Pozini, Ottaviano, presso l'I.C. “Piero Angela”",
+  "link": "https://www.comune.ottaviano.na.it/it/news/avviso-pubblico-indagine-esplorativa-tramite-manifestazione-di-interesse-per-l-affidamento-diretto-di-servizi-sociali-per-la-gestione-del-micronido-con-sede-in-via-pozini-ottaviano-presso-l-i-c-piero-angela",
   "fonte": "Comune di Ottaviano",
   "comuni": [
    "Ottaviano"
