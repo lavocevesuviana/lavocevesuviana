@@ -1,5 +1,54 @@
 [
  {
+  "img": "https://www.vesuviolive.it/wp-content/uploads/sites/6/2026/09/Alessandro-Di-Battista.jpeg",
+  "titolo": "Di Battista, pronto il rientro in Italia: rifiutato il volo di Stato, spese coperte dall’assicurazione",
+  "link": "https://www.vesuviolive.it/ultime-notizie/544350-di-battista-pronto-il-rientro-in-italia-rifiutato-il-volo-di-stato-spese-coperte-dallassicurazione/",
+  "fonte": "VesuvioLive",
+  "data": "Tue, 01 Sep 2026 08:32:15 +0000",
+  "comuni": [],
+  "visto": "2026-09-01T08:35:57+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://cdn13.webmaster360.it/2026/08/covers/57G3DwBZaAaoOTgGYXMCprK4idAMX3xdg3thfVW6.jpg",
+  "titolo": "Investito davanti alla stazione Circum, bimbo di 5 anni al Santobono",
+  "link": "https://www.ilfattovesuviano.it/2026/09/investito-davanti-alla-stazione-circum-bimbo-di-5-anni-al-santobono",
+  "fonte": "Il Fatto Vesuviano",
+  "data": "Tue, 01 Sep 2026 08:30:00 +0000",
+  "comuni": [],
+  "visto": "2026-09-01T08:35:57+00:00"
+ },
+ {
+  "img": "https://www.vesuviolive.it/wp-content/uploads/sites/6/2024/06/zanzara-insetto.jpg",
+  "titolo": "West Nile nell’Agro Aversano, si aggrava una donna. Sindaco: “Prudenza, nessun allarme”",
+  "link": "https://www.vesuviolive.it/ultime-notizie/544349-west-nile-casi-aversa-donna-ricoverata/",
+  "fonte": "VesuvioLive",
+  "data": "Tue, 01 Sep 2026 08:21:31 +0000",
+  "comuni": [],
+  "visto": "2026-09-01T08:35:57+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/08/Schermata-2026-08-31-alle-18.59.50.png",
+  "titolo": "Juve Stabia, caccia all’ultimo colpo. Sondaggio per Francesconi",
+  "link": "https://www.metropolisweb.it/2026/09/01/juve-stabia-caccia-allultimo-colpo-sondaggio-per-francesconi/",
+  "fonte": "Metropolis",
+  "data": "Tue, 01 Sep 2026 08:15:31 +0000",
+  "comuni": [],
+  "visto": "2026-09-01T08:35:57+00:00"
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-31-alle-22.17.35-1024x724.png",
+  "titolo": "Castellammare, la mensa scolastica parte il 21 settembre. Ma quanti ostacoli",
+  "link": "https://www.metropolisweb.it/2026/09/01/castellammare-la-mensa-scolastica-parte-21-settembre-quanti-ostacoli/",
+  "fonte": "Metropolis",
+  "data": "Tue, 01 Sep 2026 08:15:03 +0000",
+  "comuni": [
+   "Castellammare di Stabia"
+  ],
+  "visto": "2026-09-01T08:35:57+00:00"
+ },
+ {
   "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/09/Schermata-2026-09-01-alle-10.12.52.png",
   "titolo": "Torre del Greco, il Museo MAC3 debutta sulla scena internazionale a Vicenza",
   "link": "https://www.metropolisweb.it/2026/09/01/torre-del-greco-museo-mac3-debutta-sulla-scena-internazionale-vicenza/",
@@ -9,6 +58,17 @@
    "Torre del Greco"
   ],
   "visto": "2026-09-01T08:21:18+00:00"
+ },
+ {
+  "img": "https://citynews-napolitoday.stgy.ovh/~media/original-hi/52853801880220/marco-perillo-ospite-a-castello-di-carta-festival-del-libro-e-dell-editoria-con-il-pentimento-del-principe-d-elbeuf.jpg",
+  "titolo": "Marco Perillo ospite a Castello di Carta - Festival del Libro e dell'Editoria con «Il pentimento del principe d'Elbeuf»",
+  "link": "https://www.napolitoday.it/eventi/marco-perillo-castello-carta-festival-libro-editoria-somma-vesuviana.html",
+  "fonte": "NapoliToday",
+  "data": "Tue, 01 Sep 2026 10:09:58 +0200",
+  "comuni": [
+   "Somma Vesuviana"
+  ],
+  "visto": "2026-09-01T08:35:57+00:00"
  },
  {
   "img": "https://cdn13.webmaster360.it/2026/08/covers/hlUl3qtiIx3PvO8TsjAmwIqEm4sdRzfAPQsICrHF.jpg",
