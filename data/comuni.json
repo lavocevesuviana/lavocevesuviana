@@ -1,5 +1,14 @@
 [
  {
+  "titolo": "AVVISO Ordinanza per la pulizia e regolare manutenzione dei terreni privati incolti per la sicurezza della circolazione stradale, per il decoro e la salvaguardia dell'igiene e della salute pubblica. ANNO 2026",
+  "link": "https://www.comune.ottaviano.na.it/it/news/avviso-ordinanza-per-la-pulizia-e-regolare-manutenzione-dei-terreni-privati-incolti-per-la-sicurezza-della-circolazione-stradale-per-il-decoro-e-la-salvaguardia-dell-igiene-e-della-salute-pubblica-anno-2026",
+  "fonte": "Comune di Ottaviano",
+  "comuni": [
+   "Ottaviano"
+  ],
+  "visto": "2026-09-02T00:28:11+00:00"
+ },
+ {
   "titolo": "Attestazione di inutilizzabilità dei veicoli sottoposti a fermo amministrativo.",
   "link": "https://www.comune.ottaviano.na.it/it/news/attestazione-di-inutilizzabilita-dei-veicoli-sottoposti-a-fermo-amministrativo",
   "fonte": "Comune di Ottaviano",
@@ -83,15 +92,6 @@
  {
   "titolo": "Elezioni Amministrative 24 e 25 maggio 2026 - RISULTATI BALLOTTAGGIO",
   "link": "https://www.comune.ottaviano.na.it/it/news/elezioni-comunali-24-e-25-maggio-2026-2000490",
-  "fonte": "Comune di Ottaviano",
-  "comuni": [
-   "Ottaviano"
-  ],
-  "visto": "2026-08-18T12:54:50+00:00"
- },
- {
-  "titolo": "AVVISO - Servizio di Trasporto Scolastico A.S. 2026 / 2027",
-  "link": "https://www.comune.ottaviano.na.it/it/news/avviso-servizio-di-trasporto-scolastico-a-s-2026-2027",
   "fonte": "Comune di Ottaviano",
   "comuni": [
    "Ottaviano"
@@ -365,6 +365,15 @@
   "fonte": "Comune di Somma Vesuviana",
   "comuni": [
    "Somma Vesuviana"
+  ],
+  "visto": "2026-08-18T12:54:50+00:00"
+ },
+ {
+  "titolo": "AVVISO - Servizio di Trasporto Scolastico A.S. 2026 / 2027",
+  "link": "https://www.comune.ottaviano.na.it/it/news/avviso-servizio-di-trasporto-scolastico-a-s-2026-2027",
+  "fonte": "Comune di Ottaviano",
+  "comuni": [
+   "Ottaviano"
   ],
   "visto": "2026-08-18T12:54:50+00:00"
  },
