@@ -1,5 +1,17 @@
 [
  {
+  "img": "https://www.laprovinciaonline.info/wp-content/uploads/2026/09/FB_IMG_1788457477577.jpg",
+  "titolo": "Somma Vesuviana. La sindaca: “Criticità sismica al plesso «Gino Auriemma»: la scuola chiude e alunni trasferiti in altri istituti”",
+  "link": "https://www.laprovinciaonline.info/somma-vesuviana-la-sindaca-criticita-sismica-al-plesso-gino-auriemma-la-scuola-chiude-e-alunni-trasferiti-in-altri-istituti/",
+  "fonte": "La Provincia Online",
+  "data": "Thu, 03 Sep 2026 18:50:22 +0000",
+  "comuni": [
+   "Somma Vesuviana"
+  ],
+  "visto": "2026-09-03T18:54:21+00:00",
+  "img_provata": true
+ },
+ {
   "img": "https://cdn13.webmaster360.it/2026/09/covers/01M1M8GNB0E96WMZYAHMYXRZRQ.jpg",
   "titolo": "Nola piange Alessia, è lei la vittima dell'incidente nella notte",
   "link": "https://www.ilfattovesuviano.it/2026/09/nola-piange-alessia-e-lei-la-vittima-dellincidente-nella-notte",
@@ -30,6 +42,17 @@
   ],
   "visto": "2026-09-03T18:37:12+00:00",
   "img_provata": true
+ },
+ {
+  "img": "https://citynews-napolitoday.stgy.ovh/~media/original-hi/34631916618168/791922782_18455793889190384_7391580316005502261_n.jpg",
+  "titolo": "Ancora un incendio sul Vesuvio",
+  "link": "https://www.napolitoday.it/cronaca/incendio-vesuvio-torre-del-greco-oggi.html",
+  "fonte": "NapoliToday",
+  "data": "Thu, 03 Sep 2026 19:54:35 +0200",
+  "comuni": [
+   "Torre del Greco"
+  ],
+  "visto": "2026-09-03T18:54:21+00:00"
  },
  {
   "img": "https://www.ilmediano.com/wp-content/uploads/2026/09/PLESSOGAURIEMMA.jpg",
@@ -256,15 +279,6 @@
   "img_provata": true
  },
  {
-  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/07/Schermata-2026-07-24-alle-16.09.57.png",
-  "titolo": "Caso Sonrisa | Bocciato un altro ricorso dei Polese, resta chiuso il Castello",
-  "link": "https://www.metropolisweb.it/2026/09/03/caso-sonrisa-bocciato-un-altro-ricorso-dei-polese-resta-chiuso-castello/",
-  "fonte": "Metropolis",
-  "data": "Thu, 03 Sep 2026 13:43:50 +0000",
-  "comuni": [],
-  "visto": "2026-09-03T12:56:13+00:00"
- },
- {
   "img": "https://www.laprovinciaonline.info/wp-content/uploads/2026/09/21d18b0c-b656-4037-9504-1678fe2bcee6-1024x768.png",
   "titolo": "Marigliano. Morta la 73enne travolta sulle strisce. Scatta l’accusa di omicidio stradale",
   "link": "https://www.laprovinciaonline.info/marigliano-morta-la-73enne-travolta-sulle-strisce-scatta-laccusa-di-omicidio-stradale/",
@@ -352,6 +366,15 @@
   "link": "https://www.metropolisweb.it/2026/09/03/napoli-si-ferma-anche-giovane-operazione-allernia/",
   "fonte": "Metropolis",
   "data": "Thu, 03 Sep 2026 12:50:01 +0000",
+  "comuni": [],
+  "visto": "2026-09-03T12:56:13+00:00"
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/07/Schermata-2026-07-24-alle-16.09.57.png",
+  "titolo": "Caso Sonrisa | Bocciato un altro ricorso dei Polese, resta chiuso il Castello",
+  "link": "https://www.metropolisweb.it/2026/09/03/caso-sonrisa-bocciato-un-altro-ricorso-dei-polese-resta-chiuso-castello/",
+  "fonte": "Metropolis",
+  "data": "Thu, 03 Sep 2026 12:43:50 +0000",
   "comuni": [],
   "visto": "2026-09-03T12:56:13+00:00"
  },
