@@ -1,5 +1,23 @@
 [
  {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/09/DSC_9542-e1788439787400-1024x727.jpg",
+  "titolo": "Napoli, si ferma anche Giovane. Operazione all’ernia",
+  "link": "https://www.metropolisweb.it/2026/09/03/napoli-si-ferma-anche-giovane-operazione-allernia/",
+  "fonte": "Metropolis",
+  "data": "Thu, 03 Sep 2026 12:50:01 +0000",
+  "comuni": [],
+  "visto": "2026-09-03T12:56:13+00:00"
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/07/Schermata-2026-07-24-alle-16.09.57.png",
+  "titolo": "Caso Sonrisa | Bocciato un altro ricorso dei Polese, resta chiuso il Castello",
+  "link": "https://www.metropolisweb.it/2026/09/03/caso-sonrisa-bocciato-un-altro-ricorso-dei-polese-resta-chiuso-castello/",
+  "fonte": "Metropolis",
+  "data": "Thu, 03 Sep 2026 12:43:50 +0000",
+  "comuni": [],
+  "visto": "2026-09-03T12:56:13+00:00"
+ },
+ {
   "img": "https://www.laprovinciaonline.info/wp-content/uploads/2026/01/carabinieri-a-Somma-Vesuviana.jpg",
   "titolo": "Somma. Ruba un furgone e si schianta, inseguito e bloccato dai carabinieri",
   "link": "https://www.laprovinciaonline.info/somma-ruba-un-furgone-e-si-schianta-inseguito-e-bloccato-dai-carabinieri/",
@@ -8,6 +26,37 @@
   "comuni": [],
   "visto": "2026-09-03T12:42:10+00:00",
   "img_provata": true
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/09/materassi.png-1024x1024.jpeg",
+  "titolo": "Case sovraffollate da migranti, sindaco sequestra 500 materassi",
+  "link": "https://www.metropolisweb.it/2026/09/03/case-sovraffollate-migranti-sindaco-sequestra-500-materassi/",
+  "fonte": "Metropolis",
+  "data": "Thu, 03 Sep 2026 12:31:23 +0000",
+  "comuni": [],
+  "visto": "2026-09-03T12:56:13+00:00"
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/09/Schermata-2026-09-03-alle-14.27.10.png",
+  "titolo": "Torre del Greco, blitz in «piazzetta»: 8 multe per violazioni sugli spazi e sulle norme igieniche",
+  "link": "https://www.metropolisweb.it/2026/09/03/torre-del-greco-blitz-piazzetta-8-multe-violazioni-sugli-spazi-sulle-norme-igieniche/",
+  "fonte": "Metropolis",
+  "data": "Thu, 03 Sep 2026 12:31:08 +0000",
+  "comuni": [
+   "Torre del Greco"
+  ],
+  "visto": "2026-09-03T12:56:13+00:00"
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/09/Schermata-2026-09-03-alle-14.22.30.png",
+  "titolo": "Vela, Picaro (ri)porta Torre del Greco sul tetto d’Europa",
+  "link": "https://www.metropolisweb.it/2026/09/03/vela-picaro-riporta-torre-del-greco-sul-tetto-deuropa/",
+  "fonte": "Metropolis",
+  "data": "Thu, 03 Sep 2026 12:23:54 +0000",
+  "comuni": [
+   "Torre del Greco"
+  ],
+  "visto": "2026-09-03T12:56:13+00:00"
  },
  {
   "img": "https://www.vesuviolive.it/wp-content/uploads/sites/6/2026/08/scogliera-via-prota.jpg",
@@ -39,6 +88,15 @@
   "data": "Thu, 03 Sep 2026 12:00:00 +0000",
   "comuni": [],
   "visto": "2026-09-03T12:25:32+00:00"
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/08/Tribunale-Torre.png",
+  "titolo": "Bracciante morto, i titolari della ditta: «Uno di famiglia»",
+  "link": "https://www.metropolisweb.it/2026/09/03/bracciante-morto-titolari-della-ditta-uno-famiglia/",
+  "fonte": "Metropolis",
+  "data": "Thu, 03 Sep 2026 11:55:43 +0000",
+  "comuni": [],
+  "visto": "2026-09-03T12:56:13+00:00"
  },
  {
   "img": "https://www.vesuviolive.it/wp-content/uploads/sites/6/2026/09/Giulia-Presutti.jpg",
