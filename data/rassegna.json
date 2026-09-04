@@ -1,5 +1,27 @@
 [
  {
+  "img": "https://www.ilmediano.com/wp-content/uploads/2026/09/IMG_1890.jpeg",
+  "titolo": "Somma Vesuviana, a Rione Trieste da tutto il mondo per la cura dei beni comuni",
+  "link": "https://www.ilmediano.com/somma-vesuviana-a-rione-trieste-da-tutto-il-mondo-per-la-cura-dei-beni-comuni/",
+  "fonte": "Il Mediano",
+  "data": "Fri, 04 Sep 2026 10:49:17 +0000",
+  "comuni": [
+   "Somma Vesuviana"
+  ],
+  "visto": "2026-09-04T10:53:10+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://www.vesuviolive.it/wp-content/uploads/sites/6/2026/09/cardiologia-santobono-napoli.jpeg",
+  "titolo": "Perdite di coscienza e pausa cardiaca di 25 secondi: bambino di 3 anni salvato a Napoli",
+  "link": "https://www.vesuviolive.it/ultime-notizie/544513-aritmia-bambino-salvato-napoli-santobono-monaldi/",
+  "fonte": "VesuvioLive",
+  "data": "Fri, 04 Sep 2026 10:43:52 +0000",
+  "comuni": [],
+  "visto": "2026-09-04T10:53:10+00:00",
+  "img_provata": true
+ },
+ {
   "img": "https://cdn13.webmaster360.it/2026/09/covers/01M1NTGVBKC885E6F7V90TBQ28.jpg",
   "titolo": "Tre camion si scontrano in autostrada verso Napoli: tutto chiuso",
   "link": "https://www.ilfattovesuviano.it/2026/09/tre-camion-si-scontrano-in-autostrada-verso-napoli-tutto-chiuso",
@@ -7,6 +29,24 @@
   "data": "Fri, 04 Sep 2026 10:30:00 +0000",
   "comuni": [],
   "visto": "2026-09-04T10:34:55+00:00"
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/01/toga.jpg",
+  "titolo": "Disposta la riesumazione per il 17enne precipitato dal terzo piano",
+  "link": "https://www.metropolisweb.it/2026/09/04/disposta-la-riesumazione-17enne-precipitato-dal-terzo-piano/",
+  "fonte": "Metropolis",
+  "data": "Fri, 04 Sep 2026 10:25:55 +0000",
+  "comuni": [],
+  "visto": "2026-09-04T10:53:10+00:00"
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/09/IMG_0421-1024x657.jpeg",
+  "titolo": "LGBTQIA+, cardinale Battista: “La Chiesa accompagni la comunità transgender”",
+  "link": "https://www.metropolisweb.it/2026/09/04/lgbtqia-cardinale-battista-la-chiesa-accompagni-la-comunita-transgender/",
+  "fonte": "Metropolis",
+  "data": "Fri, 04 Sep 2026 10:25:04 +0000",
+  "comuni": [],
+  "visto": "2026-09-04T10:53:10+00:00"
  },
  {
   "img": "https://www.vesuviolive.it/wp-content/uploads/sites/6/2026/09/pozzano-.png",
@@ -51,6 +91,33 @@
   "visto": "2026-09-04T10:19:50+00:00"
  },
  {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/09/4e45b5a6-0f8c-4477-9b3d-e19e75633e9e-1024x648.jpeg",
+  "titolo": "Premio Salvatore Di Giacomo 2026: Sant’Agata celebra la XXV edizione",
+  "link": "https://www.metropolisweb.it/2026/09/04/premio-salvatore-giacomo-2026-santagata-celebra-la-xxv-edizione/",
+  "fonte": "Metropolis",
+  "data": "Fri, 04 Sep 2026 09:52:24 +0000",
+  "comuni": [],
+  "visto": "2026-09-04T10:53:10+00:00"
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/09/IMG_1066-1024x666.jpeg",
+  "titolo": "La Regione investe su giovani, sanità e bradisismo: stanziati 15milioni",
+  "link": "https://www.metropolisweb.it/2026/09/04/la-regione-investe-giovani-sanita-bradisismo-stanziati-15milioni/",
+  "fonte": "Metropolis",
+  "data": "Fri, 04 Sep 2026 09:43:01 +0000",
+  "comuni": [],
+  "visto": "2026-09-04T10:53:10+00:00"
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/09/IMG_0420-1024x594.jpeg",
+  "titolo": "Trenitalia, regionale Campania: corse extra per il Jova Summer Party",
+  "link": "https://www.metropolisweb.it/2026/09/04/trenitalia-regionale-campania-corse-extra-jova-summer-party/",
+  "fonte": "Metropolis",
+  "data": "Fri, 04 Sep 2026 09:42:45 +0000",
+  "comuni": [],
+  "visto": "2026-09-04T10:53:10+00:00"
+ },
+ {
   "img": "https://www.vesuviolive.it/wp-content/uploads/sites/6/2023/12/bike-sharing-torre-greco.jpg",
   "titolo": "Sospeso il servizio di bike sharing a Torre del Greco, ecco i motivi e cosa si sta facendo per ripristinarlo",
   "link": "https://www.vesuviolive.it/aree-locali/notizie-di-torre-del-greco/544492-bike-sharing-a-torre-del-greco-ecco-perche-e-stato-sospeso/",
@@ -90,6 +157,17 @@
   "comuni": [],
   "visto": "2026-09-04T09:35:02+00:00",
   "img_provata": true
+ },
+ {
+  "img": "https://citynews-napolitoday.stgy.ovh/~media/original-hi/63105530173832/header.jpg",
+  "titolo": "Biagio Antonacci al Teatro Grande di Pompei con Unplugged 2026",
+  "link": "https://www.napolitoday.it/eventi/biagio-antonacci-teatro-grande-pompei-22-settembre-4-ottobre-2026.html",
+  "fonte": "NapoliToday",
+  "data": "Fri, 04 Sep 2026 11:19:27 +0200",
+  "comuni": [
+   "Pompei"
+  ],
+  "visto": "2026-09-04T10:53:10+00:00"
  },
  {
   "img": "https://www.laprovinciaonline.info/wp-content/uploads/2026/09/Shablo-1-Amalfi-in-Jazz.jpeg",
