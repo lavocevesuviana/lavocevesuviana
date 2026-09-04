@@ -1,5 +1,23 @@
 [
  {
+  "img": "https://cdn13.webmaster360.it/2026/09/covers/NdahnGmrpVHrdKvCxqGVEVBqVTace73P31l9eFCt.jpg",
+  "titolo": "Incidente sull'A16 verso Napoli, muore schiacciato tra due tir",
+  "link": "https://www.ilfattovesuviano.it/2026/09/incidente-sulla16-verso-napoli-muore-schiacciato-tra-due-tir",
+  "fonte": "Il Fatto Vesuviano",
+  "data": "Fri, 04 Sep 2026 12:00:00 +0000",
+  "comuni": [],
+  "visto": "2026-09-04T12:24:59+00:00"
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/02/MARINA-DI-STABIA-6-1024x576.jpg",
+  "titolo": "America’s Cup. Marina di Stabia e Stabia Main Port partners dell’evento",
+  "link": "https://www.metropolisweb.it/2026/09/04/americas-cup-marina-stabia-stabia-main-port-partners-dellevento/",
+  "fonte": "Metropolis",
+  "data": "Fri, 04 Sep 2026 11:49:49 +0000",
+  "comuni": [],
+  "visto": "2026-09-04T12:24:59+00:00"
+ },
+ {
   "img": "https://www.vesuviolive.it/wp-content/uploads/sites/6/2023/07/polizia-2.jpeg",
   "titolo": "Coppia investita sul marciapiede nel Napoletano: il conducente era geloso di loro insieme",
   "link": "https://www.vesuviolive.it/aree-locali/notizie-di-pozzuoli/544517-coppia-investita-pozzuoli-arresto/",
@@ -8,6 +26,17 @@
   "comuni": [],
   "visto": "2026-09-04T11:33:59+00:00",
   "img_provata": true
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/09/Schermata-2026-09-03-alle-15.43.40.png",
+  "titolo": "Torre del Greco, l’ex sindaco Borriello sogna il Senato con il generale Vannacci",
+  "link": "https://www.metropolisweb.it/2026/09/04/torre-del-greco-lex-sindaco-borriello-sogna-senato-generale-vannacci/",
+  "fonte": "Metropolis",
+  "data": "Fri, 04 Sep 2026 11:30:37 +0000",
+  "comuni": [
+   "Torre del Greco"
+  ],
+  "visto": "2026-09-04T12:24:59+00:00"
  },
  {
   "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/09/marechiaro.jpeg",
@@ -93,7 +122,7 @@
  },
  {
   "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/09/IMG_0421-1024x657.jpeg",
-  "titolo": "LGBTQIA+, cardinale Battista: “La Chiesa accompagni la comunità transgender”",
+  "titolo": "LGBTQIA+, cardinale Battaglia: “La Chiesa accompagni la comunità transgender”",
   "link": "https://www.metropolisweb.it/2026/09/04/lgbtqia-cardinale-battista-la-chiesa-accompagni-la-comunita-transgender/",
   "fonte": "Metropolis",
   "data": "Fri, 04 Sep 2026 10:25:04 +0000",
