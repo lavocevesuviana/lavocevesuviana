@@ -1,5 +1,23 @@
 [
  {
+  "img": "https://cdn13.webmaster360.it/2026/09/covers/01M1S44YFD2381WAC4Z2M3TN48.jpg",
+  "titolo": "Brucia tir, Statale chiusa",
+  "link": "https://www.ilfattovesuviano.it/2026/09/brucia-tir-statale-chiusa",
+  "fonte": "Il Fatto Vesuviano",
+  "data": "Sat, 05 Sep 2026 21:00:00 +0000",
+  "comuni": [],
+  "visto": "2026-09-05T21:16:51+00:00"
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/09/macchina-borraccione.png",
+  "titolo": "Pimonte | Il piano per uccidere Afeltra: il boss era pedinato da mesi",
+  "link": "https://www.metropolisweb.it/2026/09/05/camorra-piano-uccidere-afeltra-boss-pedinato-mesi/",
+  "fonte": "Metropolis",
+  "data": "Sat, 05 Sep 2026 20:30:39 +0000",
+  "comuni": [],
+  "visto": "2026-09-05T21:16:51+00:00"
+ },
+ {
   "img": "https://cdn13.webmaster360.it/2026/09/covers/01M1S3YXK0D19PYJWBTH43KGAZ.jpg",
   "titolo": "Angelina torna a Gragnano da 90 parenti per festeggiare i suoi 100 anni",
   "link": "https://www.ilfattovesuviano.it/2026/09/angelina-torna-a-gragnano-da-90-parenti-per-festeggiare-i-suoi-100-anni",
@@ -58,7 +76,7 @@
   "visto": "2026-09-05T18:19:41+00:00"
  },
  {
-  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/09/Screenshot-2026-09-05-193039-1024x610.png",
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/09/Screenshot-2026-09-05-193039.png",
   "titolo": "San Bartolo Longo patrono di Pompei, il sindaco: «Riconoscimento storico»",
   "link": "https://www.metropolisweb.it/2026/09/05/san-bartolo-longo-patrono-pompei-sindaco-riconoscimento-storico/",
   "fonte": "Metropolis",
@@ -321,17 +339,6 @@
  {
   "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/09/porto-veduta-chiesa-portosalvo-e1788536419668-1024x707.jpg",
   "titolo": "Portosalvo tra fede e show: a Torre del Greco la festa estiva della Madonna",
-  "link": "https://www.metropolisweb.it/2026/09/05/portosalvo-fede-show-torre-del-greco-la-festa-estiva-della-madonna/?ta_paidstory",
-  "fonte": "Metropolis",
-  "data": "Sat, 05 Sep 2026 10:39:05 +0000",
-  "comuni": [
-   "Torre del Greco"
-  ],
-  "visto": "2026-09-05T11:50:48+00:00"
- },
- {
-  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/09/porto-veduta-chiesa-portosalvo-e1788536419668-1024x707.jpg",
-  "titolo": "Portosalvo tra fede e show: a Torre del Greco la festa estiva della Madonna",
   "link": "https://www.metropolisweb.it/2026/09/05/portosalvo-fede-show-torre-del-greco-la-festa-estiva-della-madonna/",
   "fonte": "Metropolis",
   "data": "Sat, 05 Sep 2026 10:39:05 +0000",
@@ -339,6 +346,17 @@
    "Torre del Greco"
   ],
   "visto": "2026-09-05T18:19:41+00:00"
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/09/porto-veduta-chiesa-portosalvo-e1788536419668-1024x707.jpg",
+  "titolo": "Portosalvo tra fede e show: a Torre del Greco la festa estiva della Madonna",
+  "link": "https://www.metropolisweb.it/2026/09/05/portosalvo-fede-show-torre-del-greco-la-festa-estiva-della-madonna/?ta_paidstory",
+  "fonte": "Metropolis",
+  "data": "Sat, 05 Sep 2026 10:39:05 +0000",
+  "comuni": [
+   "Torre del Greco"
+  ],
+  "visto": "2026-09-05T11:50:48+00:00"
  },
  {
   "img": "https://cdn13.webmaster360.it/2026/09/covers/4F5DE2kCtVZJ8YywfUk4E06bLsj27dAfCOXLuNc3.jpg",
