@@ -1,5 +1,35 @@
 [
  {
+  "img": "https://cdn13.webmaster360.it/2026/09/covers/qyQ1Vvx55jUUbAtdy6OqPDQL9qe0uSZexVmu7QdV.jpg",
+  "titolo": "A Napoli l'evasione con il Pos: non era collegato alle casse",
+  "link": "https://www.ilfattovesuviano.it/2026/09/a-napoli-levasione-con-il-pos-non-era-collegato-alle-casse",
+  "fonte": "Il Fatto Vesuviano",
+  "data": "Sun, 06 Sep 2026 16:30:00 +0000",
+  "comuni": [],
+  "visto": "2026-09-06T16:33:34+00:00"
+ },
+ {
+  "img": "https://cdn.positanonews.it/photogallery_new/images/2026/09/miccio-3472380.jpg",
+  "titolo": "Castellammare, addio a Mario Miccio della pizzeria “Tolono”",
+  "link": "https://www.positanonews.it/2026/09/castellammare-addio-a-mario-miccio-della-pizzeria-tolono/3855392/",
+  "fonte": "Positano News",
+  "data": "Sun, 06 Sep 2026 16:09:39 +0000",
+  "comuni": [
+   "Castellammare di Stabia"
+  ],
+  "visto": "2026-09-06T16:33:34+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/09/798404390_18618619762028480_3595798800935070174_n-scaled-e1788710546789-1024x701.jpg",
+  "titolo": "Partita infinita al Menti: il Pisa trema per Bozhinov, poi travolge la Juve Stabia",
+  "link": "https://www.metropolisweb.it/2026/09/06/il-pisa-trema-per-bozhinov-poi-travolge-la-juve-stabia/",
+  "fonte": "Metropolis",
+  "data": "Sun, 06 Sep 2026 16:02:41 +0000",
+  "comuni": [],
+  "visto": "2026-09-06T16:33:34+00:00"
+ },
+ {
   "img": "https://cdn13.webmaster360.it/2026/09/covers/01M1VCDD8TKYW3P2109EDASYSQ.jpg",
   "titolo": "Si tuffa nudo di notte nel mare vesuviano e muore",
   "link": "https://www.ilfattovesuviano.it/2026/09/si-tuffa-nudo-di-notte-nel-mare-vesuviano-e-muore",
@@ -40,7 +70,7 @@
  },
  {
   "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/09/IMG_3071-scaled-e1788703054783-1024x596.jpeg",
-  "titolo": "Malore in campo a Bozhinov, Juve Stabia-Pisa sospesa al 40′",
+  "titolo": "Juve Stabia-Pisa sospesa. Bozhinov è cosciente",
   "link": "https://www.metropolisweb.it/2026/09/06/malore-in-campo-a-bozhinov-juve-stabia-pisa-sospesa-al-40/",
   "fonte": "Metropolis",
   "data": "Sun, 06 Sep 2026 13:58:26 +0000",
@@ -450,7 +480,7 @@
   "visto": "2026-09-05T18:19:41+00:00"
  },
  {
-  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/09/Screenshot-2026-09-05-193039-1024x610.png",
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/09/Screenshot-2026-09-05-193039.png",
   "titolo": "San Bartolo Longo patrono di Pompei, il sindaco: «Riconoscimento storico»",
   "link": "https://www.metropolisweb.it/2026/09/05/san-bartolo-longo-patrono-pompei-sindaco-riconoscimento-storico/",
   "fonte": "Metropolis",
