@@ -1,5 +1,24 @@
 [
  {
+  "img": "https://www.laprovinciaonline.info/wp-content/uploads/2026/09/5856075e-e959-4e75-8ac1-0fbddc8d60cb.jpeg",
+  "titolo": "Assistente infermiere, formazione al palo. Il Movimento: «Regione ferma da 13 mesi su standard formativo, si intervenga presto»",
+  "link": "https://www.laprovinciaonline.info/assistente-infermiere-formazione-al-palo-il-movimento-regione-ferma-da-13-mesi-su-standard-formativo-si-intervenga-presto/",
+  "fonte": "La Provincia Online",
+  "data": "Sun, 06 Sep 2026 12:33:36 +0000",
+  "comuni": [],
+  "visto": "2026-09-06T12:38:04+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://cdn13.webmaster360.it/2026/09/covers/01KCKAJVTXAKJC1X8MJW0JQRYG.jpg",
+  "titolo": "Napoli resta la città più economica d'Italia",
+  "link": "https://www.ilfattovesuviano.it/2026/09/napoli-resta-la-citta-piu-economica-ditalia",
+  "fonte": "Il Fatto Vesuviano",
+  "data": "Sun, 06 Sep 2026 12:30:00 +0000",
+  "comuni": [],
+  "visto": "2026-09-06T12:38:04+00:00"
+ },
+ {
   "img": "https://www.laprovinciaonline.info/wp-content/uploads/2026/09/Locandina_evento_Sulle_orme_di_Maria.jpeg",
   "titolo": "Sulle orme di Maria, una passeggiata tra fede e natura sul Vesuvio",
   "link": "https://www.laprovinciaonline.info/sulle-orme-di-maria-una-passeggiata-tra-fede-e-natura-sul-vesuvio/",
@@ -8,6 +27,17 @@
   "comuni": [],
   "visto": "2026-09-06T12:22:27+00:00",
   "img_provata": true
+ },
+ {
+  "img": "https://citynews-napolitoday.stgy.ovh/~media/original-hi/19797418077698/spiaggia-soccorsi.jpeg",
+  "titolo": "Tragedia a Portici, uomo recuperato in mare: inutili i tentativi di rianimazione",
+  "link": "https://www.napolitoday.it/cronaca/uomo-morto-mare-mortelle-portici.html",
+  "fonte": "NapoliToday",
+  "data": "Sun, 06 Sep 2026 14:13:05 +0200",
+  "comuni": [
+   "Portici"
+  ],
+  "visto": "2026-09-06T12:38:04+00:00"
  },
  {
   "img": "https://cdn13.webmaster360.it/2026/09/covers/SScdKy3Bj9W3WrZQ6Cx36g28o350RdcORAF1ilJw.jpg",
@@ -342,7 +372,7 @@
   "visto": "2026-09-05T18:19:41+00:00"
  },
  {
-  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/09/Screenshot-2026-09-05-193039-1024x610.png",
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/09/Screenshot-2026-09-05-193039.png",
   "titolo": "San Bartolo Longo patrono di Pompei, il sindaco: «Riconoscimento storico»",
   "link": "https://www.metropolisweb.it/2026/09/05/san-bartolo-longo-patrono-pompei-sindaco-riconoscimento-storico/",
   "fonte": "Metropolis",
