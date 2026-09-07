@@ -1,5 +1,24 @@
 [
  {
+  "img": "https://cdn13.webmaster360.it/2026/09/covers/01M0APCRSBGJMSK6P96TM1QVWA.jpg",
+  "titolo": "Lavori sulla linea Napoli-Salerno: cambi di orari e circolazione",
+  "link": "https://www.ilfattovesuviano.it/2026/09/lavori-sulla-linea-napoli-salerno-cambi-di-orari-e-circolazione",
+  "fonte": "Il Fatto Vesuviano",
+  "data": "Mon, 07 Sep 2026 15:00:00 +0000",
+  "comuni": [],
+  "visto": "2026-09-07T15:19:05+00:00"
+ },
+ {
+  "img": "https://www.laprovinciaonline.info/wp-content/uploads/2026/09/PONTI-DI-COMUNITA-_-PENTA-_-Locandina.jpg",
+  "titolo": "Fisciano (Sa): PONTI DI COMUNITÀ, l’Università incontra il territorio",
+  "link": "https://www.laprovinciaonline.info/fisciano-sa-ponti-di-comunita-luniversita-incontra-il-territorio/",
+  "fonte": "La Provincia Online",
+  "data": "Mon, 07 Sep 2026 14:58:55 +0000",
+  "comuni": [],
+  "visto": "2026-09-07T15:19:05+00:00",
+  "img_provata": true
+ },
+ {
   "img": "https://www.laprovinciaonline.info/wp-content/uploads/2026/09/sequestro-polizia-porvinciale-di-caserta.jpg",
   "titolo": "Interventi abusivi sull’argine del fiume Volturno: due denunciati ed autocarro sotto chiave",
   "link": "https://www.laprovinciaonline.info/interventi-abusivi-sullargine-del-fiume-volturno-due-denunciati-ed-autocarro-sotto-chiave/",
@@ -20,6 +39,26 @@
   "img_provata": true
  },
  {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/09/diego-1024x989.jpeg",
+  "titolo": "Diego: La storia dell’Hachiko italiano e dei tradimenti del genere umano",
+  "link": "https://www.metropolisweb.it/2026/09/07/diego-la-storia-dellhachiko-italiano-e-dei-tradimenti-del-genere-umano/",
+  "fonte": "Metropolis",
+  "data": "Mon, 07 Sep 2026 14:45:39 +0000",
+  "comuni": [],
+  "visto": "2026-09-07T15:19:05+00:00"
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/09/Screenshot-2026-09-07-alle-16.29.56.png",
+  "titolo": "Chiesa di Sant’Antonio a Poggiomarino, il nuovo parroco arriva da Battipaglia",
+  "link": "https://www.metropolisweb.it/2026/09/07/chiesa-santantonio-poggiomarino-parroco-arriva-battipaglia/",
+  "fonte": "Metropolis",
+  "data": "Mon, 07 Sep 2026 14:40:44 +0000",
+  "comuni": [
+   "Poggiomarino"
+  ],
+  "visto": "2026-09-07T15:19:05+00:00"
+ },
+ {
   "img": "https://www.laprovinciaonline.info/wp-content/uploads/2026/09/IMG_8773.jpeg",
   "titolo": "Anacapri. Sparite decine di capre “abusive” di Cetrella: presentata denuncia",
   "link": "https://www.laprovinciaonline.info/anacapri-sparite-decine-di-capre-abusive-di-cetrella-presentata-denuncia/",
@@ -28,6 +67,15 @@
   "comuni": [],
   "visto": "2026-09-07T14:54:30+00:00",
   "img_provata": true
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/09/Schermata-2026-09-07-alle-16.33.16.png",
+  "titolo": "Casola | Il paese festeggia e abbraccia i suoi emigrati",
+  "link": "https://www.metropolisweb.it/2026/09/07/casola-paese-festeggia-abbraccia-suoi-emigrati/",
+  "fonte": "Metropolis",
+  "data": "Mon, 07 Sep 2026 14:35:03 +0000",
+  "comuni": [],
+  "visto": "2026-09-07T15:19:05+00:00"
  },
  {
   "img": "https://www.vesuviolive.it/wp-content/uploads/sites/6/2016/06/parco-del-poggio.jpg",
@@ -1353,7 +1401,7 @@
   "visto": "2026-09-05T18:19:41+00:00"
  },
  {
-  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/09/Screenshot-2026-09-05-193039-1024x610.png",
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/09/Screenshot-2026-09-05-193039.png",
   "titolo": "San Bartolo Longo patrono di Pompei, il sindaco: «Riconoscimento storico»",
   "link": "https://www.metropolisweb.it/2026/09/05/san-bartolo-longo-patrono-pompei-sindaco-riconoscimento-storico/",
   "fonte": "Metropolis",
