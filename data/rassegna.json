@@ -1,5 +1,36 @@
 [
  {
+  "img": "https://www.laprovinciaonline.info/wp-content/uploads/2026/09/novita-giannini-editore-settembre.jpg",
+  "titolo": "Giannini Editore: in libreria a settembre le opere di Alemthay Gebremeskel e Aldo Di Mauro",
+  "link": "https://www.laprovinciaonline.info/giannini-editore-in-libreria-a-settembre-le-opere-di-alemthay-gebremeskel-e-aldo-di-mauro/",
+  "fonte": "La Provincia Online",
+  "data": "Mon, 07 Sep 2026 07:52:32 +0000",
+  "comuni": [],
+  "visto": "2026-09-07T07:54:56+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://www.vesuviolive.it/wp-content/uploads/sites/6/2026/09/vipera.jpg",
+  "titolo": "Bambino di 5 anni al Santobono di Napoli: è stato morso da una vipera nel suo giardino",
+  "link": "https://www.vesuviolive.it/ultime-notizie/544542-bambino-morso-vipera-santobono-napoli/",
+  "fonte": "VesuvioLive",
+  "data": "Mon, 07 Sep 2026 07:40:49 +0000",
+  "comuni": [],
+  "visto": "2026-09-07T07:54:56+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/07/gdf-scanzano-scaled-1024x683.jpg",
+  "titolo": "Castellammare. Omicidi e patti con la politica: il silenzio d’oro dei killer dei D’Alessandro",
+  "link": "https://www.metropolisweb.it/2026/09/07/castellammare-omicidi-patti-la-politica-silenzio-doro-dei-killer-dei-dalessandro/",
+  "fonte": "Metropolis",
+  "data": "Mon, 07 Sep 2026 07:14:08 +0000",
+  "comuni": [
+   "Castellammare di Stabia"
+  ],
+  "visto": "2026-09-07T07:54:56+00:00"
+ },
+ {
   "img": "https://www.vesuviolive.it/wp-content/uploads/sites/6/2026/09/furto-vomero-napoli.jpg",
   "titolo": "VIDEO/ Furto in pieno giorno a Napoli: le strappa la borsa e scappa via in scooter",
   "link": "https://www.vesuviolive.it/ultime-notizie/544538-vomero-furto-borsa-arrestato/",
@@ -8,6 +39,15 @@
   "comuni": [],
   "visto": "2026-09-07T07:21:12+00:00",
   "img_provata": true
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/09/Screenshot-2026-09-07-alle-08.59.35.png",
+  "titolo": "Al Vomero la «Macchina dell’Eternità» di Massimo Brescia",
+  "link": "https://www.metropolisweb.it/2026/09/07/al-vomero-la-macchina-delleternita-massimo-brescia/",
+  "fonte": "Metropolis",
+  "data": "Mon, 07 Sep 2026 07:02:03 +0000",
+  "comuni": [],
+  "visto": "2026-09-07T07:54:56+00:00"
  },
  {
   "img": "https://cdn13.webmaster360.it/2026/09/covers/01M1WM8MGHASSRM7CH560B2GQW.jpg",
@@ -817,7 +857,7 @@
  },
  {
   "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/09/Marocco-Danimarca-1024x854.jpg",
-  "titolo": "SAHARA: DANIMARCA SALUTA PIANO AUTONOMIA MAROCCHINO COME BUONA BASE",
+  "titolo": "Sahara: Danimarca saluta piano autonomia marocchino come buona base",
   "link": "https://www.metropolisweb.it/2026/09/05/sahara-danimarca-saluta-piano-autonomia-marocchino-buona-base/",
   "fonte": "Metropolis",
   "data": "Sat, 05 Sep 2026 14:03:24 +0000",
