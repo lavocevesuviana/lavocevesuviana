@@ -1,5 +1,27 @@
 [
  {
+  "img": "https://www.ilmediano.com/wp-content/uploads/2016/03/treno.jpg",
+  "titolo": "Tragedia a Pietarsa, muore travolto dal treno",
+  "link": "https://www.ilmediano.com/tragedia-a-pietarsa-muore-travolto-dal-treno/",
+  "fonte": "Il Mediano",
+  "data": "Mon, 07 Sep 2026 12:53:15 +0000",
+  "comuni": [],
+  "visto": "2026-09-07T12:58:15+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://www.vesuviolive.it/wp-content/uploads/sites/6/2026/09/Anniversario-Madonna-del-Carmine.jpeg",
+  "titolo": "Madonna del Carmine, Torre del Greco celebra il 60° anniversario dell’Incoronazione",
+  "link": "https://www.vesuviolive.it/ultime-notizie/544581-madonna-del-carmine-60-anniversario-incoronazione/",
+  "fonte": "VesuvioLive",
+  "data": "Mon, 07 Sep 2026 12:43:21 +0000",
+  "comuni": [
+   "Torre del Greco"
+  ],
+  "visto": "2026-09-07T12:58:15+00:00",
+  "img_provata": true
+ },
+ {
   "img": "https://cdn13.webmaster360.it/2026/09/covers/01M1XHPEK247TWJR5FDY2E42T6.jpg",
   "titolo": "Ruba la borsa a una donna e scappa, tutto in un video",
   "link": "https://www.ilfattovesuviano.it/2026/09/ruba-la-borsa-a-una-donna-e-scappa-tutto-in-un-video",
@@ -1100,7 +1122,7 @@
   "visto": "2026-09-05T18:19:41+00:00"
  },
  {
-  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/09/Screenshot-2026-09-05-193039-1024x610.png",
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/09/Screenshot-2026-09-05-193039.png",
   "titolo": "San Bartolo Longo patrono di Pompei, il sindaco: «Riconoscimento storico»",
   "link": "https://www.metropolisweb.it/2026/09/05/san-bartolo-longo-patrono-pompei-sindaco-riconoscimento-storico/",
   "fonte": "Metropolis",
