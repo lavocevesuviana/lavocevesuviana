@@ -1,5 +1,24 @@
 [
  {
+  "img": "https://www.vesuvianonews.it/wp-content/uploads/2026/09/maxresdefault-1.jpg",
+  "titolo": "Scippa una donna in strada e fugge in scooter: incastrato dalle telecamere al Vomero",
+  "link": "https://www.vesuvianonews.it/scippo-vomero-scooter-denunciato-carabinieri/",
+  "fonte": "Vesuviano News",
+  "data": "Mon, 07 Sep 2026 12:18:30 +0000",
+  "comuni": [],
+  "visto": "2026-09-07T12:25:40+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://cdn13.webmaster360.it/2026/09/covers/01KJME2VSJ832VA7539TKKVCSP.jpg",
+  "titolo": "Ragazzine si prendono a botte davanti al McDonald's, una finisce in ospedale",
+  "link": "https://www.ilfattovesuviano.it/2026/09/ragazzine-si-prendono-a-botte-davanti-al-mcdonalds-una-finisce-in-ospedale",
+  "fonte": "Il Fatto Vesuviano",
+  "data": "Mon, 07 Sep 2026 12:00:00 +0000",
+  "comuni": [],
+  "visto": "2026-09-07T12:25:40+00:00"
+ },
+ {
   "img": "https://www.vesuviolive.it/wp-content/uploads/sites/6/2024/05/Banca-di-Credito-Popolare.jpeg",
   "titolo": "BCP approva il Semestrale 2026: oltre 4 milioni di utili, rafforzamento patrimoniale",
   "link": "https://www.vesuviolive.it/aree-locali/notizie-di-torre-del-greco/544579-torre-greco-bcp-banca-relazione-semestrale-2026/",
@@ -10,6 +29,28 @@
   ],
   "visto": "2026-09-07T11:53:23+00:00",
   "img_provata": true
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/09/IMG_5453-1024x768.jpeg",
+  "titolo": "Torre del Greco, accordo Comune-Regione: 16 milioni per tre importanti progetti",
+  "link": "https://www.metropolisweb.it/2026/09/07/torre-del-greco-accordo-comune-regione-16-milioni-tre-importanti-progetti/",
+  "fonte": "Metropolis",
+  "data": "Mon, 07 Sep 2026 11:34:02 +0000",
+  "comuni": [
+   "Torre del Greco"
+  ],
+  "visto": "2026-09-07T12:25:40+00:00"
+ },
+ {
+  "img": "https://citynews-napolitoday.stgy.ovh/~media/original-hi/50963380212890/binario-2.jpg",
+  "titolo": "Tragedia in stazione: uomo muore travolto da un treno in corsa",
+  "link": "https://www.napolitoday.it/cronaca/morto-investito-treno-portici-treno.html",
+  "fonte": "NapoliToday",
+  "data": "Mon, 07 Sep 2026 13:15:08 +0200",
+  "comuni": [
+   "Portici"
+  ],
+  "visto": "2026-09-07T12:25:40+00:00"
  },
  {
   "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/09/Screenshot-2026-09-07-alle-12.59.11-1024x664.png",
@@ -1040,7 +1081,7 @@
   "visto": "2026-09-05T18:19:41+00:00"
  },
  {
-  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/09/Screenshot-2026-09-05-193039-1024x610.png",
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/09/Screenshot-2026-09-05-193039.png",
   "titolo": "San Bartolo Longo patrono di Pompei, il sindaco: «Riconoscimento storico»",
   "link": "https://www.metropolisweb.it/2026/09/05/san-bartolo-longo-patrono-pompei-sindaco-riconoscimento-storico/",
   "fonte": "Metropolis",
@@ -1147,7 +1188,7 @@
  },
  {
   "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/09/Marocco-Danimarca-1024x854.jpg",
-  "titolo": "SAHARA: DANIMARCA SALUTA PIANO AUTONOMIA MAROCCHINO COME BUONA BASE",
+  "titolo": "Sahara: Danimarca saluta piano autonomia marocchino come buona base",
   "link": "https://www.metropolisweb.it/2026/09/05/sahara-danimarca-saluta-piano-autonomia-marocchino-buona-base/",
   "fonte": "Metropolis",
   "data": "Sat, 05 Sep 2026 14:03:24 +0000",
