@@ -1,5 +1,15 @@
 [
  {
+  "img": "https://www.laprovinciaonline.info/wp-content/uploads/2026/09/Locandina.jpg",
+  "titolo": "“Notte della Tammorra”, XXIV edizione l’11-12 settembre a Piazza Mercato",
+  "link": "https://www.laprovinciaonline.info/notte-della-tammorra-xxiv-edizione-l11-12-settembre-a-piazza-mercato/",
+  "fonte": "La Provincia Online",
+  "data": "Tue, 08 Sep 2026 14:32:53 +0000",
+  "comuni": [],
+  "visto": "2026-09-08T14:37:36+00:00",
+  "img_provata": true
+ },
+ {
   "img": "https://www.vesuviolive.it/wp-content/uploads/sites/6/2026/09/tifosi-savoia.jpeg",
   "titolo": "Il Savoia ritorna al Giraud: “Solo 180 minuti ancora lontano da Torre Annunziata”",
   "link": "https://www.vesuviolive.it/aree-locali/notizie-di-torre-annunziata/544693-il-savoia-ritorna-al-giraud-solo-180-minuti-ancora-lontano/",
@@ -19,6 +29,17 @@
   "data": "Tue, 08 Sep 2026 14:00:00 +0000",
   "comuni": [],
   "visto": "2026-09-08T14:22:23+00:00"
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/01/Schermata-2026-01-13-alle-16.40.07.png",
+  "titolo": "Poggiomarino, maltrattamenti su un bimbo autistico: due maestre indagate",
+  "link": "https://www.metropolisweb.it/2026/09/08/poggiomarino-maltrattamenti-scuola-vittima-un-bimbo-autistico-due-insegnanti-accusa/",
+  "fonte": "Metropolis",
+  "data": "Tue, 08 Sep 2026 13:56:39 +0000",
+  "comuni": [
+   "Poggiomarino"
+  ],
+  "visto": "2026-09-08T14:37:36+00:00"
  },
  {
   "img": "https://www.ansa.it/webimages/img_1280x720/2013/12/16/d65e76753d7f5bf91360d7b5130091eb.jpg",
@@ -41,6 +62,17 @@
   "img_provata": true
  },
  {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/09/console_113_dettaglio_19.jpeg",
+  "titolo": "San Giuseppe Vesuviano: sorpreso a cedere droga, arrestato 41enne dalla Polizia",
+  "link": "https://www.metropolisweb.it/2026/09/08/san-giuseppe-vesuviano-sorpreso-cedere-droga-tratto-arresto-dalla-polizia/",
+  "fonte": "Metropolis",
+  "data": "Tue, 08 Sep 2026 13:49:34 +0000",
+  "comuni": [
+   "San Giuseppe Vesuviano"
+  ],
+  "visto": "2026-09-08T14:37:36+00:00"
+ },
+ {
   "img": "https://www.laprovinciaonline.info/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-08-at-15.39.56.jpeg",
   "titolo": "Di Leva e Pantaleo a Poggiomarino: appuntamento al Parco di Longola",
   "link": "https://www.laprovinciaonline.info/di-leva-e-pantaleo-a-poggiomarino-appuntamento-al-parco-di-longola/",
@@ -61,6 +93,15 @@
   "comuni": [],
   "visto": "2026-09-08T13:55:21+00:00",
   "img_provata": true
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/09/console_100_stadio_2.jpg",
+  "titolo": "Fuorigrotta: sorpreso a cedere droga, arrestato un soggetto dalla Polizia di Stato",
+  "link": "https://www.metropolisweb.it/2026/09/08/fuorigrotta-sorpreso-a-cedere-droga-arrestato-un-soggetto-dalla-polizia-di-stato/",
+  "fonte": "Metropolis",
+  "data": "Tue, 08 Sep 2026 13:36:26 +0000",
+  "comuni": [],
+  "visto": "2026-09-08T14:37:36+00:00"
  },
  {
   "img": "https://www.laprovinciaonline.info/wp-content/uploads/2026/09/Domenico-Sepe-unopera-a-Villa-Doria-dAngri-4.jpg",
@@ -105,6 +146,15 @@
   ],
   "visto": "2026-09-08T13:21:49+00:00",
   "img_provata": true
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/09/volante_centro_napoli_6.jpeg",
+  "titolo": "Casalnuovo: aggredisce l’ex compagna, arrestato 31enne",
+  "link": "https://www.metropolisweb.it/2026/09/08/casalnuovo-aggredisce-lex-compagna-arrestato-31enne/",
+  "fonte": "Metropolis",
+  "data": "Tue, 08 Sep 2026 13:19:36 +0000",
+  "comuni": [],
+  "visto": "2026-09-08T14:37:36+00:00"
  },
  {
   "img": "https://www.laprovinciaonline.info/wp-content/uploads/2026/09/Anna-Di-Corcia-Io-Ci-sto.jpg",
@@ -159,6 +209,26 @@
   "comuni": [],
   "visto": "2026-09-08T13:21:49+00:00",
   "img_provata": true
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/09/castellammare_7.jpeg",
+  "titolo": "Castellammare: Sequestrati 60 grammi di cocaina in uno stabile",
+  "link": "https://www.metropolisweb.it/2026/09/08/castellammare-di-stabia-sequestrati-60-grammi-di-cocaina-in-uno-stabile/",
+  "fonte": "Metropolis",
+  "data": "Tue, 08 Sep 2026 13:02:58 +0000",
+  "comuni": [
+   "Castellammare di Stabia"
+  ],
+  "visto": "2026-09-08T14:37:36+00:00"
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/09/James_Rodriguez_2022-1024x639.jpg",
+  "titolo": "L’Avellino tenta il colpo James Rodriguez",
+  "link": "https://www.metropolisweb.it/2026/09/08/avellino-james-rodriguez-vicino-al-clamoroso-approdo-in-serie-b/",
+  "fonte": "Metropolis",
+  "data": "Tue, 08 Sep 2026 13:00:04 +0000",
+  "comuni": [],
+  "visto": "2026-09-08T14:37:36+00:00"
  },
  {
   "img": "https://cdn13.webmaster360.it/2026/09/covers/HWd7c3Nm3bvHdV4KEXxtYiYxNfGMjlCCzKzuxbzf.jpg",
