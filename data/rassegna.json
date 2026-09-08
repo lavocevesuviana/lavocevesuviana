@@ -1,5 +1,24 @@
 [
  {
+  "img": "https://www.ansa.it/webimages/img_1280x720/2026/9/8/0244447b410d0e424862c232d3584fad.jpg",
+  "titolo": "Operaio folgorato mentre lavora sulla Circumvesuviana, è grave",
+  "link": "https://www.ansa.it/campania/notizie/2026/09/08/operaio-folgorato-mentre-lavora-sulla-circumvesuviana-e-grave_3bb74981-95b8-4ed4-97d0-5be9e0108a70.html",
+  "fonte": "ANSA Campania",
+  "data": "Tue, 8 Sep 2026 11:09:16 +0200",
+  "comuni": [],
+  "visto": "2026-09-08T09:21:01+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://cdn13.webmaster360.it/2026/09/covers/aMADvUuW2WJ1dlZwH6xsCX6IdqcdI1hVCnv3eckQ.jpg",
+  "titolo": "Fuga da 20 chilometri sull'Asse Mediano, poi va a sbattere",
+  "link": "https://www.ilfattovesuviano.it/2026/09/fuga-da-20-chilometri-sullasse-mediano-poi-va-a-sbattere",
+  "fonte": "Il Fatto Vesuviano",
+  "data": "Tue, 08 Sep 2026 09:00:00 +0000",
+  "comuni": [],
+  "visto": "2026-09-08T09:21:01+00:00"
+ },
+ {
   "img": "https://www.laprovinciaonline.info/wp-content/uploads/2026/09/CUBE-2.jpg",
   "titolo": "DALLA SALUTE ALLA TECNOLOGIA DOMESTICA ALL’AMBIENTE L’“ENERGIA DELLE PICCOLE COSE” DI NAPOLI FA VOLARE IL CROWDFUNDING",
   "link": "https://www.laprovinciaonline.info/dalla-salute-alla-tecnologia-domestica-allambiente-lenergia-delle-piccole-cose-di-napoli-fa-volare-il-crowdfunding/",
@@ -8,6 +27,29 @@
   "comuni": [],
   "visto": "2026-09-08T08:55:31+00:00",
   "img_provata": true
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/09/Screenshot-2026-09-07-210450.png",
+  "titolo": "La statua e le reliquie di San Bartolo Longo nelle parrocchie di Pompei",
+  "link": "https://www.metropolisweb.it/2026/09/08/la-statua-le-reliquie-san-bartolo-longo-nelle-parrocchie-pompei/",
+  "fonte": "Metropolis",
+  "data": "Tue, 08 Sep 2026 08:40:52 +0000",
+  "comuni": [
+   "Pompei"
+  ],
+  "visto": "2026-09-08T09:21:01+00:00"
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/09/Schermata-2026-09-08-alle-10.34.17.png",
+  "titolo": "Portici, tragedia alle Mortelle: 50enne di Ercolano muore in mare",
+  "link": "https://www.metropolisweb.it/2026/09/08/portici-tragedia-alle-mortelle-50enne-ercolano-muore-mare/",
+  "fonte": "Metropolis",
+  "data": "Tue, 08 Sep 2026 08:40:34 +0000",
+  "comuni": [
+   "Ercolano",
+   "Portici"
+  ],
+  "visto": "2026-09-08T09:21:01+00:00"
  },
  {
   "img": "https://www.vesuviolive.it/wp-content/uploads/sites/6/2024/12/piazza-vanvitelli-vomero.jpg",
@@ -54,7 +96,7 @@
   "img_provata": true
  },
  {
-  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/09/c0df06ec-61f9-4d00-b25c-b5ab9cec250f.jpeg",
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/09/0ac4ff39-eadb-4da1-8333-0c172440c554-1024x632.jpeg",
   "titolo": "Forza Italia Campania punta sui giovani: Manzo e Ceniccola alla comunicazione",
   "link": "https://www.metropolisweb.it/2026/09/08/forza-italia-campania-punta-sui-giovani-manzo-ceniccola-alla-comunicazione/",
   "fonte": "Metropolis",
