@@ -1,5 +1,34 @@
 [
  {
+  "img": "https://www.vesuviolive.it/wp-content/uploads/sites/6/2023/09/ascierto.jpg",
+  "titolo": "Napoli capitale della lotta ai tumori: i più grandi esperti del mondo arrivano in città",
+  "link": "https://www.vesuviolive.it/ultime-notizie/544708-napoli-cancro-ricerca-meeting/",
+  "fonte": "VesuvioLive",
+  "data": "Wed, 09 Sep 2026 07:51:48 +0000",
+  "comuni": [],
+  "visto": "2026-09-09T07:53:44+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://www.ansa.it/webimages/img_1280x720/2019/3/5/1616b16dd6c9b0fd6995d62be81dfb25.jpg",
+  "titolo": "Circumvesuviana: ancora disagi, soppressa un'intera linea",
+  "link": "https://www.ansa.it/campania/notizie/2026/09/09/circumvesuviana-ancora-disagi-soppressa-unintera-linea_2004cb42-a6e6-4921-bced-c052b7ab747e.html",
+  "fonte": "ANSA Campania",
+  "data": "Wed, 9 Sep 2026 09:41:19 +0200",
+  "comuni": [],
+  "visto": "2026-09-09T07:53:44+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/09/790476436_18616459930028480_1496780447093890078_n-1-scaled-e1788881295775-1024x653.jpg",
+  "titolo": "Juve Stabia, attacco a secco De Giorgio studia le novità",
+  "link": "https://www.metropolisweb.it/2026/09/09/juve-stabia-attacco-a-secco-de-giorgio-studia-le-novita/",
+  "fonte": "Metropolis",
+  "data": "Wed, 09 Sep 2026 07:40:43 +0000",
+  "comuni": [],
+  "visto": "2026-09-09T07:53:44+00:00"
+ },
+ {
   "img": "https://www.ilmediano.com/wp-content/uploads/2026/09/5f08c66f-b82f-4937-a5e9-506cbc2c6e90-1788935974711.jpg-muore_anche_katia_adinolfi_dopo_l_esplosione_in_via_guado_santa_maria.webp",
   "titolo": "Coppia di sanitari muore dopo esplosione: Katia non ce l’ha fatta",
   "link": "https://www.ilmediano.com/coppia-di-sanitari-muore-dopo-esplosione-katia-non-ce-lha-fatta/",
@@ -10,6 +39,34 @@
   "img_provata": true
  },
  {
+  "img": "https://cdn.positanonews.it/photogallery_new/images/2024/03/circumvesuviana-notte-3404554.jpg",
+  "titolo": "Tratte cancellate e bus sostitutivi: l’onda lunga dei guasti investe la Circumvesuviana, allerta ritardi sulla Napoli-Sorrento",
+  "link": "https://www.positanonews.it/2026/09/circumvesuviana-tratte-cancellate-bus-sostitutivi-guasti-ritardi-napoli-sorrento/3855756/",
+  "fonte": "Positano News",
+  "data": "Wed, 09 Sep 2026 07:22:14 +0000",
+  "comuni": [],
+  "visto": "2026-09-09T07:53:44+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2025/02/procura-nola-1024x563.jpg",
+  "titolo": "Abusi su un 12enne a Casalnuovo, oggi la consulenza psicologica",
+  "link": "https://www.metropolisweb.it/2026/09/09/abusi-su-un-12enne-a-casalnuovo-oggi-la-consulenza-psicologica/",
+  "fonte": "Metropolis",
+  "data": "Wed, 09 Sep 2026 07:15:59 +0000",
+  "comuni": [],
+  "visto": "2026-09-09T07:53:44+00:00"
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/03/IMG_0104-1024x554.jpeg",
+  "titolo": "Abbattuto un drone carico di droga diretto al carcere di Poggioreale",
+  "link": "https://www.metropolisweb.it/2026/09/09/abbattuto-un-drone-carico-droga-diretto-al-carcere-poggioreale/",
+  "fonte": "Metropolis",
+  "data": "Wed, 09 Sep 2026 07:07:49 +0000",
+  "comuni": [],
+  "visto": "2026-09-09T07:53:44+00:00"
+ },
+ {
   "img": "https://cdn13.webmaster360.it/2026/09/covers/R9hcuhbm0HaFUKBjSl9xR9KJ05kORiYy3BY8sp5E.jpg",
   "titolo": "Trovato senza vita in un dirupo",
   "link": "https://www.ilfattovesuviano.it/2026/09/trovato-senza-vita-in-un-dirupo",
@@ -17,6 +74,17 @@
   "data": "Wed, 09 Sep 2026 07:00:00 +0000",
   "comuni": [],
   "visto": "2026-09-09T07:21:04+00:00"
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/09/Screenshot-2026-09-09-alle-08.55.19.png",
+  "titolo": "Maxi sequestro sui rifiuti, la pista porta da San Giuseppe Vesuviano alla Turchia",
+  "link": "https://www.metropolisweb.it/2026/09/09/maxi-sequestro-sui-rifiuti-la-pista-porta-san-giuseppe-vesuviano-alla-turchia/",
+  "fonte": "Metropolis",
+  "data": "Wed, 09 Sep 2026 06:58:17 +0000",
+  "comuni": [
+   "San Giuseppe Vesuviano"
+  ],
+  "visto": "2026-09-09T07:53:44+00:00"
  },
  {
   "img": "https://www.vesuviolive.it/wp-content/uploads/sites/6/2024/03/ospedale-del-mare.jpg",
