@@ -10,18 +10,6 @@
   "img_provata": true
  },
  {
-  "img": "https://www.laprovinciaonline.info/wp-content/uploads/2026/09/lucibelli-torre-annunziata.jpeg",
-  "titolo": "Da Amalfi a Torre Annunziata, la saga dei Lucibelli riempie la Libreria Libertà",
-  "link": "https://www.laprovinciaonline.info/libreria-liberta-librionline-lucibelli-leone-sole-stelle/",
-  "fonte": "La Provincia Online",
-  "data": "Thu, 10 Sep 2026 13:01:55 +0000",
-  "comuni": [
-   "Torre Annunziata"
-  ],
-  "visto": "2026-09-10T13:19:38+00:00",
-  "img_provata": true
- },
- {
   "img": "https://cdn13.webmaster360.it/2026/09/covers/01M25CYF8V8DVDPCZC725A976S.jpg",
   "titolo": "Scoperto cimitero di auto rubate",
   "link": "https://www.ilfattovesuviano.it/2026/09/scoperto-cimitero-di-auto-rubate",
@@ -505,6 +493,18 @@
    "Torre del Greco"
   ],
   "visto": "2026-09-10T06:57:34+00:00"
+ },
+ {
+  "img": "https://www.laprovinciaonline.info/wp-content/uploads/2026/09/lucibelli-torre-annunziata.jpeg",
+  "titolo": "Da Amalfi a Torre Annunziata, la saga dei Lucibelli riempie la Libreria Libertà",
+  "link": "https://www.laprovinciaonline.info/libreria-liberta-librionline-lucibelli-leone-sole-stelle/",
+  "fonte": "La Provincia Online",
+  "data": "Thu, 10 Sep 2026 06:01:55 +0000",
+  "comuni": [
+   "Torre Annunziata"
+  ],
+  "visto": "2026-09-10T13:19:38+00:00",
+  "img_provata": true
  },
  {
   "img": "https://cdn13.webmaster360.it/2026/09/covers/cHlnx6FnfbG7fe10xHNUNoy6SLdIICZkhai05KzE.jpg",
