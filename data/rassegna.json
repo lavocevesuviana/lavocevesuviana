@@ -1,5 +1,47 @@
 [
  {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/09/Screenshot-2026-09-11-alle-10.46.47.png",
+  "titolo": "Addio a Emma Bonino, una vita in politica spesa per la difesa dei diritti",
+  "link": "https://www.metropolisweb.it/2026/09/11/addio-emma-bonino-vita-politica-spesa-la-difesa-dei-diritti/",
+  "fonte": "Metropolis",
+  "data": "Fri, 11 Sep 2026 08:49:38 +0000",
+  "comuni": [],
+  "visto": "2026-09-11T08:54:58+00:00"
+ },
+ {
+  "img": "https://www.vesuviolive.it/wp-content/uploads/sites/6/2026/09/emma-bonino.jpg",
+  "titolo": "Come è morta Emma Bonino, la malattia scoperta 10 anni fa: cos’è il Microcitoma",
+  "link": "https://www.vesuviolive.it/ultime-notizie/544821-morta-emma-bonino-malattia-tumore-microcitoma/",
+  "fonte": "VesuvioLive",
+  "data": "Fri, 11 Sep 2026 08:48:15 +0000",
+  "comuni": [],
+  "visto": "2026-09-11T08:54:58+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://www.vesuviolive.it/wp-content/uploads/sites/6/2026/09/Screenshot-2026-09-08-163610.png",
+  "titolo": "ORGOGLIO TORRESE: il Comandante Miele si conferma eccellenza mondiale nella prevenzione sanitaria sulle crociere",
+  "link": "https://www.vesuviolive.it/aree-locali/notizie-di-torre-del-greco/544766-comandante-crociere-vincenzo-miele-record-msc/",
+  "fonte": "VesuvioLive",
+  "data": "Fri, 11 Sep 2026 08:37:15 +0000",
+  "comuni": [
+   "Torre del Greco"
+  ],
+  "visto": "2026-09-11T08:54:58+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/09/Screenshot-2026-09-11-alle-10.35.09.png",
+  "titolo": "Boscoreale: operaio ferito in pericolo vita, indagini sulle cause",
+  "link": "https://www.metropolisweb.it/2026/09/11/boscoreale-operaio-ferito-pericolo-vita-indagini-sulle-cause/",
+  "fonte": "Metropolis",
+  "data": "Fri, 11 Sep 2026 08:35:25 +0000",
+  "comuni": [
+   "Boscoreale"
+  ],
+  "visto": "2026-09-11T08:54:58+00:00"
+ },
+ {
   "img": "https://cdn13.webmaster360.it/2026/09/covers/01M27503BD2BRV6RH92VGWZ7W5.jpg",
   "titolo": "Donna dorme immersa tra i rifiuti in strada",
   "link": "https://www.ilfattovesuviano.it/2026/09/donna-dorme-immersa-tra-i-rifiuti-in-strada",
@@ -7,6 +49,18 @@
   "data": "Fri, 11 Sep 2026 08:30:00 +0000",
   "comuni": [],
   "visto": "2026-09-11T08:36:28+00:00"
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/05/TRIBUNALE-TORRE-1024x527.jpg",
+  "titolo": "Usura, inchiesta a Castellammare e Trecase: 3 donne indagate",
+  "link": "https://www.metropolisweb.it/2026/09/11/849275/",
+  "fonte": "Metropolis",
+  "data": "Fri, 11 Sep 2026 08:19:00 +0000",
+  "comuni": [
+   "Trecase",
+   "Castellammare di Stabia"
+  ],
+  "visto": "2026-09-11T08:54:58+00:00"
  },
  {
   "img": "https://cdn13.webmaster360.it/2026/09/covers/01KTKBGWX0PS1S9HTB5THP439A.jpg",
@@ -30,6 +84,17 @@
   "img_provata": true
  },
  {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/09/Ricordo-dottor-Avellino.jpg",
+  "titolo": "Il ricordo del dottor Avellino, due anni dopo la sua scomparsa: una vita per Pompei",
+  "link": "https://www.metropolisweb.it/2026/09/11/ricordo-del-dottor-avellino-due-anni-la-sua-scomparsa-vita-pompei/",
+  "fonte": "Metropolis",
+  "data": "Fri, 11 Sep 2026 07:56:38 +0000",
+  "comuni": [
+   "Pompei"
+  ],
+  "visto": "2026-09-11T08:54:58+00:00"
+ },
+ {
   "img": "https://www.vesuviolive.it/wp-content/uploads/sites/6/2026/09/rebecca-pepe.jpeg",
   "titolo": "L’ultimo atto d’amore di Rebecca, morta a Napoli a 24 anni: i suoi organi salveranno 5 vite",
   "link": "https://www.vesuviolive.it/ultime-notizie/544818-rebecca-pepe-investita-uccisa-napoli-morta-organi/",
@@ -38,6 +103,17 @@
   "comuni": [],
   "visto": "2026-09-11T08:21:47+00:00",
   "img_provata": true
+ },
+ {
+  "img": "https://citynews-napolitoday.stgy.ovh/~media/original-hi/22046258824705/ambulanza-incidente-2.jpg",
+  "titolo": "Operaio in fin di vita in ospedale: è arrivato con ferite al volto",
+  "link": "https://www.napolitoday.it/cronaca/operaio-ferito-boscotrecase.html",
+  "fonte": "NapoliToday",
+  "data": "Fri, 11 Sep 2026 09:36:50 +0200",
+  "comuni": [
+   "Boscotrecase"
+  ],
+  "visto": "2026-09-11T08:54:58+00:00"
  },
  {
   "img": "https://internapoli.it/mato.clanto.cloud/piwik.php?idsite=6&rec=1&url=https%3A%2F%2Finternapoli.it%2Fennesimo-incidente-nel-napoletano-operaio-rischia-la-vita%2F&action_name=Ennesimo%20incidente%20nel%20Napoletano%2C%20operaio%20rischia%20la%20vita&urlref=https%3A%2F%2Finternapoli.it%2Ffeed%2F",
