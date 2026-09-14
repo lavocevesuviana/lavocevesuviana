@@ -1,5 +1,17 @@
 [
  {
+  "img": "https://www.ansa.it/webimages/img_1280x720/2026/9/14/d9287a0d4b656b91b3969f942bdca368.jpg",
+  "titolo": "Abbattuta villetta abusiva su due piani a Pompei",
+  "link": "https://www.ansa.it/campania/notizie/2026/09/14/abbattuta-villetta-abusiva-su-due-piani-a-pompei_98e265b0-da95-462f-bb79-4947a1b212d5.html",
+  "fonte": "ANSA Campania",
+  "data": "Mon, 14 Sep 2026 14:41:19 +0200",
+  "comuni": [
+   "Pompei"
+  ],
+  "visto": "2026-09-14T11:55:20+00:00",
+  "img_provata": true
+ },
+ {
   "img": "https://www.vesuviolive.it/wp-content/uploads/sites/6/2026/09/balena-capitaneria-porto-torre-greco.jpeg",
   "titolo": "Balena spiaggiata a Torre del Greco, scoperta sulla Litoranea: è un capodoglio di 3 metri",
   "link": "https://www.vesuviolive.it/aree-locali/notizie-di-torre-del-greco/544895-balena-spiaggiata-torre-greco-recupero-carcassa/",
@@ -19,6 +31,28 @@
   "data": "Mon, 14 Sep 2026 12:30:00 +0000",
   "comuni": [],
   "visto": "2026-09-14T12:44:33+00:00"
+ },
+ {
+  "img": "https://citynews-napolitoday.stgy.ovh/~media/original-hi/30810960623677/incendio-a-nola.jpg",
+  "titolo": "Incendio di suppellettili in un asilo: sgomberati tutti i bambini",
+  "link": "https://www.napolitoday.it/cronaca/incendio-asilo-nido-nola.html",
+  "fonte": "NapoliToday",
+  "data": "Mon, 14 Sep 2026 14:24:08 +0200",
+  "comuni": [
+   "Nola"
+  ],
+  "visto": "2026-09-14T12:59:54+00:00"
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/09/anteprima-1024x768.jpeg",
+  "titolo": "Torre del Greco, recuperata la carcassa della balena spiaggiata in Litoranea | VIDEO",
+  "link": "https://www.metropolisweb.it/2026/09/14/torre-del-greco-recuperata-la-carcassa-della-balena-spiaggiata-litoranea-video/",
+  "fonte": "Metropolis",
+  "data": "Mon, 14 Sep 2026 12:19:48 +0000",
+  "comuni": [
+   "Torre del Greco"
+  ],
+  "visto": "2026-09-14T12:59:54+00:00"
  },
  {
   "img": "https://www.vesuviolive.it/wp-content/uploads/sites/6/2026/09/mappa-interattiva-oplonti.png",
@@ -42,6 +76,17 @@
   "visto": "2026-09-14T12:26:00+00:00"
  },
  {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/09/Schermata-2026-09-14-alle-13.52.46.png",
+  "titolo": "Castellammare. Rubato un defibrillatore a Villa Gabola",
+  "link": "https://www.metropolisweb.it/2026/09/14/castellammare-rubato-un-defibrillatore-villa-gabella/",
+  "fonte": "Metropolis",
+  "data": "Mon, 14 Sep 2026 11:54:58 +0000",
+  "comuni": [
+   "Castellammare di Stabia"
+  ],
+  "visto": "2026-09-14T12:59:54+00:00"
+ },
+ {
   "img": "https://www.laprovinciaonline.info/wp-content/uploads/2026/09/IMG-20260914-WA0054.jpg",
   "titolo": "Pollena. Arriva l’ottava edizione del Raduno di Auto, moto e Vespa d’epoca, che ospiterà anche il Memorial Liguori",
   "link": "https://www.laprovinciaonline.info/pollena-arriva-lottava-edizione-del-raduno-di-auto-moto-e-vespa-depoca-che-ospitera-anche-il-memorial-liguori/",
@@ -49,18 +94,6 @@
   "data": "Mon, 14 Sep 2026 11:40:45 +0000",
   "comuni": [
    "Pollena Trocchia"
-  ],
-  "visto": "2026-09-14T11:55:20+00:00",
-  "img_provata": true
- },
- {
-  "img": "https://www.ansa.it/webimages/img_1280x720/2026/9/14/d9287a0d4b656b91b3969f942bdca368.jpg",
-  "titolo": "Abbattuta villetta abusiva su due piani a Pompei",
-  "link": "https://www.ansa.it/campania/notizie/2026/09/14/abbattuta-villetta-abusiva-su-due-piani-a-pompei_98e265b0-da95-462f-bb79-4947a1b212d5.html",
-  "fonte": "ANSA Campania",
-  "data": "Mon, 14 Sep 2026 13:38:08 +0200",
-  "comuni": [
-   "Pompei"
   ],
   "visto": "2026-09-14T11:55:20+00:00",
   "img_provata": true
@@ -3937,7 +3970,7 @@
  },
  {
   "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/09/Guinea-1030-1024x953.jpg",
-  "titolo": "MAROCCO: GUINEA RIBADISCE SOSTEGNO AL PIANO DI AUTONOMIA DEL SAHARA",
+  "titolo": "Marocco: Guinea ribadisce sostegno al piano di autonomia del Sahara",
   "link": "https://www.metropolisweb.it/2026/09/09/marocco-guinea-ribadisce-sostegno-al-piano-autonomia-del-sahara/",
   "fonte": "Metropolis",
   "data": "Wed, 09 Sep 2026 16:36:03 +0000",
