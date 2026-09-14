@@ -1,5 +1,26 @@
 [
  {
+  "img": "https://www.vesuviolive.it/wp-content/uploads/sites/6/2026/09/Nuovo-masterplan-dellAeroporto-di-Napoli-Capodichino-1.jpeg",
+  "titolo": "Aeroporto di Napoli, il nuovo masterplan: 250 milioni di investimenti e voli diretti per Cina e Giappone",
+  "link": "https://www.vesuviolive.it/aree-locali/notizie-di-napoli/544898-aeroporto-di-napoli-il-nuovo-masterplan-250-milioni-di-investimenti-e-voli-diretti-per-cina-e-giappone/",
+  "fonte": "VesuvioLive",
+  "data": "Mon, 14 Sep 2026 13:53:39 +0000",
+  "comuni": [],
+  "visto": "2026-09-14T13:55:06+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://www.cronachedellacampania.it/wp-content/uploads/2026/04/inquinamento-del-sarno-sequestrato-un-cantiere-nautico-a-torre-annunziata-2nE0.jpg",
+  "titolo": "Fiume Sarno, il Consiglio regionale si riunisce in seduta straordinaria: l’1 ottobre resa dei conti su risanamento e sicurezza",
+  "link": "https://www.cronachedellacampania.it/2026/09/fiume-sarno-il-consiglio-regionale-si-riunisce-in-seduta-straordinaria-l1-ottobre-resa-dei-conti-su-risanamento-e-sicurezza/",
+  "fonte": "Cronache della Campania",
+  "data": "Mon, 14 Sep 2026 13:35:42 +0000",
+  "comuni": [
+   "Sarno"
+  ],
+  "visto": "2026-09-14T13:55:06+00:00"
+ },
+ {
   "img": "https://cdn13.webmaster360.it/2026/09/covers/01M2G1WH68SCYHHJSEZJH4P05G.jpg",
   "titolo": "Spinge a terra e scippa donna incinta a Poggiomarino, preso dai carabinieri",
   "link": "https://www.ilfattovesuviano.it/2026/09/spinge-a-terra-e-scippa-donna-incinta-a-poggiomarino-preso-dai-carabinieri",
@@ -9,6 +30,16 @@
    "Poggiomarino"
   ],
   "visto": "2026-09-14T13:37:10+00:00"
+ },
+ {
+  "img": "https://cdn.positanonews.it/photogallery_new/images/2026/09/generico-settembre-2026-3472773.jpg",
+  "titolo": "SORRENTO . CIRCUMVESUVIANA, VIAGGIARE COME SARDINE TRA TURISTI E DISAGI",
+  "link": "https://www.positanonews.it/2026/09/sorrento-circumvesuviana-viaggiare-come-sardine-tra-turisti-e-disagi/3856529/",
+  "fonte": "Positano News",
+  "data": "Mon, 14 Sep 2026 13:22:25 +0000",
+  "comuni": [],
+  "visto": "2026-09-14T13:55:06+00:00",
+  "img_provata": true
  },
  {
   "img": "https://cdn13.webmaster360.it/2026/09/covers/01M2FWBRZFXJ3PPV3Q9NH0G55W.jpg",
@@ -65,7 +96,7 @@
  },
  {
   "img": "https://citynews-napolitoday.stgy.ovh/~media/original-hi/30810960623677/incendio-a-nola.jpg",
-  "titolo": "Incendio in un asilo: messi in salvo tutti i bambini",
+  "titolo": "Incendio di suppellettili in un asilo: sgomberati tutti i bambini",
   "link": "https://www.napolitoday.it/cronaca/incendio-asilo-nido-nola.html",
   "fonte": "NapoliToday",
   "data": "Mon, 14 Sep 2026 14:24:08 +0200",
