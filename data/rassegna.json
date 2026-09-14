@@ -1,5 +1,49 @@
 [
  {
+  "img": "",
+  "titolo": "Volla, albero crolla su auto",
+  "link": "https://www.ilmediano.com/volla-albero-crolla-su-auto/",
+  "fonte": "Il Mediano",
+  "data": "Mon, 14 Sep 2026 09:55:33 +0000",
+  "comuni": [
+   "Volla"
+  ],
+  "visto": "2026-09-14T09:57:07+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://www.vesuviolive.it/wp-content/uploads/sites/6/2026/09/nando-de-marco.jpg",
+  "titolo": "Il neomelodico si vanta di aver “bloccato Torre del Greco” ma il concerto non era autorizzato: indagini in corso",
+  "link": "https://www.vesuviolive.it/aree-locali/notizie-di-torre-del-greco/544872-il-neomelodico-si-vanta-di-aver-bloccato-torre-del-greco-ma-il-concerto-non-era-autorizzato-indagini-in-corso/",
+  "fonte": "VesuvioLive",
+  "data": "Mon, 14 Sep 2026 09:54:46 +0000",
+  "comuni": [
+   "Torre del Greco"
+  ],
+  "visto": "2026-09-14T09:57:07+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://www.cronachedellacampania.it/wp-content/uploads/2026/09/pompei-demolita-una-villetta-abusiva-in-zona-rossa-dlem.jpg",
+  "titolo": "Pompei, demolita una villetta abusiva in zona rossa",
+  "link": "https://www.cronachedellacampania.it/2026/09/pompei-demolita-una-villetta-abusiva-in-zona-rossa/",
+  "fonte": "Cronache della Campania",
+  "data": "Mon, 14 Sep 2026 09:49:22 +0000",
+  "comuni": [
+   "Pompei"
+  ],
+  "visto": "2026-09-14T09:57:07+00:00"
+ },
+ {
+  "img": "https://internapoli.it/mato.clanto.cloud/piwik.php?idsite=6&rec=1&url=https%3A%2F%2Finternapoli.it%2Fcardellini-nascosti-nella-concessionaria-dauto-blitz-nel-napoletano%2F&action_name=Cardellini%20nascosti%20nella%20concessionaria%20d%26%238217%3Bauto%2C%20blitz%20nel%20Napoletano&urlref=https%3A%2F%2Finternapoli.it%2Ffeed%2F",
+  "titolo": "Cardellini nascosti nella concessionaria d’auto, blitz nel Napoletano",
+  "link": "https://internapoli.it/cardellini-nascosti-nella-concessionaria-dauto-blitz-nel-napoletano/",
+  "fonte": "Internapoli",
+  "data": "Mon, 14 Sep 2026 09:41:54 +0000",
+  "comuni": [],
+  "visto": "2026-09-14T09:57:07+00:00"
+ },
+ {
   "img": "https://cdn13.webmaster360.it/2026/09/covers/k2zC2ZZiE5Ymu0y2Sovm1pvU79U8JIGjM9DQYmOl.jpg",
   "titolo": "Commando ruba tutti i telefoni di Napolitano Store finiti all'asta",
   "link": "https://www.ilfattovesuviano.it/2026/09/commando-ruba-tutti-i-telefoni-di-napolitano-store-finiti-allasta",
@@ -7,6 +51,15 @@
   "data": "Mon, 14 Sep 2026 09:30:00 +0000",
   "comuni": [],
   "visto": "2026-09-14T09:36:39+00:00"
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/09/IMG_0453-1024x567.jpeg",
+  "titolo": "Salerno, inaugurato il nuovo anno educativo: “Noi tra le prime quattro città d’Italia per asili nido”",
+  "link": "https://www.metropolisweb.it/2026/09/14/salerno-inaugurato-anno-educativo-le-prime-quattro-citta-ditalia-asili-nido/",
+  "fonte": "Metropolis",
+  "data": "Mon, 14 Sep 2026 09:22:21 +0000",
+  "comuni": [],
+  "visto": "2026-09-14T09:57:07+00:00"
  },
  {
   "img": "https://www.vesuviolive.it/wp-content/uploads/sites/6/2026/09/Tenuta-Nunziata-3.jpg",
@@ -20,6 +73,17 @@
   "visto": "2026-09-14T09:22:25+00:00"
  },
  {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/09/IMG_5552-1-1024x768.jpeg",
+  "titolo": "Torre del Greco, auto elettrica «impazzisce» nel vicolo del cimitero: tragedia sfiorata",
+  "link": "https://www.metropolisweb.it/2026/09/14/torre-del-greco-auto-elettrica-impazzisce-nel-vicolo-del-cimitero-tragedia-sfiorata/",
+  "fonte": "Metropolis",
+  "data": "Mon, 14 Sep 2026 09:12:28 +0000",
+  "comuni": [
+   "Torre del Greco"
+  ],
+  "visto": "2026-09-14T09:57:07+00:00"
+ },
+ {
   "img": "https://cdn13.webmaster360.it/2026/09/covers/01M2EJTRD50W9Y9QK31E1G0501.jpg",
   "titolo": "Grosso albero crolla in strada nei Paesi Vesuviani",
   "link": "https://www.ilfattovesuviano.it/2026/09/grosso-albero-crolla-in-strada-nei-paesi-vesuviani",
@@ -27,6 +91,15 @@
   "data": "Mon, 14 Sep 2026 09:00:00 +0000",
   "comuni": [],
   "visto": "2026-09-14T09:22:25+00:00"
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/04/Screenshot-2026-04-02-110252.png",
+  "titolo": "Sanità, sciopero nazionale dei medici",
+  "link": "https://www.metropolisweb.it/2026/09/14/sanita-sciopero-nazionale-dei-medici/",
+  "fonte": "Metropolis",
+  "data": "Mon, 14 Sep 2026 08:58:25 +0000",
+  "comuni": [],
+  "visto": "2026-09-14T09:57:07+00:00"
  },
  {
   "img": "https://cdn.positanonews.it/photogallery_new/images/2026/07/violenza-3468960.jpg",
@@ -1674,7 +1747,7 @@
   "visto": "2026-09-12T04:19:05+00:00"
  },
  {
-  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/09/8136b6bae007fad72d8f16e0f47028e1.jpg",
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/09/Screenshot-2026-09-14-alle-10.25.17-1024x593.png",
   "titolo": "Paolo Stella: «La felicità inizia dalla capacità di meravigliarsi»",
   "link": "https://www.metropolisweb.it/2026/09/12/paolo-stella-la-felicita-inizia-dalla-capacita-meravigliarsi/",
   "fonte": "Metropolis",
@@ -3612,7 +3685,7 @@
  },
  {
   "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/09/Guinea-1030-1024x953.jpg",
-  "titolo": "MAROCCO: GUINEA RIBADISCE SOSTEGNO AL PIANO DI AUTONOMIA DEL SAHARA",
+  "titolo": "Marocco: Guinea ribadisce sostegno al piano di autonomia del Sahara",
   "link": "https://www.metropolisweb.it/2026/09/09/marocco-guinea-ribadisce-sostegno-al-piano-autonomia-del-sahara/",
   "fonte": "Metropolis",
   "data": "Wed, 09 Sep 2026 16:36:03 +0000",
