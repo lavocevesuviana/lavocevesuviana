@@ -1,5 +1,24 @@
 [
  {
+  "img": "https://www.vesuviolive.it/wp-content/uploads/sites/6/2026/09/oktoberdays-napoli.jpg",
+  "titolo": "OktoberDays a Napoli, via alla grande festa bavarese: birra, tavolate, stand e spettacoli",
+  "link": "https://www.vesuviolive.it/eventi/544899-oktoberdays-palapartenope-napoli-evento-2026/",
+  "fonte": "VesuvioLive",
+  "data": "Mon, 14 Sep 2026 14:08:10 +0000",
+  "comuni": [],
+  "visto": "2026-09-14T14:22:04+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://cdn13.webmaster360.it/2026/09/covers/01M2FXCX8T1KKHH6TY30GP92ZQ.jpg",
+  "titolo": "Provano una rapina, litigano e finiscono investiti: due gravi e uno in coma",
+  "link": "https://www.ilfattovesuviano.it/2026/09/provano-una-rapina-litigano-e-finiscono-investiti-due-gravi-e-uno-in-coma",
+  "fonte": "Il Fatto Vesuviano",
+  "data": "Mon, 14 Sep 2026 14:00:00 +0000",
+  "comuni": [],
+  "visto": "2026-09-14T14:22:04+00:00"
+ },
+ {
   "img": "https://www.vesuviolive.it/wp-content/uploads/sites/6/2026/09/Nuovo-masterplan-dellAeroporto-di-Napoli-Capodichino-1.jpeg",
   "titolo": "Aeroporto di Napoli, il nuovo masterplan: 250 milioni di investimenti e voli diretti per Cina e Giappone",
   "link": "https://www.vesuviolive.it/aree-locali/notizie-di-napoli/544898-aeroporto-di-napoli-il-nuovo-masterplan-250-milioni-di-investimenti-e-voli-diretti-per-cina-e-giappone/",
@@ -8,6 +27,17 @@
   "comuni": [],
   "visto": "2026-09-14T13:55:06+00:00",
   "img_provata": true
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/09/Screenshot_20260914_115326_Facebook-scaled-1024x881.jpg",
+  "titolo": "Castellammare. Inaugurazione “cafonal” in via Roma, traffico paralizzato",
+  "link": "https://www.metropolisweb.it/2026/09/14/castellammare-inaugurazione-cafonal-via-roma-traffico-paralizzato/",
+  "fonte": "Metropolis",
+  "data": "Mon, 14 Sep 2026 13:40:30 +0000",
+  "comuni": [
+   "Castellammare di Stabia"
+  ],
+  "visto": "2026-09-14T14:22:04+00:00"
  },
  {
   "img": "https://www.cronachedellacampania.it/wp-content/uploads/2026/04/inquinamento-del-sarno-sequestrato-un-cantiere-nautico-a-torre-annunziata-2nE0.jpg",
@@ -96,7 +126,7 @@
  },
  {
   "img": "https://citynews-napolitoday.stgy.ovh/~media/original-hi/30810960623677/incendio-a-nola.jpg",
-  "titolo": "Incendio di suppellettili in un asilo: sgomberati tutti i bambini",
+  "titolo": "Incendio in un asilo: messi in salvo tutti i bambini",
   "link": "https://www.napolitoday.it/cronaca/incendio-asilo-nido-nola.html",
   "fonte": "NapoliToday",
   "data": "Mon, 14 Sep 2026 14:24:08 +0200",
@@ -115,6 +145,17 @@
    "Torre del Greco"
   ],
   "visto": "2026-09-14T12:59:54+00:00"
+ },
+ {
+  "img": "https://citynews-napolitoday.stgy.ovh/~media/original-hi/21786786820065/violenza-sulle-donne-5.jpg",
+  "titolo": "Fingere di essere morta sotto travi di legno di due metri: i dettagli della violenza a Castellammare",
+  "link": "https://www.napolitoday.it/cronaca/dettagli-violenza-castellammare.html",
+  "fonte": "NapoliToday",
+  "data": "Mon, 14 Sep 2026 14:08:55 +0200",
+  "comuni": [
+   "Castellammare di Stabia"
+  ],
+  "visto": "2026-09-14T14:22:04+00:00"
  },
  {
   "img": "https://www.vesuviolive.it/wp-content/uploads/sites/6/2026/09/mappa-interattiva-oplonti.png",
