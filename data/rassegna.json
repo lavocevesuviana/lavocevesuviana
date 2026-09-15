@@ -1,5 +1,46 @@
 [
  {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/09/Incendio-1.jpg",
+  "titolo": "Costiera amalfitana nella morsa del fuoco: paura tra Positano, Amalfi e Agerola",
+  "link": "https://www.metropolisweb.it/2026/09/15/costiera-amalfitana-nella-morsa-del-fuoco-paura-positano-amalfi-agerola/",
+  "fonte": "Metropolis",
+  "data": "Tue, 15 Sep 2026 14:05:31 +0000",
+  "comuni": [],
+  "visto": "2026-09-15T14:20:11+00:00"
+ },
+ {
+  "img": "https://www.cronachedellacampania.it/wp-content/uploads/2026/09/pompei-torna-a-vendemmiare-la-festa-del-vino-riporta-bacco-tra-gli-antichi-vigneti-degli-scavi-mpt9.jpg",
+  "titolo": "Pompei torna a vendemmiare: la Festa del Vino riporta Bacco tra gli antichi vigneti degli Scavi",
+  "link": "https://www.cronachedellacampania.it/2026/09/pompei-torna-a-vendemmiare-la-festa-del-vino-riporta-bacco-tra-gli-antichi-vigneti-degli-scavi/",
+  "fonte": "Cronache della Campania",
+  "data": "Tue, 15 Sep 2026 14:05:03 +0000",
+  "comuni": [
+   "Pompei"
+  ],
+  "visto": "2026-09-15T14:20:11+00:00"
+ },
+ {
+  "img": "https://www.ansa.it/webimages/img_1280x720/2026/9/15/2b393e35dc3c42508edf08953748bfc7.jpg",
+  "titolo": "Ercolano di notte, sabato 26 settembre il Parco apre tra teatro, danza e musica",
+  "link": "https://www.ansa.it/campania/notizie/2026/09/15/ercolano-di-notte-sabato-26-settembre-il-parco-apre-tra-teatro-danza-e-musica_6aae4221-51ac-4716-bd81-df3e0c9985ec.html",
+  "fonte": "ANSA Campania",
+  "data": "Tue, 15 Sep 2026 16:03:21 +0200",
+  "comuni": [
+   "Ercolano"
+  ],
+  "visto": "2026-09-15T14:20:11+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://cdn13.webmaster360.it/2026/09/covers/01KWSVW6XBXG4BZ5SYQ6TT0WWR.jpg",
+  "titolo": "Donna colpita da un proiettile alla spalla mentre passeggia",
+  "link": "https://www.ilfattovesuviano.it/2026/09/donna-colpita-da-un-proiettile-alla-spalla-mentre-passeggia",
+  "fonte": "Il Fatto Vesuviano",
+  "data": "Tue, 15 Sep 2026 14:00:00 +0000",
+  "comuni": [],
+  "visto": "2026-09-15T14:20:11+00:00"
+ },
+ {
   "img": "https://www.laprovinciaonline.info/wp-content/uploads/2026/09/IMG-20260915-WA0065.jpg",
   "titolo": "Violenza nelle scuole: a Napoli istituzioni, esperti e studenti a confronto",
   "link": "https://www.laprovinciaonline.info/violenza-nelle-scuole-a-napoli-istituzioni-esperti-e-studenti-a-confronto/",
