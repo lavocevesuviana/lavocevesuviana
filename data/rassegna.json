@@ -1,5 +1,28 @@
 [
  {
+  "img": "https://www.vesuviolive.it/wp-content/uploads/sites/6/2026/09/palazzo-fienga.jpg",
+  "titolo": "Palazzo Fienga abbattuto, perché Torre Annunziata è una città che non rinasce",
+  "link": "https://www.vesuviolive.it/aree-locali/notizie-di-torre-annunziata/544987-abbattimento-palazzo-fienga-perche-torre-annunziata-non-rinasce/",
+  "fonte": "VesuvioLive",
+  "data": "Wed, 16 Sep 2026 09:25:25 +0000",
+  "comuni": [
+   "Torre Annunziata"
+  ],
+  "visto": "2026-09-16T09:35:10+00:00"
+ },
+ {
+  "img": "https://www.ansa.it/webimages/img_1280x720/2026/9/16/f5399d0a6201b7b66e743c789da5fe38.jpg",
+  "titolo": "Abusi su un turista minorenne, arrestato custode degli Scavi di Pompei",
+  "link": "https://www.ansa.it/campania/notizie/2026/09/16/abusi-su-un-turista-minorenne-arrestato-custode-degli-scavi-di-pompei_17694238-f2f1-4b44-8d04-c9d4522b9835.html",
+  "fonte": "ANSA Campania",
+  "data": "Wed, 16 Sep 2026 11:15:06 +0200",
+  "comuni": [
+   "Pompei"
+  ],
+  "visto": "2026-09-16T08:54:18+00:00",
+  "img_provata": true
+ },
+ {
   "img": "https://www.vesuviolive.it/wp-content/uploads/sites/6/2025/02/pompei.jpg",
   "titolo": "Ragazzo di 17 anni violentato agli Scavi: “Costretto a ripetuti atti sessuali dal custode”",
   "link": "https://www.vesuviolive.it/ultime-notizie/544986-violenza-sessuale-scavi-pompei-arrestato/",
@@ -30,18 +53,6 @@
    "Pompei"
   ],
   "visto": "2026-09-16T09:19:53+00:00",
-  "img_provata": true
- },
- {
-  "img": "https://www.ansa.it/webimages/img_1280x720/2026/9/16/f5399d0a6201b7b66e743c789da5fe38.jpg",
-  "titolo": "Abusi su un turista minorenne, arrestato custode degli Scavi di Pompei",
-  "link": "https://www.ansa.it/campania/notizie/2026/09/16/abusi-su-un-turista-minorenne-arrestato-custode-degli-scavi-di-pompei_17694238-f2f1-4b44-8d04-c9d4522b9835.html",
-  "fonte": "ANSA Campania",
-  "data": "Wed, 16 Sep 2026 10:47:07 +0200",
-  "comuni": [
-   "Pompei"
-  ],
-  "visto": "2026-09-16T08:54:18+00:00",
   "img_provata": true
  },
  {
