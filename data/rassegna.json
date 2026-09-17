@@ -1,5 +1,36 @@
 [
  {
+  "img": "https://cdn13.webmaster360.it/2026/09/covers/YGbVog2rPtk9At9KRwmc7xOcMSC6W96dcNxVnGgg.jpg",
+  "titolo": "Spuntano resti umani dal cantiere, lavori sospesi",
+  "link": "https://www.ilfattovesuviano.it/2026/09/spuntano-resti-umani-dal-cantiere-lavori-sospesi",
+  "fonte": "Il Fatto Vesuviano",
+  "data": "Thu, 17 Sep 2026 21:00:00 +0000",
+  "comuni": [],
+  "visto": "2026-09-17T23:07:03+00:00"
+ },
+ {
+  "img": "https://www.ilmediano.com/wp-content/uploads/2026/04/polizia_a.jpg",
+  "titolo": "Incendio in una scuola di Nola, polizia mette in salvo studenti",
+  "link": "https://www.ilmediano.com/incendio-in-una-scuola-di-nola-polizia-mette-in-salvo-studenti/",
+  "fonte": "Il Mediano",
+  "data": "Thu, 17 Sep 2026 20:38:57 +0000",
+  "comuni": [
+   "Nola"
+  ],
+  "visto": "2026-09-17T23:07:03+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://www.ilmediano.com/wp-content/uploads/2026/09/MArcianise.jpg",
+  "titolo": "Si fingono agenti della questura e portano via bottino da 100mila euro, un arresto ad Acerra",
+  "link": "https://www.ilmediano.com/si-fingono-agenti-della-questura-e-portano-via-bottino-da-100mila-euro-un-arresto-ad-acerra/",
+  "fonte": "Il Mediano",
+  "data": "Thu, 17 Sep 2026 20:34:43 +0000",
+  "comuni": [],
+  "visto": "2026-09-17T23:07:03+00:00",
+  "img_provata": true
+ },
+ {
   "img": "https://www.ilmediano.com/wp-content/uploads/2026/09/panico_1.jpg",
   "titolo": "Violenza di genere e femminicidio, presidente Panico in visita al carcere di Secondigliano",
   "link": "https://www.ilmediano.com/violenza-di-genere-e-femminicidio-presidente-panico-in-visita-al-carcere-di-secondigliano/",
@@ -8,6 +39,17 @@
   "comuni": [],
   "visto": "2026-09-17T20:34:26+00:00",
   "img_provata": true
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/05/Schermata-2026-05-27-alle-18.12.06.png",
+  "titolo": "Castellammare | Ucciso fuori al tribunale, a processo il boss Imparato: accompagnò il killer",
+  "link": "https://www.metropolisweb.it/2026/09/17/castellammare-ucciso-al-tribunale-processo-boss-imparato-accompagno-killer/?ta_paidstory",
+  "fonte": "Metropolis",
+  "data": "Thu, 17 Sep 2026 20:04:09 +0000",
+  "comuni": [
+   "Castellammare di Stabia"
+  ],
+  "visto": "2026-09-17T23:07:03+00:00"
  },
  {
   "img": "https://cdn13.webmaster360.it/2026/09/covers/01KQMXVT0X7SC661Y02BVS4WF0.jpg",
@@ -46,6 +88,17 @@
    "Nola"
   ],
   "visto": "2026-09-17T20:34:26+00:00"
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/09/Screenshot-2026-09-17-202824.png",
+  "titolo": "Abusi tra le rovine di Pompei: il percorso del custode tracciato dalle telecamere",
+  "link": "https://www.metropolisweb.it/2026/09/17/abusi-le-rovine-pompei-percorso-del-custode-tracciato-dalle-telecamere/",
+  "fonte": "Metropolis",
+  "data": "Thu, 17 Sep 2026 18:28:47 +0000",
+  "comuni": [
+   "Pompei"
+  ],
+  "visto": "2026-09-17T23:07:03+00:00"
  },
  {
   "img": "https://cdn13.webmaster360.it/2026/09/covers/01KBQDZJNV75B5S9QQ1YEMJJDS.jpg",
