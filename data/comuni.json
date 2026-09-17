@@ -1,5 +1,14 @@
 [
  {
+  "titolo": "AVVISO - indagine esplorativa per la gestione del micronido \"Via Pappalardo\" con sede in Via Pappalardo, Ottaviano, presso l'I.C. \"Piero Angela\" – Anno Educativo 2026-2027",
+  "link": "https://www.comune.ottaviano.na.it/it/news/avviso-indagine-esplorativa-per-la-gestione-del-micronido-via-pappalardo-con-sede-in-via-pappalardo-ottaviano-presso-l-i-c-piero-angela-anno-educativo-2026-2027",
+  "fonte": "Comune di Ottaviano",
+  "comuni": [
+   "Ottaviano"
+  ],
+  "visto": "2026-09-17T11:34:33+00:00"
+ },
+ {
   "titolo": "Buoni libro - Tetti di spesa – Anno scolastico 2026/2027",
   "link": "https://www.comune.ottaviano.na.it/it/news/buoni-libro-tetti-di-spesa-anno-scolastico-2026-2027",
   "fonte": "Comune di Ottaviano",
@@ -189,15 +198,6 @@
   "visto": "2026-08-18T12:54:50+00:00"
  },
  {
-  "titolo": "Comunicato Stampa: Riunione di coordinamento per una più efficiente gestione dei cantieri sul territorio comunale",
-  "link": "https://www.comune.poggiomarino.na.it/it/novita/page/comunicato-stampa-riunione-di-coordinamento-per-una-piu-efficiente-gestione-dei-cantieri-sul-territorio-comunale",
-  "fonte": "Comune di Poggiomarino",
-  "comuni": [
-   "Poggiomarino"
-  ],
-  "visto": "2026-08-18T12:54:50+00:00"
- },
- {
   "titolo": "Comunicato: Incendio Parco Archeologico Naturalistico di Longola",
   "link": "https://www.comune.poggiomarino.na.it/it/novita/page/comunicato-incendio-parco-archeologico-naturalistico-di-longola",
   "fonte": "Comune di Poggiomarino",
@@ -218,6 +218,15 @@
  {
   "titolo": "Comunicato: Natale dei Desideri - Imparare con le Favole",
   "link": "https://www.comune.poggiomarino.na.it/it/novita/page/comunicato-natale-dei-desideri-imparare-le-favole",
+  "fonte": "Comune di Poggiomarino",
+  "comuni": [
+   "Poggiomarino"
+  ],
+  "visto": "2026-08-18T12:54:50+00:00"
+ },
+ {
+  "titolo": "Comunicato Stampa: Riunione di coordinamento per una più efficiente gestione dei cantieri sul territorio comunale",
+  "link": "https://www.comune.poggiomarino.na.it/it/novita/page/comunicato-stampa-riunione-di-coordinamento-per-una-piu-efficiente-gestione-dei-cantieri-sul-territorio-comunale",
   "fonte": "Comune di Poggiomarino",
   "comuni": [
    "Poggiomarino"
