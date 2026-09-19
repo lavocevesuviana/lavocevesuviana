@@ -1,5 +1,68 @@
 [
  {
+  "img": "https://cdn13.webmaster360.it/2026/09/covers/GaGxAfjhfJ3Gpdnwc3hfu7y9ghx79bm56t4KBrKZ.jpg",
+  "titolo": "Conclusi i lavori, sta per tornare l'acqua in 11 comuni vesuviani",
+  "link": "https://www.ilfattovesuviano.it/2026/09/conclusi-i-lavori-sta-per-tornare-lacqua-in-11-comuni-vesuviani",
+  "fonte": "Il Fatto Vesuviano",
+  "data": "Sat, 19 Sep 2026 19:00:00 +0000",
+  "comuni": [],
+  "visto": "2026-09-19T19:24:12+00:00"
+ },
+ {
+  "img": "https://cdn13.webmaster360.it/2026/09/covers/LCJbLgcQccxnNjSdcaENmmmUIj0y6xyKq6hfJgoP.jpg",
+  "titolo": "Una 15enne in coma etilico, chiusa discoteca",
+  "link": "https://www.ilfattovesuviano.it/2026/09/una-15enne-in-coma-etilico-chiusa-discoteca",
+  "fonte": "Il Fatto Vesuviano",
+  "data": "Sat, 19 Sep 2026 18:30:00 +0000",
+  "comuni": [],
+  "visto": "2026-09-19T19:24:12+00:00"
+ },
+ {
+  "img": "https://www.laprovinciaonline.info/wp-content/uploads/2023/09/Scuolabus-generico.jpg",
+  "titolo": "Sant’Anastasia, l’Opposizione: Non parte il trasporto scolastico: “Disagi per le famiglie, chiarimenti immediati”",
+  "link": "https://www.laprovinciaonline.info/santanastasia-lopposizione-non-parte-il-trasporto-scolastico-disagi-per-le-famiglie-chiarimenti-immediati/",
+  "fonte": "La Provincia Online",
+  "data": "Sat, 19 Sep 2026 18:01:53 +0000",
+  "comuni": [
+   "Sant'Anastasia"
+  ],
+  "visto": "2026-09-19T19:24:12+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://cdn13.webmaster360.it/2026/09/covers/01M2X6QTNMNWEPTBB84NX7M2DV.jpg",
+  "titolo": "Schianto tra auto e furgone: un morto e due feriti gravi in Campania",
+  "link": "https://www.ilfattovesuviano.it/2026/09/schianto-tra-auto-e-furgone-un-morto-e-due-feriti-gravi-in-campania",
+  "fonte": "Il Fatto Vesuviano",
+  "data": "Sat, 19 Sep 2026 18:00:00 +0000",
+  "comuni": [],
+  "visto": "2026-09-19T19:24:12+00:00"
+ },
+ {
+  "img": "https://www.laprovinciaonline.info/wp-content/uploads/2026/09/IMG-20260918-WA03691.jpg",
+  "titolo": "Nasce il Comitato Civico Locale “Ottaviano” di Progetto Civico Italia",
+  "link": "https://www.laprovinciaonline.info/nasce-il-comitato-civico-locale-ottaviano-di-progetto-civico-italia/",
+  "fonte": "La Provincia Online",
+  "data": "Sat, 19 Sep 2026 17:56:28 +0000",
+  "comuni": [
+   "Ottaviano"
+  ],
+  "visto": "2026-09-19T19:24:12+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://cdn.positanonews.it/photogallery_new/images/2026/09/generico-settembre-2026-3473094.jpg",
+  "titolo": "San Vito Positano-Poggiomarino 3-3: batticuore al “De Sica”",
+  "link": "https://www.positanonews.it/2026/09/san-vito-positano-poggiomarino-3-3-batticuore-al-de-sica/3857351/",
+  "fonte": "Positano News",
+  "data": "Sat, 19 Sep 2026 17:10:25 +0000",
+  "comuni": [
+   "Poggiomarino"
+  ],
+  "visto": "2026-09-19T19:24:12+00:00",
+  "img_provata": true
+ },
+ {
   "img": "https://cdn13.webmaster360.it/2026/09/covers/01M2X6H0J0T2BM9DEQKXCRWCCY.jpg",
   "titolo": "Tir carico di pomodori getta auto contro il guardrail: paura sull'A16 nel Nolano",
   "link": "https://www.ilfattovesuviano.it/2026/09/tir-carico-di-pomodori-getta-auto-contro-il-guardrail-paura-sulla16-nel-nolano",
@@ -1142,7 +1205,7 @@
  },
  {
   "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/09/Schermata-2026-09-18-alle-15.15.36.png",
-  "titolo": "Pizza a Vico, numeri da record: 45 mila fette servite e 2.250 metri di pizza di vico",
+  "titolo": "Pizza a vico, numeri da record: 45 mila fette servite e 2.250 metri di pizza di vico",
   "link": "https://www.metropolisweb.it/2026/09/18/851661/",
   "fonte": "Metropolis",
   "data": "Fri, 18 Sep 2026 13:27:06 +0000",
