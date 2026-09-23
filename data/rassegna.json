@@ -1,5 +1,467 @@
 [
  {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/01/2026-01-14-1-e1768390001678-1024x541.png",
+  "titolo": "Livelli essenziali di assistenza, Campania migliora ma ancora tra le peggiori",
+  "link": "https://www.metropolisweb.it/2026/09/23/853369/",
+  "fonte": "Metropolis",
+  "data": "Wed, 23 Sep 2026 11:05:14 +0000",
+  "comuni": [],
+  "visto": "2026-09-23T11:53:04+00:00"
+ },
+ {
+  "img": "https://www.laprovinciaonline.info/wp-content/uploads/2026/09/IMG-20260923-WA0064.jpg",
+  "titolo": "La libera informazione” diventa teatro: il 26 settembre a Somma Vesuviana il primo Reading Party dedicato al libro di Sonia Sodano",
+  "link": "https://www.laprovinciaonline.info/la-libera-informazione-diventa-teatro-il-26-settembre-a-somma-vesuviana-il-primo-reading-party-dedicato-al-libro-di-sonia-sodano/",
+  "fonte": "La Provincia Online",
+  "data": "Wed, 23 Sep 2026 11:00:10 +0000",
+  "comuni": [
+   "Somma Vesuviana"
+  ],
+  "visto": "2026-09-23T11:53:04+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://cdn13.webmaster360.it/2026/09/covers/01M36MANT9S5PNFK8H0DR6QFVH.jpg",
+  "titolo": "La droga nascosta nei boschi in Campania",
+  "link": "https://www.ilfattovesuviano.it/2026/09/la-droga-nascosta-nei-boschi-in-campania",
+  "fonte": "Il Fatto Vesuviano",
+  "data": "Wed, 23 Sep 2026 11:00:00 +0000",
+  "comuni": [],
+  "visto": "2026-09-23T11:53:04+00:00"
+ },
+ {
+  "img": "https://www.laprovinciaonline.info/wp-content/uploads/2026/09/Farmacia-distrettuale-Ottaviano.webp",
+  "titolo": "Farmacia distrettuale di Ottaviano Asl Napoli 3 Sud Nuova organizzazione: più aperture e servizi digitali",
+  "link": "https://www.laprovinciaonline.info/farmacia-distrettuale-di-ottaviano-asl-napoli-3-sud-nuova-organizzazione-piu-aperture-e-servizi-digitali/",
+  "fonte": "La Provincia Online",
+  "data": "Wed, 23 Sep 2026 10:53:42 +0000",
+  "comuni": [
+   "Ottaviano"
+  ],
+  "visto": "2026-09-23T11:53:04+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://www.laprovinciaonline.info/wp-content/uploads/2026/09/Opposizione-Somma-Vesuviana-.jpg",
+  "titolo": "L’Opposizione: “In Aula abbiamo dimostrato responsabilità, competenza ed attenzione ai temi di interesse collettivo”",
+  "link": "https://www.laprovinciaonline.info/lopposizione-in-aula-abbiamo-dimostrato-responsabilita-competenza-ed-attenzione-ai-temi-di-interesse-collettivo/",
+  "fonte": "La Provincia Online",
+  "data": "Wed, 23 Sep 2026 10:49:01 +0000",
+  "comuni": [],
+  "visto": "2026-09-23T11:53:04+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://www.vesuviolive.it/wp-content/uploads/sites/6/2026/09/terzigno-coltello-scuola.jpg",
+  "titolo": "Porta un coltello a scuola dopo una lite: i due 14enni si incontrano e fanno pace",
+  "link": "https://www.vesuviolive.it/ultime-notizie/545291-coltello-scuola-terzigno-ragazzi-pace-sindaco/",
+  "fonte": "VesuvioLive",
+  "data": "Wed, 23 Sep 2026 10:48:03 +0000",
+  "comuni": [
+   "Terzigno"
+  ],
+  "visto": "2026-09-23T11:53:04+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://www.laprovinciaonline.info/wp-content/uploads/2026/09/Alessandro-Ciccarelli-.jpg",
+  "titolo": "Tragedia sulla Statale 162: Sant’Anastasia piange Alessandro Ciccarelli,",
+  "link": "https://www.laprovinciaonline.info/tragedia-sulla-statale-162-santanastasia-piange-alessandro-ciccarelli/",
+  "fonte": "La Provincia Online",
+  "data": "Wed, 23 Sep 2026 10:39:52 +0000",
+  "comuni": [
+   "Sant'Anastasia"
+  ],
+  "visto": "2026-09-23T11:53:04+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://cdn13.webmaster360.it/2026/09/covers/01KTSC1WJEYBWZGP0N4X6D1E6Q.jpg",
+  "titolo": "Coltello nel bagno della scuola, è di un 14enne che voleva vendicarsi della prof",
+  "link": "https://www.ilfattovesuviano.it/2026/09/coltello-nel-bagno-della-scuola-e-di-un-14enne-che-voleva-vendicarsi-della-prof",
+  "fonte": "Il Fatto Vesuviano",
+  "data": "Wed, 23 Sep 2026 10:30:00 +0000",
+  "comuni": [],
+  "visto": "2026-09-23T11:53:04+00:00"
+ },
+ {
+  "img": "https://cdn.positanonews.it/photogallery_new/images/2022/02/carabinieri-notte-3343187.jpg",
+  "titolo": "Castellammare di Stabia, picchia la madre disabile e minaccia il fratello per i soldi della droga: 50enne arrestato e portato in carcere",
+  "link": "https://www.positanonews.it/2026/09/castellammare-di-stabia-picchia-la-madre-disabile-e-minaccia-il-fratello-per-i-soldi-della-droga-50enne-arrestato-e-portato-in-carcere/3857822/",
+  "fonte": "Positano News",
+  "data": "Wed, 23 Sep 2026 10:10:17 +0000",
+  "comuni": [
+   "Castellammare di Stabia"
+  ],
+  "visto": "2026-09-23T11:53:04+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://cdn13.webmaster360.it/2026/09/covers/01M36JR4PFDM50632CWSM1Y79K.jpg",
+  "titolo": "Trovato con due chili di droga nei contenitori delle medicine",
+  "link": "https://www.ilfattovesuviano.it/2026/09/trovato-con-due-chili-di-droga-nei-contenitori-delle-medicine",
+  "fonte": "Il Fatto Vesuviano",
+  "data": "Wed, 23 Sep 2026 10:00:00 +0000",
+  "comuni": [],
+  "visto": "2026-09-23T11:53:04+00:00"
+ },
+ {
+  "img": "https://www.vesuviolive.it/wp-content/uploads/sites/6/2023/09/certosa-san-martino.jpg",
+  "titolo": "Castel Sant’Elmo e la Certosa di San Martino aprono di sera: l’ingresso costa solo 1 euro",
+  "link": "https://www.vesuviolive.it/eventi/545289-musei-vomero-aperture-serali-1-euro-2026/",
+  "fonte": "VesuvioLive",
+  "data": "Wed, 23 Sep 2026 09:52:10 +0000",
+  "comuni": [],
+  "visto": "2026-09-23T11:53:04+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/02/Giancarlo-Siani.jpg",
+  "titolo": "Napoli, un’opera d’arte per ricordare Giancarlo Siani ucciso 41 anni fa",
+  "link": "https://www.metropolisweb.it/2026/09/23/napoli-unopera-darte-ricordare-giancarlo-siani-ucciso-41-anni/",
+  "fonte": "Metropolis",
+  "data": "Wed, 23 Sep 2026 09:15:51 +0000",
+  "comuni": [],
+  "visto": "2026-09-23T11:53:04+00:00"
+ },
+ {
+  "img": "https://www.vesuviolive.it/wp-content/uploads/sites/6/2026/09/madonna-della-neve-1.jpg",
+  "titolo": "Madonna della Neve 2026 a Torre Annunziata: tutta la festa in diretta su Vesuvio Live",
+  "link": "https://www.vesuviolive.it/eventi/545282-festa-madonna-neve-torre-annunziata-2026-diretta-22-ottobre-vesuvio-live/",
+  "fonte": "VesuvioLive",
+  "data": "Wed, 23 Sep 2026 09:15:45 +0000",
+  "comuni": [
+   "Torre Annunziata"
+  ],
+  "visto": "2026-09-23T11:53:04+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/09/Screenshot-2026-09-23-alle-11.03.40.png",
+  "titolo": "Rubano un’auto e precipitano nella scogliera: 3 ragazzi feriti",
+  "link": "https://www.metropolisweb.it/2026/09/23/rubano-unauto-precipitano-nella-scogliera-3-ragazzi-feriti/",
+  "fonte": "Metropolis",
+  "data": "Wed, 23 Sep 2026 09:12:13 +0000",
+  "comuni": [],
+  "visto": "2026-09-23T11:53:04+00:00"
+ },
+ {
+  "img": "https://citynews-napolitoday.stgy.ovh/~media/original-hi/47998866119931/tiktok_roberto-saviano_-credits_mattiaventuri-2.jpg",
+  "titolo": "Saviano attacca il governo: “Sulla sicurezza ha fallito”",
+  "link": "https://www.napolitoday.it/politica/saviano-governo-sicurezza.html",
+  "fonte": "NapoliToday",
+  "data": "Wed, 23 Sep 2026 11:10:20 +0200",
+  "comuni": [
+   "Saviano"
+  ],
+  "visto": "2026-09-23T11:53:04+00:00"
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/09/Screenshot-2026-09-23-alle-10.58.28-1024x782.png",
+  "titolo": "Cimitile riabbraccia monsignor Cece: le spoglie del vescovo tornano nella sua San Felice",
+  "link": "https://www.metropolisweb.it/2026/09/23/cimitile-riabbraccia-monsignor-cece-le-spoglie-del-vescovo-tornano-nella-sua-san-felice/",
+  "fonte": "Metropolis",
+  "data": "Wed, 23 Sep 2026 09:05:45 +0000",
+  "comuni": [],
+  "visto": "2026-09-23T11:53:04+00:00"
+ },
+ {
+  "img": "https://cdn13.webmaster360.it/2026/09/covers/z3OQRgo3AETEDpUSygf4DuikAwC53UaPfX4iScfb.jpg",
+  "titolo": "Tassista preso a calci in faccia per difendere una cliente",
+  "link": "https://www.ilfattovesuviano.it/2026/09/tassista-preso-a-calci-in-faccia-per-difendere-una-cliente",
+  "fonte": "Il Fatto Vesuviano",
+  "data": "Wed, 23 Sep 2026 09:00:00 +0000",
+  "comuni": [],
+  "visto": "2026-09-23T11:53:04+00:00"
+ },
+ {
+  "img": "https://www.vesuviolive.it/wp-content/uploads/sites/6/2021/02/hotel-albergo.jpg",
+  "titolo": "Corsi gratis a Napoli per lavorare in hotel, negozi e altro: indennità di 8 euro all’ora",
+  "link": "https://www.vesuviolive.it/ultime-notizie/545281-corsi-formazione-gratuiti-napoli-2026-welfare-campania/",
+  "fonte": "VesuvioLive",
+  "data": "Wed, 23 Sep 2026 08:58:47 +0000",
+  "comuni": [],
+  "visto": "2026-09-23T11:53:04+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/09/Giardino-Perbene.png",
+  "titolo": "Da bene confiscato a polmone verde, aggiudicati i lavori a Pompei",
+  "link": "https://www.metropolisweb.it/2026/09/23/bene-confiscato-polmone-verde-aggiudicati-lavori-pompei/",
+  "fonte": "Metropolis",
+  "data": "Wed, 23 Sep 2026 08:56:57 +0000",
+  "comuni": [
+   "Pompei"
+  ],
+  "visto": "2026-09-23T11:53:04+00:00"
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/09/Screenshot-2026-09-23-alle-09.04.25-1024x896.png",
+  "titolo": "La tragedia in moto sulla Statale, la vittima è un 30enne di Sant’Anastasia",
+  "link": "https://www.metropolisweb.it/2026/09/23/la-tragedia-moto-sulla-statale-la-vittima-un-30enne-santanastasia/",
+  "fonte": "Metropolis",
+  "data": "Wed, 23 Sep 2026 08:48:42 +0000",
+  "comuni": [
+   "Sant'Anastasia"
+  ],
+  "visto": "2026-09-23T11:53:04+00:00"
+ },
+ {
+  "img": "https://www.laprovinciaonline.info/wp-content/uploads/2026/09/IMG-20260923-WA0047-150x150.jpg",
+  "titolo": "Castello di Cisterna, Torre Annunziata e Napoli, il Generale di Corpo d’Armata Rosario Castello visita le sedi dei tre comandi di Gruppo",
+  "link": "https://www.laprovinciaonline.info/castello-di-cisterna-torre-annunziata-e-napoli-il-generale-di-corpo-darmata-rosario-castello-visita-le-sedi-dei-tre-comandi-di-gruppo/",
+  "fonte": "La Provincia Online",
+  "data": "Wed, 23 Sep 2026 08:46:18 +0000",
+  "comuni": [
+   "Torre Annunziata"
+  ],
+  "visto": "2026-09-23T11:53:04+00:00"
+ },
+ {
+  "img": "https://internapoli.it/mato.clanto.cloud/piwik.php?idsite=6&rec=1&url=https%3A%2F%2Finternapoli.it%2Fpicchia-la-madre-anziana-e-disabile-in-manette-figlio-violento-a-castellammare%2F&action_name=Picchia%20la%20madre%20anziana%20e%20disabile%2C%20in%20manette%20figlio%20violento%20a%20Castellammare&urlref=https%3A%2F%2Finternapoli.it%2Ffeed%2F",
+  "titolo": "Picchia la madre anziana e disabile, in manette figlio violento a Castellammare",
+  "link": "https://internapoli.it/picchia-la-madre-anziana-e-disabile-in-manette-figlio-violento-a-castellammare/",
+  "fonte": "Internapoli",
+  "data": "Wed, 23 Sep 2026 08:35:42 +0000",
+  "comuni": [
+   "Castellammare di Stabia"
+  ],
+  "visto": "2026-09-23T11:53:04+00:00"
+ },
+ {
+  "img": "https://cdn13.webmaster360.it/2026/09/covers/01M36MKNECNC0HZR9TKXF8915B.jpg",
+  "titolo": "Coltello a scuola a Terzigno, il sindaco fa fare la pace ai due ragazzi",
+  "link": "https://www.ilfattovesuviano.it/2026/09/coltello-a-scuola-a-terzigno-il-sindaco-fa-fare-la-pace-ai-due-ragazzi",
+  "fonte": "Il Fatto Vesuviano",
+  "data": "Wed, 23 Sep 2026 08:30:00 +0000",
+  "comuni": [
+   "Terzigno"
+  ],
+  "visto": "2026-09-23T11:53:04+00:00"
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/09/Schermata-2026-09-22-alle-13.21.36.png",
+  "titolo": "Gragnano | Piazza Rosario ostaggio dei teppisti, falò e impennate sul sagrato della chiesa",
+  "link": "https://www.metropolisweb.it/2026/09/23/gragnano-piazza-rosario-ostaggio-dei-teppisti-falo-impennate-sul-sagrato-della-chiesa/",
+  "fonte": "Metropolis",
+  "data": "Wed, 23 Sep 2026 08:20:16 +0000",
+  "comuni": [],
+  "visto": "2026-09-23T11:53:04+00:00"
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/09/Screenshot-2026-09-23-alle-10.13.23-1024x768.png",
+  "titolo": "Coltello nello zaino al liceo, il sindaco di Terzigno fa incontrare i ragazzi",
+  "link": "https://www.metropolisweb.it/2026/09/23/coltello-nello-zaino-al-liceo-sindaco-terzigno-incontrare-ragazzi/",
+  "fonte": "Metropolis",
+  "data": "Wed, 23 Sep 2026 08:17:12 +0000",
+  "comuni": [
+   "Terzigno"
+  ],
+  "visto": "2026-09-23T11:53:04+00:00"
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/09/Screenshot-2026-09-23-alle-10.10.16.png",
+  "titolo": "Maxi rissa tra famiglie a Napoli: 7 denunciati, un uomo preso a bastonate",
+  "link": "https://www.metropolisweb.it/2026/09/23/maxi-rissa-bastoni-famiglie-napoli-7-denunciati/",
+  "fonte": "Metropolis",
+  "data": "Wed, 23 Sep 2026 08:12:19 +0000",
+  "comuni": [],
+  "visto": "2026-09-23T11:53:04+00:00"
+ },
+ {
+  "img": "https://internapoli.it/mato.clanto.cloud/piwik.php?idsite=6&rec=1&url=https%3A%2F%2Finternapoli.it%2Fporta-il-coltello-dopo-la-lite-a-scuola-a-terzigno-il-14enne-ho-sbagliato%2F&action_name=Porta%20il%20coltello%20dopo%20la%20lite%20a%20scuola%20a%20Terzigno%2C%20il%2014enne%3A%20%26%238220%3BHo%20sbagliato%26%238221%3B&urlref=https%3A%2F%2Finternapoli.it%2Ffeed%2F",
+  "titolo": "Porta il coltello dopo la lite a scuola a Terzigno, il 14enne: “Ho sbagliato”",
+  "link": "https://internapoli.it/porta-il-coltello-dopo-la-lite-a-scuola-a-terzigno-il-14enne-ho-sbagliato/",
+  "fonte": "Internapoli",
+  "data": "Wed, 23 Sep 2026 08:12:19 +0000",
+  "comuni": [
+   "Terzigno"
+  ],
+  "visto": "2026-09-23T11:53:04+00:00"
+ },
+ {
+  "img": "https://citynews-napolitoday.stgy.ovh/~media/original-hi/6217707884637/sedia-a-rotelle-2.jpg",
+  "titolo": "Madre 70enne e disabile non usciva di casa per paura del figlio: 50enne in carcere",
+  "link": "https://www.napolitoday.it/cronaca/arrestato-maltrattamenti-madre-disabile-castellammare.html",
+  "fonte": "NapoliToday",
+  "data": "Wed, 23 Sep 2026 10:06:37 +0200",
+  "comuni": [
+   "Castellammare di Stabia"
+  ],
+  "visto": "2026-09-23T11:53:04+00:00"
+ },
+ {
+  "img": "https://www.vesuviolive.it/wp-content/uploads/sites/6/2024/04/ospedale-san-paolo.jpg",
+  "titolo": "Rissa a Napoli tra 2 famiglie, sangue e colpi di bastone per un amore finito: cosa è successo",
+  "link": "https://www.vesuviolive.it/ultime-notizie/545278-violenta-rissa-napoli-famiglie-amore-finito/",
+  "fonte": "VesuvioLive",
+  "data": "Wed, 23 Sep 2026 08:04:25 +0000",
+  "comuni": [],
+  "visto": "2026-09-23T11:53:04+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/09/560581226_10230489464555820_6598717649176108017_n-1024x768.jpg",
+  "titolo": "Castellammare, l’addio commosso di don Catello Malafronte alla comunità di Sant’Antonio",
+  "link": "https://www.metropolisweb.it/2026/09/23/853333/",
+  "fonte": "Metropolis",
+  "data": "Wed, 23 Sep 2026 08:03:51 +0000",
+  "comuni": [
+   "Castellammare di Stabia"
+  ],
+  "visto": "2026-09-23T11:53:04+00:00"
+ },
+ {
+  "img": "https://citynews-napolitoday.stgy.ovh/~media/original-hi/10207442961323/salvatore-carillo-terzigno.jpeg",
+  "titolo": "Portò a scuola un coltello dopo una lite: pace fatta con il compagno di scuola grazie al sindaco",
+  "link": "https://www.napolitoday.it/cronaca/coltello-zaino-scuola-terzigno-pace.html",
+  "fonte": "NapoliToday",
+  "data": "Wed, 23 Sep 2026 10:03:36 +0200",
+  "comuni": [
+   "Terzigno"
+  ],
+  "visto": "2026-09-23T11:53:04+00:00"
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/09/PHOTO-2026-09-22-18-03-36.jpg",
+  "titolo": "Torre Annunziata, Darsena: cedono le recinzioni del cantiere “infinito”",
+  "link": "https://www.metropolisweb.it/2026/09/23/torre-annunziata-darsena-cedono-le-recinzioni-del-cantiere-infinito/",
+  "fonte": "Metropolis",
+  "data": "Wed, 23 Sep 2026 08:00:35 +0000",
+  "comuni": [
+   "Torre Annunziata"
+  ],
+  "visto": "2026-09-23T11:53:04+00:00"
+ },
+ {
+  "img": "https://cdn13.webmaster360.it/2026/09/covers/xneK7BGSOtjRGS2Re1v8w5sBHz8ssYdmEI2sKUy2.jpg",
+  "titolo": "Operaio muore al cimitero mentre lavora ai nuovi loculi",
+  "link": "https://www.ilfattovesuviano.it/2026/09/operaio-muore-al-cimitero-mentre-lavora-ai-nuovi-loculi",
+  "fonte": "Il Fatto Vesuviano",
+  "data": "Wed, 23 Sep 2026 08:00:00 +0000",
+  "comuni": [],
+  "visto": "2026-09-23T11:53:04+00:00"
+ },
+ {
+  "img": "https://www.cronachedellacampania.it/wp-content/uploads/2026/09/dal-coltello-a-scuola-alla-stretta-di-mano-il-sindaco-mette-pace-tra-i-due-studenti-7pdq.jpg",
+  "titolo": "Dal coltello a scuola alla stretta di mano: il sindaco mette pace tra i due studenti",
+  "link": "https://www.cronachedellacampania.it/2026/09/dal-coltello-a-scuola-alla-stretta-di-mano-il-sindaco-mette-pace-tra-i-due-studenti/",
+  "fonte": "Cronache della Campania",
+  "data": "Wed, 23 Sep 2026 07:50:24 +0000",
+  "comuni": [],
+  "visto": "2026-09-23T11:53:04+00:00"
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/09/Screenshot-2026-09-23-alle-09.43.41-e1790151589281.png",
+  "titolo": "Bangal vola in Nazionale: il bomber della Turris convocato dal Mozambico",
+  "link": "https://www.metropolisweb.it/2026/09/23/853324/",
+  "fonte": "Metropolis",
+  "data": "Wed, 23 Sep 2026 07:45:50 +0000",
+  "comuni": [],
+  "visto": "2026-09-23T11:53:04+00:00"
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/09/Schermata-2026-09-23-alle-09.29.46.png",
+  "titolo": "Torre del Greco, la fontana della vergogna torna una «palude verde»",
+  "link": "https://www.metropolisweb.it/2026/09/23/torre-del-greco-la-fontana-della-vergogna-torna-palude-verde/",
+  "fonte": "Metropolis",
+  "data": "Wed, 23 Sep 2026 07:41:17 +0000",
+  "comuni": [
+   "Torre del Greco"
+  ],
+  "visto": "2026-09-23T11:53:04+00:00"
+ },
+ {
+  "img": "https://www.cronachedellacampania.it/wp-content/uploads/2026/08/denunciato-uomo-con-due-chili-di-gioielli-rubati-a-unanziana-truffata-da-falso-carabiniere.jpg",
+  "titolo": "Castellammare, terrore e violenze sulla madre disabile: arrestato 50enne",
+  "link": "https://www.cronachedellacampania.it/2026/09/castellammare-terrore-e-violenze-sulla-madre-disabile-arrestato-50enne/",
+  "fonte": "Cronache della Campania",
+  "data": "Wed, 23 Sep 2026 07:37:36 +0000",
+  "comuni": [
+   "Castellammare di Stabia"
+  ],
+  "visto": "2026-09-23T11:53:04+00:00"
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/09/Screenshot-2026-09-23-alle-09.34.47-1024x667.png",
+  "titolo": "Maltrattamenti sulla madre anziana e disabile, arrestato a Castellammare",
+  "link": "https://www.metropolisweb.it/2026/09/23/maltrattamenti-sulla-madre-anziana-disabile-arrestato-castellammare/",
+  "fonte": "Metropolis",
+  "data": "Wed, 23 Sep 2026 07:36:25 +0000",
+  "comuni": [
+   "Castellammare di Stabia"
+  ],
+  "visto": "2026-09-23T11:53:04+00:00"
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/09/Screenshot-2026-09-23-alle-09.18.21.png",
+  "titolo": "«Il calcio è uno sport da uomini», la frase che costa l’esonero a Higuain",
+  "link": "https://www.metropolisweb.it/2026/09/23/calcio-uno-sport-uomini-la-frase-costa-lesonero-higuain/",
+  "fonte": "Metropolis",
+  "data": "Wed, 23 Sep 2026 07:24:12 +0000",
+  "comuni": [],
+  "visto": "2026-09-23T11:53:04+00:00"
+ },
+ {
+  "img": "https://www.vesuviolive.it/wp-content/uploads/sites/6/2026/09/pino-daniele-film.png",
+  "titolo": "Esce al cinema Je So’ Pazzo: il film di Pino Daniele con protagonista Massimiliano Caiazzo",
+  "link": "https://www.vesuviolive.it/ultime-notizie/545275-je-so-pazzo-film-pino-daniele-cinema/",
+  "fonte": "VesuvioLive",
+  "data": "Wed, 23 Sep 2026 07:13:53 +0000",
+  "comuni": [],
+  "visto": "2026-09-23T11:53:04+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/09/Screenshot-2026-09-23-alle-08.57.24-1024x505.png",
+  "titolo": "Paura a Sorrento: anziano spara tre colpi e nasconde un fucile clandestino",
+  "link": "https://www.metropolisweb.it/2026/09/23/paura-sorrento-anziano-spara-tre-colpi-nasconde-un-fucile-clandestino/",
+  "fonte": "Metropolis",
+  "data": "Wed, 23 Sep 2026 07:01:50 +0000",
+  "comuni": [],
+  "visto": "2026-09-23T11:53:04+00:00"
+ },
+ {
+  "img": "https://cdn13.webmaster360.it/2026/09/covers/01M36H4QWZ60RHG0ZPD9FPTMW9.jpg",
+  "titolo": "Il Consulente del Lavoro: \"Mio assistito di Terzigno con la Sla attende l'Inps da 4 mesi\"",
+  "link": "https://www.ilfattovesuviano.it/2026/09/terzigno-malato-di-sla-attende-da-quattro-mesi-la-visita-inps-per-laggravamento",
+  "fonte": "Il Fatto Vesuviano",
+  "data": "Wed, 23 Sep 2026 07:00:37 +0000",
+  "comuni": [
+   "Terzigno"
+  ],
+  "visto": "2026-09-23T11:53:04+00:00"
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/05/IMG_0262-1024x680.jpeg",
+  "titolo": "Sfugge all’arresto per stalking per 10 giorni, 53enne si nascondeva in hotel",
+  "link": "https://www.metropolisweb.it/2026/09/23/sfugge-allarresto-stalking-10-giorni-53enne-si-nascondeva-hotel/",
+  "fonte": "Metropolis",
+  "data": "Wed, 23 Sep 2026 06:58:37 +0000",
+  "comuni": [],
+  "visto": "2026-09-23T11:53:04+00:00"
+ },
+ {
+  "img": "https://cdn13.webmaster360.it/2026/09/covers/lXCEGIWXW7Q6elMV0ZhbQZTvgYweUQnjhF8Sgv7G.jpg",
+  "titolo": "Rissa a bastonate tra vicini, quattro feriti",
+  "link": "https://www.ilfattovesuviano.it/2026/09/rissa-a-bastonate-tra-vicini-quattro-feriti",
+  "fonte": "Il Fatto Vesuviano",
+  "data": "Wed, 23 Sep 2026 06:30:00 +0000",
+  "comuni": [],
+  "visto": "2026-09-23T11:53:04+00:00"
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/09/scuola-plesso-scaramella-al-palazzone.jpg",
+  "titolo": "Torre del Greco, l’incubo crolli arriva anche a scuola",
+  "link": "https://www.metropolisweb.it/2026/09/23/torre-del-greco-lincubo-crolli-arriva-anche-scuola/?ta_paidstory",
+  "fonte": "Metropolis",
+  "data": "Wed, 23 Sep 2026 06:10:36 +0000",
+  "comuni": [
+   "Torre del Greco"
+  ],
+  "visto": "2026-09-23T11:53:04+00:00"
+ },
+ {
   "img": "https://cdn13.webmaster360.it/2026/09/covers/GxVrOLuBfKz0zFqC59VdQhECOHBlJi7ZmXkRq4ZR.jpg",
   "titolo": "Bimba muore prima del parto, la denuncia dei genitori di Boscoreale",
   "link": "https://www.ilfattovesuviano.it/2026/09/bimba-muore-prima-del-parto-la-denuncia-dei-genitori-di-boscoreale",
@@ -9,6 +471,17 @@
    "Boscoreale"
   ],
   "visto": "2026-09-23T06:16:53+00:00"
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/09/Schermata-2026-09-22-alle-18.58.50.png",
+  "titolo": "Castellammare | Favorirono la latitanza del boss D’Alessandro: condannati dopo 20 anni",
+  "link": "https://www.metropolisweb.it/2026/09/23/castellammare-favorirono-la-latitanza-del-boss-dalessandro-condannati-dopo-20-anni/?ta_paidstory",
+  "fonte": "Metropolis",
+  "data": "Wed, 23 Sep 2026 05:30:27 +0000",
+  "comuni": [
+   "Castellammare di Stabia"
+  ],
+  "visto": "2026-09-23T11:53:04+00:00"
  },
  {
   "img": "https://www.ilmediano.com/wp-content/uploads/2026/09/Maria-SS.-in-Montedecoro.jpg",
