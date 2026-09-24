@@ -1,5 +1,77 @@
 [
  {
+  "img": "https://www.ilmediano.com/wp-content/uploads/2026/09/Screenshot_20260924_081341_ChatGPT.jpg",
+  "titolo": "Tubatura del metano colpita durante scavi, paura nel centro di Acerra",
+  "link": "https://www.ilmediano.com/tubatura-del-metano-colpita-durante-scavi-paura-nel-centro-di-acerra/",
+  "fonte": "Il Mediano",
+  "data": "Thu, 24 Sep 2026 06:14:23 +0000",
+  "comuni": [],
+  "visto": "2026-09-24T06:16:47+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://cdn13.webmaster360.it/2026/09/covers/L1ZW2eF82VhfERpQlHQ3aNVCLfzhRJ9h7V8FWy6X.jpg",
+  "titolo": "Morbillo, casi di ricovero in aumento al Cotugno",
+  "link": "https://www.ilfattovesuviano.it/2026/09/morbillo-casi-di-ricovero-in-aumento-al-cotugno",
+  "fonte": "Il Fatto Vesuviano",
+  "data": "Thu, 24 Sep 2026 06:00:00 +0000",
+  "comuni": [],
+  "visto": "2026-09-24T06:16:47+00:00"
+ },
+ {
+  "img": "https://www.ilmediano.com/wp-content/uploads/2026/09/Screenshot_20260924_075555_Facebook.jpg",
+  "titolo": "Coltelli nello zaino, sindaco incontra gli studenti della lite per la pace",
+  "link": "https://www.ilmediano.com/coltelli-nello-zaino-sindaco-incontra-gli-studenti-della-lite-per-la-pace/",
+  "fonte": "Il Mediano",
+  "data": "Thu, 24 Sep 2026 05:56:40 +0000",
+  "comuni": [],
+  "visto": "2026-09-24T06:16:47+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://www.ilmediano.com/wp-content/uploads/2026/09/monscece.jpeg",
+  "titolo": "Cimitile accoglie le spoglie di monsignor Cece",
+  "link": "https://www.ilmediano.com/cimitile-accoglie-le-spoglie-di-monsignor-cece/",
+  "fonte": "Il Mediano",
+  "data": "Thu, 24 Sep 2026 05:55:48 +0000",
+  "comuni": [],
+  "visto": "2026-09-24T06:16:47+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://www.ilmediano.com/wp-content/uploads/2026/09/IMG_3135.jpeg",
+  "titolo": "Casalnuovo, per la diffusione della cultura della denuncia nasce ‘Comitato verità”",
+  "link": "https://www.ilmediano.com/casalnuovo-per-la-diffusione-della-cultura-della-denuncia-nasce-comitato-verita/",
+  "fonte": "Il Mediano",
+  "data": "Thu, 24 Sep 2026 05:18:51 +0000",
+  "comuni": [],
+  "visto": "2026-09-24T06:16:47+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://cdn13.webmaster360.it/2026/09/covers/01M38JJAPACZS6GGDKNYNN8R58.jpg",
+  "titolo": "Incidente sulla Statale, muore 30enne di Sant'Anastasia",
+  "link": "https://www.ilfattovesuviano.it/2026/09/incidente-sulla-statale-muore-30enne-di-santanastasia",
+  "fonte": "Il Fatto Vesuviano",
+  "data": "Thu, 24 Sep 2026 05:00:00 +0000",
+  "comuni": [
+   "Sant'Anastasia"
+  ],
+  "visto": "2026-09-24T06:16:47+00:00"
+ },
+ {
+  "img": "https://cdn13.webmaster360.it/2026/09/covers/rni7IMcdknMWeTDikZpIcUobyAUa0rXwlfdhcWm3.jpg",
+  "titolo": "Si schianta a Ottaviano, muore 20enne di San Gennaro Vesuviano",
+  "link": "https://www.ilfattovesuviano.it/2026/09/si-schianta-a-ottaviano-muore-20enne-di-san-gennaro-vesuviano",
+  "fonte": "Il Fatto Vesuviano",
+  "data": "Thu, 24 Sep 2026 04:00:00 +0000",
+  "comuni": [
+   "Ottaviano",
+   "San Gennaro Vesuviano"
+  ],
+  "visto": "2026-09-24T06:16:47+00:00"
+ },
+ {
   "img": "https://cdn13.webmaster360.it/2026/09/covers/hreaQMH0UnsyNCGA14nK1oSdZ4BPp59lGJacXShL.jpg",
   "titolo": "Brucia uliveto in Costiera, c'è un morto",
   "link": "https://www.ilfattovesuviano.it/2026/09/brucia-uliveto-in-costiera-ce-un-morto",
@@ -888,7 +960,7 @@
  },
  {
   "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/09/Giardino-Perbene.png",
-  "titolo": "Da bene confiscato a polmone verde, aggiudicati i lavori a Pompei",
+  "titolo": "Il bene confiscato diventerà polmone verde, aggiudicati i lavori a Pompei",
   "link": "https://www.metropolisweb.it/2026/09/23/bene-confiscato-polmone-verde-aggiudicati-lavori-pompei/",
   "fonte": "Metropolis",
   "data": "Wed, 23 Sep 2026 08:56:57 +0000",
@@ -1263,7 +1335,7 @@
  },
  {
   "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/09/Schermata-2026-09-22-alle-18.01.28.png",
-  "titolo": "Castellammare e Boscoreale | Morta prima del parto: due medici indagati",
+  "titolo": "Castellammare e Boscoreale | La bimba mai nata: due medici indagati",
   "link": "https://www.metropolisweb.it/2026/09/23/castellammare-boscoreale-morta-del-parto-due-medici-indagati/?ta_paidstory",
   "fonte": "Metropolis",
   "data": "Tue, 22 Sep 2026 22:07:19 +0000",
