@@ -1,5 +1,14 @@
 [
  {
+  "titolo": "Convocazione Consiglio Comunale 28 settembre 2026",
+  "link": "https://www.comune.ottaviano.na.it/it/news/convocazione-consiglio-comunale-28-settembre-2026",
+  "fonte": "Comune di Ottaviano",
+  "comuni": [
+   "Ottaviano"
+  ],
+  "visto": "2026-09-25T12:16:44+00:00"
+ },
+ {
   "titolo": "AVVISO- disinfestazione adulticida territoriale per il giorno 30 settembre 2026",
   "link": "https://www.comune.ottaviano.na.it/it/news/avviso-disinfestazione-adulticida-territoriale-per-il-giorno-30-settembre-2026",
   "fonte": "Comune di Ottaviano",
@@ -200,15 +209,6 @@
  {
   "titolo": "Comunicazione apertura e chiusura Farmacia Comunale anno 2026",
   "link": "https://www.comune.ottaviano.na.it/it/news/comunicazione-apertura-e-chiusura-farmacia-comunale-anno-2026",
-  "fonte": "Comune di Ottaviano",
-  "comuni": [
-   "Ottaviano"
-  ],
-  "visto": "2026-08-18T12:54:50+00:00"
- },
- {
-  "titolo": "AVVISO - Istanza per la definizione agevolata delle Entrate Comunali",
-  "link": "https://www.comune.ottaviano.na.it/it/news/avviso-istanza-per-la-definizione-agevolata-delle-entrate-comunali",
   "fonte": "Comune di Ottaviano",
   "comuni": [
    "Ottaviano"
@@ -446,6 +446,15 @@
   "fonte": "Comune di Somma Vesuviana",
   "comuni": [
    "Somma Vesuviana"
+  ],
+  "visto": "2026-08-18T12:54:50+00:00"
+ },
+ {
+  "titolo": "AVVISO - Istanza per la definizione agevolata delle Entrate Comunali",
+  "link": "https://www.comune.ottaviano.na.it/it/news/avviso-istanza-per-la-definizione-agevolata-delle-entrate-comunali",
+  "fonte": "Comune di Ottaviano",
+  "comuni": [
+   "Ottaviano"
   ],
   "visto": "2026-08-18T12:54:50+00:00"
  },
