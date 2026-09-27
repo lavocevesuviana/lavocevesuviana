@@ -1,5 +1,264 @@
 [
  {
+  "img": "https://www.vesuvianonews.it/wp-content/uploads/2024/10/arresto-carabinieri-1.webp",
+  "titolo": "Cicciano, sorpreso a spacciare cocaina: arrestato 27enne di Pago del Vallo di Lauro",
+  "link": "https://www.vesuvianonews.it/cicciano-sorpreso-a-spacciare-cocaina-arrestato-27enne-di-pago-del-vallo-di-lauro/",
+  "fonte": "Vesuviano News",
+  "data": "Sun, 27 Sep 2026 11:11:25 +0000",
+  "comuni": [],
+  "visto": "2026-09-27T11:55:14+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://cdn13.webmaster360.it/2026/09/covers/01M3H39TWG0E52T8H1B63ZEW3R.jpg",
+  "titolo": "Delitto Ascione, cade l'accusa di omicidio volontario",
+  "link": "https://www.ilfattovesuviano.it/2026/09/delitto-ascione-cade-laccusa-di-omicidio-volontario",
+  "fonte": "Il Fatto Vesuviano",
+  "data": "Sun, 27 Sep 2026 11:00:00 +0000",
+  "comuni": [],
+  "visto": "2026-09-27T11:55:14+00:00"
+ },
+ {
+  "img": "https://cdn13.webmaster360.it/2026/09/covers/H11P130INV7iqaerX40skoVARlVyrLUGcUaJtAPG.jpg",
+  "titolo": "Prova a uccidere la moglie, i carabinierifanno irruzione e la salvano",
+  "link": "https://www.ilfattovesuviano.it/2026/09/prova-a-uccidere-la-moglie-i-carabinierifanno-irruzione-e-la-salvano",
+  "fonte": "Il Fatto Vesuviano",
+  "data": "Sun, 27 Sep 2026 10:30:00 +0000",
+  "comuni": [],
+  "visto": "2026-09-27T11:55:14+00:00"
+ },
+ {
+  "img": "https://www.vesuviolive.it/wp-content/uploads/sites/6/2026/09/casina-vanvitelliana-bacoli.jpg",
+  "titolo": "La Casina Vanvitelliana incanta: in migliaia per lo spettacolo mozzafiato, mai visto prima",
+  "link": "https://www.vesuviolive.it/ultime-notizie/545467-videomapping-casina-vanvitelliana-bacoli-americas-cup/",
+  "fonte": "VesuvioLive",
+  "data": "Sun, 27 Sep 2026 10:25:11 +0000",
+  "comuni": [],
+  "visto": "2026-09-27T11:55:14+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://cdn13.webmaster360.it/2026/09/covers/01M3H2AGQKV4F16EFKC0XKV9VQ.jpg",
+  "titolo": "Gerardo muore in moto a 31 anni, pochi giorni fa si era salvato in una Porsche distrutta",
+  "link": "https://www.ilfattovesuviano.it/2026/09/gerardo-muore-in-moto-a-31-anni-pochi-giorni-fa-si-era-salvato-in-una-porsche-distrutta",
+  "fonte": "Il Fatto Vesuviano",
+  "data": "Sun, 27 Sep 2026 10:00:00 +0000",
+  "comuni": [],
+  "visto": "2026-09-27T11:55:14+00:00"
+ },
+ {
+  "img": "https://www.vesuviolive.it/wp-content/uploads/sites/6/2023/01/ospedale-Giugliano-in-Campania-carabinieri.jpeg",
+  "titolo": "Tenta di uccidere la moglie nel Napoletano, urla strazianti e grida di aiuto: cosa è successo",
+  "link": "https://www.vesuviolive.it/ultime-notizie/545465-tentato-femminicidio-melito-napoli-carabinieri/",
+  "fonte": "VesuvioLive",
+  "data": "Sun, 27 Sep 2026 09:34:24 +0000",
+  "comuni": [],
+  "visto": "2026-09-27T11:55:14+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/09/Screenshot-2026-09-26-205312.png",
+  "titolo": "Tregua fiscale a Sant’Agnello: ok alla definizione agevolata per le imposte comunali",
+  "link": "https://www.metropolisweb.it/2026/09/27/tregua-fiscale-santagnello-ok-alla-definizione-agevolata-le-imposte-comunali/",
+  "fonte": "Metropolis",
+  "data": "Sun, 27 Sep 2026 09:21:23 +0000",
+  "comuni": [],
+  "visto": "2026-09-27T11:55:14+00:00"
+ },
+ {
+  "img": "https://cdn13.webmaster360.it/2026/09/covers/01M3G52T36PWXW40WRXYZG4FAC.jpg",
+  "titolo": "Abbandona secchi di vernice, ma le fototrappole lo riprendono",
+  "link": "https://www.ilfattovesuviano.it/2026/09/abbandona-secchi-di-vernice-ma-le-fototrappole-lo-riprendono",
+  "fonte": "Il Fatto Vesuviano",
+  "data": "Sun, 27 Sep 2026 09:00:00 +0000",
+  "comuni": [],
+  "visto": "2026-09-27T11:55:14+00:00"
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/09/Palazzo-Criscuolo-1024x602-1-768x403-1.jpg",
+  "titolo": "Torre Annunziata, Comune sciolto e un passato che non passa: il futuro sembra nero",
+  "link": "https://www.metropolisweb.it/2026/09/27/torre-annunziata-comune-sciolto-futuro-sembra-nero/?ta_paidstory",
+  "fonte": "Metropolis",
+  "data": "Sun, 27 Sep 2026 08:59:18 +0000",
+  "comuni": [
+   "Torre Annunziata"
+  ],
+  "visto": "2026-09-27T11:55:14+00:00"
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2023/03/gori-fogne-lavori2.jpg",
+  "titolo": "Guasto risolto, torna regolare il servizio idrico in penisola sorrentina",
+  "link": "https://www.metropolisweb.it/2026/09/27/guasto-risolto-torna-regolare-il-servizio-idrico-in-penisola-sorrentina/",
+  "fonte": "Metropolis",
+  "data": "Sun, 27 Sep 2026 08:51:24 +0000",
+  "comuni": [],
+  "visto": "2026-09-27T11:55:14+00:00"
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2025/04/maiuri-1024x1024.jpg",
+  "titolo": "Maiuri: «Sorrento, a Foggia serve una gran prestazione»",
+  "link": "https://www.metropolisweb.it/2026/09/27/maiuri-sorrento-a-foggia-serve-una-gran-prestazione/",
+  "fonte": "Metropolis",
+  "data": "Sun, 27 Sep 2026 08:46:35 +0000",
+  "comuni": [],
+  "visto": "2026-09-27T11:55:14+00:00"
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/09/Screenshot-2026-09-26-204832.png",
+  "titolo": "Boom di turisti a Vico Equense, in arrivo più taxi e NCC",
+  "link": "https://www.metropolisweb.it/2026/09/27/boom-turisti-vico-equense-arrivo-piu-taxi-ncc/",
+  "fonte": "Metropolis",
+  "data": "Sun, 27 Sep 2026 08:44:43 +0000",
+  "comuni": [],
+  "visto": "2026-09-27T11:55:14+00:00"
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/09/Screenshot-2026-09-26-203929.png",
+  "titolo": "Pompei in cammino con il suo Fondatore: San Bartolo Longo nella Valle in cui nacque la città nuova",
+  "link": "https://www.metropolisweb.it/2026/09/27/pompei-cammino-suo-fondatore-san-bartolo-longo-nella-valle-cui-nacque-la-citta-nuova/",
+  "fonte": "Metropolis",
+  "data": "Sun, 27 Sep 2026 08:35:02 +0000",
+  "comuni": [
+   "Pompei"
+  ],
+  "visto": "2026-09-27T11:55:14+00:00"
+ },
+ {
+  "img": "https://www.ilmediano.com/wp-content/uploads/2022/10/campo-sportivo-di-calcio.jpg",
+  "titolo": "Viribus, tris da grande squadra: Nemolato-Pisani stendono il Real San Sebastiano",
+  "link": "https://www.ilmediano.com/viribus-tris-da-grande-squadra-nemolato-pisani-stendono-il-real-san-sebastiano/",
+  "fonte": "Il Mediano",
+  "data": "Sun, 27 Sep 2026 08:30:04 +0000",
+  "comuni": [],
+  "visto": "2026-09-27T11:55:14+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://cdn13.webmaster360.it/2026/09/covers/01M3G4PS6V7MWKDGE2MV2B27PB.jpg",
+  "titolo": "Assicurazioni e benzina e diesel alle stelle: protesta popolare a Napoli",
+  "link": "https://www.ilfattovesuviano.it/2026/09/assicurazioni-e-benzina-e-diesel-alle-stelle-protesta-popolare-a-napoli",
+  "fonte": "Il Fatto Vesuviano",
+  "data": "Sun, 27 Sep 2026 08:30:00 +0000",
+  "comuni": [],
+  "visto": "2026-09-27T11:55:14+00:00"
+ },
+ {
+  "img": "https://www.vesuviolive.it/wp-content/uploads/sites/6/2026/09/america-cup-napoli.png",
+  "titolo": "America’s Cup, il Golfo di Napoli al centro del mondo: stasera lo show su Castel dell’Ovo",
+  "link": "https://www.vesuviolive.it/ultime-notizie/545462-americas-cup-napoli-turisti-show-castel-ovo/",
+  "fonte": "VesuvioLive",
+  "data": "Sun, 27 Sep 2026 08:06:41 +0000",
+  "comuni": [],
+  "visto": "2026-09-27T11:55:14+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://cdn13.webmaster360.it/2026/09/covers/01M3G4EYPNYA0QZS7X8E79DY4S.jpg",
+  "titolo": "Erano cariche di rifiuti, sequestrate due auto pronte a sversare",
+  "link": "https://www.ilfattovesuviano.it/2026/09/erano-cariche-di-rifiuti-sequestrate-due-auto-pronte-a-sversare",
+  "fonte": "Il Fatto Vesuviano",
+  "data": "Sun, 27 Sep 2026 08:00:00 +0000",
+  "comuni": [],
+  "visto": "2026-09-27T11:55:14+00:00"
+ },
+ {
+  "img": "https://www.laprovinciaonline.info/wp-content/uploads/2024/05/carabinieri-notte-1.jpg",
+  "titolo": "Notte di paura a Pomigliano: tre su uno scooter sparano in aria e si dileguano",
+  "link": "https://www.laprovinciaonline.info/notte-di-paura-a-pomigliano-tre-su-uno-scooter-sparano-in-aria-e-si-dileguano/",
+  "fonte": "La Provincia Online",
+  "data": "Sun, 27 Sep 2026 07:51:20 +0000",
+  "comuni": [],
+  "visto": "2026-09-27T11:55:14+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/09/IMG_1241-e1790429811484-1024x583.jpeg",
+  "titolo": "Paganese e Sarnese, è già duello a distanza.La Nocerina cerca il riscatto",
+  "link": "https://www.metropolisweb.it/2026/09/27/paganese-e-sarnese-e-gia-duello-a-distanza-la-nocerina-cerca-il-riscatto/",
+  "fonte": "Metropolis",
+  "data": "Sun, 27 Sep 2026 07:40:02 +0000",
+  "comuni": [],
+  "visto": "2026-09-27T11:55:14+00:00"
+ },
+ {
+  "img": "https://cdn13.webmaster360.it/2026/09/covers/01KBQDZJNV75B5S9QQ1YEMJJDS.jpg",
+  "titolo": "Detenuto ha la scabbia ma viene scambiata per dermatite",
+  "link": "https://www.ilfattovesuviano.it/2026/09/detenuto-ha-la-scabbia-ma-viene-scambiata-per-dermatite",
+  "fonte": "Il Fatto Vesuviano",
+  "data": "Sun, 27 Sep 2026 07:00:00 +0000",
+  "comuni": [],
+  "visto": "2026-09-27T11:55:14+00:00"
+ },
+ {
+  "img": "https://www.ilmediano.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-25-at-21.07.56.jpeg",
+  "titolo": "Somma Vesuviana, in memoria delle vittime civili del 1943 una solenne celebrazione",
+  "link": "https://www.ilmediano.com/somma-vesuviana-in-memoria-delle-vittime-civili-del-1943-una-solenne-celebrazione/",
+  "fonte": "Il Mediano",
+  "data": "Sun, 27 Sep 2026 06:54:11 +0000",
+  "comuni": [
+   "Somma Vesuviana"
+  ],
+  "visto": "2026-09-27T11:55:14+00:00"
+ },
+ {
+  "img": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f4a1.png",
+  "titolo": "L’ Auriga di Delfi e i Bronzi di Riace",
+  "link": "https://www.ilmediano.com/l-auriga-di-delfi-e-i-bronzi-di-riace/",
+  "fonte": "Il Mediano",
+  "data": "Sun, 27 Sep 2026 06:44:25 +0000",
+  "comuni": [],
+  "visto": "2026-09-27T11:55:14+00:00"
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/08/Schermata-2026-08-28-alle-17.18.37.png",
+  "titolo": "Gragnano | Tenta di dare fuoco alla casa e uccide la madre: nominato un perito",
+  "link": "https://www.metropolisweb.it/2026/09/27/gragnano-tenta-dare-fuoco-alla-casa-uccide-la-madre-nominato-un-perito/?ta_paidstory",
+  "fonte": "Metropolis",
+  "data": "Sun, 27 Sep 2026 06:30:58 +0000",
+  "comuni": [],
+  "visto": "2026-09-27T11:55:14+00:00"
+ },
+ {
+  "img": "https://cdn13.webmaster360.it/2026/09/covers/ImEVoS9Pk1gAycYMWRPVgeb2quQjV5Sn3w0EzxxQ.jpg",
+  "titolo": "Parcheggiatore abusivo prende a calci l'auto del cliente che non paga",
+  "link": "https://www.ilfattovesuviano.it/2026/09/parcheggiatore-abusivo-prende-a-calci-lauto-del-cliente-che-non-paga",
+  "fonte": "Il Fatto Vesuviano",
+  "data": "Sun, 27 Sep 2026 06:30:00 +0000",
+  "comuni": [],
+  "visto": "2026-09-27T11:55:14+00:00"
+ },
+ {
+  "img": "https://www.cronachedellacampania.it/wp-content/uploads/2025/06/Lettere-Monti-Lattari-Continuum-Bellum-3-16.06.2025-2.jpg",
+  "titolo": "Castellammare, trovati oltre un chilo di stupefacenti e munizioni tra cespugli, tombini e muri di tufo:",
+  "link": "https://www.cronachedellacampania.it/2026/09/castellammare-trovati-oltre-un-chilo-di-stupefacenti-e-munizioni-tra-cespugli-tombini-e-muri-di-tufo/",
+  "fonte": "Cronache della Campania",
+  "data": "Sun, 27 Sep 2026 06:10:58 +0000",
+  "comuni": [
+   "Castellammare di Stabia"
+  ],
+  "visto": "2026-09-27T11:55:14+00:00"
+ },
+ {
+  "img": "https://cdn13.webmaster360.it/2026/09/covers/01M3G3MNGEVM5ATQBRY6Y7S4R0.jpg",
+  "titolo": "Arbitro colpito da una pietra in testa nel Napoletano",
+  "link": "https://www.ilfattovesuviano.it/2026/09/arbitro-colpito-da-una-pietra-in-testa-nel-napoletano",
+  "fonte": "Il Fatto Vesuviano",
+  "data": "Sun, 27 Sep 2026 06:00:00 +0000",
+  "comuni": [],
+  "visto": "2026-09-27T11:55:14+00:00"
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/09/Schermata-2026-09-19-alle-14.21.46.png",
+  "titolo": "Castellammare | Stuprata in cantina, il 26enne chiede la scarcerazione",
+  "link": "https://www.metropolisweb.it/2026/09/27/castellammare-stuprata-cantina-26enne-chiede-la-scarcerazione/",
+  "fonte": "Metropolis",
+  "data": "Sun, 27 Sep 2026 05:30:00 +0000",
+  "comuni": [
+   "Castellammare di Stabia"
+  ],
+  "visto": "2026-09-27T11:55:14+00:00"
+ },
+ {
   "img": "https://cdn13.webmaster360.it/2026/09/covers/01M3G25B48KH148RW532ER0KRA.jpg",
   "titolo": "Si ribalta autostrada, muore 28enne",
   "link": "https://www.ilfattovesuviano.it/2026/09/si-ribalta-autostrada-muore-28enne",
