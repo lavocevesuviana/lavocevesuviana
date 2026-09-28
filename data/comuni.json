@@ -1,6 +1,24 @@
 [
  {
-  "titolo": "Convocazione Consiglio Comunale 28 settembre 2026",
+  "titolo": "Servizio di Supporto alla Genitorialità - Progetto \"Dopo Scuola\"",
+  "link": "https://www.comune.ottaviano.na.it/it/news/servizio-di-supporto-alla-genitorialita-progetto-dopo-scuola",
+  "fonte": "Comune di Ottaviano",
+  "comuni": [
+   "Ottaviano"
+  ],
+  "visto": "2026-09-28T15:59:46+00:00"
+ },
+ {
+  "titolo": "AVVISO ALLA CITTADINANZA - Proroga della chiusura dell’Ufficio Postale di San Gennarello",
+  "link": "https://www.comune.ottaviano.na.it/it/news/avviso-alla-cittadinanza-proroga-della-chiusura-dellufficio-postale-di-san-gennarello",
+  "fonte": "Comune di Ottaviano",
+  "comuni": [
+   "Ottaviano"
+  ],
+  "visto": "2026-09-28T15:59:46+00:00"
+ },
+ {
+  "titolo": "Convocazione Consiglio Comunale 28 settembre 2026 - Rinvio",
   "link": "https://www.comune.ottaviano.na.it/it/news/convocazione-consiglio-comunale-28-settembre-2026",
   "fonte": "Comune di Ottaviano",
   "comuni": [
@@ -191,24 +209,6 @@
  {
   "titolo": "Manifestazione di interesse da parte delle LIBRERIE/CARTOLIBRERIE per l'erogazione di Cedole Scuola Primaria e Fornitura Libri di Testo - A.S. 2026/2027",
   "link": "https://www.comune.ottaviano.na.it/it/news/manifestazione-di-interesse-da-parte-delle-librerie-cartolibrerie-per-l-erogazione-di-cedole-scuola-primaria-e-fornitura-libri-di-testo-a-s-2026-2027",
-  "fonte": "Comune di Ottaviano",
-  "comuni": [
-   "Ottaviano"
-  ],
-  "visto": "2026-08-18T12:54:50+00:00"
- },
- {
-  "titolo": "Graduatorie provvisorie Servizio Civile 2026",
-  "link": "https://www.comune.ottaviano.na.it/it/news/graduatorie-provvisorie-servizio-civile-2026",
-  "fonte": "Comune di Ottaviano",
-  "comuni": [
-   "Ottaviano"
-  ],
-  "visto": "2026-08-18T12:54:50+00:00"
- },
- {
-  "titolo": "Comunicazione apertura e chiusura Farmacia Comunale anno 2026",
-  "link": "https://www.comune.ottaviano.na.it/it/news/comunicazione-apertura-e-chiusura-farmacia-comunale-anno-2026",
   "fonte": "Comune di Ottaviano",
   "comuni": [
    "Ottaviano"
@@ -446,6 +446,24 @@
   "fonte": "Comune di Somma Vesuviana",
   "comuni": [
    "Somma Vesuviana"
+  ],
+  "visto": "2026-08-18T12:54:50+00:00"
+ },
+ {
+  "titolo": "Graduatorie provvisorie Servizio Civile 2026",
+  "link": "https://www.comune.ottaviano.na.it/it/news/graduatorie-provvisorie-servizio-civile-2026",
+  "fonte": "Comune di Ottaviano",
+  "comuni": [
+   "Ottaviano"
+  ],
+  "visto": "2026-08-18T12:54:50+00:00"
+ },
+ {
+  "titolo": "Comunicazione apertura e chiusura Farmacia Comunale anno 2026",
+  "link": "https://www.comune.ottaviano.na.it/it/news/comunicazione-apertura-e-chiusura-farmacia-comunale-anno-2026",
+  "fonte": "Comune di Ottaviano",
+  "comuni": [
+   "Ottaviano"
   ],
   "visto": "2026-08-18T12:54:50+00:00"
  },
