@@ -1,5 +1,14 @@
 [
  {
+  "titolo": "Ordinanza nr. 7/2026 - Provvedimenti contingibili e urgenti a tutela della salute pubblica, dell'ambiente e dell'incolumità della cittadinanza a seguito del grave incendio in via Funari - Revoca parziale dell'ordinanza nr. 6/2026",
+  "link": "https://www.comune.ottaviano.na.it/it/news/ordinanza-nr-7-2026-provvedimenti-contingibili-e-urgenti-a-tutela-della-salute-pubblica-dell-ambiente-e-dell-incolumita-della-cittadinanza-a-seguito-del-grave-incendio-in-via-funari-revoca-parziale-dell-ordinanza-nr-6-2026",
+  "fonte": "Comune di Ottaviano",
+  "comuni": [
+   "Ottaviano"
+  ],
+  "visto": "2026-09-30T20:09:07+00:00"
+ },
+ {
   "titolo": "Pensionamento del Vicecomandante della Polizia Municipale",
   "link": "https://www.comune.sommavesuviana.na.it/it/novita/page/pensionamento-del-vicecomandante-della-polizia-municipale",
   "fonte": "Comune di Somma Vesuviana",
@@ -9,7 +18,7 @@
   "visto": "2026-09-30T15:22:57+00:00"
  },
  {
-  "titolo": "Provvedimenti contingibili e urgenti a tutela della salute pubblica, dell'ambiente e dell'incolumità della cittadinanza a seguito del grave incendio in via Funari",
+  "titolo": "Ordinanza nr. 6/2026 - Provvedimenti contingibili e urgenti a tutela della salute pubblica, dell'ambiente e dell'incolumità della cittadinanza a seguito del grave incendio in via Funari",
   "link": "https://www.comune.ottaviano.na.it/it/news/provvedimenti-contingibili-e-urgenti-a-tutela-della-salute-pubblica-dell-ambiente-e-dell-incolumita-della-cittadinanza-a-seguito-del-grave-incendio-in-via-funari",
   "fonte": "Comune di Ottaviano",
   "comuni": [
@@ -218,15 +227,6 @@
  {
   "titolo": "Elezioni Amministrative 24 e 25 maggio 2026 - RISULTATI BALLOTTAGGIO",
   "link": "https://www.comune.ottaviano.na.it/it/news/elezioni-comunali-24-e-25-maggio-2026-2000490",
-  "fonte": "Comune di Ottaviano",
-  "comuni": [
-   "Ottaviano"
-  ],
-  "visto": "2026-08-18T12:54:50+00:00"
- },
- {
-  "titolo": "Manifestazione di interesse da parte delle LIBRERIE/CARTOLIBRERIE per l'erogazione di Cedole Scuola Primaria e Fornitura Libri di Testo - A.S. 2026/2027",
-  "link": "https://www.comune.ottaviano.na.it/it/news/manifestazione-di-interesse-da-parte-delle-librerie-cartolibrerie-per-l-erogazione-di-cedole-scuola-primaria-e-fornitura-libri-di-testo-a-s-2026-2027",
   "fonte": "Comune di Ottaviano",
   "comuni": [
    "Ottaviano"
@@ -464,6 +464,15 @@
   "fonte": "Comune di Somma Vesuviana",
   "comuni": [
    "Somma Vesuviana"
+  ],
+  "visto": "2026-08-18T12:54:50+00:00"
+ },
+ {
+  "titolo": "Manifestazione di interesse da parte delle LIBRERIE/CARTOLIBRERIE per l'erogazione di Cedole Scuola Primaria e Fornitura Libri di Testo - A.S. 2026/2027",
+  "link": "https://www.comune.ottaviano.na.it/it/news/manifestazione-di-interesse-da-parte-delle-librerie-cartolibrerie-per-l-erogazione-di-cedole-scuola-primaria-e-fornitura-libri-di-testo-a-s-2026-2027",
+  "fonte": "Comune di Ottaviano",
+  "comuni": [
+   "Ottaviano"
   ],
   "visto": "2026-08-18T12:54:50+00:00"
  },
