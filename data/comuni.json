@@ -1,5 +1,23 @@
 [
  {
+  "titolo": "Revoca delle ordinanze n.6/2026 e n.7/2026. Riapertura di tutte le scuole di ogni ordine e grado, del cimitero comunale, dei parchi pubblici e la ripresa delle attività sportive all’aperto.",
+  "link": "https://www.comune.ottaviano.na.it/it/news/revoca-delle-ordinanze-n-6-2026-e-n-7-2026-riapertura-di-tutte-le-scuole-di-ogni-ordine-e-grado-del-cimitero-comunale-dei-parchi-pubblici-e-la-ripresa-delle-attivita-sportive-allaperto",
+  "fonte": "Comune di Ottaviano",
+  "comuni": [
+   "Ottaviano"
+  ],
+  "visto": "2026-10-02T15:01:57+00:00"
+ },
+ {
+  "titolo": "Comunicato: Incontro con S.E. il Prefetto di Napoli Michele di Bari sabato 3 ottobre, alle ore 12:00 presso il Parco Archeologico di Longola",
+  "link": "https://www.comune.poggiomarino.na.it/it/novita/page/comunicato-incontro-con-s-e-il-prefetto-di-napoli-michele-di-bari-sabato-3-ottobre-alle-ore-12-00-presso-il-parco-archeologico-di-longola",
+  "fonte": "Comune di Poggiomarino",
+  "comuni": [
+   "Poggiomarino"
+  ],
+  "visto": "2026-10-02T15:01:57+00:00"
+ },
+ {
   "titolo": "Indagine esplorativa di mercato finalizzata all'affidamento diretto a operatori economici nell'ambito dei servizi sociali, della gestione del Micronido “Via Recupe” ( 6-36 mesi) , sito in località Zabatta del Comune di Ottaviano – Anno educativo 2026/2027",
   "link": "https://www.comune.ottaviano.na.it/it/news/indagine-esplorativa-di-mercato-finalizzata-all-affidamento-diretto-a-operatori-economici-nell-ambito-dei-servizi-sociali-della-gestione-del-micronido-via-recupe-6-36-mesi-sito-in-localita-zabatta-del-comune-di-ottaviano-anno-educativo-2026-2027",
   "fonte": "Comune di Ottaviano",
@@ -234,15 +252,6 @@
   "visto": "2026-08-18T12:54:50+00:00"
  },
  {
-  "titolo": "Elezioni Amministrative 24 e 25 maggio 2026 - RISULTATI BALLOTTAGGIO",
-  "link": "https://www.comune.ottaviano.na.it/it/news/elezioni-comunali-24-e-25-maggio-2026-2000490",
-  "fonte": "Comune di Ottaviano",
-  "comuni": [
-   "Ottaviano"
-  ],
-  "visto": "2026-08-18T12:54:50+00:00"
- },
- {
   "titolo": "Pubblicazione Calendario per la gestione dei servizi CAV Centro e Sportello Antiviolenza, Mediazione Familiare e Penale e Centro per la Famiglia “Domenica Sangiovanni”",
   "link": "https://www.comune.poggiomarino.na.it/it/novita/page/pubblicazione-calendario-per-la-gestione-dei-servizi-cav-centro-e-sportello-antiviolenza-mediazione-familiare-e-penale-e-centro-per-la-famiglia-domenica-sangiovanni",
   "fonte": "Comune di Poggiomarino",
@@ -254,15 +263,6 @@
  {
   "titolo": "Comunicato Stampa: Statua di Polissena simbolo di cultura e legalità",
   "link": "https://www.comune.poggiomarino.na.it/it/novita/page/comunicato-stampa-statua-di-polissena-simbolo-di-cultura-e-legalita",
-  "fonte": "Comune di Poggiomarino",
-  "comuni": [
-   "Poggiomarino"
-  ],
-  "visto": "2026-08-18T12:54:50+00:00"
- },
- {
-  "titolo": "Comunicato Stampa: Riunione di coordinamento per una più efficiente gestione dei cantieri sul territorio comunale",
-  "link": "https://www.comune.poggiomarino.na.it/it/novita/page/comunicato-stampa-riunione-di-coordinamento-per-una-piu-efficiente-gestione-dei-cantieri-sul-territorio-comunale",
   "fonte": "Comune di Poggiomarino",
   "comuni": [
    "Poggiomarino"
@@ -290,6 +290,15 @@
  {
   "titolo": "Comunicato: Natale dei Desideri - Imparare con le Favole",
   "link": "https://www.comune.poggiomarino.na.it/it/novita/page/comunicato-natale-dei-desideri-imparare-le-favole",
+  "fonte": "Comune di Poggiomarino",
+  "comuni": [
+   "Poggiomarino"
+  ],
+  "visto": "2026-08-18T12:54:50+00:00"
+ },
+ {
+  "titolo": "Comunicato Stampa: Riunione di coordinamento per una più efficiente gestione dei cantieri sul territorio comunale",
+  "link": "https://www.comune.poggiomarino.na.it/it/novita/page/comunicato-stampa-riunione-di-coordinamento-per-una-piu-efficiente-gestione-dei-cantieri-sul-territorio-comunale",
   "fonte": "Comune di Poggiomarino",
   "comuni": [
    "Poggiomarino"
@@ -473,6 +482,15 @@
   "fonte": "Comune di Somma Vesuviana",
   "comuni": [
    "Somma Vesuviana"
+  ],
+  "visto": "2026-08-18T12:54:50+00:00"
+ },
+ {
+  "titolo": "Elezioni Amministrative 24 e 25 maggio 2026 - RISULTATI BALLOTTAGGIO",
+  "link": "https://www.comune.ottaviano.na.it/it/news/elezioni-comunali-24-e-25-maggio-2026-2000490",
+  "fonte": "Comune di Ottaviano",
+  "comuni": [
+   "Ottaviano"
   ],
   "visto": "2026-08-18T12:54:50+00:00"
  },
