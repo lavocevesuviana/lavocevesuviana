@@ -1,5 +1,73 @@
 [
  {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-10-232844-1024x520.png",
+  "titolo": "Frana a Castellammare, i sindaci della penisola sorrentina: «Serve un piano straordinario per le emergenze»",
+  "link": "https://www.metropolisweb.it/2026/10/10/frana-castellammare-sindaci-della-penisola-sorrentina-serve-un-piano-straordinario-le-emergenze/",
+  "fonte": "Metropolis",
+  "data": "Sat, 10 Oct 2026 21:37:07 +0000",
+  "comuni": [
+   "Castellammare di Stabia"
+  ],
+  "visto": "2026-10-10T22:25:17+00:00"
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/08/Schermata-2026-08-08-alle-18.09.09.png",
+  "titolo": "Gragnano | Pascolo abusivo sul Faito, assolto il narcos Di Martino",
+  "link": "https://www.metropolisweb.it/2026/10/10/gragnano-pascolo-abusivo-sul-faito-assolto-narcos-martino/?ta_paidstory",
+  "fonte": "Metropolis",
+  "data": "Sat, 10 Oct 2026 21:30:48 +0000",
+  "comuni": [],
+  "visto": "2026-10-10T22:25:17+00:00"
+ },
+ {
+  "img": "https://cdn13.webmaster360.it/2026/10/covers/01KC8Z6X8P3XCT7HSRHHZE3G2Y.jpg",
+  "titolo": "Estorce soldi alla vittima ogni giorno: preso nel Vesuviano",
+  "link": "https://www.ilfattovesuviano.it/2026/10/estorce-soldi-alla-vittima-ogni-giorno-preso-nel-vesuviano",
+  "fonte": "Il Fatto Vesuviano",
+  "data": "Sat, 10 Oct 2026 21:00:00 +0000",
+  "comuni": [],
+  "visto": "2026-10-10T22:25:17+00:00"
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-10-alle-21.52.05-1024x801.png",
+  "titolo": "Doppietta di De Bruyne e il Napoli torna a vincere, 3-0 al Frosinone",
+  "link": "https://www.metropolisweb.it/2026/10/10/doppietta-di-de-bruyne-e-il-napoli-torna-a-vincere-3-0-al-frosinone/",
+  "fonte": "Metropolis",
+  "data": "Sat, 10 Oct 2026 20:57:16 +0000",
+  "comuni": [],
+  "visto": "2026-10-10T22:25:17+00:00"
+ },
+ {
+  "img": "https://cdn13.webmaster360.it/2026/10/covers/01M4KFP2AVDCB71X9RE6P1NCRT.jpg",
+  "titolo": "\"Farò una strage a scuola\", 14enne bloccato con materiale estremista",
+  "link": "https://www.ilfattovesuviano.it/2026/10/faro-una-strage-a-scuola-14enne-bloccato-con-materiale-estremista",
+  "fonte": "Il Fatto Vesuviano",
+  "data": "Sat, 10 Oct 2026 20:00:00 +0000",
+  "comuni": [],
+  "visto": "2026-10-10T22:25:17+00:00"
+ },
+ {
+  "img": "https://cdn.positanonews.it/photogallery_new/images/2024/04/peppe-tito-sindaco-di-meta-3407914.jpg",
+  "titolo": "Smottamento a Castellammare, i sindaci della Penisola Sorrentina : serve un piano straordinario, non si può gestire solo l’emergenza",
+  "link": "https://www.positanonews.it/2026/10/smottamento-a-castellammare-i-sindaci-della-penisola-sorrentina-serve-un-piano-straordinario-non-si-puo-gestire-solo-lemergenza/3860390/",
+  "fonte": "Positano News",
+  "data": "Sat, 10 Oct 2026 19:19:31 +0000",
+  "comuni": [
+   "Castellammare di Stabia"
+  ],
+  "visto": "2026-10-10T22:25:17+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://cdn13.webmaster360.it/2026/10/covers/01M1VCDD8TKYW3P2109EDASYSQ.jpg",
+  "titolo": "Donna ubriaca finisce in mare: salvata da un giovane",
+  "link": "https://www.ilfattovesuviano.it/2026/10/donna-ubriaca-finisce-in-mare-salvata-da-un-giovane",
+  "fonte": "Il Fatto Vesuviano",
+  "data": "Sat, 10 Oct 2026 19:00:00 +0000",
+  "comuni": [],
+  "visto": "2026-10-10T22:25:17+00:00"
+ },
+ {
   "img": "https://cdn13.webmaster360.it/2026/10/covers/01KBQDRP55SXJDEJXP9ZEND04J.jpg",
   "titolo": "Spari in strada, colpito per errore sta per perdere un occhio",
   "link": "https://www.ilfattovesuviano.it/2026/10/spari-in-strada-colpito-per-errore-sta-per-perdere-un-occhio",
@@ -148,7 +216,7 @@
   "visto": "2026-10-10T18:54:49+00:00"
  },
  {
-  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/10/OSPEDALE-SAN-LEONARDO-1-copia-1024x768.jpg",
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/10/IMG_20261010_230511-1024x712.jpg",
   "titolo": "Castellammare | Bambina morta al San Leonardo, la madre non ce l’ha fatta",
   "link": "https://www.metropolisweb.it/2026/10/10/castellammare-bambina-morta-al-san-leonardo-la-madre-non-ce-lha-fatta/",
   "fonte": "Metropolis",
