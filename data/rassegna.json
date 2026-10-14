@@ -1,5 +1,14 @@
 [
  {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-13-alle-23.17.40.png",
+  "titolo": "Napoli, figuraccia Champions: errori e sconfitta col Villareal",
+  "link": "https://www.metropolisweb.it/2026/10/13/napoli-figuraccia-champions-errori-e-sconfitta-col-villareal/",
+  "fonte": "Metropolis",
+  "data": "Tue, 13 Oct 2026 21:18:43 +0000",
+  "comuni": [],
+  "visto": "2026-10-14T00:24:15+00:00"
+ },
+ {
   "img": "https://cdn13.webmaster360.it/2026/10/covers/01M4V5MVV0RXA33VFDSCNVR46A.jpg",
   "titolo": "Pestato dal branco e investito, viene anche insultato sui social",
   "link": "https://www.ilfattovesuviano.it/2026/10/pestato-dal-branco-e-investito-viene-anche-insultato-sui-social",
@@ -50,6 +59,17 @@
   ],
   "visto": "2026-10-13T21:10:35+00:00",
   "img_provata": true
+ },
+ {
+  "img": "https://citynews-napolitoday.stgy.ovh/~media/original-hi/55826375980212/ospedale-licenza-pixabay-ryanmcguire.jpg",
+  "titolo": "Morte Greta Astarita, la procura iscrive dieci sanitari nel registro degli indagati",
+  "link": "https://www.napolitoday.it/cronaca/donna-morta-ospedale-inchiesta-procura-torre-annunziata.html",
+  "fonte": "NapoliToday",
+  "data": "Tue, 13 Oct 2026 21:45:00 +0200",
+  "comuni": [
+   "Torre Annunziata"
+  ],
+  "visto": "2026-10-14T00:24:15+00:00"
  },
  {
   "img": "https://cdn13.webmaster360.it/2026/10/covers/jUfiviIHdjAznmky40suRqE0d3FWXlzoleIePT85.jpg",
@@ -149,6 +169,15 @@
   "visto": "2026-10-13T21:10:35+00:00"
  },
  {
+  "img": "https://citynews-napolitoday.stgy.ovh/~media/original-hi/7995892787177/campi-flegrei.jpg",
+  "titolo": "L'osservatorio vesuviano: “I Campi flegrei continuano a sollevarsi di 10 millimetri al mese”",
+  "link": "https://www.napolitoday.it/cronaca/campi-flegrei-sollevamento-suolo-10-millimetri.html",
+  "fonte": "NapoliToday",
+  "data": "Tue, 13 Oct 2026 18:52:22 +0200",
+  "comuni": [],
+  "visto": "2026-10-14T00:24:15+00:00"
+ },
+ {
   "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/10/4cde4ae4759bce242c8481f0522241d3.jpg",
   "titolo": "Castellammare | Bimbo e mamma morti in ospedale, svolta nell’inchiesta: ci sono 10 indagati",
   "link": "https://www.metropolisweb.it/2026/10/13/castellammare-bimbo-e-mamma-morti-in-ospedale-svolta-nellinchiesta-ci-sono-10-indagati/",
@@ -201,6 +230,17 @@
   "comuni": [],
   "visto": "2026-10-13T21:10:35+00:00",
   "img_provata": true
+ },
+ {
+  "img": "https://citynews-napolitoday.stgy.ovh/~media/original-hi/49252034531562/scavi-di-pompei-6.jpg",
+  "titolo": "\"La Scuola di Pompei\": torna la scuola di archeologia agli Scavi",
+  "link": "https://www.napolitoday.it/cultura/scuola-archeologia-pompei.html",
+  "fonte": "NapoliToday",
+  "data": "Tue, 13 Oct 2026 18:19:46 +0200",
+  "comuni": [
+   "Pompei"
+  ],
+  "visto": "2026-10-14T00:24:15+00:00"
  },
  {
   "img": "https://www.vesuvianonews.it/wp-content/uploads/2026/10/locadina_presentazione_19_ottobre.jpg",
