@@ -1,5 +1,465 @@
 [
  {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/10/qwertyui.jpeg",
+  "titolo": "Incidenti stradali: in Italia ogni giorno muiono 8 persone",
+  "link": "https://www.metropolisweb.it/2026/10/15/incidenti-stradali-in-italia-ogni-giorno-muiono-8-persone/",
+  "fonte": "Metropolis",
+  "data": "Thu, 15 Oct 2026 15:31:28 +0000",
+  "comuni": [],
+  "visto": "2026-10-15T15:39:31+00:00"
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-15-172800.png",
+  "titolo": "La sfida di Pompei: Comune e imprese insieme al TTG Rimini",
+  "link": "https://www.metropolisweb.it/2026/10/15/la-sfida-di-pompei-comune-e-imprese-insieme-al-ttg-rimini/",
+  "fonte": "Metropolis",
+  "data": "Thu, 15 Oct 2026 15:28:40 +0000",
+  "comuni": [
+   "Pompei"
+  ],
+  "visto": "2026-10-15T15:39:31+00:00"
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/10/image0-copia-1024x684.jpeg",
+  "titolo": "Ercolano, riconoscimento all’attore Luigi Zeno",
+  "link": "https://www.metropolisweb.it/2026/10/15/ercolano-riconoscimento-allattore-luigi-zeno/",
+  "fonte": "Metropolis",
+  "data": "Thu, 15 Oct 2026 15:21:18 +0000",
+  "comuni": [
+   "Ercolano"
+  ],
+  "visto": "2026-10-15T15:39:31+00:00"
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/10/Schermata-2026-10-15-alle-17.05.50-1024x680.png",
+  "titolo": "Sorrento-Casertana, Maiuri recupera Cargnelutti",
+  "link": "https://www.metropolisweb.it/2026/10/15/sorrento-casertana-maiuri-recupera-cargnelutti/",
+  "fonte": "Metropolis",
+  "data": "Thu, 15 Oct 2026 15:15:06 +0000",
+  "comuni": [],
+  "visto": "2026-10-15T15:39:31+00:00"
+ },
+ {
+  "img": "https://cdn13.webmaster360.it/2026/10/covers/HFsnGYbGo4NFQmvQekcL9tu0FzZRWxU0OPQnd7VW.jpg",
+  "titolo": "Stalking e minacce al parroco per la festa della Madonna",
+  "link": "https://www.ilfattovesuviano.it/2026/10/stalking-e-minacce-al-parroco-per-la-festa-della-madonna",
+  "fonte": "Il Fatto Vesuviano",
+  "data": "Thu, 15 Oct 2026 15:00:00 +0000",
+  "comuni": [],
+  "visto": "2026-10-15T15:39:31+00:00"
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/10/ASDFGHJ.jpeg",
+  "titolo": "Emergenza educativa, scuole e famiglie al centro della prevenzione",
+  "link": "https://www.metropolisweb.it/2026/10/15/emergenza-educativa-scuole-e-famiglie-al-centro-della-prevenzione/",
+  "fonte": "Metropolis",
+  "data": "Thu, 15 Oct 2026 14:54:10 +0000",
+  "comuni": [],
+  "visto": "2026-10-15T15:39:31+00:00"
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2025/09/circumvesuviana-600x373-1.jpg",
+  "titolo": "Come cambia la Circumvesuviana, il nuovo piano Eav per i trasporti",
+  "link": "https://www.metropolisweb.it/2026/10/15/come-cambia-la-circumvesuviana-il-nuovo-piano-eav-per-i-trasporti/",
+  "fonte": "Metropolis",
+  "data": "Thu, 15 Oct 2026 14:49:29 +0000",
+  "comuni": [],
+  "visto": "2026-10-15T15:39:31+00:00"
+ },
+ {
+  "img": "https://www.ilmediano.com/wp-content/uploads/2026/04/polizia_a.jpg",
+  "titolo": "Operazione della polizia a Somma, al setaccio 26 con precedenti",
+  "link": "https://www.ilmediano.com/operazione-della-polizia-a-somma-al-setaccio-26-con-precedenti/",
+  "fonte": "Il Mediano",
+  "data": "Thu, 15 Oct 2026 14:42:25 +0000",
+  "comuni": [],
+  "visto": "2026-10-15T15:39:31+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/10/Schermata-2026-10-15-alle-15.13.12-1024x644.png",
+  "titolo": "Il questore di Napoli: “Allarme nuove leve per i clan di camorra”",
+  "link": "https://www.metropolisweb.it/2026/10/15/il-questore-di-napoli-allarme-nuove-leve-per-i-clan-di-camorra/",
+  "fonte": "Metropolis",
+  "data": "Thu, 15 Oct 2026 14:38:58 +0000",
+  "comuni": [],
+  "visto": "2026-10-15T15:39:31+00:00"
+ },
+ {
+  "img": "https://www.cronachedellacampania.it/wp-content/uploads/2026/10/Allombra-dellultimo-sole_TeatroKarol_2-16x9-1.jpg",
+  "titolo": "‘All’ombra dell’ultimo sole’ al Karol di Castellammare di Stabia: racconto in musica su Fabrizio De André il 22 ottobre",
+  "link": "https://www.cronachedellacampania.it/2026/10/allombra-dellultimo-sole-al-karol-di-castellammare-di-stabia-racconto-in-musica-su-fabrizio-de-andre-il-22-ottobre/",
+  "fonte": "Cronache della Campania",
+  "data": "Thu, 15 Oct 2026 14:30:46 +0000",
+  "comuni": [
+   "Castellammare di Stabia"
+  ],
+  "visto": "2026-10-15T15:39:31+00:00"
+ },
+ {
+  "img": "https://www.vesuviolive.it/wp-content/uploads/sites/6/2026/10/Gli-agricoltori-del-Sud-bloccano-strade-e-rifornimenti.jpg",
+  "titolo": "Caro carburante, il Sud è in rivolta: bloccati autostrade e rifornimenti ma l’Italia fa finta di nulla",
+  "link": "https://www.vesuviolive.it/ultime-notizie/546291-caro-carburante-il-sud-e-in-rivolta-bloccati-autostrade-e-rifornimenti-ma-litalia-fa-finta-di-nulla/",
+  "fonte": "VesuvioLive",
+  "data": "Thu, 15 Oct 2026 14:26:34 +0000",
+  "comuni": [],
+  "visto": "2026-10-15T15:39:31+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-15-alle-16.18.28-1024x582.png",
+  "titolo": "Mobilità: Riapre galleria Santa Maria di Pozzano",
+  "link": "https://www.metropolisweb.it/2026/10/15/mobilita-riapre-galleria-santa-maria-di-pozzano/",
+  "fonte": "Metropolis",
+  "data": "Thu, 15 Oct 2026 14:26:01 +0000",
+  "comuni": [],
+  "visto": "2026-10-15T15:39:31+00:00"
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/10/PHOTO-2026-10-15-15-36-21-1024x646.jpg",
+  "titolo": "Imprenditoria agricola, in Campania il 40% delle aziende è guidato da donne",
+  "link": "https://www.metropolisweb.it/2026/10/15/imprenditoria-agricola-in-campania-il-40-delle-aziende-e-guidato-da-donne/",
+  "fonte": "Metropolis",
+  "data": "Thu, 15 Oct 2026 14:16:03 +0000",
+  "comuni": [],
+  "visto": "2026-10-15T15:39:31+00:00"
+ },
+ {
+  "img": "https://www.vesuviolive.it/wp-content/uploads/sites/6/2026/10/nino-simeone.jpeg",
+  "titolo": "Reddito di Restanza in Campania, 1000 euro al mese ai giovani. Simeone: “Difendiamo le radici”",
+  "link": "https://www.vesuviolive.it/ultime-notizie/546292-reddito-restanza-sud-mille-euro-giovani-simeone/",
+  "fonte": "VesuvioLive",
+  "data": "Thu, 15 Oct 2026 14:10:41 +0000",
+  "comuni": [],
+  "visto": "2026-10-15T15:39:31+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://cdn13.webmaster360.it/2026/10/covers/01M4ZJASVXESK17DTM5FW446HT.jpg",
+  "titolo": "Ruba 400 euro di caffè dal supermercato: arrestato",
+  "link": "https://www.ilfattovesuviano.it/2026/10/ruba-400-euro-di-caffe-dal-supermercato-arrestato",
+  "fonte": "Il Fatto Vesuviano",
+  "data": "Thu, 15 Oct 2026 14:00:00 +0000",
+  "comuni": [],
+  "visto": "2026-10-15T15:39:31+00:00"
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/10/Gemini_Generated_Image_9lcf489lcf489lcf-1024x639.jpeg",
+  "titolo": "Gragnano | Blitz alle palazzine popolari, assedio ai rioni dei narcos",
+  "link": "https://www.metropolisweb.it/2026/10/15/gragnano-blitz-alle-palazzine-popolari-assedio-ai-rioni-dei-narcos/",
+  "fonte": "Metropolis",
+  "data": "Thu, 15 Oct 2026 13:57:54 +0000",
+  "comuni": [],
+  "visto": "2026-10-15T15:39:31+00:00"
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/10/image-1-1024x717.png",
+  "titolo": "Torre Annunziata: raccolta fondi dei comitati per le luci natalizie",
+  "link": "https://www.metropolisweb.it/2026/10/15/torre-annunziata-raccolta-fondi-dei-comitati-per-le-luci-natalizie/",
+  "fonte": "Metropolis",
+  "data": "Thu, 15 Oct 2026 13:56:22 +0000",
+  "comuni": [
+   "Torre Annunziata"
+  ],
+  "visto": "2026-10-15T15:39:31+00:00"
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/10/Schermata-2026-10-15-alle-15.49.15.png",
+  "titolo": "Torre del Greco, luci e ombre sul Job Day: «Solo spot, mancavano le aziende»",
+  "link": "https://www.metropolisweb.it/2026/10/15/torre-del-greco-luci-e-ombre-sul-job-day-solo-spot-mancavano-le-aziende/",
+  "fonte": "Metropolis",
+  "data": "Thu, 15 Oct 2026 13:52:37 +0000",
+  "comuni": [
+   "Torre del Greco"
+  ],
+  "visto": "2026-10-15T15:39:31+00:00"
+ },
+ {
+  "img": "https://www.vesuviolive.it/wp-content/uploads/sites/6/2026/10/De-Nicola-Erasmus.jpeg",
+  "titolo": "Erasmus Days, l’ICS De Nicola Sasso guarda all’Europa con “Beyond Borders”",
+  "link": "https://www.vesuviolive.it/aree-locali/notizie-di-torre-del-greco/546262-erasmus-days-de-nicola-sasso-europa-beyond-borders/",
+  "fonte": "VesuvioLive",
+  "data": "Thu, 15 Oct 2026 13:32:02 +0000",
+  "comuni": [
+   "Torre del Greco"
+  ],
+  "visto": "2026-10-15T15:39:31+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f5d3.png",
+  "titolo": "Pomigliano. Venticinque anni al servizio del Vangelo: la comunità in festa per il Giubileo Sacerdotale di Don Pietro Antonio Ciccarelli",
+  "link": "https://www.laprovinciaonline.info/pomigliano-venticinque-anni-al-servizio-del-vangelo-la-comunita-in-festa-per-il-giubileo-sacerdotale-di-don-pietro-antonio-ciccarelli/",
+  "fonte": "La Provincia Online",
+  "data": "Thu, 15 Oct 2026 13:25:29 +0000",
+  "comuni": [],
+  "visto": "2026-10-15T15:39:31+00:00"
+ },
+ {
+  "img": "https://www.vesuviolive.it/wp-content/uploads/sites/6/2026/10/brain-space-piazza-dante-napoli.jpeg",
+  "titolo": "Apre Brain Space a Napoli: l’installazione immersiva gratis per “entrare” nel cervello umano",
+  "link": "https://www.vesuviolive.it/eventi/546283-brain-space-napoli-piazza-dante-2026/",
+  "fonte": "VesuvioLive",
+  "data": "Thu, 15 Oct 2026 13:25:19 +0000",
+  "comuni": [],
+  "visto": "2026-10-15T15:39:31+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://www.vesuviolive.it/wp-content/uploads/sites/6/2026/10/copertina-siani-gionta.png",
+  "titolo": "Giancarlo Siani, commento shock della sorella del boss Gionta contro la sua memoria: “Queste bocche non ve le cucite mai”",
+  "link": "https://www.vesuviolive.it/aree-locali/notizie-di-torre-annunziata/546282-commento-di-gionta-contro-siani-le-bocche-non-ve-le-cucite-mai/",
+  "fonte": "VesuvioLive",
+  "data": "Thu, 15 Oct 2026 13:23:05 +0000",
+  "comuni": [
+   "Torre Annunziata"
+  ],
+  "visto": "2026-10-15T15:39:31+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://www.laprovinciaonline.info/wp-content/uploads/2026/10/villaggio-sociale-1024x578.png",
+  "titolo": "Pomigliano, al via il Villaggio sociale: in via Gorizia nuovi spazi per la cura e la vita di comunità",
+  "link": "https://www.laprovinciaonline.info/pomigliano-al-via-il-villaggio-sociale-in-via-gorizia-nuovi-spazi-per-la-cura-e-la-vita-di-comunita/",
+  "fonte": "La Provincia Online",
+  "data": "Thu, 15 Oct 2026 13:21:36 +0000",
+  "comuni": [],
+  "visto": "2026-10-15T15:39:31+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://www.laprovinciaonline.info/wp-content/uploads/2026/10/6543.jpeg",
+  "titolo": "AFRAGOLA. TERRA DEI FUOCHI POLIZIA LOCALE ED ESERCITO SEQUESTRANO DUE VEICOLI CARICHI DI RIFIUTI PRONTI PER ESSERE ABBANDONATI",
+  "link": "https://www.laprovinciaonline.info/afragola-terra-dei-fuochi-polizia-locale-ed-esercito-sequestrano-due-veicoli-carichi-di-rifiuti-pronti-per-essere-abbandonati/",
+  "fonte": "La Provincia Online",
+  "data": "Thu, 15 Oct 2026 13:19:23 +0000",
+  "comuni": [],
+  "visto": "2026-10-15T15:39:31+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://www.laprovinciaonline.info/wp-content/uploads/2026/10/Giuseppe-Conte-Nola.jpg",
+  "titolo": "Giuseppe Conte a Nola con “L’Italia che vogliamo”: cinque dialoghi sul Paese che cambia e la presentazione del nuovo libro",
+  "link": "https://www.laprovinciaonline.info/giuseppe-conte-a-nola-con-litalia-che-vogliamo-cinque-dialoghi-sul-paese-che-cambia-e-la-presentazione-del-nuovo-libro/",
+  "fonte": "La Provincia Online",
+  "data": "Thu, 15 Oct 2026 13:15:24 +0000",
+  "comuni": [
+   "Nola"
+  ],
+  "visto": "2026-10-15T15:39:31+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/10/Schermata-2026-10-15-alle-15.06.53.png",
+  "titolo": "Dramma a Torre del Greco, non si trova più Luigi Formisano: la famiglia lancia l’allarme",
+  "link": "https://www.metropolisweb.it/2026/10/15/dramma-a-torre-del-greco-non-si-trova-piu-luigi-formisano-la-famiglia-lancia-lallarme/",
+  "fonte": "Metropolis",
+  "data": "Thu, 15 Oct 2026 13:10:32 +0000",
+  "comuni": [
+   "Torre del Greco"
+  ],
+  "visto": "2026-10-15T15:39:31+00:00"
+ },
+ {
+  "img": "https://cdn13.webmaster360.it/2026/10/covers/01M4ZJ157S9MZWPKGZFCBVGFAC.jpg",
+  "titolo": "Scoperte 21mila euro di banconote false ma perfettamente riprodotte",
+  "link": "https://www.ilfattovesuviano.it/2026/10/scoperte-21mila-euro-di-banconote-false-ma-perfettamente-riprodotte",
+  "fonte": "Il Fatto Vesuviano",
+  "data": "Thu, 15 Oct 2026 13:00:00 +0000",
+  "comuni": [],
+  "visto": "2026-10-15T15:39:31+00:00"
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2025/06/483468838_639748422113181_6441414451791973502_n-1024x683.jpg",
+  "titolo": "Nocerina, Conte in pole per la panchina",
+  "link": "https://www.metropolisweb.it/2026/10/15/nocerina-conte-in-pole-per-la-panchina/",
+  "fonte": "Metropolis",
+  "data": "Thu, 15 Oct 2026 12:56:27 +0000",
+  "comuni": [],
+  "visto": "2026-10-15T15:39:31+00:00"
+ },
+ {
+  "img": "https://www.vesuviolive.it/wp-content/uploads/sites/6/2026/10/Targa-personalizzata.jpeg",
+  "titolo": "Targhe personalizzate nel nuovo Codice della strada: cosa cambia, e cosa succede alle “targhe polacche”",
+  "link": "https://www.vesuviolive.it/ultime-notizie/546277-targhe-personalizzate-nel-nuovo-codice-della-strada-cosa-cambia-e-cosa-succede-alle-targhe-polacche/",
+  "fonte": "VesuvioLive",
+  "data": "Thu, 15 Oct 2026 12:52:23 +0000",
+  "comuni": [],
+  "visto": "2026-10-15T15:39:31+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/09/strisce-blu-parcometri-via-sasso-2026-3-1024x759.jpg",
+  "titolo": "Torre del Greco, le proteste non fermano il caro-sosta: le strisce blu tornano anche in periferia",
+  "link": "https://www.metropolisweb.it/2026/10/15/torre-del-greco-le-proteste-non-fermano-il-caro-sosta-le-strisce-blu-tornano-anche-in-periferia/",
+  "fonte": "Metropolis",
+  "data": "Thu, 15 Oct 2026 12:52:09 +0000",
+  "comuni": [
+   "Torre del Greco"
+  ],
+  "visto": "2026-10-15T15:39:31+00:00"
+ },
+ {
+  "img": "https://www.vesuviolive.it/wp-content/uploads/sites/6/2023/06/ospedale-Maresca-Torre-del-Greco.jpg",
+  "titolo": "Incidente a Torre del Greco nella notte, i feriti sono 3: gravi lesioni per una donna",
+  "link": "https://www.vesuviolive.it/aree-locali/notizie-di-torre-del-greco/546278-incidente-torre-greco-feriti-donna-grave/",
+  "fonte": "VesuvioLive",
+  "data": "Thu, 15 Oct 2026 12:35:34 +0000",
+  "comuni": [
+   "Torre del Greco"
+  ],
+  "visto": "2026-10-15T15:39:31+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2024/01/infermieri.jpg",
+  "titolo": "Regione, rimborsi lumaca: stipendi e servizi a rischio. Clinica Maria Rosaria: garanzie ai dipendenti",
+  "link": "https://www.metropolisweb.it/2026/10/15/regione-ritardo-stipendi-clinica-maria-rosaria-garanzie-ai-dipedenti/",
+  "fonte": "Metropolis",
+  "data": "Thu, 15 Oct 2026 12:34:36 +0000",
+  "comuni": [],
+  "visto": "2026-10-15T15:39:31+00:00"
+ },
+ {
+  "img": "https://cdn13.webmaster360.it/2026/10/covers/01M4ZHSBR5VZ08DP8JAEGZ84EG.jpg",
+  "titolo": "Interdittiva antimafia, sigilli a cava estrattiva nel Nolano",
+  "link": "https://www.ilfattovesuviano.it/2026/10/interdittiva-antimafia-sigilli-a-cava-estrattiva-nel-nolano",
+  "fonte": "Il Fatto Vesuviano",
+  "data": "Thu, 15 Oct 2026 12:30:00 +0000",
+  "comuni": [],
+  "visto": "2026-10-15T15:39:31+00:00"
+ },
+ {
+  "img": "https://www.laprovinciaonline.info/wp-content/uploads/2026/10/Gico-Finanza.jpg",
+  "titolo": "Camorra e mattone, maxi sequestro da 220 milioni di euro: sigilli a quasi 400 immobili tra Napoli e Roma",
+  "link": "https://www.laprovinciaonline.info/camorra-e-mattone-maxi-sequestro-da-220-milioni-di-euro-sigilli-a-quasi-400-immobili-tra-napoli-e-roma/",
+  "fonte": "La Provincia Online",
+  "data": "Thu, 15 Oct 2026 12:28:13 +0000",
+  "comuni": [],
+  "visto": "2026-10-15T15:39:31+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/10/Schermata-2026-10-15-alle-14.19.42-1024x529.png",
+  "titolo": "«Vico per Cacio», ecco il programma della kermesse",
+  "link": "https://www.metropolisweb.it/2026/10/15/vico-per-cacio-ecco-il-programma-della-kermesse/",
+  "fonte": "Metropolis",
+  "data": "Thu, 15 Oct 2026 12:20:13 +0000",
+  "comuni": [],
+  "visto": "2026-10-15T15:39:31+00:00"
+ },
+ {
+  "img": "https://cdn.positanonews.it/photogallery_new/images/2026/10/clinica-maria-rosaria-3474404.jpg",
+  "titolo": "Crisi alla Clinica Maria Rosaria di Pompei: scatta lo stato di agitazione dei dipendenti per i ritardi negli stipendi",
+  "link": "https://www.positanonews.it/2026/10/crisi-alla-clinica-maria-rosaria-di-pompei-scatta-lo-stato-di-agitazione-dei-dipendenti-per-i-ritardi-negli-stipendi/3861072/",
+  "fonte": "Positano News",
+  "data": "Thu, 15 Oct 2026 12:17:30 +0000",
+  "comuni": [
+   "Pompei"
+  ],
+  "visto": "2026-10-15T15:39:31+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://www.laprovinciaonline.info/wp-content/uploads/2026/10/IMG-20261015-WA0115.jpg",
+  "titolo": "Torna “DeliettaGol” su Tele A: prima puntata tra esclusive e grandi ospiti",
+  "link": "https://www.laprovinciaonline.info/torna-deliettagol-su-tele-a-prima-puntata-tra-esclusive-e-grandi-ospiti/",
+  "fonte": "La Provincia Online",
+  "data": "Thu, 15 Oct 2026 12:10:40 +0000",
+  "comuni": [],
+  "visto": "2026-10-15T15:39:31+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://cdn13.webmaster360.it/2026/10/covers/j8LOf1uCZ92fBgfP33TCbE8b7Af8K8GjWGXl9xMa.jpg",
+  "titolo": "Camorra, sequestrati 220 milioni a noto imprenditore",
+  "link": "https://www.ilfattovesuviano.it/2026/10/camorra-sequestrati-220-milioni-a-noto-imprenditore",
+  "fonte": "Il Fatto Vesuviano",
+  "data": "Thu, 15 Oct 2026 12:00:00 +0000",
+  "comuni": [],
+  "visto": "2026-10-15T15:39:31+00:00"
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/10/images.jpg",
+  "titolo": "Dalle neuroscienze all’intelligenza artificiale: da Napoli parte la nuova alta formazione per l’Italia",
+  "link": "https://www.metropolisweb.it/2026/10/15/dalle-neuroscienze-allintelligenza-artificiale-da-napoli-parte-la-nuova-alta-formazione-per-litalia/",
+  "fonte": "Metropolis",
+  "data": "Thu, 15 Oct 2026 11:58:03 +0000",
+  "comuni": [],
+  "visto": "2026-10-15T15:39:31+00:00"
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/10/Schermata-2026-10-14-alle-15.57.12.png",
+  "titolo": "Torre del Greco, la De Nicola-Sasso celebra gli Erasmus Days con l’evento «Beyond Borders»",
+  "link": "https://www.metropolisweb.it/2026/10/15/torre-del-greco-la-de-nicola-sasso-celebra-gli-erasmus-days-con-levento-beyond-borders/",
+  "fonte": "Metropolis",
+  "data": "Thu, 15 Oct 2026 11:55:52 +0000",
+  "comuni": [
+   "Torre del Greco"
+  ],
+  "visto": "2026-10-15T15:39:31+00:00"
+ },
+ {
+  "img": "https://www.vesuviolive.it/wp-content/uploads/sites/6/2023/08/ercolano-jeans-palazzo-via-pugliano-mercato-di-resina.jpg",
+  "titolo": "Torna Resina KG, il Mercato di Pugliano apre fino a tarda sera: capi a 15 euro al chilo",
+  "link": "https://www.vesuviolive.it/aree-locali/notizie-di-ercolano/546274-resina-kg-mercato-pugliano-ercolano-ottobre-2026/",
+  "fonte": "VesuvioLive",
+  "data": "Thu, 15 Oct 2026 11:52:03 +0000",
+  "comuni": [
+   "Ercolano"
+  ],
+  "visto": "2026-10-15T15:39:31+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/10/piazza-luigi-palomba-notturno-2023-e1792054255818-1024x518.jpg",
+  "titolo": "Torre del Greco, la comunità della parroccha del Carmine in marcia per don Mario",
+  "link": "https://www.metropolisweb.it/2026/10/15/torre-del-greco-la-comunita-della-parroccha-del-carmine-in-marcia-per-don-mario/",
+  "fonte": "Metropolis",
+  "data": "Thu, 15 Oct 2026 11:49:46 +0000",
+  "comuni": [
+   "Torre del Greco"
+  ],
+  "visto": "2026-10-15T15:39:31+00:00"
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/10/tribunale-napoli-900x600-1.jpeg",
+  "titolo": "Violato il divieto di avvicinamento. La consulta: “In carcere, ma valutando la gravità dei fatti””",
+  "link": "https://www.metropolisweb.it/2026/10/15/violato-il-divieto-di-avvicinamento-la-consulta-in-carcere-ma-valutando-la-gravita-dei-fatti/",
+  "fonte": "Metropolis",
+  "data": "Thu, 15 Oct 2026 11:48:00 +0000",
+  "comuni": [],
+  "visto": "2026-10-15T15:39:31+00:00"
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/10/IMG_2494-1024x686.jpeg",
+  "titolo": "Tratta di esseri umani a Napoli 95 valige vuote per ricordare le vittime",
+  "link": "https://www.metropolisweb.it/2026/10/15/tratta-di-esseri-umani-a-napoli-95-valige-vuote-per-ricordare-le-vittime/",
+  "fonte": "Metropolis",
+  "data": "Thu, 15 Oct 2026 11:43:33 +0000",
+  "comuni": [],
+  "visto": "2026-10-15T15:39:31+00:00"
+ },
+ {
+  "img": "https://www.vesuviolive.it/wp-content/uploads/sites/6/2025/11/Roberto-Fico.jpeg",
+  "titolo": "Reddito di restanza in Campania: 1000 euro al mese ai giovani che restano nei piccoli comuni",
+  "link": "https://www.vesuviolive.it/ultime-notizie/politica/546273-reddito-di-restanza-in-campania-1000-euro-al-mese-ai-giovani-che-restano-nei-piccoli-comuni/",
+  "fonte": "VesuvioLive",
+  "data": "Thu, 15 Oct 2026 11:41:53 +0000",
+  "comuni": [],
+  "visto": "2026-10-15T15:39:31+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/08/dcfe0a9bb47fde5333369ffc0380baea.jpg",
+  "titolo": "Rissa tra ultras ad Agerola: un arresto e obbligo di dimora per 7 tifosi",
+  "link": "https://www.metropolisweb.it/2026/10/15/rissa-tra-ultras-ad-agerola-un-arresto-e-obbligo-di-dimora-per-7-tifosi/",
+  "fonte": "Metropolis",
+  "data": "Thu, 15 Oct 2026 11:27:31 +0000",
+  "comuni": [],
+  "visto": "2026-10-15T15:39:31+00:00"
+ },
+ {
   "img": "https://www.vesuviolive.it/wp-content/uploads/sites/6/2026/10/vico-zucca-vico-equense.jpg",
   "titolo": "Apre il Villaggio dell’Autunno nel Napoletano: tra zucche, natura e dolcetti per tutti",
   "link": "https://www.vesuviolive.it/eventi/546268-vico-zucca-villaggio-vico-equense-2026/",
@@ -20,6 +480,17 @@
   ],
   "visto": "2026-10-15T11:18:52+00:00",
   "img_provata": true
+ },
+ {
+  "img": "https://internapoli.it/mato.clanto.cloud/piwik.php?idsite=6&rec=1&url=https%3A%2F%2Finternapoli.it%2Fterrificante-incidente-a-torre-del-greco-auto-si-ribalta-dopo-lo-schianto-tre-feriti%2F&action_name=Terrificante%20incidente%20a%20Torre%20del%20Greco%2C%20auto%20si%20ribalta%20dopo%20lo%20schianto%3A%20tre%20feriti&urlref=https%3A%2F%2Finternapoli.it%2Ffeed%2F",
+  "titolo": "Terrificante incidente a Torre del Greco, auto si ribalta dopo lo schianto: tre feriti",
+  "link": "https://internapoli.it/terrificante-incidente-a-torre-del-greco-auto-si-ribalta-dopo-lo-schianto-tre-feriti/",
+  "fonte": "Internapoli",
+  "data": "Thu, 15 Oct 2026 11:00:28 +0000",
+  "comuni": [
+   "Torre del Greco"
+  ],
+  "visto": "2026-10-15T15:39:31+00:00"
  },
  {
   "img": "https://cdn13.webmaster360.it/2026/10/covers/ifHCMsMWbT2LXWs8ZS8JJDDG8850lpQ5dHYpBfVG.jpg",
@@ -103,7 +574,7 @@
  },
  {
   "img": "https://www.ilmediano.com/wp-content/uploads/2026/10/843167945_1874770520568493_2608472404280969453_n.png.jpeg",
-  "titolo": "San Giuseppe Vesuviano: mercato domenicale, riparte dopo lunga fase di riorganizzazione",
+  "titolo": "San Giuseppe Vesuviano: mercato domenicale, riparte dopo lunga fase di riorganizzazioneSan Giuseppe Vesuviano: mercato domenicale, riparte dopo lunga fase di riorganizzazione",
   "link": "https://www.ilmediano.com/san-giuseppe-vesuviano-mercato-domenicale-riparte-dopo-lunga-fase-di-riorganizzazione/",
   "fonte": "Il Mediano",
   "data": "Thu, 15 Oct 2026 10:33:46 +0000",
@@ -152,6 +623,15 @@
   "img_provata": true
  },
  {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/10/IMG_2492-1024x653.jpeg",
+  "titolo": "Fine vita, il Tribunale ordina un dispositivo per “Irene”",
+  "link": "https://www.metropolisweb.it/2026/10/15/fine-vita-il-tribunale-ordina-un-dispositivo-per-irene/",
+  "fonte": "Metropolis",
+  "data": "Thu, 15 Oct 2026 10:07:23 +0000",
+  "comuni": [],
+  "visto": "2026-10-15T15:39:31+00:00"
+ },
+ {
   "img": "https://www.vesuviolive.it/wp-content/uploads/sites/6/2026/10/villaggio-neapolis-marathon.jpg",
   "titolo": "Apre il Villaggio della Neapolis Marathon: tra stand e musica in Piazza del Plebiscito",
   "link": "https://www.vesuviolive.it/eventi/546260-villaggio-neapolis-marathon-piazza-plebiscito-2026-napoli/",
@@ -169,6 +649,37 @@
   "data": "Thu, 15 Oct 2026 10:00:00 +0000",
   "comuni": [],
   "visto": "2026-10-15T11:18:52+00:00"
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/10/Cava-Casamarciano-15.10.2026-1024x768.jpg",
+  "titolo": "Contrasto alle infiltrazioni mafiose: sequestrata una maxi cava",
+  "link": "https://www.metropolisweb.it/2026/10/15/contrasto-alle-infiltrazioni-mafiose-sequestrata-una-maxi-cava/",
+  "fonte": "Metropolis",
+  "data": "Thu, 15 Oct 2026 09:47:16 +0000",
+  "comuni": [],
+  "visto": "2026-10-15T15:39:31+00:00"
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-15-alle-11.25.58.png",
+  "titolo": "Castellammare, allarme topi: chiuso il plesso San Marco",
+  "link": "https://www.metropolisweb.it/2026/10/15/castellammare-allarme-topi-nel-plesso-san-marco-del-rione-cicerone/",
+  "fonte": "Metropolis",
+  "data": "Thu, 15 Oct 2026 09:30:02 +0000",
+  "comuni": [
+   "Castellammare di Stabia"
+  ],
+  "visto": "2026-10-15T15:39:31+00:00"
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2025/10/Mensa-1.jpg",
+  "titolo": "Torre Annunziata: mensa scolastica, aggiudicata la gara da 2 milioni",
+  "link": "https://www.metropolisweb.it/2026/10/15/torre-annunziata-mensa-scolastica-gara/",
+  "fonte": "Metropolis",
+  "data": "Thu, 15 Oct 2026 09:20:11 +0000",
+  "comuni": [
+   "Torre Annunziata"
+  ],
+  "visto": "2026-10-15T15:39:31+00:00"
  },
  {
   "img": "https://www.vesuviolive.it/wp-content/uploads/sites/6/2026/10/halloween-centro-campania.jpeg",
