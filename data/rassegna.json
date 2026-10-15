@@ -1,5 +1,419 @@
 [
  {
+  "img": "https://www.vesuviolive.it/wp-content/uploads/sites/6/2026/10/vico-zucca-vico-equense.jpg",
+  "titolo": "Apre il Villaggio dell’Autunno nel Napoletano: tra zucche, natura e dolcetti per tutti",
+  "link": "https://www.vesuviolive.it/eventi/546268-vico-zucca-villaggio-vico-equense-2026/",
+  "fonte": "VesuvioLive",
+  "data": "Thu, 15 Oct 2026 11:10:48 +0000",
+  "comuni": [],
+  "visto": "2026-10-15T11:18:52+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://www.vesuvianonews.it/wp-content/uploads/2026/10/570535.jpg",
+  "titolo": "Pompei, stato di agitazione alla Casa di Cura Maria Rosaria: la CISL FP chiede la conciliazione in Prefettura",
+  "link": "https://www.vesuvianonews.it/pompei-casa-di-cura-maria-rosaria-stato-agitazione-cisl-fp/",
+  "fonte": "Vesuviano News",
+  "data": "Thu, 15 Oct 2026 11:09:00 +0000",
+  "comuni": [
+   "Pompei"
+  ],
+  "visto": "2026-10-15T11:18:52+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://cdn13.webmaster360.it/2026/10/covers/ifHCMsMWbT2LXWs8ZS8JJDDG8850lpQ5dHYpBfVG.jpg",
+  "titolo": "Nuovi orari Circumvesuviana: ecco i treni e le fermate aggiuntive",
+  "link": "https://www.ilfattovesuviano.it/2026/10/nuovi-orari-circumvesuviana-ecco-i-treni-e-le-fermate-aggiuntive",
+  "fonte": "Il Fatto Vesuviano",
+  "data": "Thu, 15 Oct 2026 11:00:00 +0000",
+  "comuni": [],
+  "visto": "2026-10-15T11:18:52+00:00"
+ },
+ {
+  "img": "https://www.cronachedellacampania.it/wp-content/uploads/2026/10/video-tribunale-ordina-allasl-napoli-3-sud-di-dotarsi-di-un-sistema-di-autosomministrazione-a-comando-oculare-per-irene-ef2h.jpg",
+  "titolo": "Il Tribunale ordina all’ASL Napoli 3 Sud di dotarsi di un sistema di autosomministrazione a comando oculare per Irene",
+  "link": "https://www.cronachedellacampania.it/2026/10/il-tribunale-ordina-allasl-napoli-3-sud-di-dotarsi-di-un-sistema-di-autosomministrazione-a-comando-oculare-per-irene/",
+  "fonte": "Cronache della Campania",
+  "data": "Thu, 15 Oct 2026 10:54:52 +0000",
+  "comuni": [],
+  "visto": "2026-10-15T11:18:52+00:00"
+ },
+ {
+  "img": "https://www.ilmediano.com/wp-content/uploads/2026/10/Cava-Casamarciano-15.10.2026.jpg",
+  "titolo": "Casamarciano, sequestrata una cava calcarea di 260mila metri quadrati",
+  "link": "https://www.ilmediano.com/casamarciano-sequestrata-una-cava-calcarea-di-260mila-metri-quadrati/",
+  "fonte": "Il Mediano",
+  "data": "Thu, 15 Oct 2026 10:53:57 +0000",
+  "comuni": [],
+  "visto": "2026-10-15T11:18:52+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://www.laprovinciaonline.info/wp-content/uploads/2026/10/provi-1024x576.png",
+  "titolo": "Campo largo, dai 21 punti alla fiducia: come si costruisce un’alternativa",
+  "link": "https://www.laprovinciaonline.info/campo-largo-21-punti-consenso/",
+  "fonte": "La Provincia Online",
+  "data": "Thu, 15 Oct 2026 10:52:35 +0000",
+  "comuni": [],
+  "visto": "2026-10-15T11:18:52+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://www.ansa.it/webimages/img_1280x720/2026/9/16/87c3b80375adc13dc98e0ede594e87e6.jpg",
+  "titolo": "Cambiano orari e frequenze dei treni della Circumvesuviana",
+  "link": "https://www.ansa.it/campania/notizie/2026/10/15/cambiano-orari-e-frequenze-dei-treni-della-circumvesuviana_8b1eed57-124c-430d-aaed-c7b6a57689ed.html",
+  "fonte": "ANSA Campania",
+  "data": "Thu, 15 Oct 2026 12:40:47 +0200",
+  "comuni": [],
+  "visto": "2026-10-15T11:18:52+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://www.ilmediano.com/wp-content/uploads/2018/11/cc-castello-di-cisterna.jpg",
+  "titolo": "Cisterna, picchia di nuovo la moglie e viene ancora arrestato",
+  "link": "https://www.ilmediano.com/cisterna-picchia-di-nuovo-la-moglie-e-viene-ancora-arrestato/",
+  "fonte": "Il Mediano",
+  "data": "Thu, 15 Oct 2026 10:39:18 +0000",
+  "comuni": [],
+  "visto": "2026-10-15T11:18:52+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://www.ilmediano.com/wp-content/uploads/2026/10/Inaugurazione-colorata-dellaula-bambini.png",
+  "titolo": "Ottaviano, inaugurato il nuovo asilo nido al plesso Pozini: un servizio per le famiglie di San Gennarello",
+  "link": "https://www.ilmediano.com/ottaviano-inaugurato-il-nuovo-asilo-nido-al-plesso-pozini-un-servizio-per-le-famiglie-di-san-gennarello/",
+  "fonte": "Il Mediano",
+  "data": "Thu, 15 Oct 2026 10:35:47 +0000",
+  "comuni": [
+   "Ottaviano"
+  ],
+  "visto": "2026-10-15T11:18:52+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://www.vesuvianonews.it/wp-content/uploads/2026/07/de-cristofaro.jpg",
+  "titolo": "SI, Peppe De Cristofaro: “Meloni regala l’autonomia differenziata a Salvini e alla Lega. Sud sacrificato”",
+  "link": "https://www.vesuvianonews.it/si-peppe-de-cristofaro-meloni-regala-lautonomia-differenziata-a-salvini-e-alla-lega-sud-sacrificato/",
+  "fonte": "Vesuviano News",
+  "data": "Thu, 15 Oct 2026 10:33:47 +0000",
+  "comuni": [],
+  "visto": "2026-10-15T11:18:52+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://www.ilmediano.com/wp-content/uploads/2026/10/843167945_1874770520568493_2608472404280969453_n.png.jpeg",
+  "titolo": "San Giuseppe Vesuviano: mercato domenicale, riparte dopo lunga fase di riorganizzazione",
+  "link": "https://www.ilmediano.com/san-giuseppe-vesuviano-mercato-domenicale-riparte-dopo-lunga-fase-di-riorganizzazione/",
+  "fonte": "Il Mediano",
+  "data": "Thu, 15 Oct 2026 10:33:46 +0000",
+  "comuni": [
+   "San Giuseppe Vesuviano"
+  ],
+  "visto": "2026-10-15T11:18:52+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://www.ilmediano.com/wp-content/uploads/2026/10/IMG_2799-1024x714.jpeg",
+  "titolo": "Melito, incendio in un palazzo del rione 219: evacuata la scuola Antonio De Curtis",
+  "link": "https://www.ilmediano.com/melito-incendio-in-un-palazzo-del-rione-219-evacuata-la-scuola-antonio-de-curtis/",
+  "fonte": "Il Mediano",
+  "data": "Thu, 15 Oct 2026 10:32:16 +0000",
+  "comuni": [],
+  "visto": "2026-10-15T11:18:52+00:00"
+ },
+ {
+  "img": "https://cdn13.webmaster360.it/2026/10/covers/hb2fBcKl6XQLNwe1i7Kh4UehSDPIi640RROtIro2.jpg",
+  "titolo": "La moglie è già a terra ma lui continua a picchiarla davianti ai figli",
+  "link": "https://www.ilfattovesuviano.it/2026/10/la-moglie-e-gia-a-terra-ma-lui-continua-a-picchiarla-davianti-ai-figli",
+  "fonte": "Il Fatto Vesuviano",
+  "data": "Thu, 15 Oct 2026 10:30:00 +0000",
+  "comuni": [],
+  "visto": "2026-10-15T11:18:52+00:00"
+ },
+ {
+  "img": "https://www.vesuvianonews.it/wp-content/uploads/2026/07/logo.jpg",
+  "titolo": "Comitati NoAd: “Approvati gli schemi d’Intesa. Contro l’Autonomia differenziata la mobilitazione continua”",
+  "link": "https://www.vesuvianonews.it/comitati-noad-approvati-gli-schemi-dintesa-contro-lautonomia-differenziata-la-mobilitazione-continua/",
+  "fonte": "Vesuviano News",
+  "data": "Thu, 15 Oct 2026 10:26:20 +0000",
+  "comuni": [],
+  "visto": "2026-10-15T11:18:52+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://www.laprovinciaonline.info/wp-content/uploads/2026/10/Screenshot_20261015_120849_Gallery.jpg",
+  "titolo": "Fondi per il terremoto di Ischia ottenuti illecitamente: sequestro da 356mila euro a Lacco Ameno",
+  "link": "https://www.laprovinciaonline.info/fondi-per-il-terremoto-di-ischia-ottenuti-illecitamente-sequestro-da-356mila-euro-a-lacco-ameno/",
+  "fonte": "La Provincia Online",
+  "data": "Thu, 15 Oct 2026 10:23:09 +0000",
+  "comuni": [],
+  "visto": "2026-10-15T11:18:52+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://www.vesuviolive.it/wp-content/uploads/sites/6/2026/10/villaggio-neapolis-marathon.jpg",
+  "titolo": "Apre il Villaggio della Neapolis Marathon: tra stand e musica in Piazza del Plebiscito",
+  "link": "https://www.vesuviolive.it/eventi/546260-villaggio-neapolis-marathon-piazza-plebiscito-2026-napoli/",
+  "fonte": "VesuvioLive",
+  "data": "Thu, 15 Oct 2026 10:00:59 +0000",
+  "comuni": [],
+  "visto": "2026-10-15T11:18:52+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://cdn13.webmaster360.it/2026/10/covers/01M4ZEWT1C54SPM0NQJT5XMXEP.jpg",
+  "titolo": "Auto si ribalta a Torre, tre feriti e uno grave",
+  "link": "https://www.ilfattovesuviano.it/2026/10/auto-si-ribalta-a-torre-tre-feriti-e-uno-grave",
+  "fonte": "Il Fatto Vesuviano",
+  "data": "Thu, 15 Oct 2026 10:00:00 +0000",
+  "comuni": [],
+  "visto": "2026-10-15T11:18:52+00:00"
+ },
+ {
+  "img": "https://www.vesuviolive.it/wp-content/uploads/sites/6/2026/10/halloween-centro-campania.jpeg",
+  "titolo": "Tra Bella ‘Mbriana e Sciò Sciò: apre il villaggio di Halloween napoletano, ingresso gratis",
+  "link": "https://www.vesuviolive.it/eventi/546257-halloween-partenopeo-centro-commerciale-campania-2026/",
+  "fonte": "VesuvioLive",
+  "data": "Thu, 15 Oct 2026 09:16:21 +0000",
+  "comuni": [],
+  "visto": "2026-10-15T11:18:52+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-15-alle-11.09.23.png",
+  "titolo": "Traffici di anabolizzanti, 15 indagati in provincia di Napoli",
+  "link": "https://www.metropolisweb.it/2026/10/15/traffici-di-anabolizzanti-15-indagati-in-provincia-di-napoli/",
+  "fonte": "Metropolis",
+  "data": "Thu, 15 Oct 2026 09:11:38 +0000",
+  "comuni": [],
+  "visto": "2026-10-15T11:18:52+00:00"
+ },
+ {
+  "img": "https://cdn13.webmaster360.it/2026/10/covers/01M4YERQ7XQM6NR270YMTVT0K4.jpg",
+  "titolo": "Tombino aperto e coperto con un bidone della spazzatura: «Un pericolo»",
+  "link": "https://www.ilfattovesuviano.it/2026/10/tombino-aperto-e-coperto-con-un-bidone-della-spazzatura-un-pericolo",
+  "fonte": "Il Fatto Vesuviano",
+  "data": "Thu, 15 Oct 2026 09:00:00 +0000",
+  "comuni": [],
+  "visto": "2026-10-15T11:18:52+00:00"
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/10/Sorrento-piazza-Tasso.png",
+  "titolo": "Sorrento, il ministro del turismo in città per un convegno",
+  "link": "https://www.metropolisweb.it/2026/10/15/sorrento-il-ministro-del-turismo-in-citta-per-un-convegno/",
+  "fonte": "Metropolis",
+  "data": "Thu, 15 Oct 2026 08:59:21 +0000",
+  "comuni": [],
+  "visto": "2026-10-15T11:18:52+00:00"
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/10/d7b6bc7b018cb325c9380454e9f58d62.jpg",
+  "titolo": "Castellammare | Greta e Nicolò, oggi la prima verità sulla tragedia",
+  "link": "https://www.metropolisweb.it/2026/10/15/castellammare-greta-e-nicolo-oggi-la-prima-verita-sulla-tragedia/?ta_paidstory",
+  "fonte": "Metropolis",
+  "data": "Thu, 15 Oct 2026 08:59:07 +0000",
+  "comuni": [
+   "Castellammare di Stabia"
+  ],
+  "visto": "2026-10-15T11:18:52+00:00"
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-15-alle-10.49.06.png",
+  "titolo": "Hispanidad 2026, un ponte tra le culture voluto dal Liceo Plinio",
+  "link": "https://www.metropolisweb.it/2026/10/15/hispanidad-2026-un-ponte-tra-le-culture-voluto-dal-liceo-plinio/",
+  "fonte": "Metropolis",
+  "data": "Thu, 15 Oct 2026 08:53:06 +0000",
+  "comuni": [],
+  "visto": "2026-10-15T11:18:52+00:00"
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/10/image0-5-1024x683.jpeg",
+  "titolo": "Ercolano, domenica in programma la “Vesuvio Race”",
+  "link": "https://www.metropolisweb.it/2026/10/15/ercolano-domenica-in-programma-la-vesuvio-race/",
+  "fonte": "Metropolis",
+  "data": "Thu, 15 Oct 2026 08:50:34 +0000",
+  "comuni": [
+   "Ercolano"
+  ],
+  "visto": "2026-10-15T11:18:52+00:00"
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/10/Schermata-2026-10-15-alle-10.43.22.png",
+  "titolo": "Torre del Greco: «fiabesche emozioni» a villa Macrina",
+  "link": "https://www.metropolisweb.it/2026/10/15/torre-del-greco-fiabesche-emozioni-a-villa-macrina/",
+  "fonte": "Metropolis",
+  "data": "Thu, 15 Oct 2026 08:46:58 +0000",
+  "comuni": [
+   "Torre del Greco"
+  ],
+  "visto": "2026-10-15T11:18:52+00:00"
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-15-alle-10.43.12-1024x970.png",
+  "titolo": "Voragine a Piazza Spartaco: due mesi senza interventi",
+  "link": "https://www.metropolisweb.it/2026/10/15/voragine-a-piazza-spartaco-due-mesi-senza-interventi/",
+  "fonte": "Metropolis",
+  "data": "Thu, 15 Oct 2026 08:43:46 +0000",
+  "comuni": [],
+  "visto": "2026-10-15T11:18:52+00:00"
+ },
+ {
+  "img": "https://cdn13.webmaster360.it/2026/10/covers/01M4YE4P78DJE0WWTSY9ESFBX8.jpg",
+  "titolo": "Cane abbaia, lo uccide a colpi di fucile e minaccia il padrone",
+  "link": "https://www.ilfattovesuviano.it/2026/10/cane-abbaia-lo-uccide-a-colpi-di-fucile-e-minaccia-il-padrone",
+  "fonte": "Il Fatto Vesuviano",
+  "data": "Thu, 15 Oct 2026 08:30:00 +0000",
+  "comuni": [],
+  "visto": "2026-10-15T11:18:52+00:00"
+ },
+ {
+  "img": "https://www.vesuviolive.it/wp-content/uploads/sites/6/2026/06/nuovo-treno-vesuviana.png",
+  "titolo": "Circumvesuviana, in vigore il nuovo piano: treni ogni 10 e 30 minuti, 4 fermate aggiuntive",
+  "link": "https://www.vesuviolive.it/ultime-notizie/546255-circumvesuviana-nuovi-orari-treni-fermate-ottobre-2026/",
+  "fonte": "VesuvioLive",
+  "data": "Thu, 15 Oct 2026 08:29:31 +0000",
+  "comuni": [],
+  "visto": "2026-10-15T11:18:52+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://www.vesuvianonews.it/wp-content/uploads/2026/10/Avella-candlelight-400x300.jpeg",
+  "titolo": "Avella, il Giardino Livia Colonna si accende con “Candlelight”: un concerto per inaugurare il restauro",
+  "link": "https://www.vesuvianonews.it/avella-il-giardino-livia-colonna-si-accende-con-candlelight-un-concerto-per-inaugurare-il-restauro/",
+  "fonte": "Vesuviano News",
+  "data": "Thu, 15 Oct 2026 08:24:56 +0000",
+  "comuni": [],
+  "visto": "2026-10-15T11:18:52+00:00"
+ },
+ {
+  "img": "https://citynews-napolitoday.stgy.ovh/~media/original-hi/62090649321581/autobus-eav-stazione-porta-nolana-circumvesuviana-7-mp4-06_47_45_01-immagine002-2.jpg",
+  "titolo": "La Circumvesuviana cambia gli orari: ecco i nuovi",
+  "link": "https://www.napolitoday.it/cronaca/circumvesuviana-nuovi-orari.html",
+  "fonte": "NapoliToday",
+  "data": "Thu, 15 Oct 2026 10:06:47 +0200",
+  "comuni": [],
+  "visto": "2026-10-15T11:18:52+00:00"
+ },
+ {
+  "img": "https://cdn13.webmaster360.it/2026/10/covers/01KC15YSGCRY5TF3S6686G6H2R.jpg",
+  "titolo": "Scappa all'Alt travolgendo auto e pedoni",
+  "link": "https://www.ilfattovesuviano.it/2026/10/scappa-lalt-travolgendo-auto-e-pedoni",
+  "fonte": "Il Fatto Vesuviano",
+  "data": "Thu, 15 Oct 2026 08:00:00 +0000",
+  "comuni": [],
+  "visto": "2026-10-15T11:18:52+00:00"
+ },
+ {
+  "img": "https://www.vesuviolive.it/wp-content/uploads/sites/6/2026/10/trudie-styler.jpeg",
+  "titolo": "Trudie Styler, regista e moglie di Sting pazza di Napoli: “Mi sento napoletana a tutti gli effetti”",
+  "link": "https://www.vesuviolive.it/ultime-notizie/546252-trudie-styler-napoli-regista-libro-iossa/",
+  "fonte": "VesuvioLive",
+  "data": "Thu, 15 Oct 2026 07:57:47 +0000",
+  "comuni": [],
+  "visto": "2026-10-15T11:18:52+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://citynews-napolitoday.stgy.ovh/~media/original-hi/66629123596471/incidente-a-torre-del-greco-2.jpg",
+  "titolo": "Auto si ribalta dopo uno scontro con un'altra vettura, due i feriti (uno è grave)",
+  "link": "https://www.napolitoday.it/cronaca/incidente-stradale/auto-ribaltata-via-circumvallazione-torre-del-greco.html",
+  "fonte": "NapoliToday",
+  "data": "Thu, 15 Oct 2026 09:45:53 +0200",
+  "comuni": [
+   "Torre del Greco"
+  ],
+  "visto": "2026-10-15T11:18:52+00:00"
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-14-205013.png",
+  "titolo": "Raid alla mensa scolastica di Massa Lubrense, vandalizzato il centro cottura",
+  "link": "https://www.metropolisweb.it/2026/10/15/raid-alla-mensa-scolastica-di-massa-lubrense-vandalizzato-il-centro-cottura/",
+  "fonte": "Metropolis",
+  "data": "Thu, 15 Oct 2026 07:40:50 +0000",
+  "comuni": [],
+  "visto": "2026-10-15T11:18:52+00:00"
+ },
+ {
+  "img": "https://cdn13.webmaster360.it/2026/10/covers/01M4XN9A075ECC74H0YRJSH1N1.jpg",
+  "titolo": "Hospitality management: le attitudini personali più richieste dai grandi gruppi alberghieri",
+  "link": "https://www.ilfattovesuviano.it/2026/10/hospitality-management-le-attitudini-personali-piu-richieste-dai-grandi-gruppi-alberghieri",
+  "fonte": "Il Fatto Vesuviano",
+  "data": "Thu, 15 Oct 2026 07:30:00 +0000",
+  "comuni": [],
+  "visto": "2026-10-15T11:18:52+00:00"
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/10/Torre-Annunziata-Veduta.jpeg",
+  "titolo": "Torre Annunziata, interdittiva antimafia per un’attività",
+  "link": "https://www.metropolisweb.it/2026/10/15/torre-annunziata-interdittiva-antimafia-per-unattivita/",
+  "fonte": "Metropolis",
+  "data": "Thu, 15 Oct 2026 07:25:01 +0000",
+  "comuni": [
+   "Torre Annunziata"
+  ],
+  "visto": "2026-10-15T11:18:52+00:00"
+ },
+ {
+  "img": "https://www.vesuviolive.it/wp-content/uploads/sites/6/2026/10/morto-monteruscello.png",
+  "titolo": "Precipitato e morto a 24 anni, la mamma: “Mi hanno telefonato dicendo che non stava bene”",
+  "link": "https://www.vesuviolive.it/ultime-notizie/546249-ragazzo-morto-monteruscello-mamma/",
+  "fonte": "VesuvioLive",
+  "data": "Thu, 15 Oct 2026 07:13:18 +0000",
+  "comuni": [],
+  "visto": "2026-10-15T11:18:52+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://cdn13.webmaster360.it/2026/10/covers/01M4YCJE1WJWZHWDD5N619N7YE.jpg",
+  "titolo": "Abbandona gattini appena nati, identificato e denunciato",
+  "link": "https://www.ilfattovesuviano.it/2026/10/abbandona-gattini-appena-nati-identificato-e-denunciato",
+  "fonte": "Il Fatto Vesuviano",
+  "data": "Thu, 15 Oct 2026 07:00:00 +0000",
+  "comuni": [],
+  "visto": "2026-10-15T11:18:52+00:00"
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/09/Schermata-2026-09-21-alle-15.28.25-1024x467.png",
+  "titolo": "Castellammare | Guerra di camorra, chiuso il processo a boss e killer",
+  "link": "https://www.metropolisweb.it/2026/10/15/castellammare-guerra-di-camorra-chiuso-il-processo-a-boss-e-killer/?ta_paidstory",
+  "fonte": "Metropolis",
+  "data": "Thu, 15 Oct 2026 06:47:43 +0000",
+  "comuni": [
+   "Castellammare di Stabia"
+  ],
+  "visto": "2026-10-15T11:18:52+00:00"
+ },
+ {
+  "img": "https://cdn13.webmaster360.it/2026/10/covers/4F5DE2kCtVZJ8YywfUk4E06bLsj27dAfCOXLuNc3.jpg",
+  "titolo": "Volontari del 118, fino a 11 mesi di ritardo nei pagamenti",
+  "link": "https://www.ilfattovesuviano.it/2026/10/volontari-del-118-fino-a-11-mesi-di-ritardo-nei-pagamenti",
+  "fonte": "Il Fatto Vesuviano",
+  "data": "Thu, 15 Oct 2026 06:30:00 +0000",
+  "comuni": [],
+  "visto": "2026-10-15T11:18:52+00:00"
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/10/71c075cf-e47a-4f5e-8827-a6e4385562d2-1024x762.jpeg",
+  "titolo": "Torre del Greco, terrificante incidente nella notte: auto si ribalta dopo lo schianto | VIDEO",
+  "link": "https://www.metropolisweb.it/2026/10/15/torre-del-greco-terrificante-incidente-nella-notte-auto-si-ribalta-dopo-lo-schianto/",
+  "fonte": "Metropolis",
+  "data": "Thu, 15 Oct 2026 06:00:11 +0000",
+  "comuni": [
+   "Torre del Greco"
+  ],
+  "visto": "2026-10-15T11:18:52+00:00"
+ },
+ {
+  "img": "https://cdn13.webmaster360.it/2026/10/covers/tppSDIuTg7babqaa7XjpC30YrNCme2mJ3SS1lSB7.jpg",
+  "titolo": "Visite non fatte: cartelle esattoriali per 10 anni di pagamenti",
+  "link": "https://www.ilfattovesuviano.it/2026/10/visite-non-fatte-cartelle-esattoriali-per-10-anni-di-pagamenti",
+  "fonte": "Il Fatto Vesuviano",
+  "data": "Thu, 15 Oct 2026 06:00:00 +0000",
+  "comuni": [],
+  "visto": "2026-10-15T11:18:52+00:00"
+ },
+ {
   "img": "https://cdn13.webmaster360.it/2026/10/covers/01M4YBZVR1V2CQRT0CD8BTJAND.jpg",
   "titolo": "Saracinesca sventrata e farmacia svaligiata nella notte",
   "link": "https://www.ilfattovesuviano.it/2026/10/saracinesca-sventrata-e-farmacia-svaligiata-nella-notte",
