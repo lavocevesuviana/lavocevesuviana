@@ -1,5 +1,422 @@
 [
  {
+  "img": "https://www.ilmediano.com/wp-content/uploads/2020/11/Comune-di-pomigliano-darco-1.png",
+  "titolo": "Biometano a Pomigliano, il Comune ferma il progetto: Città Aperta rivendica la vittoria",
+  "link": "https://www.ilmediano.com/biometano-a-pomigliano-il-comune-ferma-il-progetto-citta-aperta-rivendica-la-vittoria/",
+  "fonte": "Il Mediano",
+  "data": "Wed, 28 Oct 2026 20:53:47 +0000",
+  "comuni": [],
+  "visto": "2026-10-28T20:57:51+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://cdn13.webmaster360.it/2026/10/covers/vBMZraHsh4uGYHp932ipfknMdTpEicnqHnHN9N2v.jpg",
+  "titolo": "Trasporti, lo sciopero è rinviato",
+  "link": "https://www.ilfattovesuviano.it/2026/10/trasporti-lo-sciopero-e-rinviato",
+  "fonte": "Il Fatto Vesuviano",
+  "data": "Wed, 28 Oct 2026 20:00:00 +0000",
+  "comuni": [],
+  "visto": "2026-10-28T20:57:51+00:00"
+ },
+ {
+  "img": "https://www.laprovinciaonline.info/wp-content/uploads/2026/10/casoria-si-prepara-ad-accogliere-villaggio-zucche-ingresso.jpg",
+  "titolo": "A Casoria apre il “Villaggio delle Zucche”: festa gratis al Parco Michelangelo",
+  "link": "https://www.laprovinciaonline.info/casoria-si-prepara-ad-accogliere-villaggio-zucche-ingresso/",
+  "fonte": "La Provincia Online",
+  "data": "Wed, 28 Oct 2026 19:36:24 +0000",
+  "comuni": [],
+  "visto": "2026-10-28T20:57:51+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://www.laprovinciaonline.info/wp-content/uploads/2026/10/nuovi-treni-nuove-prospettive-sicurezza-eav-investe-cardioprotezione-2.jpeg",
+  "titolo": "Nuovi treni, nuove prospettive di sicurezza: EAV investe nella cardioprotezione",
+  "link": "https://www.laprovinciaonline.info/nuovi-treni-nuove-prospettive-sicurezza-eav-investe-cardioprotezione/",
+  "fonte": "La Provincia Online",
+  "data": "Wed, 28 Oct 2026 19:33:41 +0000",
+  "comuni": [],
+  "visto": "2026-10-28T20:57:51+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://www.laprovinciaonline.info/wp-content/uploads/2026/10/paolo-siani-presenta-benessere-digitale-incontro-famiglie-mio.jpg",
+  "titolo": "Paolo Siani presenta «Benessere digitale», incontro con le famiglie da Mio nonno è Michelangelo",
+  "link": "https://www.laprovinciaonline.info/paolo-siani-presenta-benessere-digitale-incontro-famiglie-mio/",
+  "fonte": "La Provincia Online",
+  "data": "Wed, 28 Oct 2026 19:31:45 +0000",
+  "comuni": [],
+  "visto": "2026-10-28T20:57:51+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://www.laprovinciaonline.info/wp-content/uploads/2026/10/terzigno-pro-loco-va-scena-gianpietro-ianneo-ritorniamo-1.jpg",
+  "titolo": "Terzigno, alla Pro Loco va in scena Gianpietro Ianneo con «Ritorniamo a Ridere»",
+  "link": "https://www.laprovinciaonline.info/terzigno-pro-loco-va-scena-gianpietro-ianneo-ritorniamo/",
+  "fonte": "La Provincia Online",
+  "data": "Wed, 28 Oct 2026 19:30:32 +0000",
+  "comuni": [
+   "Terzigno"
+  ],
+  "visto": "2026-10-28T20:57:51+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://cdn13.webmaster360.it/2026/10/covers/01M61SSJK1M10HWEQDHKH04CSG.jpg",
+  "titolo": "Sabrina uccisa dal ragno violino, la sorella: \"Stava malissimo\"",
+  "link": "https://www.ilfattovesuviano.it/2026/10/sabrina-uccisa-dal-ragno-violino-la-sorella-stava-malissimo",
+  "fonte": "Il Fatto Vesuviano",
+  "data": "Wed, 28 Oct 2026 19:30:00 +0000",
+  "comuni": [],
+  "visto": "2026-10-28T20:57:51+00:00"
+ },
+ {
+  "img": "https://www.laprovinciaonline.info/wp-content/uploads/2026/10/centenarie-teatro-toto-premio-maestri-custodi-pizza-storica.jpg",
+  "titolo": "Le Centenarie, al Teatro Totò il Premio «Maestri e Custodi della Pizza Storica Napoletana”",
+  "link": "https://www.laprovinciaonline.info/centenarie-teatro-toto-premio-maestri-custodi-pizza-storica/",
+  "fonte": "La Provincia Online",
+  "data": "Wed, 28 Oct 2026 19:29:15 +0000",
+  "comuni": [],
+  "visto": "2026-10-28T20:57:51+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://www.laprovinciaonline.info/wp-content/uploads/2026/10/pietro-perone-carla-nicoletta-tutti-vincitori-3.jpg",
+  "titolo": "Casapesenna, Luca Abete al Premio Agrorinasce: «Niente retorica, la legalità si fa con i gesti»",
+  "link": "https://www.laprovinciaonline.info/casapesenna-luca-abete-al-premio-agrorinasce-niente-retorica-la-legalita-si-fa-con-i-gesti/",
+  "fonte": "La Provincia Online",
+  "data": "Wed, 28 Oct 2026 19:28:14 +0000",
+  "comuni": [],
+  "visto": "2026-10-28T20:57:51+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://www.laprovinciaonline.info/wp-content/uploads/2026/10/giochi-zucca-tre-giorni-speciali-vivere-magia-halloween.jpg",
+  "titolo": "Giochi di Zucca, tre giorni speciali per vivere la magia di Halloween",
+  "link": "https://www.laprovinciaonline.info/giochi-zucca-tre-giorni-speciali-vivere-magia-halloween/",
+  "fonte": "La Provincia Online",
+  "data": "Wed, 28 Oct 2026 19:23:45 +0000",
+  "comuni": [],
+  "visto": "2026-10-28T20:57:51+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://cdn13.webmaster360.it/2026/10/covers/01M5650WJFNB6DHSCX7MMBEY96.jpg",
+  "titolo": "Trattori in marcia, torna la protesta contro il caro-carburanti",
+  "link": "https://www.ilfattovesuviano.it/2026/10/trattori-in-marcia-torna-la-protesta-contro-il-caro-carburanti",
+  "fonte": "Il Fatto Vesuviano",
+  "data": "Wed, 28 Oct 2026 19:00:00 +0000",
+  "comuni": [],
+  "visto": "2026-10-28T20:57:51+00:00"
+ },
+ {
+  "img": "https://www.vesuvianonews.it/wp-content/uploads/2026/10/Screenshot-2026-10-19-112644.png",
+  "titolo": "San Giorgio a Cremano, al via la mensa scolastica ma le polemiche non si placano",
+  "link": "https://www.vesuvianonews.it/san-giorgio-a-cremano-al-via-la-mensa-scolastica-ma-le-polemiche-non-si-placano/",
+  "fonte": "Vesuviano News",
+  "data": "Wed, 28 Oct 2026 18:49:18 +0000",
+  "comuni": [],
+  "visto": "2026-10-28T20:57:51+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://www.laprovinciaonline.info/wp-content/uploads/2026/10/evento-TRAM-2526-berretto-800.jpg",
+  "titolo": "Gran finale al Teatro TRAM: ultime tre repliche per «Il berretto a sonagli» diretto da Titti Nuzzolese",
+  "link": "https://www.laprovinciaonline.info/gran-finale-al-teatro-tram-ultime-tre-repliche-per-il-berretto-a-sonagli-diretto-da-titti-nuzzolese/",
+  "fonte": "La Provincia Online",
+  "data": "Wed, 28 Oct 2026 18:45:47 +0000",
+  "comuni": [],
+  "visto": "2026-10-28T20:57:51+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/10/sito-pan-5-1024x576.jpg",
+  "titolo": "Sonno, le italiane hanno le notti più corte",
+  "link": "https://www.metropolisweb.it/2026/10/28/sonno-le-italiane-hanno-le-notti-piu-corte/",
+  "fonte": "Metropolis",
+  "data": "Wed, 28 Oct 2026 18:37:31 +0000",
+  "comuni": [],
+  "visto": "2026-10-28T20:57:51+00:00"
+ },
+ {
+  "img": "https://www.laprovinciaonline.info/wp-content/uploads/2015/12/logo-2.png",
+  "titolo": "Formazione professionale Campania, il Movimento all’incontro con l’assessore Saggese: «Bene l’apertura, ma solo se la prima di una lunga serie»",
+  "link": "https://www.laprovinciaonline.info/formazione-professionale-campania-il-movimento-allincontro-con-lassessore-saggese-bene-lapertura-ma-solo-se-la-prima-di-una-lunga-serie/",
+  "fonte": "La Provincia Online",
+  "data": "Wed, 28 Oct 2026 18:23:17 +0000",
+  "comuni": [],
+  "visto": "2026-10-28T20:57:51+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://cdn.positanonews.it/photogallery_new/images/2026/10/macchina-incendiata-3475138.jpg",
+  "titolo": "Macchina incendiata all’inizio del ponte San Marco a Castellammare di Stabia: traffico in tilt verso Sorrento, sul posto i vigili del fuoco",
+  "link": "https://www.positanonews.it/2026/10/macchina-incendiata-allinizio-del-ponte-san-marco-a-castellammare-di-stabia-traffico-in-tilt-verso-sorrento-sul-posto-i-vigili-del-fuoco/3863368/",
+  "fonte": "Positano News",
+  "data": "Wed, 28 Oct 2026 18:06:11 +0000",
+  "comuni": [
+   "Castellammare di Stabia"
+  ],
+  "visto": "2026-10-28T20:57:51+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://cdn13.webmaster360.it/2026/10/covers/01KCBG8WE5HD51F7CE851W78TJ.jpg",
+  "titolo": "Era ai domiciliari ma lavora a casa di un altro detenuto",
+  "link": "https://www.ilfattovesuviano.it/2026/10/era-ai-domiciliari-ma-lavora-a-casa-di-un-altro-detenuto",
+  "fonte": "Il Fatto Vesuviano",
+  "data": "Wed, 28 Oct 2026 18:00:00 +0000",
+  "comuni": [],
+  "visto": "2026-10-28T20:57:51+00:00"
+ },
+ {
+  "img": "https://www.vesuvianonews.it/wp-content/uploads/2026/10/valori_sballati.jpg",
+  "titolo": "Napoli e Caserta, ITS Academy TEC MOS porta “Valori sballati”: a Pietrarsa la lezione-spettacolo di Enzo Memoli il 10 e 11 novembre",
+  "link": "https://www.vesuvianonews.it/valori-sballati-enzo-memoli-its-tec-mos-pietrarsa-caserta/",
+  "fonte": "Vesuviano News",
+  "data": "Wed, 28 Oct 2026 17:30:35 +0000",
+  "comuni": [],
+  "visto": "2026-10-28T20:57:51+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://cdn13.webmaster360.it/2026/10/covers/01M61NM3MXX904XHAZJ5V7S16M.jpg",
+  "titolo": "Andava a scuola, Emanuele muore in scooter a 16 anni",
+  "link": "https://www.ilfattovesuviano.it/2026/10/andava-a-scuola-emanuele-muore-in-scooter-a-16-anni",
+  "fonte": "Il Fatto Vesuviano",
+  "data": "Wed, 28 Oct 2026 17:30:00 +0000",
+  "comuni": [],
+  "visto": "2026-10-28T20:57:51+00:00"
+ },
+ {
+  "img": "https://www.vesuvianonews.it/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-27-at-21.43.55.jpeg",
+  "titolo": "Somma Vesuviana, “Halloween per Tutti”: il Villaggio dei Piccoli Mostri in piazza il 31 ottobre",
+  "link": "https://www.vesuvianonews.it/somma-vesuviana-halloween-per-tutti-villaggio-piccoli-mostri/",
+  "fonte": "Vesuviano News",
+  "data": "Wed, 28 Oct 2026 17:23:40 +0000",
+  "comuni": [
+   "Somma Vesuviana"
+  ],
+  "visto": "2026-10-28T20:57:51+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://www.vesuvianonews.it/wp-content/uploads/2026/10/Lavori-ex-plesso-Musci.jpg",
+  "titolo": "Pollena Trocchia, al via i lavori all’ex plesso “Musci”: diventerà un presidio per l’autismo",
+  "link": "https://www.vesuvianonews.it/pollena-trocchia-ex-plesso-musci-presidio-autismo-asl/",
+  "fonte": "Vesuviano News",
+  "data": "Wed, 28 Oct 2026 17:17:30 +0000",
+  "comuni": [
+   "Pollena Trocchia"
+  ],
+  "visto": "2026-10-28T20:57:51+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://www.vesuvianonews.it/wp-content/uploads/2026/10/Torre-del-Greco-2024-150x150.jpeg",
+  "titolo": "Portici, alla Reggia inaugura “L’amante del Vesuvio”: la mostra di Luciano D’Inverno nella Galleria del Piano Nobile",
+  "link": "https://www.vesuvianonews.it/portici-reggia-amante-del-vesuvio-mostra-luciano-dinverno/",
+  "fonte": "Vesuviano News",
+  "data": "Wed, 28 Oct 2026 17:14:28 +0000",
+  "comuni": [
+   "Portici"
+  ],
+  "visto": "2026-10-28T20:57:51+00:00"
+ },
+ {
+  "img": "https://www.laprovinciaonline.info/wp-content/uploads/2026/10/Screenshot_20261028_180755_Gallery.jpg",
+  "titolo": "Da Somma Vesuviana alla Terra dei Fuochi, blitz con le telecamere dei Carabinieri: 66 denunciati, 21 veicoli sequestrati e 46 patenti ritirate",
+  "link": "https://www.laprovinciaonline.info/da-somma-vesuviana-alla-terra-dei-fuochi-blitz-con-le-telecamere-dei-carabinieri-66-denunciati-21-veicoli-sequestrati-e-46-patenti-ritirate/",
+  "fonte": "La Provincia Online",
+  "data": "Wed, 28 Oct 2026 17:09:39 +0000",
+  "comuni": [
+   "Somma Vesuviana"
+  ],
+  "visto": "2026-10-28T20:57:51+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://www.vesuvianonews.it/wp-content/uploads/2026/10/Locandina_Ianneo_Pro_Loco_Terzigno_Aps.jpg",
+  "titolo": "Terzigno, “Ritorniamo a Ridere”: Gianpietro Ianneo in scena alla Pro Loco il 13 novembre",
+  "link": "https://www.vesuvianonews.it/terzigno-ritorniamo-a-ridere-gianpietro-ianneo-pro-loco/",
+  "fonte": "Vesuviano News",
+  "data": "Wed, 28 Oct 2026 17:09:17 +0000",
+  "comuni": [
+   "Terzigno"
+  ],
+  "visto": "2026-10-28T20:57:51+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://cdn13.webmaster360.it/2026/10/covers/S277Q8bIG88aouuK9BKGKP4LN2EAiQ6ybxPgrMJT.jpg",
+  "titolo": "Chiude Capodichino, otto bus al giorno per l'aeroporto di Salerno",
+  "link": "https://www.ilfattovesuviano.it/2026/10/chiude-capodichino-otto-bus-al-giorno-per-laeroporto-di-salerno",
+  "fonte": "Il Fatto Vesuviano",
+  "data": "Wed, 28 Oct 2026 17:00:00 +0000",
+  "comuni": [],
+  "visto": "2026-10-28T20:57:51+00:00"
+ },
+ {
+  "img": "https://internapoli.it/mato.clanto.cloud/piwik.php?idsite=6&rec=1&url=https%3A%2F%2Finternapoli.it%2Fdroga-dalla-spagna-tramite-azienda-di-giugliano-assolto-vincenzo-marigliano-mussolini%2F&action_name=Droga%20dalla%20Spagna%20tramite%20azienda%20di%20Giugliano%2C%20assolto%20Vincenzo%20Marigliano%20%26%238220%3BMussolini%26%238221%3B&urlref=https%3A%2F%2Finternapoli.it%2Ffeed%2F",
+  "titolo": "Droga dalla Spagna tramite azienda di Giugliano, assolto Vincenzo Marigliano “Mussolini”",
+  "link": "https://internapoli.it/droga-dalla-spagna-tramite-azienda-di-giugliano-assolto-vincenzo-marigliano-mussolini/",
+  "fonte": "Internapoli",
+  "data": "Wed, 28 Oct 2026 16:58:37 +0000",
+  "comuni": [
+   "Marigliano"
+  ],
+  "visto": "2026-10-28T20:57:51+00:00"
+ },
+ {
+  "img": "https://www.ilmediano.com/wp-content/uploads/2026/10/PLESSOMUSCILAVORI.jpg",
+  "titolo": "Pollena Trocchia, l’ex plesso “Musci” diventa un presidio dell’Asl Na 3 per i disturbi dello spettro autistico",
+  "link": "https://www.ilmediano.com/pollena-trocchia-lex-plesso-musci-diventa-un-presidio-dellasl-na-3-per-i-disturbi-dello-spettro-autistico/",
+  "fonte": "Il Mediano",
+  "data": "Wed, 28 Oct 2026 16:44:14 +0000",
+  "comuni": [
+   "Pollena Trocchia"
+  ],
+  "visto": "2026-10-28T20:57:51+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://www.ansa.it/webimages/img_1280x720/2026/10/28/d53e5ca588dc70f42dfbbf1084a52adc.jpg",
+  "titolo": "L'allarme di Zuchtriegel, 'uso fuorviante IA per raccontare Pompei sui social'",
+  "link": "https://www.ansa.it/campania/notizie/2026/10/28/lallarme-di-zuchtriegel-uso-fuorviante-ia-per-raccontare-pompei-sui-social_0ac60241-61b8-46d3-b087-a0ac26755aa0.html",
+  "fonte": "ANSA Campania",
+  "data": "Wed, 28 Oct 2026 17:42:45 +0100",
+  "comuni": [
+   "Pompei"
+  ],
+  "visto": "2026-10-28T20:57:51+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://www.ansa.it/webimages/img_1280x720/2026/10/28/302d48d3f1c494f98143a00fb9cde309.jpg",
+  "titolo": "M. Manfredi, 'Nola Business park motore economico della regione'",
+  "link": "https://www.ansa.it/campania/notizie/2026/10/28/m.-manfredi-nola-business-park-motore-economico-della-regione_cfb9ea9a-8015-42a3-b86d-52e3fc051478.html",
+  "fonte": "ANSA Campania",
+  "data": "Wed, 28 Oct 2026 17:42:09 +0100",
+  "comuni": [
+   "Nola"
+  ],
+  "visto": "2026-10-28T15:55:31+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://www.ansa.it/webimages/img_1280x720/2026/10/28/f6a5f1b4891126b35845e1aa62f9c692.jpg",
+  "titolo": "Al via a Sant'Anastasia il Festival itinerante di giustizia sociale",
+  "link": "https://www.ansa.it/campania/notizie/2026/10/28/al-via-a-santanastasia-il-festival-itinerante-di-giustizia-sociale_3b5f537a-cc4b-476c-8ab3-6d6022c83c3a.html",
+  "fonte": "ANSA Campania",
+  "data": "Wed, 28 Oct 2026 17:42:05 +0100",
+  "comuni": [
+   "Sant'Anastasia"
+  ],
+  "visto": "2026-10-28T15:55:31+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://www.ilmediano.com/wp-content/uploads/2026/10/IMG_3378.jpeg",
+  "titolo": "Sant’Anastasia, al via il festival itinerante di giustizia sociale",
+  "link": "https://www.ilmediano.com/santanastasia-al-via-il-festival-itinerante-di-giustizia-sociale/",
+  "fonte": "Il Mediano",
+  "data": "Wed, 28 Oct 2026 16:30:57 +0000",
+  "comuni": [
+   "Sant'Anastasia"
+  ],
+  "visto": "2026-10-28T20:57:51+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/10/Schermata-2026-10-28-alle-16.21.17.png",
+  "titolo": "Gragnano | Va nei boschi a cercare funghi: scomparso un 82enne",
+  "link": "https://www.metropolisweb.it/2026/10/28/gragnano-va-nei-boschi-a-cercare-funghi-scomparso-un-82enne/",
+  "fonte": "Metropolis",
+  "data": "Wed, 28 Oct 2026 16:29:47 +0000",
+  "comuni": [],
+  "visto": "2026-10-28T20:57:51+00:00"
+ },
+ {
+  "img": "https://www.ilmediano.com/wp-content/uploads/2026/10/HALOWEENPIAZZA.jpeg",
+  "titolo": "Somma Vesuviana, Halloween: la piazza diventa un villaggio colorato per bambini e famiglie",
+  "link": "https://www.ilmediano.com/somma-vesuviana-halloween-la-piazza-diventa-un-villaggio-colorato-per-bambini-e-famiglie/",
+  "fonte": "Il Mediano",
+  "data": "Wed, 28 Oct 2026 16:26:56 +0000",
+  "comuni": [
+   "Somma Vesuviana"
+  ],
+  "visto": "2026-10-28T20:57:51+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-28-172103.png",
+  "titolo": "Parco archeologico di Pompei tra fake news e IA: l’allarme di Zuchtriegel sui falsi social",
+  "link": "https://www.metropolisweb.it/2026/10/28/parco-archeologico-di-pompei-tra-fake-news-e-ia-lallarme-di-zuchtriegel-sui-falsi-social/",
+  "fonte": "Metropolis",
+  "data": "Wed, 28 Oct 2026 16:20:50 +0000",
+  "comuni": [
+   "Pompei"
+  ],
+  "visto": "2026-10-28T20:57:51+00:00"
+ },
+ {
+  "img": "https://cdn.positanonews.it/photogallery_new/images/2026/10/emmanuele-3475137.jpg",
+  "titolo": "Un dolore troppo grande a Castellammare per Emanuele Cannavale, che sognava di diventare chef",
+  "link": "https://www.positanonews.it/2026/10/un-dolore-troppo-grande-a-castellammare-per-emanuele-cannavale-che-sognava-di-diventare-chef/3863357/",
+  "fonte": "Positano News",
+  "data": "Wed, 28 Oct 2026 16:15:56 +0000",
+  "comuni": [
+   "Castellammare di Stabia"
+  ],
+  "visto": "2026-10-28T20:57:51+00:00"
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/10/PHOTO-2026-10-28-16-56-57-1024x768.jpg",
+  "titolo": "Il Movimento all’incontro con l’assessore Saggese: «Bene l’apertura, ma sia la prima di una lunga serie»",
+  "link": "https://www.metropolisweb.it/2026/10/28/il-movimento-allincontro-con-lassessore-saggese-bene-lapertura-ma-sia-la-prima-di-una-lunga-serie/",
+  "fonte": "Metropolis",
+  "data": "Wed, 28 Oct 2026 16:14:03 +0000",
+  "comuni": [],
+  "visto": "2026-10-28T20:57:51+00:00"
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/01/Guardia-finanza.jpg",
+  "titolo": "Truffa sul Superbonus, sequestri per 38,2 milioni",
+  "link": "https://www.metropolisweb.it/2026/10/28/truffa-sul-superbonus-sequestri-per-382-milioni/",
+  "fonte": "Metropolis",
+  "data": "Wed, 28 Oct 2026 16:12:30 +0000",
+  "comuni": [],
+  "visto": "2026-10-28T20:57:51+00:00"
+ },
+ {
+  "img": "https://www.cronachedellacampania.it/wp-content/uploads/2026/10/torre-del-greco-il-campione-patrizio-oliva-si-racconta-nella-rassegna-nativi-vesuviani-bw3t.jpg",
+  "titolo": "Torre del Greco, il campione Patrizio Oliva si racconta nella rassegna Nativi Vesuviani",
+  "link": "https://www.cronachedellacampania.it/2026/10/torre-del-greco-il-campione-patrizio-oliva-si-racconta-nella-rassegna-nativi-vesuviani/",
+  "fonte": "Cronache della Campania",
+  "data": "Wed, 28 Oct 2026 16:09:56 +0000",
+  "comuni": [
+   "Torre del Greco"
+  ],
+  "visto": "2026-10-28T20:57:51+00:00"
+ },
+ {
+  "img": "https://citynews-napolitoday.stgy.ovh/~media/original-hi/47066688502976/nuovi-treni-stadler-circumvesuviana.jpeg",
+  "titolo": "Circumvesuviana, defibrillatori a bordo dei nuovi treni Eav: saranno controllati 24 ore su 24",
+  "link": "https://www.napolitoday.it/attualita/defibrillatori-treni-circumvesuviana.html",
+  "fonte": "NapoliToday",
+  "data": "Wed, 28 Oct 2026 17:04:03 +0100",
+  "comuni": [],
+  "visto": "2026-10-28T20:57:51+00:00"
+ },
+ {
+  "img": "https://cdn13.webmaster360.it/2026/10/covers/01M611Z0P59HGZY8PR8QC37C17.jpg",
+  "titolo": "Giocattoli con acidi, maxisequestro nell'Agro-Nocerino",
+  "link": "https://www.ilfattovesuviano.it/2026/10/giocattoli-con-acidi-maxisequestro-nellagro-nocerino",
+  "fonte": "Il Fatto Vesuviano",
+  "data": "Wed, 28 Oct 2026 16:00:00 +0000",
+  "comuni": [],
+  "visto": "2026-10-28T20:57:51+00:00"
+ },
+ {
   "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/10/796919987_122137236315348514_3527818936559927_n-1024x682.jpg",
   "titolo": "La Turris vola agli ottavi: Vigor Campagnano ko ai rigori in Coppa Italia",
   "link": "https://www.metropolisweb.it/2026/10/28/la-turris-vola-agli-ottavi-vigor-campagnano-ko-ai-rigori-in-coppa-italia/",
@@ -85,30 +502,6 @@
    "Pompei"
   ],
   "visto": "2026-10-28T15:55:31+00:00"
- },
- {
-  "img": "https://www.ansa.it/webimages/img_1280x720/2026/10/28/302d48d3f1c494f98143a00fb9cde309.jpg",
-  "titolo": "M. Manfredi, 'Nola Business park motore economico della regione'",
-  "link": "https://www.ansa.it/campania/notizie/2026/10/28/m.-manfredi-nola-business-park-motore-economico-della-regione_cfb9ea9a-8015-42a3-b86d-52e3fc051478.html",
-  "fonte": "ANSA Campania",
-  "data": "Wed, 28 Oct 2026 15:50:51 +0100",
-  "comuni": [
-   "Nola"
-  ],
-  "visto": "2026-10-28T15:55:31+00:00",
-  "img_provata": true
- },
- {
-  "img": "https://www.ansa.it/webimages/img_1280x720/2026/10/28/f6a5f1b4891126b35845e1aa62f9c692.jpg",
-  "titolo": "Al via a Sant'Anastasia il Festival itinerante di giustizia sociale",
-  "link": "https://www.ansa.it/campania/notizie/2026/10/28/al-via-a-santanastasia-il-festival-itinerante-di-giustizia-sociale_3b5f537a-cc4b-476c-8ab3-6d6022c83c3a.html",
-  "fonte": "ANSA Campania",
-  "data": "Wed, 28 Oct 2026 15:49:43 +0100",
-  "comuni": [
-   "Sant'Anastasia"
-  ],
-  "visto": "2026-10-28T15:55:31+00:00",
-  "img_provata": true
  },
  {
   "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/10/vincenzo-zurlo-Cerca-con-Google.png",
