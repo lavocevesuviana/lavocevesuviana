@@ -1,5 +1,539 @@
 [
  {
+  "img": "https://www.ilmediano.com/wp-content/uploads/2026/10/Screenshot_20261029_143432_Facebook.jpg",
+  "titolo": "Forza Italia, ricorsi respinti: Martusciello resta leader",
+  "link": "https://www.ilmediano.com/forza-italia-ricorsi-respinti-martusciello-resta-leader/",
+  "fonte": "Il Mediano",
+  "data": "Thu, 29 Oct 2026 13:35:35 +0000",
+  "comuni": [],
+  "visto": "2026-10-29T13:45:08+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://cdn13.webmaster360.it/2026/10/covers/ec12rLgpIwP584NSkRPRvf8UekJTdSwRMTiZPV95.jpg",
+  "titolo": "Uccise poliziottto in un incidente, condannato a 10 anni",
+  "link": "https://www.ilfattovesuviano.it/2026/10/uccise-poliziottto-in-un-incidente-condannato-a-10-anni",
+  "fonte": "Il Fatto Vesuviano",
+  "data": "Thu, 29 Oct 2026 13:30:00 +0000",
+  "comuni": [],
+  "visto": "2026-10-29T13:45:08+00:00"
+ },
+ {
+  "img": "https://www.vesuviolive.it/wp-content/uploads/sites/6/2026/09/Nuovo-masterplan-dellAeroporto-di-Napoli-Capodichino-1.jpeg",
+  "titolo": "Chiude l’aeroporto di Napoli, lavori h24 e voli da Salerno: collegamenti e bus attivi",
+  "link": "https://www.vesuviolive.it/ultime-notizie/546803-aeroporto-napoli-capodichino-chiude-novembre-2026-salerno-voli/",
+  "fonte": "VesuvioLive",
+  "data": "Thu, 29 Oct 2026 13:16:46 +0000",
+  "comuni": [],
+  "visto": "2026-10-29T13:45:08+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://www.vesuviolive.it/wp-content/uploads/sites/6/2026/10/depuratore-torre-del-greco.jpeg",
+  "titolo": "Torre del Greco, slitta almeno al 2027 il collettamento a Foce Sarno. Potere al Popolo: “Recuperare i depuratori esistenti”",
+  "link": "https://www.vesuviolive.it/aree-locali/notizie-di-torre-del-greco/546708-torre-del-greco-per-il-depuratore-lattesa-slitta-ancora-al-2027/",
+  "fonte": "VesuvioLive",
+  "data": "Thu, 29 Oct 2026 13:11:18 +0000",
+  "comuni": [
+   "Torre del Greco",
+   "Sarno"
+  ],
+  "visto": "2026-10-29T13:45:08+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://www.cronachedellacampania.it/wp-content/uploads/2026/10/pompei-armadio-intatto-svela-vita-quotidiana-e-ricordi-dinfanzia-dalleruzione-del-vesuvio.jpg",
+  "titolo": "Pompei: armadio intatto svela vita quotidiana e ricordi d’infanzia dall’eruzione del Vesuvio",
+  "link": "https://www.cronachedellacampania.it/2026/10/pompei-armadio-intatto-svela-vita-quotidiana-e-ricordi-dinfanzia-dalleruzione-del-vesuvio/",
+  "fonte": "Cronache della Campania",
+  "data": "Thu, 29 Oct 2026 13:10:55 +0000",
+  "comuni": [
+   "Pompei"
+  ],
+  "visto": "2026-10-29T13:45:08+00:00"
+ },
+ {
+  "img": "https://cdn13.webmaster360.it/2026/10/covers/skXyHJMXlHJ4uJokmtqYEjh5U08rjx2vUmMJGxfk.jpg",
+  "titolo": "Per salire a Montevergine ci sarà un semaforo",
+  "link": "https://www.ilfattovesuviano.it/2026/10/per-salire-a-montevergine-ci-sara-un-semaforo",
+  "fonte": "Il Fatto Vesuviano",
+  "data": "Thu, 29 Oct 2026 13:00:00 +0000",
+  "comuni": [],
+  "visto": "2026-10-29T13:45:08+00:00"
+ },
+ {
+  "img": "https://www.vesuviolive.it/wp-content/uploads/sites/6/2026/10/adelaide-palomba.png",
+  "titolo": "Federalberghi alla Borsa Mediterranea: le meraviglie vesuviane protagoniste a Paestum",
+  "link": "https://www.vesuviolive.it/ultime-notizie/546797-federalberghi-costa-vesuvio-borsa-mediterranea-paestum/",
+  "fonte": "VesuvioLive",
+  "data": "Thu, 29 Oct 2026 12:51:16 +0000",
+  "comuni": [],
+  "visto": "2026-10-29T13:45:08+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-29-131041.png",
+  "titolo": "Sorrento, sigilli al Sedil Dominova: scatta il sequestro preventivo per l’edificio storico",
+  "link": "https://www.metropolisweb.it/2026/10/29/sorrento-sigilli-al-sedil-dominova-scatta-il-sequestro-preventivo-per-ledificio-storico/",
+  "fonte": "Metropolis",
+  "data": "Thu, 29 Oct 2026 12:11:09 +0000",
+  "comuni": [],
+  "visto": "2026-10-29T13:45:08+00:00"
+ },
+ {
+  "img": "https://www.vesuviolive.it/wp-content/uploads/sites/6/2026/10/locandina-incontro-decoro-urbano.jpg",
+  "titolo": "Torre Annunziata, dieci incontri per dare voce ai cittadini: si parte dal decoro urbano",
+  "link": "https://www.vesuviolive.it/aree-locali/notizie-di-torre-annunziata/546788-torre-annunziata-dieci-incontri-per-dare-voce-ai-cittadini/",
+  "fonte": "VesuvioLive",
+  "data": "Thu, 29 Oct 2026 12:10:16 +0000",
+  "comuni": [
+   "Torre Annunziata"
+  ],
+  "visto": "2026-10-29T13:45:08+00:00"
+ },
+ {
+  "img": "https://www.ansa.it/webimages/img_1280x720/2026/10/29/8111806e45a2ff63fc9c9d16a9484e57.jpg",
+  "titolo": "L'armadio di una donna racconta la dimensione umana di Pompei",
+  "link": "https://www.ansa.it/campania/notizie/2026/10/29/scoperto-a-pompei-larmadio-di-una-donna-allinterno-vasi-collane-e-monete_692f243b-2ce5-4640-85eb-a9b789e0d59b.html",
+  "fonte": "ANSA Campania",
+  "data": "Thu, 29 Oct 2026 13:01:28 +0100",
+  "comuni": [
+   "Pompei"
+  ],
+  "visto": "2026-10-29T13:45:08+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://cdn13.webmaster360.it/2026/10/covers/01M63NHKRJKEN0CBFVTZXJ2HWD.jpg",
+  "titolo": "Vesuviano in lutto: è morto l'archeologo De Simone",
+  "link": "https://www.ilfattovesuviano.it/2026/10/vesuviano-in-lutto-e-morto-larcheologo-de-simone",
+  "fonte": "Il Fatto Vesuviano",
+  "data": "Thu, 29 Oct 2026 12:00:00 +0000",
+  "comuni": [],
+  "visto": "2026-10-29T13:45:08+00:00"
+ },
+ {
+  "img": "https://www.vesuvianonews.it/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-29-at-08.24.31-1.jpeg",
+  "titolo": "Somma Vesuviana, al via la campagna sulla raccolta differenziata: «Il futuro è nelle nostre mani»",
+  "link": "https://www.vesuvianonews.it/somma-vesuviana-campagna-raccolta-differenziata-langella/",
+  "fonte": "Vesuviano News",
+  "data": "Thu, 29 Oct 2026 11:47:52 +0000",
+  "comuni": [
+   "Somma Vesuviana"
+  ],
+  "visto": "2026-10-29T13:45:08+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://www.vesuviolive.it/wp-content/uploads/sites/6/2026/10/DDL-Difesa-Un-emendamento-di-Gasparri-per-facilitare-la-vendita-di-armi.jpg",
+  "titolo": "L’emendamento di Gasparri semplifica la vendita di armi: Italia sempre più invischiata nelle guerre",
+  "link": "https://www.vesuviolive.it/ultime-notizie/politica/546787-lemendamento-di-gasparri-semplifica-la-vendita-di-armi-italia-sempre-piu-invischiata-nelle-guerre/",
+  "fonte": "VesuvioLive",
+  "data": "Thu, 29 Oct 2026 11:40:00 +0000",
+  "comuni": [],
+  "visto": "2026-10-29T13:45:08+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/10/IMG_2524-1024x681.jpeg",
+  "titolo": "Forza Italia, respinti i ricorsi contro Martusciello: congresso valido",
+  "link": "https://www.metropolisweb.it/2026/10/29/forza-italia-respinti-i-ricorsi-contro-martusciello-congresso-valido/",
+  "fonte": "Metropolis",
+  "data": "Thu, 29 Oct 2026 11:39:45 +0000",
+  "comuni": [],
+  "visto": "2026-10-29T13:45:08+00:00"
+ },
+ {
+  "img": "https://www.vesuvianonews.it/wp-content/uploads/2026/10/IMG-20261029-WA0001.jpg",
+  "titolo": "Napoletano vero: cento voci raccontano un secolo di passione azzurra",
+  "link": "https://www.vesuvianonews.it/napoletano-vero-cento-voci-raccontano-un-secolo-di-passione-azzurra/",
+  "fonte": "Vesuviano News",
+  "data": "Thu, 29 Oct 2026 11:26:49 +0000",
+  "comuni": [],
+  "visto": "2026-10-29T13:45:08+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://www.laprovinciaonline.info/wp-content/uploads/2026/10/SquareQuick_20261029122549180.jpg",
+  "titolo": "Mezzo secolo in grande stile: il Maggiore Emiliano Nacar festeggia i 50 anni",
+  "link": "https://www.laprovinciaonline.info/mezzo-secolo-in-grande-stile-il-maggiore-emiliano-nacar-festeggia-i-50-anni/",
+  "fonte": "La Provincia Online",
+  "data": "Thu, 29 Oct 2026 11:26:49 +0000",
+  "comuni": [],
+  "visto": "2026-10-29T13:45:08+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://internapoli.it/mato.clanto.cloud/piwik.php?idsite=6&rec=1&url=https%3A%2F%2Finternapoli.it%2Fmario-spedaliere-ridotto-in-fin-di-vita-otto-indagati-per-tentato-omicidio%2F&action_name=Mario%20Spedaliere%20ridotto%20in%20fin%20di%20vita%2C%20otto%20indagati%20per%20tentato%20omicidio&urlref=https%3A%2F%2Finternapoli.it%2Ffeed%2F",
+  "titolo": "Mario Spedaliere ridotto in fin di vita, otto indagati per tentato omicidio",
+  "link": "https://internapoli.it/mario-spedaliere-ridotto-in-fin-di-vita-otto-indagati-per-tentato-omicidio/",
+  "fonte": "Internapoli",
+  "data": "Thu, 29 Oct 2026 11:25:54 +0000",
+  "comuni": [],
+  "visto": "2026-10-29T13:45:08+00:00"
+ },
+ {
+  "img": "https://www.laprovinciaonline.info/wp-content/uploads/2026/10/IMG_9752.jpeg",
+  "titolo": "S.Anastasia. Morte De Simone, Alberto Angela: “Per me un punto di riferimento, sempre nel mio cuore”",
+  "link": "https://www.laprovinciaonline.info/s-anastasia-morte-de-simone-alberto-angela-per-me-un-punto-di-riferimento-sempre-nel-mio-cuore/",
+  "fonte": "La Provincia Online",
+  "data": "Thu, 29 Oct 2026 11:16:39 +0000",
+  "comuni": [],
+  "visto": "2026-10-29T13:45:08+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://www.laprovinciaonline.info/wp-content/uploads/2026/10/IMG-20261029-WA0108-150x150.jpg",
+  "titolo": "Telecamere e fototrappole a Casandrino: controlli sulle aree sensibili e sugli accessi alla città FOTO",
+  "link": "https://www.laprovinciaonline.info/telecamere-e-fototrappole-a-casandrino-controlli-sulle-aree-sensibili-e-sugli-accessi-alla-citta-foto/",
+  "fonte": "La Provincia Online",
+  "data": "Thu, 29 Oct 2026 11:15:11 +0000",
+  "comuni": [],
+  "visto": "2026-10-29T13:45:08+00:00"
+ },
+ {
+  "img": "https://internapoli.it/mato.clanto.cloud/piwik.php?idsite=6&rec=1&url=https%3A%2F%2Finternapoli.it%2Fsalvatore-morto-sul-cantiere-a-scafati-familiari-rifiutano-il-risarcimento-da-5mila-euro%2F&action_name=Salvatore%20morto%20sul%20cantiere%20a%20Scafati%2C%20familiari%20rifiutano%20il%20risarcimento%20da%205mila%20euro&urlref=https%3A%2F%2Finternapoli.it%2Ffeed%2F",
+  "titolo": "Salvatore morto sul cantiere a Scafati, familiari rifiutano il risarcimento da 5mila euro",
+  "link": "https://internapoli.it/salvatore-morto-sul-cantiere-a-scafati-familiari-rifiutano-il-risarcimento-da-5mila-euro/",
+  "fonte": "Internapoli",
+  "data": "Thu, 29 Oct 2026 11:04:21 +0000",
+  "comuni": [
+   "Scafati"
+  ],
+  "visto": "2026-10-29T13:45:08+00:00"
+ },
+ {
+  "img": "https://cdn13.webmaster360.it/2026/10/covers/34MyGD4jRi8AMlkaUldDckfEZqxUtVjOgLkeSpxY.jpg",
+  "titolo": "Rubata di nuovo l'auto a Don Luigi Merola",
+  "link": "https://www.ilfattovesuviano.it/2026/10/rubata-di-nuovo-lauto-a-don-luigi-merola",
+  "fonte": "Il Fatto Vesuviano",
+  "data": "Thu, 29 Oct 2026 11:00:00 +0000",
+  "comuni": [],
+  "visto": "2026-10-29T13:45:08+00:00"
+ },
+ {
+  "img": "https://internapoli.it/mato.clanto.cloud/piwik.php?idsite=6&rec=1&url=https%3A%2F%2Finternapoli.it%2Fuccise-il-poliziotto-a-torre-del-greco-automobilista-condannato-a-10-anni%2F&action_name=Uccise%20il%20poliziotto%20a%20Torre%20del%20Greco%2C%20automobilista%20condannato%20a%2010%20anni&urlref=https%3A%2F%2Finternapoli.it%2Ffeed%2F",
+  "titolo": "Uccise il poliziotto a Torre del Greco, automobilista condannato a 10 anni",
+  "link": "https://internapoli.it/uccise-il-poliziotto-a-torre-del-greco-automobilista-condannato-a-10-anni/",
+  "fonte": "Internapoli",
+  "data": "Thu, 29 Oct 2026 10:53:06 +0000",
+  "comuni": [
+   "Torre del Greco"
+  ],
+  "visto": "2026-10-29T13:45:08+00:00"
+ },
+ {
+  "img": "https://www.cronachedellacampania.it/wp-content/uploads/2025/11/torre-dle-greco-KSgk.jpg",
+  "titolo": "Torre del Greco, condannato il conducente del Suv che provocò la morte del poliziotto Aniello Scarpati",
+  "link": "https://www.cronachedellacampania.it/2026/10/torre-del-greco-condannato-il-conducente-del-suv-che-provoco-la-morte-del-poliziotto-aniello-scarpati/",
+  "fonte": "Cronache della Campania",
+  "data": "Thu, 29 Oct 2026 10:30:14 +0000",
+  "comuni": [
+   "Torre del Greco"
+  ],
+  "visto": "2026-10-29T13:45:08+00:00"
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/10/IMG_2522-1024x530.jpeg",
+  "titolo": "Sciopero generale, docenti e ricercatori dell’Università di Salerno aderiscono alla protesta",
+  "link": "https://www.metropolisweb.it/2026/10/29/sciopero-generale-docenti-e-ricercatori-delluniversita-di-salerno-aderiscono-alla-protesta/",
+  "fonte": "Metropolis",
+  "data": "Thu, 29 Oct 2026 10:12:13 +0000",
+  "comuni": [],
+  "visto": "2026-10-29T13:45:08+00:00"
+ },
+ {
+  "img": "https://cdn13.webmaster360.it/2026/10/covers/01M62MRWXE2GPMPHG70FJ0PBZR.jpg",
+  "titolo": "Nel torrente anche parti di auto, è allarme ambientale",
+  "link": "https://www.ilfattovesuviano.it/2026/10/nel-torrente-anche-parti-di-auto-e-allarme-ambientale",
+  "fonte": "Il Fatto Vesuviano",
+  "data": "Thu, 29 Oct 2026 10:00:00 +0000",
+  "comuni": [],
+  "visto": "2026-10-29T13:45:08+00:00"
+ },
+ {
+  "img": "https://citynews-napolitoday.stgy.ovh/~media/original-hi/55577306218293/stadio-foto-planet_fox-licenza-pixabay.jpg",
+  "titolo": "Scontri Puteolana-Portici, partite casalinghe del club flegreo a porte chiuse per tutta la stagione",
+  "link": "https://www.napolitoday.it/sport/calcio/puteolana-porte-chiuse-campionato-2026-2027.html",
+  "fonte": "NapoliToday",
+  "data": "Thu, 29 Oct 2026 11:00:00 +0100",
+  "comuni": [
+   "Portici"
+  ],
+  "visto": "2026-10-29T13:45:08+00:00"
+ },
+ {
+  "img": "https://www.cronachedellacampania.it/wp-content/uploads/2026/10/pozzuoli-mario-spedaliere-resta-stabile-nessun-nuovo-intervento-prognosi-riservata-efdq.jpg",
+  "titolo": "Napoli, il questore ha emesso 11 Daspo per i tifosi coinvolti negli scontri post partita Puteolana-Portici",
+  "link": "https://www.cronachedellacampania.it/2026/10/napoli-il-questore-ha-emesso-11-daspo-per-i-tifosi-coinvolti-negli-scontri-post-partita-puteolana-portici/",
+  "fonte": "Cronache della Campania",
+  "data": "Thu, 29 Oct 2026 09:48:26 +0000",
+  "comuni": [
+   "Portici"
+  ],
+  "visto": "2026-10-29T13:45:08+00:00"
+ },
+ {
+  "img": "https://www.ilmediano.com/wp-content/uploads/2026/04/PIAZZASANGENNAROVESUVIANO.jpg",
+  "titolo": "San Gennaro, il Tar dispone il controllo di 200 schede: rischio ribaltone elettorale",
+  "link": "https://www.ilmediano.com/san-gennaro-il-tar-dispone-il-controllo-di-200-schede-rischio-ribaltone-elettorale/",
+  "fonte": "Il Mediano",
+  "data": "Thu, 29 Oct 2026 09:45:20 +0000",
+  "comuni": [],
+  "visto": "2026-10-29T13:45:08+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/10/IMG_2521-1024x770.jpeg",
+  "titolo": "Paestum, i piccoli Comuni del Sud puntano sul turismo archeologico",
+  "link": "https://www.metropolisweb.it/2026/10/29/paestum-i-piccoli-comuni-del-sud-puntano-sul-turismo-archeologico/",
+  "fonte": "Metropolis",
+  "data": "Thu, 29 Oct 2026 09:40:04 +0000",
+  "comuni": [],
+  "visto": "2026-10-29T13:45:08+00:00"
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-29-102528.png",
+  "titolo": "La memoria ritrovata di Pompei: dall’armadio mai più riaperto emerge la vita prima dell’eruzione",
+  "link": "https://www.metropolisweb.it/2026/10/29/la-memoria-ritrovata-di-pompei-dallarmadio-mai-piu-riaperto-emerge-la-vita-prima-delleruzione/",
+  "fonte": "Metropolis",
+  "data": "Thu, 29 Oct 2026 09:31:12 +0000",
+  "comuni": [
+   "Pompei"
+  ],
+  "visto": "2026-10-29T13:45:08+00:00"
+ },
+ {
+  "img": "https://cdn13.webmaster360.it/2026/10/covers/01M62MFVAHJPM9MTS8DNN43XAJ.jpg",
+  "titolo": "Impenna davanti ai carabinieri e scappa: arrestato",
+  "link": "https://www.ilfattovesuviano.it/2026/10/impenna-davanti-ai-carabinieri-e-scappa-arrestato",
+  "fonte": "Il Fatto Vesuviano",
+  "data": "Thu, 29 Oct 2026 09:30:00 +0000",
+  "comuni": [],
+  "visto": "2026-10-29T13:45:08+00:00"
+ },
+ {
+  "img": "https://www.laprovinciaonline.info/wp-content/uploads/2026/10/legge-bilancio.png",
+  "titolo": "Manovra 2027, la battaglia per il consenso si gioca sulla narrazione",
+  "link": "https://www.laprovinciaonline.info/manovra-2027-battaglia-comunicativa-maggioranza-opposizioni/",
+  "fonte": "La Provincia Online",
+  "data": "Thu, 29 Oct 2026 09:28:53 +0000",
+  "comuni": [],
+  "visto": "2026-10-29T13:45:08+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://www.ilmediano.com/wp-content/uploads/2026/10/Screenshot_20261028_095230_Chrome.jpg",
+  "titolo": "Campania, parte il Numero Unico Europeo Emergenza: ecco come funziona e quando sarà attivo a Napoli",
+  "link": "https://www.ilmediano.com/campania-parte-il-numero-unico-europeo-emergenza-ecco-come-funziona-e-quando-sara-attivo-a-napoli/",
+  "fonte": "Il Mediano",
+  "data": "Thu, 29 Oct 2026 09:25:26 +0000",
+  "comuni": [],
+  "visto": "2026-10-29T13:45:08+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://cdn13.webmaster360.it/2026/10/covers/01M62M148PJ3T56Z0FY08A5W16.jpg",
+  "titolo": "Tir in fiamme sul raccordo: traffico in tilt",
+  "link": "https://www.ilfattovesuviano.it/2026/10/tir-in-fiamme-sul-raccordo-traffico-in-tilt",
+  "fonte": "Il Fatto Vesuviano",
+  "data": "Thu, 29 Oct 2026 09:00:00 +0000",
+  "comuni": [],
+  "visto": "2026-10-29T13:45:08+00:00"
+ },
+ {
+  "img": "https://internapoli.it/mato.clanto.cloud/piwik.php?idsite=6&rec=1&url=https%3A%2F%2Finternapoli.it%2Fsi-invaghisce-della-vicina-lei-non-ricambia-e-lui-la-molesta-arrestati-40enne-a-torre-annunziata%2F&action_name=Si%20invaghisce%20della%20vicina%2C%20lei%20non%20ricambia%20e%20lui%20la%20molesta%3A%20arrestati%2040enne%20a%20Torre%20Annunziata&urlref=https%3A%2F%2Finternapoli.it%2Ffeed%2F",
+  "titolo": "Si invaghisce della vicina, lei non ricambia e lui la molesta: arrestati 40enne a Torre Annunziata",
+  "link": "https://internapoli.it/si-invaghisce-della-vicina-lei-non-ricambia-e-lui-la-molesta-arrestati-40enne-a-torre-annunziata/",
+  "fonte": "Internapoli",
+  "data": "Thu, 29 Oct 2026 08:58:29 +0000",
+  "comuni": [
+   "Torre Annunziata"
+  ],
+  "visto": "2026-10-29T13:45:08+00:00"
+ },
+ {
+  "img": "https://citynews-napolitoday.stgy.ovh/~media/original-hi/6641550685455/aniello-scarpati.jpg",
+  "titolo": "Causò la morte di un poliziotto, era alla guida sotto effetto di alcol e droga: condannato a 10 anni",
+  "link": "https://www.napolitoday.it/cronaca/condannato-morte-poliziotto-incidente-torre-del-greco.html",
+  "fonte": "NapoliToday",
+  "data": "Thu, 29 Oct 2026 09:55:56 +0100",
+  "comuni": [
+   "Torre del Greco"
+  ],
+  "visto": "2026-10-29T13:45:08+00:00"
+ },
+ {
+  "img": "https://internapoli.it/mato.clanto.cloud/piwik.php?idsite=6&rec=1&url=https%3A%2F%2Finternapoli.it%2Fscontri-dopo-puteolana-portici-scattano-11-daspo-dopo-la-violenta-aggressione%2F&action_name=Scontri%20dopo%20Puteolana-Portici%2C%20scattano%2011%20Daspo%20dopo%20la%20violenta%20aggressione&urlref=https%3A%2F%2Finternapoli.it%2Ffeed%2F",
+  "titolo": "Scontri dopo Puteolana-Portici, scattano 11 Daspo dopo la violenta aggressione",
+  "link": "https://internapoli.it/scontri-dopo-puteolana-portici-scattano-11-daspo-dopo-la-violenta-aggressione/",
+  "fonte": "Internapoli",
+  "data": "Thu, 29 Oct 2026 08:34:09 +0000",
+  "comuni": [
+   "Portici"
+  ],
+  "visto": "2026-10-29T13:45:08+00:00"
+ },
+ {
+  "img": "https://www.ilmediano.com/wp-content/uploads/2026/10/e8e4302b-485a-4255-9ae4-a417516034e0.jpeg",
+  "titolo": "Casalnuovo, maratona di lettura per entrare nell’universo di Antonio Moresco",
+  "link": "https://www.ilmediano.com/casalnuovo-maratona-di-lettura-per-entrare-nelluniverso-di-antonio-moresco/",
+  "fonte": "Il Mediano",
+  "data": "Thu, 29 Oct 2026 08:32:08 +0000",
+  "comuni": [],
+  "visto": "2026-10-29T13:45:08+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://citynews-napolitoday.stgy.ovh/~media/original-hi/3150038110155/puteolana-4.jpg",
+  "titolo": "Scontri tra tifosi di Puteolana e Portici, 11 Daspo dopo la violenta aggressione: stop fino a 10 anni",
+  "link": "https://www.napolitoday.it/cronaca/scontri-puteolana-portici-daspo.html",
+  "fonte": "NapoliToday",
+  "data": "Thu, 29 Oct 2026 09:09:01 +0100",
+  "comuni": [
+   "Portici"
+  ],
+  "visto": "2026-10-29T13:45:08+00:00"
+ },
+ {
+  "img": "https://citynews-napolitoday.stgy.ovh/~media/original-hi/43749287766917/porta-di-casa-foto-by-sephelonor-licenza-pixabay.jpg",
+  "titolo": "Molesta la vicina di casa dopo un corteggiamento non ricambiato: arrestato 40enne",
+  "link": "https://www.napolitoday.it/cronaca/arrestato-molestie-vicina-torre-annunziata.html",
+  "fonte": "NapoliToday",
+  "data": "Thu, 29 Oct 2026 09:05:25 +0100",
+  "comuni": [
+   "Torre Annunziata"
+  ],
+  "visto": "2026-10-29T13:45:08+00:00"
+ },
+ {
+  "img": "https://cdn13.webmaster360.it/2026/10/covers/vrkdPdwSgBhRhUMGBeLSC0eAJaETLspsSy3gDxhh.jpg",
+  "titolo": "Circumvesuviana, dopo due anni resta chiusa la stazione del Centro direzionale",
+  "link": "https://www.ilfattovesuviano.it/2026/10/circumvesuviana-dopo-due-anni-resta-chiusa-la-stazione-del-centro-direzionale",
+  "fonte": "Il Fatto Vesuviano",
+  "data": "Thu, 29 Oct 2026 08:00:00 +0000",
+  "comuni": [],
+  "visto": "2026-10-29T13:45:08+00:00"
+ },
+ {
+  "img": "https://www.ilmediano.com/wp-content/uploads/2026/07/profdesimone1.jpg",
+  "titolo": "Addio al professor Antonio De Simone, l’archeologo che ha dato lustro al territorio vesuviano",
+  "link": "https://www.ilmediano.com/addio-al-professor-antonio-de-simone-larcheologo-che-ha-dato-lustro-al-territorio-vesuviano/",
+  "fonte": "Il Mediano",
+  "data": "Thu, 29 Oct 2026 07:58:03 +0000",
+  "comuni": [],
+  "visto": "2026-10-29T13:45:08+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://www.vesuviolive.it/wp-content/uploads/sites/6/2020/09/dermatologo-pelle-visite.jpg",
+  "titolo": "A Napoli due giorni di visite dermatologiche gratis per tutti: quando e come prenotarsi",
+  "link": "https://www.vesuviolive.it/eventi/546784-visite-dermatologiche-napoli-gratis-novembre-2026/",
+  "fonte": "VesuvioLive",
+  "data": "Thu, 29 Oct 2026 07:50:04 +0000",
+  "comuni": [],
+  "visto": "2026-10-29T13:45:08+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://www.laprovinciaonline.info/wp-content/uploads/2026/10/IMG_9745.jpeg",
+  "titolo": "Lutto a S.Anastasia, morto Antonio De Simone gigante dell’archeologia",
+  "link": "https://www.laprovinciaonline.info/lutto-a-s-anastasia-morto-antonio-de-simone-gigante-dellarcheologia/",
+  "fonte": "La Provincia Online",
+  "data": "Thu, 29 Oct 2026 07:46:45 +0000",
+  "comuni": [],
+  "visto": "2026-10-29T13:45:08+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/10/tensostruttura-taglio-nastro-e1793207147799.jpg",
+  "titolo": "Torre del Greco, addio all’incubo condensa alla tendostruttura La Salle: ok al piano da 200.000 €",
+  "link": "https://www.metropolisweb.it/2026/10/29/torre-del-greco-addio-allincubo-condensa-alla-tendostruttura-la-salle-ok-al-piano-da-200-000-e/?ta_paidstory",
+  "fonte": "Metropolis",
+  "data": "Thu, 29 Oct 2026 07:45:08 +0000",
+  "comuni": [
+   "Torre del Greco"
+  ],
+  "visto": "2026-10-29T13:45:08+00:00"
+ },
+ {
+  "img": "https://cdn13.webmaster360.it/2026/10/covers/01KBW3MA62T7HT25Q9A1JT364D.jpg",
+  "titolo": "Targhe polacche: ci sono arresti",
+  "link": "https://www.ilfattovesuviano.it/2026/10/targhe-polacche-ci-sono-arresti",
+  "fonte": "Il Fatto Vesuviano",
+  "data": "Thu, 29 Oct 2026 07:30:00 +0000",
+  "comuni": [],
+  "visto": "2026-10-29T13:45:08+00:00"
+ },
+ {
+  "img": "https://www.vesuviolive.it/wp-content/uploads/sites/6/2024/07/carabinieri.jpg",
+  "titolo": "Uccide il cugino con un bombolone alla crema per prendersi l’eredità: l’orrore in famiglia",
+  "link": "https://www.vesuviolive.it/ultime-notizie/546782-reggio-emilia-ucciso-cugino-eredita/",
+  "fonte": "VesuvioLive",
+  "data": "Thu, 29 Oct 2026 07:26:41 +0000",
+  "comuni": [],
+  "visto": "2026-10-29T13:45:08+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2025/03/CARABINIERI-5-2-1024x682.jpg",
+  "titolo": "Torre Annunziata: molestie alla vicina, arrestato un quarantenne",
+  "link": "https://www.metropolisweb.it/2026/10/29/torre-annunziata-molestie-alla-vicina-arrestato-un-quarantenne/",
+  "fonte": "Metropolis",
+  "data": "Thu, 29 Oct 2026 07:22:52 +0000",
+  "comuni": [
+   "Torre Annunziata"
+  ],
+  "visto": "2026-10-29T13:45:08+00:00"
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2025/11/Schermata-2025-11-03-alle-17.10.25.png",
+  "titolo": "Poliziotto travolto e ucciso a Torre del Greco: 10 anni all’imprenditore assassino",
+  "link": "https://www.metropolisweb.it/2026/10/29/poliziotto-travolto-e-ucciso-a-torre-del-greco-10-anni-allimprenditore-assassino/",
+  "fonte": "Metropolis",
+  "data": "Thu, 29 Oct 2026 07:10:48 +0000",
+  "comuni": [
+   "Torre del Greco"
+  ],
+  "visto": "2026-10-29T13:45:08+00:00"
+ },
+ {
+  "img": "https://internapoli.it/mato.clanto.cloud/piwik.php?idsite=6&rec=1&url=https%3A%2F%2Finternapoli.it%2Faggressione-mario-spedaliere-la-pista-degli-investigatori-un-raid-premeditato%2F&action_name=Aggressione%20Mario%20Spedaliere%2C%20la%20pista%20degli%20investigatori%3A%20%26%238220%3BUn%20raid%20premeditato%26%238221%3B&urlref=https%3A%2F%2Finternapoli.it%2Ffeed%2F",
+  "titolo": "Aggressione Mario Spedaliere, la pista degli investigatori: “Un raid premeditato”",
+  "link": "https://internapoli.it/aggressione-mario-spedaliere-la-pista-degli-investigatori-un-raid-premeditato/",
+  "fonte": "Internapoli",
+  "data": "Thu, 29 Oct 2026 07:02:49 +0000",
+  "comuni": [],
+  "visto": "2026-10-29T13:45:08+00:00"
+ },
+ {
+  "img": "https://cdn13.webmaster360.it/2026/10/covers/01M62JXQRFV001DKS4HFTP538R.jpg",
+  "titolo": "Camion abbatte palo al San Carlo",
+  "link": "https://www.ilfattovesuviano.it/2026/10/camion-abbatte-palo-al-san-carlo",
+  "fonte": "Il Fatto Vesuviano",
+  "data": "Thu, 29 Oct 2026 07:00:00 +0000",
+  "comuni": [],
+  "visto": "2026-10-29T13:45:08+00:00"
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2025/07/Mohammed-1030-1024x827.jpg",
+  "titolo": "Marocco: vertice su Nador West Med e Tanger Med 3",
+  "link": "https://www.metropolisweb.it/2026/10/29/marocco-vertice-su-nador-west-med-e-tanger-med-3/",
+  "fonte": "Metropolis",
+  "data": "Thu, 29 Oct 2026 06:57:54 +0000",
+  "comuni": [],
+  "visto": "2026-10-29T13:45:08+00:00"
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/10/Dubai-1030-1024x536.jpg",
+  "titolo": "Emirati: “Binghatti Pinnacle Development Fund” genera un IRR netto del 194%",
+  "link": "https://www.metropolisweb.it/2026/10/29/emirati-binghatti-pinnacle-development-fund-genera-un-irr-netto-del-194/",
+  "fonte": "Metropolis",
+  "data": "Thu, 29 Oct 2026 06:31:13 +0000",
+  "comuni": [],
+  "visto": "2026-10-29T13:45:08+00:00"
+ },
+ {
   "img": "https://www.ilmediano.com/wp-content/uploads/2026/10/IMG_3382.jpeg",
   "titolo": "Pomigliano, Paolo Siani presenta il suo ultimo libro nella libreria “Mio nonno è Michelangelo”",
   "link": "https://www.ilmediano.com/pomigliano-paolo-siani-presenta-il-suo-ultimo-libro-nella-libreria-mio-nonno-e-michelangelo/",
