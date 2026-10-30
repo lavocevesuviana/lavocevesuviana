@@ -1,5 +1,540 @@
 [
  {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/10/837194289_18628107613028480_8220209739804299654_n-scaled-e1793375121364-1024x662.jpg",
+  "titolo": "Juve Stabia. Stefanelli: «Manca lo step decisivo. A Empoli per dare battaglia»",
+  "link": "https://www.metropolisweb.it/2026/10/30/juve-stabia-stefanelli-manca-lo-step-decisivo-a-empoli-per-dare-battaglia/",
+  "fonte": "Metropolis",
+  "data": "Fri, 30 Oct 2026 15:45:33 +0000",
+  "comuni": [],
+  "visto": "2026-10-30T15:49:46+00:00"
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/10/la-prevenzione-scende-in-campo.png",
+  "titolo": "A Torre del Greco la prevenzione torna tra banchi di scuola: al via la seconda edizione di «La prevenzione scende in campo»",
+  "link": "https://www.metropolisweb.it/2026/10/30/a-torre-del-greco-la-prevenzione-torna-tra-banchi-di-scuola-al-via-la-seconda-edizione-di-la-prevenzione-scende-in-campo/",
+  "fonte": "Metropolis",
+  "data": "Fri, 30 Oct 2026 15:43:58 +0000",
+  "comuni": [
+   "Torre del Greco"
+  ],
+  "visto": "2026-10-30T15:49:46+00:00"
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2025/04/Schermata-2025-04-08-a-19.08.00.png?center_h=0.31&center_v=0.4",
+  "titolo": "Orsato sceglie Guida per il derby milanese, l’ultima volta nel 2022",
+  "link": "https://www.metropolisweb.it/2026/10/30/orsato-sceglie-guida-per-il-derby-milanese-lultima-volta-nel-2022/",
+  "fonte": "Metropolis",
+  "data": "Fri, 30 Oct 2026 15:42:43 +0000",
+  "comuni": [],
+  "visto": "2026-10-30T15:49:46+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/10/hgc-1024x683.jpeg",
+  "titolo": "L’Università Vanvitelli di Napoli accoglie la sua prima rettrice: Lucia Altucci",
+  "link": "https://www.metropolisweb.it/2026/10/30/luniversita-vanvitelli-di-napoli-accoglie-la-sua-prima-rettrice-lucia-altucci/",
+  "fonte": "Metropolis",
+  "data": "Fri, 30 Oct 2026 15:38:54 +0000",
+  "comuni": [],
+  "visto": "2026-10-30T15:49:46+00:00"
+ },
+ {
+  "img": "https://citynews-napolitoday.stgy.ovh/~media/original-hi/59571066065325/manfredi-quito.jpeg",
+  "titolo": "Da Napoli a Quito, sulla sottile linea rossa tra il Vesuvio e il Pichincha",
+  "link": "https://www.napolitoday.it/attualita/napoli-come-quito-matteo-manfredi.html",
+  "fonte": "NapoliToday",
+  "data": "Fri, 30 Oct 2026 16:30:08 +0100",
+  "comuni": [],
+  "visto": "2026-10-30T15:49:46+00:00"
+ },
+ {
+  "img": "https://cdn13.webmaster360.it/2026/10/covers/01KC8YSVF59Y9AJ331THGAY0NM.jpg",
+  "titolo": "L'ex di Tucci: \"Pensavo di finire come Martina\"",
+  "link": "https://www.ilfattovesuviano.it/2026/10/lex-di-tucci-pensavo-di-finire-come-martina",
+  "fonte": "Il Fatto Vesuviano",
+  "data": "Fri, 30 Oct 2026 15:30:00 +0000",
+  "comuni": [],
+  "visto": "2026-10-30T15:49:46+00:00"
+ },
+ {
+  "img": "https://www.vesuviolive.it/wp-content/uploads/sites/6/2026/10/francesco-pompilio.jpeg",
+  "titolo": "È morto Francesco Pompilio, il noto attore di film e serie tv: aveva 49 anni",
+  "link": "https://www.vesuviolive.it/ultime-notizie/546855-morto-attore-francesco-pompilio/",
+  "fonte": "VesuvioLive",
+  "data": "Fri, 30 Oct 2026 15:15:19 +0000",
+  "comuni": [],
+  "visto": "2026-10-30T15:49:46+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://cdn13.webmaster360.it/2026/10/covers/Nqb9SQuEv7wM3D4OqAFRo8QJ4zxVAs5tbqsIquxa.jpg",
+  "titolo": "La paura di Maria Rosaria Boccia: \"Mi stanno spiando\"",
+  "link": "https://www.ilfattovesuviano.it/2026/10/la-paura-di-maria-rosaria-boccia-mi-stanno-spiando",
+  "fonte": "Il Fatto Vesuviano",
+  "data": "Fri, 30 Oct 2026 15:00:00 +0000",
+  "comuni": [],
+  "visto": "2026-10-30T15:49:46+00:00"
+ },
+ {
+  "img": "https://www.ansa.it/webimages/img_1280x720/2026/10/30/f0268cc790688f542f08fd801713f7a5.jpg",
+  "titolo": "Rinnovato atrio stazione Fs Portici-Ercolano, valorizzato un luogo simbolo",
+  "link": "https://www.ansa.it/campania/notizie/2026/10/30/rinnovato-atrio-stazione-fs-portici-ercolano-valorizzato-un-luogo-simbolo_28207844-d22b-40b0-9ccd-b1789e697537.html",
+  "fonte": "ANSA Campania",
+  "data": "Fri, 30 Oct 2026 15:56:43 +0100",
+  "comuni": [
+   "Ercolano",
+   "Portici"
+  ],
+  "visto": "2026-10-30T15:49:46+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/10/PHOTO-2026-10-30-15-38-55.jpg",
+  "titolo": "Morto tragicamente a 16 anni: Castellammare proclama lutto cittadino",
+  "link": "https://www.metropolisweb.it/2026/10/30/morto-tragicamente-a-16-anni-castellammare-proclama-lutto-cittadino/",
+  "fonte": "Metropolis",
+  "data": "Fri, 30 Oct 2026 14:53:07 +0000",
+  "comuni": [
+   "Castellammare di Stabia"
+  ],
+  "visto": "2026-10-30T15:49:46+00:00"
+ },
+ {
+  "img": "https://www.vesuviolive.it/wp-content/uploads/sites/6/2026/10/wrestling.jpeg",
+  "titolo": "Da Napoli al mondo intero: arriva uno spettacolare evento di Wrestling internazionale",
+  "link": "https://www.vesuviolive.it/eventi/546852-wrestling-napoli-palapartenope-2026/",
+  "fonte": "VesuvioLive",
+  "data": "Fri, 30 Oct 2026 14:43:37 +0000",
+  "comuni": [],
+  "visto": "2026-10-30T15:49:46+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-30-alle-15.10.15-1024x597.png",
+  "titolo": "Case lager a Palma Campania: blitz in 58 appartamenti nella notte",
+  "link": "https://www.metropolisweb.it/2026/10/30/case-lager-a-palma-campania-blitz-in-58-appartamenti-nella-notte/",
+  "fonte": "Metropolis",
+  "data": "Fri, 30 Oct 2026 14:19:10 +0000",
+  "comuni": [
+   "Palma Campania"
+  ],
+  "visto": "2026-10-30T15:49:46+00:00"
+ },
+ {
+  "img": "https://cdn13.webmaster360.it/2026/10/covers/nx6zRiea5xKohU1lVWaR2X1QWIMTJoDNPdrxZrvp.jpg",
+  "titolo": "Furti a scuola, tre persone ai domiciliari",
+  "link": "https://www.ilfattovesuviano.it/2026/10/furti-a-scuola-tre-persone-ai-domiciliari",
+  "fonte": "Il Fatto Vesuviano",
+  "data": "Fri, 30 Oct 2026 14:00:00 +0000",
+  "comuni": [],
+  "visto": "2026-10-30T15:49:46+00:00"
+ },
+ {
+  "img": "https://www.laprovinciaonline.info/wp-content/uploads/2026/10/IMG-20261029-WA0018.jpg",
+  "titolo": "Maxi blitz ad Halloween: nel Nolano il cuore del sequestro di oltre 270mila prodotti fuorilegge",
+  "link": "https://www.laprovinciaonline.info/maxi-blitz-ad-halloween-nel-nolano-il-cuore-del-sequestro-di-oltre-270mila-prodotti-fuorilegge/",
+  "fonte": "La Provincia Online",
+  "data": "Fri, 30 Oct 2026 13:45:48 +0000",
+  "comuni": [],
+  "visto": "2026-10-30T15:49:46+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://citynews-napolitoday.stgy.ovh/~media/original-hi/1358757827963/palazzo-fienga-3.jpeg",
+  "titolo": "Torre Annunziata, completata la prima fase di demolizione di Palazzo Fienga: cosa diventerà",
+  "link": "https://www.napolitoday.it/attualita/torre-annunziata-demolizione-palazzo-fienga-prima-fase.html",
+  "fonte": "NapoliToday",
+  "data": "Fri, 30 Oct 2026 14:44:30 +0100",
+  "comuni": [
+   "Torre Annunziata"
+  ],
+  "visto": "2026-10-30T15:49:46+00:00"
+ },
+ {
+  "img": "https://www.laprovinciaonline.info/wp-content/uploads/2026/10/campania-host-to-host-torre-annunziata-proiettati-otto.jpg",
+  "titolo": "Campania Host to Host, a Torre Annunziata proiettati gli otto video delle classi del Marconi e del de Chirico",
+  "link": "https://www.laprovinciaonline.info/campania-host-to-host-torre-annunziata-proiettati-otto/",
+  "fonte": "La Provincia Online",
+  "data": "Fri, 30 Oct 2026 13:37:48 +0000",
+  "comuni": [
+   "Torre Annunziata"
+  ],
+  "visto": "2026-10-30T15:49:46+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-30-143349.png",
+  "titolo": "Blitz tra Torre Annunziata e Pompei, sequestrata droga in cantine e casolari",
+  "link": "https://www.metropolisweb.it/2026/10/30/blitz-tra-torre-annunziata-e-pompei-sequestrata-droga-in-cantine-e-casolari/",
+  "fonte": "Metropolis",
+  "data": "Fri, 30 Oct 2026 13:35:32 +0000",
+  "comuni": [
+   "Pompei",
+   "Torre Annunziata"
+  ],
+  "visto": "2026-10-30T15:49:46+00:00"
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-30-142645.png",
+  "titolo": "Palazzo Fienga, completata la prima fase della demolizione. Ferrante: «Futuro di libertà e riscatto sociale»",
+  "link": "https://www.metropolisweb.it/2026/10/30/palazzo-fienga-completata-la-prima-fase-della-demolizione-ferrante-futuro-di-liberta-e-riscatto-sociale/",
+  "fonte": "Metropolis",
+  "data": "Fri, 30 Oct 2026 13:31:52 +0000",
+  "comuni": [],
+  "visto": "2026-10-30T15:49:46+00:00"
+ },
+ {
+  "img": "https://www.laprovinciaonline.info/wp-content/uploads/2026/10/29-ottobre-26.jpg",
+  "titolo": "Somma Vesuviana alla BMTA di Paestum con la Villa Augustea: la sindaca Svanera presenta il sito tra i 25 del territorio metropolitano di Napoli",
+  "link": "https://www.laprovinciaonline.info/29-ottobre-26/",
+  "fonte": "La Provincia Online",
+  "data": "Fri, 30 Oct 2026 13:31:32 +0000",
+  "comuni": [
+   "Somma Vesuviana"
+  ],
+  "visto": "2026-10-30T15:49:46+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://cdn13.webmaster360.it/2026/10/covers/01M66EE6QNH8FBB910XKQ5C50X.jpg",
+  "titolo": "Maxi-operazione a Palma Campania: il bilancio è di 38 denunce",
+  "link": "https://www.ilfattovesuviano.it/2026/10/maxi-operazione-a-palma-campania-il-bilancio-e-di-38-denunce",
+  "fonte": "Il Fatto Vesuviano",
+  "data": "Fri, 30 Oct 2026 13:30:00 +0000",
+  "comuni": [
+   "Palma Campania"
+  ],
+  "visto": "2026-10-30T15:49:46+00:00"
+ },
+ {
+  "img": "https://www.laprovinciaonline.info/wp-content/uploads/2022/11/316416724_154284053978315_7610082138954672738_n.jpg",
+  "titolo": "Karim Tabti (Avanti PSI): “Cordoglio per la scomparsa di Giovanni Decaro, padre del Presidente della Regione Puglia”",
+  "link": "https://www.laprovinciaonline.info/karim-tabti-avanti-psi-cordoglio-scomparsa-giovanni-decaro/",
+  "fonte": "La Provincia Online",
+  "data": "Fri, 30 Oct 2026 13:29:10 +0000",
+  "comuni": [],
+  "visto": "2026-10-30T15:49:46+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/05/prefetto-di-Napoli-Michele-di-bari-scaled-1024x576.jpg",
+  "titolo": "Imprese e camorra: quattro imprese nel mirino del prefetto tra Ottaviano e Pomigliano",
+  "link": "https://www.metropolisweb.it/2026/10/30/interdittiva-antimafia-per-quattro-aziende-di-pomigliano-e-ottaviano/",
+  "fonte": "Metropolis",
+  "data": "Fri, 30 Oct 2026 13:05:26 +0000",
+  "comuni": [
+   "Ottaviano"
+  ],
+  "visto": "2026-10-30T15:49:46+00:00"
+ },
+ {
+  "img": "https://cdn13.webmaster360.it/2026/10/covers/01M66DSS6TW6T10Q4NT716Y6E3.jpg",
+  "titolo": "Agguato di camorra: ucciso Di Martino",
+  "link": "https://www.ilfattovesuviano.it/2026/10/agguato-di-camorra-ucciso-di-martino",
+  "fonte": "Il Fatto Vesuviano",
+  "data": "Fri, 30 Oct 2026 13:00:00 +0000",
+  "comuni": [],
+  "visto": "2026-10-30T15:49:46+00:00"
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-30-125731-1024x558.png",
+  "titolo": "Punta Campanella, un progetto per raddoppiare l’Area Marina Protetta",
+  "link": "https://www.metropolisweb.it/2026/10/30/punta-campanella-un-progetto-per-raddoppiare-larea-marina-protetta/",
+  "fonte": "Metropolis",
+  "data": "Fri, 30 Oct 2026 12:51:45 +0000",
+  "comuni": [],
+  "visto": "2026-10-30T15:49:46+00:00"
+ },
+ {
+  "img": "https://www.vesuviolive.it/wp-content/uploads/sites/6/2026/10/protesta-napoli-sfogliatelle.png",
+  "titolo": "Altro che violenza: a Napoli nessuno scontro con la polizia, si offrono sfogliatelle e graffe",
+  "link": "https://www.vesuviolive.it/ultime-notizie/546849-protesta-napoli-sfogliatelle-offerte-polizia/",
+  "fonte": "VesuvioLive",
+  "data": "Fri, 30 Oct 2026 12:46:31 +0000",
+  "comuni": [],
+  "visto": "2026-10-30T15:49:46+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://cdn.positanonews.it/photogallery_new/images/2024/11/arresto-manette-3427603.jpg",
+  "titolo": "Torre Annunziata e Pompei: la Polizia di Stato rinviene un ingente quantitativo di droga",
+  "link": "https://www.positanonews.it/2026/10/torre-annunziata-e-pompei-la-polizia-di-stato-rinviene-un-ingente-quantitativo-di-droga/3863678/",
+  "fonte": "Positano News",
+  "data": "Fri, 30 Oct 2026 12:41:26 +0000",
+  "comuni": [
+   "Pompei",
+   "Torre Annunziata"
+  ],
+  "visto": "2026-10-30T15:49:46+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://www.vesuvianonews.it/wp-content/uploads/2026/10/MOLINARI-NAPOLI-HALLOWEEN-TRASFERTA-BARI-scaled.jpeg",
+  "titolo": "Volley B2, Halloween in trasferta per la FacileRent Molinari Napoli: sabato a Capurso",
+  "link": "https://www.vesuvianonews.it/volley-b2-molinari-napoli-capurso-terza-giornata/",
+  "fonte": "Vesuviano News",
+  "data": "Fri, 30 Oct 2026 12:38:25 +0000",
+  "comuni": [],
+  "visto": "2026-10-30T15:49:46+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://www.vesuvianonews.it/wp-content/uploads/2023/09/Pollena-Ist-comprensivo-Gaetano-Donizetti.jpg",
+  "titolo": "Pollena Trocchia, dal 3 novembre parte la mensa scolastica: pasti da 1 a 2,20 euro e servizio digitale",
+  "link": "https://www.vesuvianonews.it/pollena-trocchia-mensa-scolastica-3-novembre-digitale/",
+  "fonte": "Vesuviano News",
+  "data": "Fri, 30 Oct 2026 12:30:01 +0000",
+  "comuni": [
+   "Pollena Trocchia"
+  ],
+  "visto": "2026-10-30T15:49:46+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://cdn13.webmaster360.it/2026/10/covers/01M666ZQTH7Z1180NZ061HZXN1.jpg",
+  "titolo": "Manifestante offre le sfogliatelle alla polizia: cala la tensione",
+  "link": "https://www.ilfattovesuviano.it/2026/10/manifestante-offre-le-brioche-alla-polizia-cala-la-tensione",
+  "fonte": "Il Fatto Vesuviano",
+  "data": "Fri, 30 Oct 2026 12:30:00 +0000",
+  "comuni": [],
+  "visto": "2026-10-30T15:49:46+00:00"
+ },
+ {
+  "img": "https://cdn13.webmaster360.it/2026/10/covers/rGaet4BKdpfAJyDWnbkdjMeltuNHrviwVr16fRd9.jpg",
+  "titolo": "A Capodichino 500 operai al lavoro giorno e notte",
+  "link": "https://www.ilfattovesuviano.it/2026/10/a-capodichino-500-operai-al-lavoro-giorno-e-notte",
+  "fonte": "Il Fatto Vesuviano",
+  "data": "Fri, 30 Oct 2026 12:00:00 +0000",
+  "comuni": [],
+  "visto": "2026-10-30T15:49:46+00:00"
+ },
+ {
+  "img": "https://www.vesuviolive.it/wp-content/uploads/sites/6/2026/10/corteo-napoli.jpeg",
+  "titolo": "Napoli paralizzata dal corteo, migliaia in strada: “Blocchiamo tutto per cambiare tutto”",
+  "link": "https://www.vesuviolive.it/ultime-notizie/546846-napoli-bloccata-corteo-protesta-oggi/",
+  "fonte": "VesuvioLive",
+  "data": "Fri, 30 Oct 2026 11:54:02 +0000",
+  "comuni": [],
+  "visto": "2026-10-30T15:49:46+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-30-124440.png",
+  "titolo": "Da Assisi a Pompei arriva Il Viaggio di Tau: dialogo con i giovani nel segno di San Francesco",
+  "link": "https://www.metropolisweb.it/2026/10/30/da-assisi-a-pompei-arriva-il-viaggio-di-tau-dialogo-con-i-giovani-nel-segno-di-san-francesco/",
+  "fonte": "Metropolis",
+  "data": "Fri, 30 Oct 2026 11:45:13 +0000",
+  "comuni": [
+   "Pompei"
+  ],
+  "visto": "2026-10-30T15:49:46+00:00"
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/10/WhatsApp-Image-2026-10-28-at-14.04.19-1024x768.jpeg",
+  "titolo": "Turismo archeologico, a Paestum l’Anci riunisce i piccoli Comuni del Sud",
+  "link": "https://www.metropolisweb.it/2026/10/30/turismo-archeologico-a-paestum-lanci-riunisce-i-piccoli-comuni-del-sud/",
+  "fonte": "Metropolis",
+  "data": "Fri, 30 Oct 2026 11:40:45 +0000",
+  "comuni": [],
+  "visto": "2026-10-30T15:49:46+00:00"
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/10/IMG_6395-scaled-1024x768.jpeg",
+  "titolo": "Servizi sanitari, Torre del Greco avrà la sua Casa di comunità",
+  "link": "https://www.metropolisweb.it/2026/10/30/servizi-sanitari-torre-del-greco-avra-la-sua-casa-di-comunita/",
+  "fonte": "Metropolis",
+  "data": "Fri, 30 Oct 2026 11:39:00 +0000",
+  "comuni": [
+   "Torre del Greco"
+  ],
+  "visto": "2026-10-30T15:49:46+00:00"
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-30-122913.png",
+  "titolo": "Svolta per l’ospedale di Vico Equense, al via i trapianti di cornea",
+  "link": "https://www.metropolisweb.it/2026/10/30/svolta-per-lospedale-di-vico-equense-al-via-i-trapianti-di-cornea/",
+  "fonte": "Metropolis",
+  "data": "Fri, 30 Oct 2026 11:33:48 +0000",
+  "comuni": [],
+  "visto": "2026-10-30T15:49:46+00:00"
+ },
+ {
+  "img": "https://cdn13.webmaster360.it/2026/10/covers/01M662QYMF779Q5DSVVWE17W75.jpg",
+  "titolo": "Migliaia in corteo a Napoli, bruciato manifesto con la Meloni",
+  "link": "https://www.ilfattovesuviano.it/2026/10/migliaia-in-corteo-a-napoli-bruciato-manifesto-con-la-meloni",
+  "fonte": "Il Fatto Vesuviano",
+  "data": "Fri, 30 Oct 2026 11:30:00 +0000",
+  "comuni": [],
+  "visto": "2026-10-30T15:49:46+00:00"
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-30-alle-12.30.12-1024x560.png",
+  "titolo": "Agguato a Pimonte, ucciso il boss Francesco Di Martino",
+  "link": "https://www.metropolisweb.it/2026/10/30/agguato-a-pimonte-ucciso-un-noto-pregiudicato/",
+  "fonte": "Metropolis",
+  "data": "Fri, 30 Oct 2026 11:26:20 +0000",
+  "comuni": [],
+  "visto": "2026-10-30T15:49:46+00:00"
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/10/IMG_2528.jpeg",
+  "titolo": "Boccia denuncia: «Il mio cellulare potrebbe essere spiato e manomesso»",
+  "link": "https://www.metropolisweb.it/2026/10/30/boccia-denuncia-il-mio-cellulare-potrebbe-essere-spiato-e-manomesso/",
+  "fonte": "Metropolis",
+  "data": "Fri, 30 Oct 2026 11:23:54 +0000",
+  "comuni": [],
+  "visto": "2026-10-30T15:49:46+00:00"
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/10/IMG_2527.jpeg",
+  "titolo": "Turismo archeologico, Santoro (Anci): «Ai piccoli Comuni servono interventi mirati»",
+  "link": "https://www.metropolisweb.it/2026/10/30/turismo-archeologico-santoro-anci-ai-piccoli-comuni-servono-interventi-mirati/",
+  "fonte": "Metropolis",
+  "data": "Fri, 30 Oct 2026 11:08:32 +0000",
+  "comuni": [],
+  "visto": "2026-10-30T15:49:46+00:00"
+ },
+ {
+  "img": "https://www.cronachedellacampania.it/wp-content/uploads/2026/10/castellammare-sequestrate-aree-e-opere-abusive-al-lido-bagno-elena-di-pozzano-3o7c.jpg",
+  "titolo": "Castellammare, sequestrate aree e opere abusive al lido Bagno Elena di Pozzano",
+  "link": "https://www.cronachedellacampania.it/2026/10/castellammare-sequestrate-aree-e-opere-abusive-al-lido-bagno-elena-di-pozzano/",
+  "fonte": "Cronache della Campania",
+  "data": "Fri, 30 Oct 2026 11:02:51 +0000",
+  "comuni": [
+   "Castellammare di Stabia"
+  ],
+  "visto": "2026-10-30T15:49:46+00:00"
+ },
+ {
+  "img": "https://cdn13.webmaster360.it/2026/10/covers/01M6624QKHB0BZYRQKA0Q770TM.jpg",
+  "titolo": "San Giuseppe Vesuviano, sequestrata merce di Halloween pericolosa",
+  "link": "https://www.ilfattovesuviano.it/2026/10/san-giuseppe-vesuviano-sequestrata-merce-di-halloween-pericolosa",
+  "fonte": "Il Fatto Vesuviano",
+  "data": "Fri, 30 Oct 2026 11:00:00 +0000",
+  "comuni": [
+   "San Giuseppe Vesuviano"
+  ],
+  "visto": "2026-10-30T15:49:46+00:00"
+ },
+ {
+  "img": "https://www.vesuviolive.it/wp-content/uploads/sites/6/2026/10/incidente-falciano-caserta.jpg",
+  "titolo": "Tragico incidente in Campania, esce fuori strada e si ribalta nell’auto: è morto sul colpo",
+  "link": "https://www.vesuviolive.it/ultime-notizie/546843-incidente-falciano-caserta-uomo-morto/",
+  "fonte": "VesuvioLive",
+  "data": "Fri, 30 Oct 2026 10:59:39 +0000",
+  "comuni": [],
+  "visto": "2026-10-30T15:49:46+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/10/IMG_2526-1024x576.jpeg",
+  "titolo": "Napoli, controlli antimafia nei cantieri della Linea 1: verifiche su 14 aziende",
+  "link": "https://www.metropolisweb.it/2026/10/30/napoli-controlli-antimafia-nei-cantieri-della-linea-1-verifiche-su-14-aziende/",
+  "fonte": "Metropolis",
+  "data": "Fri, 30 Oct 2026 10:55:51 +0000",
+  "comuni": [],
+  "visto": "2026-10-30T15:49:46+00:00"
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/10/IMG_2525-1024x576.jpeg",
+  "titolo": "Sciopero generale, migliaia in corteo a Napoli contro carovita e riarmo",
+  "link": "https://www.metropolisweb.it/2026/10/30/sciopero-generale-migliaia-in-corteo-a-napoli-contro-carovita-e-riarmo/",
+  "fonte": "Metropolis",
+  "data": "Fri, 30 Oct 2026 10:39:59 +0000",
+  "comuni": [],
+  "visto": "2026-10-30T15:49:46+00:00"
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-30-110242.png",
+  "titolo": "Raid tra scuola, lido e distributori h24: arrestata la banda dei furti in penisola sorrentina",
+  "link": "https://www.metropolisweb.it/2026/10/30/raid-tra-scuola-lido-e-distributori-h24-arrestata-la-banda-dei-furti-in-penisola-sorrentina/",
+  "fonte": "Metropolis",
+  "data": "Fri, 30 Oct 2026 10:07:57 +0000",
+  "comuni": [],
+  "visto": "2026-10-30T15:49:46+00:00"
+ },
+ {
+  "img": "https://www.vesuviolive.it/wp-content/uploads/sites/6/2026/10/corteo-blocco-stazione-garibaldi.jpeg",
+  "titolo": "Blocco respinto alla Stazione Garibaldi, niente scontri: il corteo prosegue in modo pacifico",
+  "link": "https://www.vesuviolive.it/ultime-notizie/546840-corteo-napoli-tentato-blocco-stazione-oggi/",
+  "fonte": "VesuvioLive",
+  "data": "Fri, 30 Oct 2026 10:00:12 +0000",
+  "comuni": [],
+  "visto": "2026-10-30T15:49:46+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://cdn13.webmaster360.it/2026/10/covers/01M65ACE9HKJBVJB9V3Y3XK4KZ.jpg",
+  "titolo": "Il fiume diventa nero a causa dei veleni",
+  "link": "https://www.ilfattovesuviano.it/2026/10/il-fiume-diventa-nero-a-causa-dei-veleni",
+  "fonte": "Il Fatto Vesuviano",
+  "data": "Fri, 30 Oct 2026 10:00:00 +0000",
+  "comuni": [],
+  "visto": "2026-10-30T15:49:46+00:00"
+ },
+ {
+  "img": "https://cdn13.webmaster360.it/2026/10/covers/01M65A593KEH9THKPD9ENGKDHQ.jpg",
+  "titolo": "L'isola ecologica diventa una terribile discarica a cielo aperto",
+  "link": "https://www.ilfattovesuviano.it/2026/10/lisola-ecologica-diventa-una-terribile-discarica-a-cielo-aperto",
+  "fonte": "Il Fatto Vesuviano",
+  "data": "Fri, 30 Oct 2026 09:30:00 +0000",
+  "comuni": [],
+  "visto": "2026-10-30T15:49:46+00:00"
+ },
+ {
+  "img": "https://www.laprovinciaonline.info/wp-content/uploads/2026/10/IMG-20261029-WA0129.jpg",
+  "titolo": "Al via la 3ª edizione del Concorso “L’abete si veste d’amore”",
+  "link": "https://www.laprovinciaonline.info/al-via-la-3-edizione-del-concorso-l-abete-si-veste-d-amore/",
+  "fonte": "La Provincia Online",
+  "data": "Fri, 30 Oct 2026 09:27:58 +0000",
+  "comuni": [],
+  "visto": "2026-10-30T15:49:46+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/10/BAGNO-ELENA-1024x524.png",
+  "titolo": "Opere abusive nel lido, sequestrato il Bagno Elena a Castellammare",
+  "link": "https://www.metropolisweb.it/2026/10/30/opere-abusive-nel-lido-sequestrato-il-bagno-elena-a-castellammare/",
+  "fonte": "Metropolis",
+  "data": "Fri, 30 Oct 2026 09:25:23 +0000",
+  "comuni": [
+   "Castellammare di Stabia"
+  ],
+  "visto": "2026-10-30T15:49:46+00:00"
+ },
+ {
+  "img": "https://www.vesuviolive.it/wp-content/uploads/sites/6/2026/10/halloween-finanza.jpg",
+  "titolo": "Maxi sequestro di Halloween a Napoli, oltre 270 mila prodotti non sicuri per i bimbi: quali",
+  "link": "https://www.vesuviolive.it/ultime-notizie/546837-halloween-sequestro-finanza-napoli-articoli/",
+  "fonte": "VesuvioLive",
+  "data": "Fri, 30 Oct 2026 09:24:51 +0000",
+  "comuni": [],
+  "visto": "2026-10-30T15:49:46+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://www.laprovinciaonline.info/wp-content/uploads/2025/11/Michele-Di-Bari-Prefetto-di-Napoli.jpeg",
+  "titolo": "Antimafia, scattano 4 interdittive tra Pomigliano, Ottaviano e Cimitile: stangata della Prefettura alle imprese contigue ai clan",
+  "link": "https://www.laprovinciaonline.info/antimafia-scattano-4-interdittive-tra-pomigliano-ottaviano-e-cimitile-stangata-della-prefettura-alle-imprese-contigue-ai-clan/",
+  "fonte": "La Provincia Online",
+  "data": "Fri, 30 Oct 2026 09:17:59 +0000",
+  "comuni": [
+   "Ottaviano"
+  ],
+  "visto": "2026-10-30T15:49:46+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://www.laprovinciaonline.info/wp-content/uploads/2026/10/Screenshot_2026-10-29-17-09-11-586_com.android.chrome-edit.jpg",
+  "titolo": "Gestus, mostra del pittore Ciro Cioffi",
+  "link": "https://www.laprovinciaonline.info/gestus-mostra-del-pittore-ciro-cioffi/",
+  "fonte": "La Provincia Online",
+  "data": "Fri, 30 Oct 2026 09:02:59 +0000",
+  "comuni": [],
+  "visto": "2026-10-30T15:49:46+00:00",
+  "img_provata": true
+ },
+ {
   "img": "https://cdn13.webmaster360.it/2026/10/covers/01M659NT403Z33Z2STFHVSCWVX.jpg",
   "titolo": "Colpito dal crollo sull'A30: automobilista sotto choc",
   "link": "https://www.ilfattovesuviano.it/2026/10/colpito-dal-crollo-sulla30-automobilista-sotto-choc",
@@ -17,6 +552,15 @@
   "comuni": [],
   "visto": "2026-10-30T09:03:32+00:00",
   "img_provata": true
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/10/Villa-Colombaia-interni-1024x683.jpeg",
+  "titolo": "120 anni di Luchino Visconti, a Villa La Colombaia quattro giorni di cinema e teatro con Alessandro Preziosi, Lino Musella e Francesco Di Leva",
+  "link": "https://www.metropolisweb.it/2026/10/30/120-anni-di-luchino-visconti-a-villa-la-colombaia-quattro-giorni-di-cinema-e-teatro-con-alessandro-preziosi-lino-musella-e-francesco-di-leva/",
+  "fonte": "Metropolis",
+  "data": "Fri, 30 Oct 2026 08:36:07 +0000",
+  "comuni": [],
+  "visto": "2026-10-30T15:49:46+00:00"
  },
  {
   "img": "https://www.vesuviolive.it/wp-content/uploads/sites/6/2024/04/piazza-garibaldi-stazione.jpeg",
@@ -57,6 +601,17 @@
   "data": "Fri, 30 Oct 2026 07:30:00 +0000",
   "comuni": [],
   "visto": "2026-10-30T09:03:32+00:00"
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/10/Schermata-2026-10-29-alle-16.39.37.png",
+  "titolo": "Torre del Greco, altro allarme crolli nel centro antico: sfollate 12 famiglie | VIDEO",
+  "link": "https://www.metropolisweb.it/2026/10/30/torre-del-greco-altro-allarme-crolli-nel-centro-antico-sfollate-12-famiglie-video/?ta_paidstory",
+  "fonte": "Metropolis",
+  "data": "Fri, 30 Oct 2026 07:15:59 +0000",
+  "comuni": [
+   "Torre del Greco"
+  ],
+  "visto": "2026-10-30T15:49:46+00:00"
  },
  {
   "img": "https://internapoli.it/mato.clanto.cloud/piwik.php?idsite=6&rec=1&url=https%3A%2F%2Finternapoli.it%2Fda-secondigliano-allarea-nord-sequestrati-270mila-prodotti-di-halloween-pericolosi%2F&action_name=Da%20Secondigliano%20all%26%238217%3BArea%20Nord%2C%20sequestrati%20270mila%20prodotti%20di%20Halloween%20pericolosi&urlref=https%3A%2F%2Finternapoli.it%2Ffeed%2F",
@@ -450,7 +1005,7 @@
   "img_provata": true
  },
  {
-  "img": "https://www.metropolisweb.it/metropolisweb/default.png",
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/05/IMG_0220-1.jpeg",
   "titolo": "Cetara al centro del dibattito europeo sul futuro della pesca del tonno rosso",
   "link": "https://www.metropolisweb.it/2026/10/29/cetara-al-centro-del-dibattito-europeo-sul-futuro-della-pesca-del-tonno-rosso/",
   "fonte": "Metropolis",
@@ -1385,6 +1940,15 @@
   "data": "Thu, 29 Oct 2026 05:00:00 +0000",
   "comuni": [],
   "visto": "2026-10-29T06:32:08+00:00"
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/10/00d0c3444418ac3730505cda5acb27a5.jpg",
+  "titolo": "Il ragazzo arrivato dall’Argentina diventato simbolo di Napoli: il legame indissolubile",
+  "link": "https://www.metropolisweb.it/2026/10/29/il-ragazzo-arrivato-dallargentina-diventato-simbolo-di-napoli-il-legame-indissolubile/",
+  "fonte": "Metropolis",
+  "data": "Thu, 29 Oct 2026 00:08:50 +0000",
+  "comuni": [],
+  "visto": "2026-10-30T15:49:46+00:00"
  },
  {
   "img": "https://cdn13.webmaster360.it/2026/10/covers/01M5CDAVGX3XHZ6DPK1SC29M7S.jpg",
