@@ -1,5 +1,167 @@
 [
  {
+  "img": "https://cdn13.webmaster360.it/2026/11/covers/01M6CAWKV1W21Y368MC4JN075Q.jpg",
+  "titolo": "Tragedia nei Paesi Vesuviani: un morto, grave figlio di 3 anni",
+  "link": "https://www.ilfattovesuviano.it/2026/11/tragedia-nei-paesi-vesuviani-un-morto-grave-figlio-di-3-anni",
+  "fonte": "Il Fatto Vesuviano",
+  "data": "Sun, 01 Nov 2026 20:00:00 +0000",
+  "comuni": [],
+  "visto": "2026-11-01T20:38:33+00:00"
+ },
+ {
+  "img": "https://cdn13.webmaster360.it/2026/11/covers/gggKpvMlIqVBTNQ1XqbQgB7uVQGi6TNMQ55hp7Cz.jpg",
+  "titolo": "Scontro con auto, muore uomo in bici",
+  "link": "https://www.ilfattovesuviano.it/2026/11/scontro-con-auto-muore-uomo-in-bici",
+  "fonte": "Il Fatto Vesuviano",
+  "data": "Sun, 01 Nov 2026 19:30:00 +0000",
+  "comuni": [],
+  "visto": "2026-11-01T20:38:33+00:00"
+ },
+ {
+  "img": "https://cdn13.webmaster360.it/2026/11/covers/WskZjUrGpYLn4AMK9szjsrjBxWr0o6WUMoe2yJ4w.jpg",
+  "titolo": "Pestaggio alla moglie, poi ferisce un carabiniere",
+  "link": "https://www.ilfattovesuviano.it/2026/11/pestaggio-alla-moglie-poi-ferisce-un-carabiniere",
+  "fonte": "Il Fatto Vesuviano",
+  "data": "Sun, 01 Nov 2026 19:00:00 +0000",
+  "comuni": [],
+  "visto": "2026-11-01T20:38:33+00:00"
+ },
+ {
+  "img": "https://www.laprovinciaonline.info/wp-content/uploads/2022/04/279040865_7339087692829267_5615874684957681023_n.jpg",
+  "titolo": "Massa di Somma. Incidente mortale: morto 55enne, feriti compagna e nipotino",
+  "link": "https://www.laprovinciaonline.info/massa-di-somma-incidente-mortale-morto-55enne-feriti-compagna-e-nipotino/",
+  "fonte": "La Provincia Online",
+  "data": "Sun, 01 Nov 2026 18:29:06 +0000",
+  "comuni": [
+   "Massa di Somma"
+  ],
+  "visto": "2026-11-01T20:38:33+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-01-alle-19.14.04-1024x682.png",
+  "titolo": "Schianto mortale a Massa di Somma, perde la vita un 55enne",
+  "link": "https://www.metropolisweb.it/2026/11/01/schianto-mortale-a-massa-di-somma-perde-la-vita-un-55enne/",
+  "fonte": "Metropolis",
+  "data": "Sun, 01 Nov 2026 18:15:10 +0000",
+  "comuni": [
+   "Massa di Somma"
+  ],
+  "visto": "2026-11-01T20:38:33+00:00"
+ },
+ {
+  "img": "https://cdn13.webmaster360.it/2026/11/covers/mGLsfvid4MS0v65TwjZFJUrxwcrsLCBlUHbqIBgR.jpg",
+  "titolo": "Cade in moto e muore sul colpo",
+  "link": "https://www.ilfattovesuviano.it/2026/11/cade-in-moto-e-muore-sul-colpo",
+  "fonte": "Il Fatto Vesuviano",
+  "data": "Sun, 01 Nov 2026 18:00:00 +0000",
+  "comuni": [],
+  "visto": "2026-11-01T20:38:33+00:00"
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-01-alle-18.49.35-1024x675.png",
+  "titolo": "La Sarnese difende la vetta. Paganese, esonero in arrivo per Novelli",
+  "link": "https://www.metropolisweb.it/2026/11/01/la-sarnese-difende-la-vetta-paganese-esonero-in-arrivo-per-novelli/",
+  "fonte": "Metropolis",
+  "data": "Sun, 01 Nov 2026 17:45:39 +0000",
+  "comuni": [],
+  "visto": "2026-11-01T20:38:33+00:00"
+ },
+ {
+  "img": "https://cdn13.webmaster360.it/2026/11/covers/3FoEkkdIMZjX8imvazPScjkkr9QxksJwmPfkICI9.jpg",
+  "titolo": "Pioggia intensa in Campania: è allerta meteo",
+  "link": "https://www.ilfattovesuviano.it/2026/11/pioggia-intensa-in-campania-e-allerta-meteo",
+  "fonte": "Il Fatto Vesuviano",
+  "data": "Sun, 01 Nov 2026 17:30:00 +0000",
+  "comuni": [],
+  "visto": "2026-11-01T20:38:33+00:00"
+ },
+ {
+  "img": "https://cdn.positanonews.it/photogallery_new/images/2015/04/alfano-vescovo-jpg-218347.jpg",
+  "titolo": "Diocesi di Sorrento-Castellammare di Stabia: nuove nomine pastorali dell’Arcivescovo Alfano. A Meta don Francesco Saverio De Pasquale",
+  "link": "https://www.positanonews.it/2026/11/diocesi-di-sorrento-castellammare-di-stabia-nuove-nomine-pastorali-dellarcivescovo-alfano-a-meta-don-francesco-saverio-de-pasquale/3863982/",
+  "fonte": "Positano News",
+  "data": "Sun, 01 Nov 2026 17:27:05 +0000",
+  "comuni": [
+   "Castellammare di Stabia"
+  ],
+  "visto": "2026-11-01T20:38:33+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-01-alle-18.05.33-1024x689.png",
+  "titolo": "Scontro diretto amaro per la Turris: la Virtus Francavilla passa al Liguori per 1-2",
+  "link": "https://www.metropolisweb.it/2026/11/01/scontro-diretto-amaro-per-la-turris-la-virtus-francavilla-passa-al-liguori-per-1-2/",
+  "fonte": "Metropolis",
+  "data": "Sun, 01 Nov 2026 17:19:49 +0000",
+  "comuni": [],
+  "visto": "2026-11-01T20:38:33+00:00"
+ },
+ {
+  "img": "https://www.ilmediano.com/wp-content/uploads/2026/11/incidente-massa-di-somma-3.jpeg",
+  "titolo": "Massa di Somma, un morto e un ferito grave dopo un incidente. Responsabili in fuga",
+  "link": "https://www.ilmediano.com/massa-di-somma-un-morto-e-un-ferito-grave-dopo-un-incidente-responsabili-in-fuga/",
+  "fonte": "Il Mediano",
+  "data": "Sun, 01 Nov 2026 17:16:28 +0000",
+  "comuni": [
+   "Massa di Somma"
+  ],
+  "visto": "2026-11-01T20:38:33+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://www.cronachedellacampania.it/wp-content/uploads/2026/11/massa-di-somma-si-schiantano-col-sus-contro-auto-con-nonni-e-nipotino-a-bordo-un-morto-e-due-feriti-i5oj.jpg",
+  "titolo": "Schianto a Massa di Somma, muore un anziano: la moglie in codice rosso, ferito il nipotino di 3 anni.Caccia al Suv",
+  "link": "https://www.cronachedellacampania.it/2026/11/schianto-massa-somma-muore-anziano-moglie-codice-rosso-ferito/",
+  "fonte": "Cronache della Campania",
+  "data": "Sun, 01 Nov 2026 17:08:26 +0000",
+  "comuni": [
+   "Massa di Somma"
+  ],
+  "visto": "2026-11-01T20:38:33+00:00"
+ },
+ {
+  "img": "https://cdn13.webmaster360.it/2026/11/covers/01M6BBT1N3WJSNDX1DESJWZ00F.jpg",
+  "titolo": "Incendio nel sotterraneo, notte di paura",
+  "link": "https://www.ilfattovesuviano.it/2026/11/incendio-nel-sotterraneo-notte-di-paura",
+  "fonte": "Il Fatto Vesuviano",
+  "data": "Sun, 01 Nov 2026 17:00:00 +0000",
+  "comuni": [],
+  "visto": "2026-11-01T20:38:33+00:00"
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/11/882488208_4558134697798499_8319631458405140795_n.png-e1793549723942-1024x657.jpeg",
+  "titolo": "Il Savoia sfiora l’impresa a Salerno. Lescano pareggia al 94′",
+  "link": "https://www.metropolisweb.it/2026/11/01/il-savoia-sfiora-limpresa-a-salerno-lescano-pareggia-al-94/",
+  "fonte": "Metropolis",
+  "data": "Sun, 01 Nov 2026 16:15:35 +0000",
+  "comuni": [],
+  "visto": "2026-11-01T20:38:33+00:00"
+ },
+ {
+  "img": "https://www.cronachedellacampania.it/wp-content/uploads/2026/11/torre-annunziata-una-comunita-da-curare-e-di-cui-prendersi-cura-e-partito-lempowerment-dal-basso-5jtp.jpg",
+  "titolo": "Torre Annunziata, una comunità da curare e di cui prendersi cura: è partito l’empowerment dal basso",
+  "link": "https://www.cronachedellacampania.it/2026/11/torre-annunziata-comunita-curare-cui-prendersi-cura-partito/",
+  "fonte": "Cronache della Campania",
+  "data": "Sun, 01 Nov 2026 16:12:47 +0000",
+  "comuni": [
+   "Torre Annunziata"
+  ],
+  "visto": "2026-11-01T20:38:33+00:00"
+ },
+ {
+  "img": "https://cdn.positanonews.it/photogallery_new/images/2026/11/vincenzo-amitrano-nuovo-presidente-anc-torre-del-greco-3475347.jpg",
+  "titolo": "Vincenzo Amitrano nuovo Presidente ANC Torre del Greco",
+  "link": "https://www.positanonews.it/2026/11/vincenzo-amitrano-nuovo-presidente-anc-torre-del-greco/3863959/",
+  "fonte": "Positano News",
+  "data": "Sun, 01 Nov 2026 16:08:43 +0000",
+  "comuni": [
+   "Torre del Greco"
+  ],
+  "visto": "2026-11-01T20:38:33+00:00",
+  "img_provata": true
+ },
+ {
   "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/11/885097667_2010930096960440_8487833017361798859_n.png-scaled-e1793549113988-1024x614.jpeg",
   "titolo": "Spettacolo e quattro gol al Castellani: Empoli-Juve Stabia finisce 2-2",
   "link": "https://www.metropolisweb.it/2026/11/01/spettacolo-e-quattro-gol-al-castellani-empoli-juve-stabia-finisce-2-2/",
