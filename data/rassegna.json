@@ -1,5 +1,550 @@
 [
  {
+  "img": "https://www.vesuviolive.it/wp-content/uploads/sites/6/2026/11/mimi-ferrovia-napoli.jpg",
+  "titolo": "È napoletana la miglior Trattoria d’Italia: Mimì alla Ferrovia batte tutti e conquista l’oro",
+  "link": "https://www.vesuviolive.it/ultime-notizie/546955-50-top-italy-mimi-ferrovia-miglior-trattoria-italia-napoli-2027/",
+  "fonte": "VesuvioLive",
+  "data": "Tue, 03 Nov 2026 11:47:00 +0000",
+  "comuni": [],
+  "visto": "2026-11-03T11:50:09+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://www.loravesuviana.it/wp-content/uploads/2025/01/Carlo-Esposito-300x219.jpg",
+  "titolo": "Nuova viabilità cittadina e problemi, il sindaco di Pollena Trocchia chiarisce la questione e annuncia un nuovo riassetto per una città che eccelle in mobilità pubblica",
+  "link": "https://www.loravesuviana.it/news/nuova-viabilita-cittadina-e-problemi-il-sindaco-di-pollena-trocchia-chiarisce-la-questione-e-annuncia-un-nuovo-riassetto-per-una-citta-che-eccelle-in-mobilita-pubblica.html/",
+  "fonte": "L'Ora Vesuviana",
+  "data": "Tue, 03 Nov 2026 11:35:25 +0000",
+  "comuni": [
+   "Pollena Trocchia"
+  ],
+  "visto": "2026-11-03T11:50:09+00:00"
+ },
+ {
+  "img": "https://cdn13.webmaster360.it/2026/11/covers/01M6G2MWEK0YCHV13SYSP2ECF7.jpg",
+  "titolo": "Vive in aeroporto, sgomberato per i lavori",
+  "link": "https://www.ilfattovesuviano.it/2026/11/vive-in-aeroporto-sgomberato-per-i-lavori",
+  "fonte": "Il Fatto Vesuviano",
+  "data": "Tue, 03 Nov 2026 11:30:00 +0000",
+  "comuni": [],
+  "visto": "2026-11-03T11:50:09+00:00"
+ },
+ {
+  "img": "https://www.ilmediano.com/wp-content/uploads/2026/11/pontecitra_r.jpg",
+  "titolo": "Marigliano, sversa rifiuti a piedi ma viene identificato: nuovi impianti contro gli incivili",
+  "link": "https://www.ilmediano.com/marigliano-sversa-rifiuti-a-piedi-ma-viene-identificato-nuovi-impianti-contro-gli-incivili/",
+  "fonte": "Il Mediano",
+  "data": "Tue, 03 Nov 2026 11:22:54 +0000",
+  "comuni": [
+   "Marigliano"
+  ],
+  "visto": "2026-11-03T11:50:09+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/04/0-3.jpeg",
+  "titolo": "Torre Annunziata: appalto rifiuti, Sinistra Italiana chiede garanzie",
+  "link": "https://www.metropolisweb.it/2026/11/03/torre-annunziata-appalto-rifiuti-sinistra-italiana-chiede-garanzie/",
+  "fonte": "Metropolis",
+  "data": "Tue, 03 Nov 2026 11:04:50 +0000",
+  "comuni": [
+   "Torre Annunziata"
+  ],
+  "visto": "2026-11-03T11:50:09+00:00"
+ },
+ {
+  "img": "https://www.vesuviolive.it/wp-content/uploads/sites/6/2024/04/carabinieri-napoli.jpg",
+  "titolo": "Trovate due bombe all’ingresso di un istituto nel Napoletano: l’allarme e l’intervento",
+  "link": "https://www.vesuviolive.it/ultime-notizie/546953-bagnoli-trovate-bombe-istituto-via-pozzuoli/",
+  "fonte": "VesuvioLive",
+  "data": "Tue, 03 Nov 2026 11:02:29 +0000",
+  "comuni": [],
+  "visto": "2026-11-03T11:50:09+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://cdn13.webmaster360.it/2026/11/covers/mBwkUMuVibeG5wy7rEZ2VihJGNgkR15K6cfzxdWD.jpg",
+  "titolo": "Attacchi hacker anche nei supermercati italiani: congelatori spenti",
+  "link": "https://www.ilfattovesuviano.it/2026/11/attacchi-hacker-anche-nei-supermercati-italiani-congelatori-spenti",
+  "fonte": "Il Fatto Vesuviano",
+  "data": "Tue, 03 Nov 2026 11:00:00 +0000",
+  "comuni": [],
+  "visto": "2026-11-03T11:50:09+00:00"
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/11/LOCANDINA-FINALEok-1024x739.png",
+  "titolo": "Sabato 7 novembre a villa Fondi presentazione del libro “Santa Rosa”",
+  "link": "https://www.metropolisweb.it/2026/11/03/sabato-7-novembre-a-villa-fondi-presentazione-del-libro-santa-rosa/",
+  "fonte": "Metropolis",
+  "data": "Tue, 03 Nov 2026 10:56:39 +0000",
+  "comuni": [],
+  "visto": "2026-11-03T11:50:09+00:00"
+ },
+ {
+  "img": "https://www.laprovinciaonline.info/wp-content/uploads/2026/11/campo-virgiliano-gestione-fidal-campania-nasce-casa-atletica-2.jpg",
+  "titolo": "Campo Virgiliano, la gestione alla FIDAL Campania: nasce la casa dell’atletica regionale",
+  "link": "https://www.laprovinciaonline.info/campo-virgiliano-gestione-fidal-campania-nasce-casa-atletica/",
+  "fonte": "La Provincia Online",
+  "data": "Tue, 03 Nov 2026 10:39:13 +0000",
+  "comuni": [],
+  "visto": "2026-11-03T11:50:09+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://www.laprovinciaonline.info/wp-content/uploads/2026/11/comunicato-stampa.jpg",
+  "titolo": "“Custodire il verde della storia”, a Salerno la tre giorni dell’architettura del paesaggio",
+  "link": "https://www.laprovinciaonline.info/custodire-il-verde-della-storia-a-salerno-la-tre-giorni-dellarchitettura-del-paesaggio/",
+  "fonte": "La Provincia Online",
+  "data": "Tue, 03 Nov 2026 10:36:40 +0000",
+  "comuni": [],
+  "visto": "2026-11-03T11:50:09+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-03-alle-11.33.05-1024x655.png",
+  "titolo": "Incidente mortale nel Vesuviano, il pirata della strada era senza patente",
+  "link": "https://www.metropolisweb.it/2026/11/03/incidente-mortale-nel-vesuviano-il-pirata-della-strada-era-senza-patente/",
+  "fonte": "Metropolis",
+  "data": "Tue, 03 Nov 2026 10:36:39 +0000",
+  "comuni": [],
+  "visto": "2026-11-03T11:50:09+00:00"
+ },
+ {
+  "img": "https://cdn13.webmaster360.it/2026/11/covers/01M6GDT0ZTPY9SFRJ2WEB935J2.jpg",
+  "titolo": "Ottaviano, auto in fiamme sulla Statale 268",
+  "link": "https://www.ilfattovesuviano.it/2026/11/ottaviano-auto-in-fiamme-sulla-statale-268",
+  "fonte": "Il Fatto Vesuviano",
+  "data": "Tue, 03 Nov 2026 10:30:00 +0000",
+  "comuni": [
+   "Ottaviano"
+  ],
+  "visto": "2026-11-03T11:50:09+00:00"
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-03-alle-11.24.21.png",
+  "titolo": "Gragnano, inaugurato l’ospedale di comunità",
+  "link": "https://www.metropolisweb.it/2026/11/03/gragnano-inaugurato-lospedale-di-comunita/",
+  "fonte": "Metropolis",
+  "data": "Tue, 03 Nov 2026 10:29:23 +0000",
+  "comuni": [],
+  "visto": "2026-11-03T11:50:09+00:00"
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/11/IMG_20261102_133133554_HDR-scaled-1024x768.jpg",
+  "titolo": "Luciano Spadatratta, maestro pizzaiolo per caso: una storia di sapori e di riscatto all’ombra della famiglia Surace della pizzeria Mattozzi",
+  "link": "https://www.metropolisweb.it/2026/11/03/luciano-spadatratta-maestro-pizzaiolo-per-caso-una-storia-di-sapori-e-di-riscatto-allombra-della-famiglia-surace-della-pizzeria-mattozzi/",
+  "fonte": "Metropolis",
+  "data": "Tue, 03 Nov 2026 10:27:14 +0000",
+  "comuni": [],
+  "visto": "2026-11-03T11:50:09+00:00"
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/11/23460fc9fcf45b599d3f6fb4befce5d5.jpg",
+  "titolo": "Castellammare. Via ai lavori, l’intera città sarà videosorvegliata",
+  "link": "https://www.metropolisweb.it/2026/11/03/castellammare-via-ai-lavori-lintera-citta-sara-videosorvegliata/",
+  "fonte": "Metropolis",
+  "data": "Tue, 03 Nov 2026 10:16:20 +0000",
+  "comuni": [
+   "Castellammare di Stabia"
+  ],
+  "visto": "2026-11-03T11:50:09+00:00"
+ },
+ {
+  "img": "https://www.vesuviolive.it/wp-content/uploads/sites/6/2025/03/fair-price-mercato-vintage.jpeg",
+  "titolo": "In Campania apre il mercato vintage più grande e conveniente d’Europa: capi da 2,50 euro",
+  "link": "https://www.vesuviolive.it/eventi/546947-mercato-vintage-fair-priced-market-aversa-2026/",
+  "fonte": "VesuvioLive",
+  "data": "Tue, 03 Nov 2026 10:15:53 +0000",
+  "comuni": [],
+  "visto": "2026-11-03T11:50:09+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://www.ilmediano.com/wp-content/uploads/2026/11/505050.jpeg",
+  "titolo": "Afragola, sangue nel piazzale e trenta metri cubi di ossa e grasso: attività sequestrata",
+  "link": "https://www.ilmediano.com/afragola-sangue-nel-piazzale-e-trenta-metri-cubi-di-ossa-e-grasso-attivita-sequestrata/",
+  "fonte": "Il Mediano",
+  "data": "Tue, 03 Nov 2026 10:10:40 +0000",
+  "comuni": [],
+  "visto": "2026-11-03T11:50:09+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/11/Chocoland-edizione-2025-6-1024x766.jpg",
+  "titolo": "Dopo la kermesse di piazza Municipio, torna dal 18 novembre la Terra dei Golosi a Napoli",
+  "link": "https://www.metropolisweb.it/2026/11/03/dopo-la-kermesse-di-piazza-municipio-torna-dal-18-novembre-la-terra-dei-golosi-a-napoli/",
+  "fonte": "Metropolis",
+  "data": "Tue, 03 Nov 2026 10:09:21 +0000",
+  "comuni": [],
+  "visto": "2026-11-03T11:50:09+00:00"
+ },
+ {
+  "img": "https://www.ilmediano.com/wp-content/uploads/2026/11/73d288a1-bad6-482a-a751-f2a2a71b2fbe.jpeg",
+  "titolo": "AperiLibro, a Marigliano la presentazione de “La stagione del vino e delle rose”",
+  "link": "https://www.ilmediano.com/aperilibro-a-marigliano-la-presentazione-de-la-stagione-del-vino-e-delle-rose/",
+  "fonte": "Il Mediano",
+  "data": "Tue, 03 Nov 2026 10:05:50 +0000",
+  "comuni": [
+   "Marigliano"
+  ],
+  "visto": "2026-11-03T11:50:09+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://www.vesuviolive.it/wp-content/uploads/sites/6/2026/11/giuseppe-lucibelli.jpeg",
+  "titolo": "Torre Annunziata in lutto: addio a Giuseppe Lucibelli, giornalista, scrittore e dirigente veterinario",
+  "link": "https://www.vesuviolive.it/aree-locali/notizie-di-torre-annunziata/546941-torre-annunziata-in-lutto-addio-a-giuseppe-lucibelli/",
+  "fonte": "VesuvioLive",
+  "data": "Tue, 03 Nov 2026 10:00:21 +0000",
+  "comuni": [
+   "Torre Annunziata"
+  ],
+  "visto": "2026-11-03T11:50:09+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://cdn13.webmaster360.it/2026/11/covers/01KBQDRP55SXJDEJXP9ZEND04J.jpg",
+  "titolo": "Si accoltellano per un posto auto: è grave",
+  "link": "https://www.ilfattovesuviano.it/2026/11/si-accoltellano-per-un-posto-auto-e-grave",
+  "fonte": "Il Fatto Vesuviano",
+  "data": "Tue, 03 Nov 2026 10:00:00 +0000",
+  "comuni": [],
+  "visto": "2026-11-03T11:50:09+00:00"
+ },
+ {
+  "img": "https://www.ilmediano.com/wp-content/uploads/2015/06/nola_festadeigigli.jpg",
+  "titolo": "Nola piange Nicola Trinchese, storico capoparanza dei Gigli",
+  "link": "https://www.ilmediano.com/nola-piange-nicola-trinchese-storico-capoparanza-dei-gigli/",
+  "fonte": "Il Mediano",
+  "data": "Tue, 03 Nov 2026 09:47:05 +0000",
+  "comuni": [
+   "Nola"
+  ],
+  "visto": "2026-11-03T11:50:09+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/11/IMG-20261103-WA0009-1024x935.jpg",
+  "titolo": "Torre Annunziata piange il dottore Giuseppe Lucibelli",
+  "link": "https://www.metropolisweb.it/2026/11/03/torre-annunziata-piange-il-dottore-giuseppe-lucibelli/",
+  "fonte": "Metropolis",
+  "data": "Tue, 03 Nov 2026 09:46:50 +0000",
+  "comuni": [
+   "Torre Annunziata"
+  ],
+  "visto": "2026-11-03T11:50:09+00:00"
+ },
+ {
+  "img": "https://www.vesuviolive.it/wp-content/uploads/sites/6/2026/11/LEuropa-acquistera-gas-russo-attraverso-gli-Stati-Uniti.jpg",
+  "titolo": "Siamo all’assurdo: l’Europa comprerà di nuovo gas russo, ma attraverso gli Stati Uniti",
+  "link": "https://www.vesuviolive.it/ultime-notizie/politica/546926-siamo-allassurdo-leuropa-comprera-di-nuovo-gas-russo-ma-attraverso-gli-stati-uniti/",
+  "fonte": "VesuvioLive",
+  "data": "Tue, 03 Nov 2026 09:39:34 +0000",
+  "comuni": [],
+  "visto": "2026-11-03T11:50:09+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://www.vesuviolive.it/wp-content/uploads/sites/6/2026/11/veronica-bottigliero.jpg",
+  "titolo": "Weronique Art, Torre è protagonista in Corea del Sud: premi e masterclass nella più importante fiera del make-up",
+  "link": "https://www.vesuviolive.it/aree-locali/notizie-di-torre-del-greco/546939-weronique-art-torre-e-protagonista-in-corea-del-sud-premi-e-masterclass-nella-piu-importante-fiera-del-make-up/",
+  "fonte": "VesuvioLive",
+  "data": "Tue, 03 Nov 2026 09:35:03 +0000",
+  "comuni": [
+   "Torre del Greco"
+  ],
+  "visto": "2026-11-03T11:50:09+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://cdn13.webmaster360.it/2026/11/covers/01M6G1873WSTNCDJH37KRA0SB2.jpg",
+  "titolo": "L'Uci Cinema assume: stipendi da 1500 euro",
+  "link": "https://www.ilfattovesuviano.it/2026/11/luci-cinema-assume-stipendi-da-1500-euro",
+  "fonte": "Il Fatto Vesuviano",
+  "data": "Tue, 03 Nov 2026 09:30:00 +0000",
+  "comuni": [],
+  "visto": "2026-11-03T11:50:09+00:00"
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-03-alle-11.42.16-1024x606.png",
+  "titolo": "Caffè e cocaina, le consegne le faceva il barista: 5 arresti a Poggioreale",
+  "link": "https://www.metropolisweb.it/2026/11/03/caffe-e-cocaina-le-consegne-le-faceva-il-barista-5-arresti-a-poggioreale/",
+  "fonte": "Metropolis",
+  "data": "Tue, 03 Nov 2026 09:28:43 +0000",
+  "comuni": [],
+  "visto": "2026-11-03T11:50:09+00:00"
+ },
+ {
+  "img": "https://www.vesuviolive.it/wp-content/uploads/sites/6/2024/05/Lospedale-Monaldi.jpeg",
+  "titolo": "Eccellenza napoletana: al Monaldi la chirurgia che restituisce la voce ai pazienti oncologici",
+  "link": "https://www.vesuviolive.it/ultime-notizie/546937-tumori-laringe-ospedale-monaldi-napoli/",
+  "fonte": "VesuvioLive",
+  "data": "Tue, 03 Nov 2026 09:03:00 +0000",
+  "comuni": [],
+  "visto": "2026-11-03T11:50:09+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2025/01/SAN-CATELLO-1024x682.jpg",
+  "titolo": "Castellammare. Ecco il libro che ricostruisce il Tesoro di San Catello",
+  "link": "https://www.metropolisweb.it/2026/11/03/castellammare-ecco-il-libro-che-ricostruisce-il-tesoro-di-san-catello/",
+  "fonte": "Metropolis",
+  "data": "Tue, 03 Nov 2026 09:00:36 +0000",
+  "comuni": [
+   "Castellammare di Stabia"
+  ],
+  "visto": "2026-11-03T11:50:09+00:00"
+ },
+ {
+  "img": "https://cdn13.webmaster360.it/2026/11/covers/01M6G124ZAQ9ACB90SQVAFVG8A.jpg",
+  "titolo": "Compattatore fuori controllo finisce contro un palo",
+  "link": "https://www.ilfattovesuviano.it/2026/11/compattatore-fuori-controllo-finisce-contro-un-palo",
+  "fonte": "Il Fatto Vesuviano",
+  "data": "Tue, 03 Nov 2026 09:00:00 +0000",
+  "comuni": [],
+  "visto": "2026-11-03T11:50:09+00:00"
+ },
+ {
+  "img": "https://internapoli.it/mato.clanto.cloud/piwik.php?idsite=6&rec=1&url=https%3A%2F%2Finternapoli.it%2Fincendio-nel-cantiere-in-piazza-a-boscotrecase-bobcat-divorato-dalle-fiamme%2F&action_name=Incendio%20nel%20cantiere%20in%20piazza%20a%20Boscotrecase%2C%20bobcat%20divorato%20dalle%20fiamme&urlref=https%3A%2F%2Finternapoli.it%2Ffeed%2F",
+  "titolo": "Incendio nel cantiere in piazza a Boscotrecase, bobcat divorato dalle fiamme",
+  "link": "https://internapoli.it/incendio-nel-cantiere-in-piazza-a-boscotrecase-bobcat-divorato-dalle-fiamme/",
+  "fonte": "Internapoli",
+  "data": "Tue, 03 Nov 2026 08:54:06 +0000",
+  "comuni": [
+   "Boscotrecase"
+  ],
+  "visto": "2026-11-03T11:50:09+00:00"
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/11/Marco-Rosiello-Ottaviano-1024x768.jpg",
+  "titolo": "La storia di Marco, da Ottaviano alla conquista del mondo con il Karate",
+  "link": "https://www.metropolisweb.it/2026/11/03/la-storia-di-marco-da-ottaviano-alla-conquista-del-mondo-con-il-karate/",
+  "fonte": "Metropolis",
+  "data": "Tue, 03 Nov 2026 08:49:18 +0000",
+  "comuni": [
+   "Ottaviano"
+  ],
+  "visto": "2026-11-03T11:50:09+00:00"
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/11/Schermata-2026-11-02-alle-14.34.50.png",
+  "titolo": "Torre del Greco, minacce e stalking ai parenti: altro «esilio» per l’ex boss di viale Castelluccio",
+  "link": "https://www.metropolisweb.it/2026/11/03/torre-del-greco-minacce-e-stalking-ai-parenti-altro-esilio-per-lex-boss-di-viale-castelluccio/?ta_paidstory",
+  "fonte": "Metropolis",
+  "data": "Tue, 03 Nov 2026 08:45:54 +0000",
+  "comuni": [
+   "Torre del Greco"
+  ],
+  "visto": "2026-11-03T11:50:09+00:00"
+ },
+ {
+  "img": "https://www.vesuviolive.it/wp-content/uploads/sites/6/2023/07/carabinieri.jpeg",
+  "titolo": "Ragazzo di 21 anni uccide la mamma nella notte: l’ha accoltellata fino alla morte",
+  "link": "https://www.vesuviolive.it/ultime-notizie/546935-brescia-ragazzo-ucciso-mamma-omicidio/",
+  "fonte": "VesuvioLive",
+  "data": "Tue, 03 Nov 2026 08:15:55 +0000",
+  "comuni": [],
+  "visto": "2026-11-03T11:50:09+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://www.loravesuviana.it/wp-content/uploads/2026/11/863867508_1711101941017382_6012652189262076780_n-283x300.jpg",
+  "titolo": "A Ercolano dentro la fattoria del Centro Don Orione l’inaugurazione di Digitability, la nuova area digitalizzata del centro",
+  "link": "https://www.loravesuviana.it/news/a-ercolano-dentro-la-fattoria-del-centro-don-orione-linaugurazione-di-digitability-la-nuova-area-digitalizzata-del-centro.html/",
+  "fonte": "L'Ora Vesuviana",
+  "data": "Tue, 03 Nov 2026 08:15:16 +0000",
+  "comuni": [
+   "Ercolano"
+  ],
+  "visto": "2026-11-03T11:50:09+00:00"
+ },
+ {
+  "img": "https://www.loravesuviana.it/wp-content/uploads/2026/11/Paolo-Miniero1.jpg",
+  "titolo": "𝗖𝗘𝗥𝗖𝗢𝗟𝗔 𝗦𝗜 𝗣𝗥𝗘𝗡𝗗𝗘 𝗖𝗨𝗥𝗔 𝗗𝗘𝗜 𝗦𝗨𝗢𝗜 𝗖𝗜𝗧𝗧𝗔𝗗𝗜𝗡𝗜: 𝗗𝗔𝗟𝗟𝗘 𝗧𝗘𝗥𝗠𝗘 𝗔𝗟𝗟𝗔 𝗚𝗜𝗡𝗡𝗔𝗦𝗧𝗜𝗖𝗔 𝗗𝗢𝗟𝗖𝗘",
+  "link": "https://www.loravesuviana.it/news/%f0%9d%97%96%f0%9d%97%98%f0%9d%97%a5%f0%9d%97%96%f0%9d%97%a2%f0%9d%97%9f%f0%9d%97%94-%f0%9d%97%a6%f0%9d%97%9c-%f0%9d%97%a3%f0%9d%97%a5%f0%9d%97%98%f0%9d%97%a1%f0%9d%97%97%f0%9d%97%98-%f0%9d%97%96.html/",
+  "fonte": "L'Ora Vesuviana",
+  "data": "Tue, 03 Nov 2026 08:00:12 +0000",
+  "comuni": [],
+  "visto": "2026-11-03T11:50:09+00:00"
+ },
+ {
+  "img": "https://cdn13.webmaster360.it/2026/11/covers/01KW2AM2PZ85GGJD5XE3FNJ6YX.jpg",
+  "titolo": "Rapina armata in gioielleria, asportate anche le telecamere",
+  "link": "https://www.ilfattovesuviano.it/2026/11/rapina-armata-in-gioielleria-asportate-anche-le-telecamere",
+  "fonte": "Il Fatto Vesuviano",
+  "data": "Tue, 03 Nov 2026 08:00:00 +0000",
+  "comuni": [],
+  "visto": "2026-11-03T11:50:09+00:00"
+ },
+ {
+  "img": "https://www.loravesuviana.it/wp-content/uploads/2026/11/6a180b36a00c2.r_d.290-228-24439-1024x768.jpeg",
+  "titolo": "Maria Laudando, nuova Rettrice dell’Università L’Orientale di Napoli:",
+  "link": "https://www.loravesuviana.it/news/maria-laudando-nuova-rettrice-delluniversita-lorientale-di-napoli.html/",
+  "fonte": "L'Ora Vesuviana",
+  "data": "Tue, 03 Nov 2026 07:46:36 +0000",
+  "comuni": [],
+  "visto": "2026-11-03T11:50:09+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://www.cronachedellacampania.it/wp-content/uploads/2024/07/incendio-in-cantiere-a-boscoreale-bobcat-distrutto-in-piazza-santanna-indagini-in-corso.jpg",
+  "titolo": "Boscoreale, bobcat distrutto nel cantiere di Piazza Sant’Anna",
+  "link": "https://www.cronachedellacampania.it/2026/11/incendio-cantiere-boscoreale-bobcat-distrutto-piazza-santanna/",
+  "fonte": "Cronache della Campania",
+  "data": "Tue, 03 Nov 2026 07:46:26 +0000",
+  "comuni": [
+   "Boscoreale"
+  ],
+  "visto": "2026-11-03T11:50:09+00:00"
+ },
+ {
+  "img": "https://www.loravesuviana.it/wp-content/uploads/2026/11/CASTELLOSANTANASTASIA-1024x687.jpg",
+  "titolo": "A Sant’Anastasia, una raccolta di firme per salvare il Castello Marra: un patrimonio da restituire alla comunità attraverso il Fai",
+  "link": "https://www.loravesuviana.it/news/a-santanastasia-una-raccolta-di-firme-per-salvare-il-castello-marra-un-patrimonio-da-restituire-alla-comunita-attraverso-il-fai.html/",
+  "fonte": "L'Ora Vesuviana",
+  "data": "Tue, 03 Nov 2026 07:33:04 +0000",
+  "comuni": [
+   "Sant'Anastasia"
+  ],
+  "visto": "2026-11-03T11:50:09+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://cdn13.webmaster360.it/2026/11/covers/01M6G0HYJZ1J9W11BBTPBFPEZH.jpg",
+  "titolo": "Lancio di uova contro i camion dei rifiuti, ferito netturbino",
+  "link": "https://www.ilfattovesuviano.it/2026/11/lancio-di-uova-contro-i-camion-dei-rifiuti-ferito-netturbino",
+  "fonte": "Il Fatto Vesuviano",
+  "data": "Tue, 03 Nov 2026 07:30:00 +0000",
+  "comuni": [],
+  "visto": "2026-11-03T11:50:09+00:00"
+ },
+ {
+  "img": "https://citynews-napolitoday.stgy.ovh/~media/original-hi/37793286482633/carabinieri-e-vigili-fuoco.jpg",
+  "titolo": "Macchina operatrice prende fuoco in piazza: indagano i carabinieri",
+  "link": "https://www.napolitoday.it/cronaca/incendio-boscotrecase-piazza-sant-anna.html",
+  "fonte": "NapoliToday",
+  "data": "Tue, 03 Nov 2026 08:20:00 +0100",
+  "comuni": [
+   "Boscotrecase"
+  ],
+  "visto": "2026-11-03T11:50:09+00:00"
+ },
+ {
+  "img": "https://www.loravesuviana.it/wp-content/uploads/2026/08/f8e9b51d99534422984c2bdeeb3799de.jpg",
+  "titolo": "Rischio clan, tre aziende di Ottaviano sulla lista del Prefetto. Le imprese hanno avviato un percorso di prevenzione collaborativa come previsto dal codice antimafia",
+  "link": "https://www.loravesuviana.it/news/interdittiva-antimafia-ottaviano.html/",
+  "fonte": "L'Ora Vesuviana",
+  "data": "Tue, 03 Nov 2026 07:15:13 +0000",
+  "comuni": [
+   "Ottaviano"
+  ],
+  "visto": "2026-11-03T11:50:09+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://www.loravesuviana.it/wp-content/uploads/2026/11/Antonio-Pace-presidente-AVPN-266x300.jpg",
+  "titolo": "La storia della pizza Margherita, icona della cucina italiana, diventa un film per la regia e la sceneggiatura di Marco Pollini",
+  "link": "https://www.loravesuviana.it/news/la-storia-della-pizza-margherita-icona-della-cucina-italiana-diventa-un-film-per-la-regia-e-la-sceneggiatura-di-marco-pollini.html/",
+  "fonte": "L'Ora Vesuviana",
+  "data": "Tue, 03 Nov 2026 07:12:12 +0000",
+  "comuni": [],
+  "visto": "2026-11-03T11:50:09+00:00"
+ },
+ {
+  "img": "https://www.loravesuviana.it/wp-content/uploads/2023/01/stellantis-panda-produzione.jpeg",
+  "titolo": "Stellantis, possibili stop a Mirafiori e Pomigliano per la mancanza di un componente elettronico",
+  "link": "https://www.loravesuviana.it/news/stellantis-possibili-stop-a-mirafiori-e-pomigliano-per-la-mancanza-di-un-componente-elettronico.html/",
+  "fonte": "L'Ora Vesuviana",
+  "data": "Tue, 03 Nov 2026 07:06:42 +0000",
+  "comuni": [],
+  "visto": "2026-11-03T11:50:09+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/11/Schermata-2026-11-02-alle-15.25.44.png",
+  "titolo": "Torre del Greco, incubo a Halloween: due ladri «acrobati» svaligiano una villetta",
+  "link": "https://www.metropolisweb.it/2026/11/03/torre-del-greco-incubo-a-halloween-due-ladri-acrobati-svaligiano-una-villetta/?ta_paidstory",
+  "fonte": "Metropolis",
+  "data": "Tue, 03 Nov 2026 07:05:54 +0000",
+  "comuni": [
+   "Torre del Greco"
+  ],
+  "visto": "2026-11-03T11:50:09+00:00"
+ },
+ {
+  "img": "https://internapoli.it/mato.clanto.cloud/piwik.php?idsite=6&rec=1&url=https%3A%2F%2Finternapoli.it%2Fgennaro-morto-nellincidente-a-massa-di-somma-preso-il-conducente-del-range-rover%2F&action_name=Gennaro%20morto%20nell%26%238217%3Bincidente%20a%20Massa%20di%20Somma%2C%20preso%20il%20conducente%20del%20Range%20Rover&urlref=https%3A%2F%2Finternapoli.it%2Ffeed%2F",
+  "titolo": "Gennaro morto nell’incidente a Massa di Somma, preso il conducente del Range Rover",
+  "link": "https://internapoli.it/gennaro-morto-nellincidente-a-massa-di-somma-preso-il-conducente-del-range-rover/",
+  "fonte": "Internapoli",
+  "data": "Tue, 03 Nov 2026 07:00:47 +0000",
+  "comuni": [
+   "Massa di Somma"
+  ],
+  "visto": "2026-11-03T11:50:09+00:00"
+ },
+ {
+  "img": "https://cdn13.webmaster360.it/2026/11/covers/01M4VW4SZH2P1YN0538EFA2H7Y.jpg",
+  "titolo": "Continua la follia dei chip tolti dai documenti",
+  "link": "https://www.ilfattovesuviano.it/2026/11/continua-la-follia-dei-chip-tolti-dai-documenti",
+  "fonte": "Il Fatto Vesuviano",
+  "data": "Tue, 03 Nov 2026 07:00:00 +0000",
+  "comuni": [],
+  "visto": "2026-11-03T11:50:09+00:00"
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/11/Schermata-2026-10-31-alle-16.11.33.png",
+  "titolo": "Faida sui Lattari | L’identikit dei killer che stanno massacrando i boss",
+  "link": "https://www.metropolisweb.it/2026/11/03/faida-sui-lattari-lidentikit-dei-killer-che-stanno-massacrando-i-boss/",
+  "fonte": "Metropolis",
+  "data": "Tue, 03 Nov 2026 06:50:48 +0000",
+  "comuni": [],
+  "visto": "2026-11-03T11:50:09+00:00"
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/11/dbe31434-7f72-4558-8596-f4d2076667d0-1024x487.jpeg",
+  "titolo": "Fiamme a Boscotrecase, raid nel cantiere di piazza Sant’Anna",
+  "link": "https://www.metropolisweb.it/2026/11/03/fiamme-a-boscotrecase-raid-nel-cantiere-di-piazza-santanna/",
+  "fonte": "Metropolis",
+  "data": "Tue, 03 Nov 2026 06:46:28 +0000",
+  "comuni": [
+   "Boscotrecase"
+  ],
+  "visto": "2026-11-03T11:50:09+00:00"
+ },
+ {
+  "img": "https://cdn13.webmaster360.it/2026/11/covers/TMuFm7hjD4RwR3MDlsMS9YpP5JuoCTmqELRgitb2.jpg",
+  "titolo": "Primark assume a Pompei, Salerno e Caserta",
+  "link": "https://www.ilfattovesuviano.it/2026/11/primark-assume-a-pompei-salerno-e-caserta",
+  "fonte": "Il Fatto Vesuviano",
+  "data": "Tue, 03 Nov 2026 06:00:00 +0000",
+  "comuni": [
+   "Pompei"
+  ],
+  "visto": "2026-11-03T11:50:09+00:00"
+ },
+ {
+  "img": "https://www.cronachedellacampania.it/wp-content/uploads/2026/11/incidente-di-massa-di-somma-il-pirata-della-strada-senza-patente-si-costituisce-dopo-la-caccia-alluomo-dpqx.jpg",
+  "titolo": "Incidente di Massa di Somma: il pirata della strada, senza patente, si costituisce dopo la caccia all’uomo",
+  "link": "https://www.cronachedellacampania.it/2026/11/incidente-massa-somma-pirata-strada-patente-costituisce-dopo/",
+  "fonte": "Cronache della Campania",
+  "data": "Tue, 03 Nov 2026 05:50:31 +0000",
+  "comuni": [
+   "Massa di Somma"
+  ],
+  "visto": "2026-11-03T11:50:09+00:00"
+ },
+ {
+  "img": "https://cdn13.webmaster360.it/2026/11/covers/01M6CZT8CM9AKWR55EPECVEMMB.jpg",
+  "titolo": "Massa di Somma, si è costituito il \"pirata\". Era una gara in un Suv",
+  "link": "https://www.ilfattovesuviano.it/2026/11/massa-di-somma-si-e-costituito-il-pirata-era-una-gara-in-un-suv",
+  "fonte": "Il Fatto Vesuviano",
+  "data": "Tue, 03 Nov 2026 05:30:00 +0000",
+  "comuni": [
+   "Massa di Somma"
+  ],
+  "visto": "2026-11-03T11:50:09+00:00"
+ },
+ {
   "img": "https://cdn13.webmaster360.it/2026/11/covers/01M6F094WYPMC8T1QR26NMY47D.jpg",
   "titolo": "Attivati i tornelli a Piazza Garibaldi",
   "link": "https://www.ilfattovesuviano.it/2026/11/attivati-i-tornelli-a-piazza-garibaldi",
@@ -782,7 +1327,7 @@
   "visto": "2026-11-02T15:35:06+00:00"
  },
  {
-  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/11/FOTO-AVV.-GM.png",
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/11/FOTO-AVV.-GM-e1793633008700.png",
   "titolo": "Le novità legislative sulla riforma relativa alla responsabilità professioni sanitarie",
   "link": "https://www.metropolisweb.it/2026/11/02/le-novita-legislative-sulla-riforma-relativa-alla-responsabilita-professioni-sanitarie/",
   "fonte": "Metropolis",
