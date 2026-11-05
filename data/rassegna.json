@@ -1,5 +1,517 @@
 [
  {
+  "img": "https://www.laprovinciaonline.info/wp-content/uploads/2026/11/giornata-unita-nazionale-forze-armate-prefetto-michele-bari-scaled.jpg",
+  "titolo": "Giornata dell’Unità Nazionale e delle Forze Armate, il Prefetto Michele di Bari premia l’Istituto Ferraiolo-Siani di Acerra",
+  "link": "https://www.laprovinciaonline.info/giornata-unita-nazionale-forze-armate-prefetto-michele-bari/",
+  "fonte": "La Provincia Online",
+  "data": "Thu, 05 Nov 2026 16:01:42 +0000",
+  "comuni": [],
+  "visto": "2026-11-05T16:35:17+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://cdn13.webmaster360.it/2026/11/covers/4MejgtFJMRGqdiOhTZTLhULyTIG8m0GKLqJev7vv.jpg",
+  "titolo": "Ruba i carburanti dai clienti, arrestato falso benzinaio",
+  "link": "https://www.ilfattovesuviano.it/2026/11/ruba-i-carburanti-dai-clienti-arrestato-falso-benzinaio",
+  "fonte": "Il Fatto Vesuviano",
+  "data": "Thu, 05 Nov 2026 16:00:00 +0000",
+  "comuni": [],
+  "visto": "2026-11-05T16:35:17+00:00"
+ },
+ {
+  "img": "https://www.laprovinciaonline.info/wp-content/uploads/2026/11/premio-internazionale-nassiriya-pace-cilento-si-prepara-xiii.jpeg",
+  "titolo": "Premio Internazionale Nassiriya per la Pace, il Cilento si prepara alla XIII edizione",
+  "link": "https://www.laprovinciaonline.info/premio-internazionale-nassiriya-pace-cilento-si-prepara-xiii/",
+  "fonte": "La Provincia Online",
+  "data": "Thu, 05 Nov 2026 15:59:00 +0000",
+  "comuni": [],
+  "visto": "2026-11-05T16:35:17+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://www.laprovinciaonline.info/wp-content/uploads/2026/11/ospedale-maresca-torre-greco-ecco-nuovi-reparti.jpeg",
+  "titolo": "Ospedale Maresca di Torre del Greco, ecco i nuovi reparti",
+  "link": "https://www.laprovinciaonline.info/ospedale-maresca-torre-greco-ecco-nuovi-reparti/",
+  "fonte": "La Provincia Online",
+  "data": "Thu, 05 Nov 2026 15:54:33 +0000",
+  "comuni": [
+   "Torre del Greco"
+  ],
+  "visto": "2026-11-05T16:35:17+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://www.laprovinciaonline.info/wp-content/uploads/2026/11/napoli-torna-cineforum-arci-movie-pierrot-ponticelli-memoria.jpg",
+  "titolo": "Napoli, torna il Cineforum Arci Movie al Pierrot di Ponticelli: in memoria di Vincenzo Mauriello",
+  "link": "https://www.laprovinciaonline.info/napoli-torna-cineforum-arci-movie-pierrot-ponticelli-memoria/",
+  "fonte": "La Provincia Online",
+  "data": "Thu, 05 Nov 2026 15:49:45 +0000",
+  "comuni": [],
+  "visto": "2026-11-05T16:35:17+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://www.vesuviolive.it/wp-content/uploads/sites/6/2026/11/battaglia-mattarella.jpg",
+  "titolo": "Mattarella a Napoli, Don Battaglia: “Un futuro diverso è possibile. Il Sud diventi la priorità”",
+  "link": "https://www.vesuviolive.it/ultime-notizie/547083-mattarella-napoli-don-mimmo-battaglia-sud/",
+  "fonte": "VesuvioLive",
+  "data": "Thu, 05 Nov 2026 15:27:09 +0000",
+  "comuni": [],
+  "visto": "2026-11-05T16:35:17+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://www.vesuviolive.it/wp-content/uploads/sites/6/2026/11/Tu-si-na-cosa-grande-Centro-Don-Orione-Ercolano.jpeg",
+  "titolo": "«Canta Napoli 3.0» a Ercolano: grande serata di musica e solidarietà al Teatro San Luigi Orione",
+  "link": "https://www.vesuviolive.it/aree-locali/notizie-di-ercolano/547078-canta-napoli-3-0-a-ercolano-grande-serata-di-musica-e-solidarieta-al-teatro-san-luigi-orione/",
+  "fonte": "VesuvioLive",
+  "data": "Thu, 05 Nov 2026 15:11:58 +0000",
+  "comuni": [
+   "Ercolano"
+  ],
+  "visto": "2026-11-05T16:35:17+00:00"
+ },
+ {
+  "img": "https://cdn13.webmaster360.it/2026/11/covers/D4o9QFRVWdQZ5pTIpfeRhuPVzmNgcSFVVFw4h2Uy.jpg",
+  "titolo": "Veleni nel Sarno, sigilli ad autofficina",
+  "link": "https://www.ilfattovesuviano.it/2026/11/veleni-nel-sarno-sigilli-ad-autofficina",
+  "fonte": "Il Fatto Vesuviano",
+  "data": "Thu, 05 Nov 2026 15:00:00 +0000",
+  "comuni": [
+   "Sarno"
+  ],
+  "visto": "2026-11-05T16:35:17+00:00"
+ },
+ {
+  "img": "https://internapoli.it/mato.clanto.cloud/piwik.php?idsite=6&rec=1&url=https%3A%2F%2Finternapoli.it%2Fchoc-in-chiesa-a-sarno-si-spoglia-davanti-ai-fedeli-in-preghiera-e-fugge-via%2F&action_name=Choc%20in%20chiesa%20a%20Sarno%2C%20si%20spoglia%20davanti%20ai%20fedeli%20in%20preghiera%20e%20fugge%20via&urlref=https%3A%2F%2Finternapoli.it%2Ffeed%2F",
+  "titolo": "Choc in chiesa a Sarno, si spoglia davanti ai fedeli in preghiera e fugge via",
+  "link": "https://internapoli.it/choc-in-chiesa-a-sarno-si-spoglia-davanti-ai-fedeli-in-preghiera-e-fugge-via/",
+  "fonte": "Internapoli",
+  "data": "Thu, 05 Nov 2026 14:58:06 +0000",
+  "comuni": [
+   "Sarno"
+  ],
+  "visto": "2026-11-05T16:35:17+00:00"
+ },
+ {
+  "img": "https://www.vesuviolive.it/wp-content/uploads/sites/6/2026/11/locandina-apertura-ipogeo-delle-anime.jpg",
+  "titolo": "Torre Annunziata, apertura straordinaria dell’Ipogeo delle Anime: un viaggio tra storia e tradizioni popolari",
+  "link": "https://www.vesuviolive.it/aree-locali/notizie-di-torre-annunziata/547071-torre-annunziata-apertura-straordinaria-dellipogeo-delle-anime/",
+  "fonte": "VesuvioLive",
+  "data": "Thu, 05 Nov 2026 14:50:14 +0000",
+  "comuni": [
+   "Torre Annunziata"
+  ],
+  "visto": "2026-11-05T16:35:17+00:00"
+ },
+ {
+  "img": "https://www.vesuviolive.it/wp-content/uploads/sites/6/2026/01/ciclone.jpg",
+  "titolo": "Arriva il flusso atlantico, doppia perturbazione e temporali al Sud: da quando",
+  "link": "https://www.vesuviolive.it/ultime-notizie/547072-meteo-perturbazione-atlantica-previsioni/",
+  "fonte": "VesuvioLive",
+  "data": "Thu, 05 Nov 2026 14:39:29 +0000",
+  "comuni": [],
+  "visto": "2026-11-05T16:35:17+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://internapoli.it/mato.clanto.cloud/piwik.php?idsite=6&rec=1&url=https%3A%2F%2Finternapoli.it%2Fuccise-due-prostitute-nel-cantiere-a-pollena-trocchia-landolfi-andra-a-processo%2F&action_name=Uccise%20due%20prostitute%20nel%20cantiere%20a%20Pollena%20Trocchia%2C%20Landolfi%20andr%C3%A0%20a%20processo&urlref=https%3A%2F%2Finternapoli.it%2Ffeed%2F",
+  "titolo": "Uccise due prostitute nel cantiere a Pollena Trocchia, Landolfi andrà a processo",
+  "link": "https://internapoli.it/uccise-due-prostitute-nel-cantiere-a-pollena-trocchia-landolfi-andra-a-processo/",
+  "fonte": "Internapoli",
+  "data": "Thu, 05 Nov 2026 14:33:24 +0000",
+  "comuni": [
+   "Pollena Trocchia"
+  ],
+  "visto": "2026-11-05T16:35:17+00:00"
+ },
+ {
+  "img": "https://cdn13.webmaster360.it/2026/11/covers/01M6NYRMEGEX7ZCZV0461CQ4FM.jpg",
+  "titolo": "Biologico ma con fertilizzante: sequestro da 3 tonnellate",
+  "link": "https://www.ilfattovesuviano.it/2026/11/biologico-ma-con-fertilizzante-sequestro-da-3-tonnellate",
+  "fonte": "Il Fatto Vesuviano",
+  "data": "Thu, 05 Nov 2026 14:30:00 +0000",
+  "comuni": [],
+  "visto": "2026-11-05T16:35:17+00:00"
+ },
+ {
+  "img": "https://www.vesuviolive.it/wp-content/uploads/sites/6/2026/11/copertina-strade-torre-annunziata.png",
+  "titolo": "Lo scempio a Torre Annunziata: strade martoriate dai lavori e basoli coperti dal cemento",
+  "link": "https://www.vesuviolive.it/aree-locali/notizie-di-torre-annunziata/547058-torre-annunziata-strade-martoriate-e-basoli-coperti-dal-cemento/",
+  "fonte": "VesuvioLive",
+  "data": "Thu, 05 Nov 2026 14:25:03 +0000",
+  "comuni": [
+   "Torre Annunziata"
+  ],
+  "visto": "2026-11-05T16:35:17+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://www.ansa.it/webimages/img_1280x720/2026/11/5/707df7acd05e592b3d11e85421905874.jpg",
+  "titolo": "Danneggiato il playground sportivo appena inaugurato a Torre del Greco",
+  "link": "https://www.ansa.it/campania/notizie/2026/11/05/danneggiato-il-playground-sportivo-appena-inaugurato-a-torre-del-greco_0bbf0c31-c5bd-487c-b845-2f8a8d900868.html",
+  "fonte": "ANSA Campania",
+  "data": "Thu, 5 Nov 2026 15:24:00 +0100",
+  "comuni": [
+   "Torre del Greco"
+  ],
+  "visto": "2026-11-05T16:35:17+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://www.laprovinciaonline.info/wp-content/uploads/2026/11/pubblicazioni-novembre.jpg",
+  "titolo": "Dalla provocazione di Riccio al tramonto del patriarcato: le due nuove uscite firmate Giannini Editore",
+  "link": "https://www.laprovinciaonline.info/dalla-provocazione-di-riccio-al-tramonto-del-patriarcato-le-due-nuove-uscite-firmate-giannini-editore/",
+  "fonte": "La Provincia Online",
+  "data": "Thu, 05 Nov 2026 14:02:31 +0000",
+  "comuni": [],
+  "visto": "2026-11-05T16:35:17+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://cdn13.webmaster360.it/2026/11/covers/01KYS2MTAP2WYZ2RRSXX4H6NEM.jpg",
+  "titolo": "Statale 268, si scontrano sei automobili",
+  "link": "https://www.ilfattovesuviano.it/2026/11/statale-268-si-scontrano-sei-automobili",
+  "fonte": "Il Fatto Vesuviano",
+  "data": "Thu, 05 Nov 2026 14:00:00 +0000",
+  "comuni": [],
+  "visto": "2026-11-05T16:35:17+00:00"
+ },
+ {
+  "img": "https://www.vesuviolive.it/wp-content/uploads/sites/6/2026/08/benzina-diesel-aumento.jpeg",
+  "titolo": "Scoperto finto benzinaio a Napoli: per rifornire le auto riempiva le sue taniche nascoste",
+  "link": "https://www.vesuviolive.it/ultime-notizie/547069-finto-benzinaio-arrestato-napoli-carburante/",
+  "fonte": "VesuvioLive",
+  "data": "Thu, 05 Nov 2026 13:45:19 +0000",
+  "comuni": [],
+  "visto": "2026-11-05T16:35:17+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://cdn13.webmaster360.it/2026/11/covers/4F5DE2kCtVZJ8YywfUk4E06bLsj27dAfCOXLuNc3.jpg",
+  "titolo": "\"Può spostare l'auto?\", e lo colpisce con una mazza da baseball",
+  "link": "https://www.ilfattovesuviano.it/2026/11/puo-spostare-lauto-e-lo-colpisce-con-una-mazza-da-baseball",
+  "fonte": "Il Fatto Vesuviano",
+  "data": "Thu, 05 Nov 2026 13:30:00 +0000",
+  "comuni": [],
+  "visto": "2026-11-05T16:35:17+00:00"
+ },
+ {
+  "img": "https://cdn13.webmaster360.it/2026/11/covers/01M6MZ3JJRGESB203FD93Q2EK7.jpg",
+  "titolo": "Caduta massi, Perimetrale chiusa da un mese",
+  "link": "https://www.ilfattovesuviano.it/2026/11/caduta-massi-perimetrale-chiusa-da-un-mese",
+  "fonte": "Il Fatto Vesuviano",
+  "data": "Thu, 05 Nov 2026 13:00:00 +0000",
+  "comuni": [],
+  "visto": "2026-11-05T16:35:17+00:00"
+ },
+ {
+  "img": "https://citynews-napolitoday.stgy.ovh/~media/original-hi/16411200319457/playground-torre-del-greco.jpg",
+  "titolo": "Vandali nel playground appena inaugurato a Torre del Greco: danneggiati il campo sportivo e i murales",
+  "link": "https://www.napolitoday.it/cronaca/vandalizzato-playground-torre-del-greco.html",
+  "fonte": "NapoliToday",
+  "data": "Thu, 05 Nov 2026 13:56:29 +0100",
+  "comuni": [
+   "Torre del Greco"
+  ],
+  "visto": "2026-11-05T16:35:17+00:00"
+ },
+ {
+  "img": "https://www.vesuviolive.it/wp-content/uploads/sites/6/2026/11/pianta-due.jpg",
+  "titolo": "Torre Annunziata, allarme piante velenose a Villa del Parnaso: a rischio bambini e animali domestici",
+  "link": "https://www.vesuviolive.it/aree-locali/notizie-di-torre-annunziata/547047-torre-annunziata-allarme-piante-velenose-a-villa-del-parnaso/",
+  "fonte": "VesuvioLive",
+  "data": "Thu, 05 Nov 2026 12:35:21 +0000",
+  "comuni": [
+   "Torre Annunziata"
+  ],
+  "visto": "2026-11-05T16:35:17+00:00"
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/11/nutrizione.png",
+  "titolo": "Nutrizione e violenza di genere: a Torre del Greco la prevenzione scende in campo",
+  "link": "https://www.metropolisweb.it/2026/11/05/nutrizione-e-violenza-di-genere-a-torre-del-greco-la-prevenzione-scende-in-campo/",
+  "fonte": "Metropolis",
+  "data": "Thu, 05 Nov 2026 12:16:16 +0000",
+  "comuni": [
+   "Torre del Greco"
+  ],
+  "visto": "2026-11-05T16:35:17+00:00"
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/10/Schermata-2026-10-28-alle-16.21.17.png",
+  "titolo": "Gragnano | Sparito nel nulla mentre cercava funghi: ritrovato il corpo",
+  "link": "https://www.metropolisweb.it/2026/11/05/gragnano-sparito-nel-nulla-mentre-cercava-funghi-ritrovato-il-corpo/",
+  "fonte": "Metropolis",
+  "data": "Thu, 05 Nov 2026 12:07:14 +0000",
+  "comuni": [],
+  "visto": "2026-11-05T16:35:17+00:00"
+ },
+ {
+  "img": "https://www.vesuviolive.it/wp-content/uploads/sites/6/2024/10/choco-italia-festa-cioccolato.jpg",
+  "titolo": "Choco Pompei, la grande festa del cioccolato: 4 giorni di stand tra praline, dolci e creme",
+  "link": "https://www.vesuviolive.it/eventi/547052-choco-pompei-festa-cioccolato-novembre-2026/",
+  "fonte": "VesuvioLive",
+  "data": "Thu, 05 Nov 2026 12:00:05 +0000",
+  "comuni": [
+   "Pompei"
+  ],
+  "visto": "2026-11-05T16:35:17+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://cdn13.webmaster360.it/2026/11/covers/dRGRH6QAZFzyPfKQFXkG5k7QUVEQ7C7vO8mNiGLG.jpg",
+  "titolo": "Minori non si fermano all'alt, i genitori picchiano il comandante dei vigili",
+  "link": "https://www.ilfattovesuviano.it/2026/11/minori-non-si-fermano-allalt-i-genitori-picchiano-il-comandante-dei-vigili",
+  "fonte": "Il Fatto Vesuviano",
+  "data": "Thu, 05 Nov 2026 12:00:00 +0000",
+  "comuni": [],
+  "visto": "2026-11-05T16:35:17+00:00"
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/03/Schermata-2026-03-28-alle-12.07.15.png",
+  "titolo": "Officina di Santa Maria la Carità sversava nel Sarno",
+  "link": "https://www.metropolisweb.it/2026/11/05/officina-di-santa-maria-la-carita-sversava-nel-sarno/",
+  "fonte": "Metropolis",
+  "data": "Thu, 05 Nov 2026 11:43:27 +0000",
+  "comuni": [
+   "Sarno"
+  ],
+  "visto": "2026-11-05T16:35:17+00:00"
+ },
+ {
+  "img": "https://cdn13.webmaster360.it/2026/11/covers/01KCGJSJ4TM8QX9WTCE4H3MNYJ.jpg",
+  "titolo": "Colpo di pistola in testa, 25enne ucciso in Campania",
+  "link": "https://www.ilfattovesuviano.it/2026/11/colpo-di-pistola-in-testa-25enne-ucciso-in-campania",
+  "fonte": "Il Fatto Vesuviano",
+  "data": "Thu, 05 Nov 2026 11:30:00 +0000",
+  "comuni": [],
+  "visto": "2026-11-05T16:35:17+00:00"
+ },
+ {
+  "img": "https://www.laprovinciaonline.info/wp-content/uploads/2026/11/Mare-per-tutti-2.jpg",
+  "titolo": "Amalfi, si conclude con oltre 2.000 presenze la seconda edizione di “Mare per Tutti”",
+  "link": "https://www.laprovinciaonline.info/amalfi-si-conclude-con-oltre-2-000-presenze-la-seconda-edizione-di-mare-per-tutti/",
+  "fonte": "La Provincia Online",
+  "data": "Thu, 05 Nov 2026 11:17:34 +0000",
+  "comuni": [],
+  "visto": "2026-11-05T16:35:17+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://www.vesuviolive.it/wp-content/uploads/sites/6/2026/11/mercatini-natale-cetara.jpg",
+  "titolo": "La magia del Natale nello splendido borgo campano: tra luci e presepe vivente sul mare",
+  "link": "https://www.vesuviolive.it/eventi/547049-natale-2026-cetara-luminarie-presepe-vivente/",
+  "fonte": "VesuvioLive",
+  "data": "Thu, 05 Nov 2026 11:10:02 +0000",
+  "comuni": [],
+  "visto": "2026-11-05T16:35:17+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://www.laprovinciaonline.info/wp-content/uploads/2026/11/sarim-gap-insieme-ecomondo-2026-modello-industriale-elettrificazione.jpg",
+  "titolo": "SARIM ed e-gap insieme a Ecomondo 2026: un modello industriale per l’elettrificazione dei servizi di igiene urbana",
+  "link": "https://www.laprovinciaonline.info/sarim-gap-insieme-ecomondo-2026-modello-industriale-elettrificazione/",
+  "fonte": "La Provincia Online",
+  "data": "Thu, 05 Nov 2026 11:03:31 +0000",
+  "comuni": [],
+  "visto": "2026-11-05T16:35:17+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://cdn13.webmaster360.it/2026/11/covers/WskZjUrGpYLn4AMK9szjsrjBxWr0o6WUMoe2yJ4w.jpg",
+  "titolo": "Far West a Boscotrecase, 27enne ferito a colpi di pistola",
+  "link": "https://www.ilfattovesuviano.it/2026/11/far-west-a-boscotrecase-27enne-ferito-a-colpi-di-pistola",
+  "fonte": "Il Fatto Vesuviano",
+  "data": "Thu, 05 Nov 2026 11:00:00 +0000",
+  "comuni": [
+   "Boscotrecase"
+  ],
+  "visto": "2026-11-05T16:35:17+00:00"
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/11/IMG_6486-1024x576.jpeg",
+  "titolo": "Torre del Greco, già vandalizzata l’area del playgroud di via Lamaria",
+  "link": "https://www.metropolisweb.it/2026/11/05/torre-del-greco-gia-vandalizzata-larea-del-playgroud-di-via-lamaria/",
+  "fonte": "Metropolis",
+  "data": "Thu, 05 Nov 2026 10:42:25 +0000",
+  "comuni": [
+   "Torre del Greco"
+  ],
+  "visto": "2026-11-05T16:35:17+00:00"
+ },
+ {
+  "img": "https://cdn13.webmaster360.it/2026/11/covers/01M6NKWM8J3R8RBBV9E1YJB3PD.jpg",
+  "titolo": "Allegri sta accompagnando il morto ed è un ottimo necroforo",
+  "link": "https://www.ilfattovesuviano.it/2026/11/allegri-sta-accompagnando-il-morto-ed-e-un-ottimo-necroforo",
+  "fonte": "Il Fatto Vesuviano",
+  "data": "Thu, 05 Nov 2026 10:30:00 +0000",
+  "comuni": [],
+  "visto": "2026-11-05T16:35:17+00:00"
+ },
+ {
+  "img": "https://www.vesuviolive.it/wp-content/uploads/sites/6/2026/11/cittadella-dello-sport-basket.png",
+  "titolo": "Cittadella dello Sport, amaro ko con Baiano (42-46): la rimonta non basta, ora testa a Baronissi",
+  "link": "https://www.vesuviolive.it/sport/547038-cittadella-dello-sport-amaro-ko-con-baiano-42-46-la-rimonta-non-basta-ora-testa-a-baronissi/",
+  "fonte": "VesuvioLive",
+  "data": "Thu, 05 Nov 2026 10:26:36 +0000",
+  "comuni": [],
+  "visto": "2026-11-05T16:35:17+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://www.vesuviolive.it/wp-content/uploads/sites/6/2026/11/stefano-zecchi.png",
+  "titolo": "Imbarazzo in TV, Zecchi: “Al Sud si vive meno rispetto al Nord perché c’è meno cultura”",
+  "link": "https://www.vesuviolive.it/ultime-notizie/547043-zecchi-sud-cultura-unomattina/",
+  "fonte": "VesuvioLive",
+  "data": "Thu, 05 Nov 2026 10:23:18 +0000",
+  "comuni": [],
+  "visto": "2026-11-05T16:35:17+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://www.laprovinciaonline.info/wp-content/uploads/2015/12/logo-2.png",
+  "titolo": "Il welfare sanitario deve adeguarsi a una società che è già cambiata",
+  "link": "https://www.laprovinciaonline.info/il-welfare-sanitario-deve-adeguarsi-a-una-societa-che-e-gia-cambiata/",
+  "fonte": "La Provincia Online",
+  "data": "Thu, 05 Nov 2026 10:15:37 +0000",
+  "comuni": [],
+  "visto": "2026-11-05T16:35:17+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/11/ARON-QUARTET-4_cr-1024x575.jpg",
+  "titolo": "Capua, doppio appuntamento con la musica da camera dell’Aron Quartet",
+  "link": "https://www.metropolisweb.it/2026/11/05/capua-doppio-appuntamento-con-la-musica-da-camera-dellaron-quartet/",
+  "fonte": "Metropolis",
+  "data": "Thu, 05 Nov 2026 10:06:00 +0000",
+  "comuni": [],
+  "visto": "2026-11-05T16:35:17+00:00"
+ },
+ {
+  "img": "https://cdn13.webmaster360.it/2026/11/covers/01M6CZT8CM9AKWR55EPECVEMMB.jpg",
+  "titolo": "Travolto e ucciso dal Suv, auto spinta e abbandonata",
+  "link": "https://www.ilfattovesuviano.it/2026/11/travolto-e-ucciso-dal-suv-auto-spinta-e-abbandonata",
+  "fonte": "Il Fatto Vesuviano",
+  "data": "Thu, 05 Nov 2026 10:00:00 +0000",
+  "comuni": [],
+  "visto": "2026-11-05T16:35:17+00:00"
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/11/Delizie-Reali_-295-1024x682.jpg",
+  "titolo": "Il 21 al Giardino Torre del Real Bosco di Capodimonte a Napoli",
+  "link": "https://www.metropolisweb.it/2026/11/05/nel-giardino-torre-del-real-bosco-di-capodimonte-a-napoli-la-celebrazione-il-21-novembre-il/",
+  "fonte": "Metropolis",
+  "data": "Thu, 05 Nov 2026 09:56:58 +0000",
+  "comuni": [],
+  "visto": "2026-11-05T16:35:17+00:00"
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-05-105155.png",
+  "titolo": "Massa Lubrense, e-bike trafugata e ritrovata in casa di un 35enne ai domiciliari",
+  "link": "https://www.metropolisweb.it/2026/11/05/massa-lubrense-e-bike-trafugata-e-ritrovata-in-casa-di-un-35enne-ai-domiciliari/",
+  "fonte": "Metropolis",
+  "data": "Thu, 05 Nov 2026 09:53:53 +0000",
+  "comuni": [],
+  "visto": "2026-11-05T16:35:17+00:00"
+ },
+ {
+  "img": "https://www.laprovinciaonline.info/wp-content/uploads/2026/11/IMG-20261104-WA0073.jpg",
+  "titolo": "Napoli, la storia di Linda: tre figli, una bimba disabile e il muro dei pregiudizi. Nessuno le affitta casa senza busta paga",
+  "link": "https://www.laprovinciaonline.info/napoli-la-storia-di-linda-tre-figli-una-bimba-disabile-e-il-muro-dei-pregiudizi-nessuno-le-affitta-casa-senza-busta-paga/",
+  "fonte": "La Provincia Online",
+  "data": "Thu, 05 Nov 2026 09:49:39 +0000",
+  "comuni": [],
+  "visto": "2026-11-05T16:35:17+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://internapoli.it/mato.clanto.cloud/piwik.php?idsite=6&rec=1&url=https%3A%2F%2Finternapoli.it%2Fil-messaggio-di-geolier-per-mario-spedaliere-metticela-tutta-ti-stiamo-aspettando%2F&action_name=Il%20messaggio%20di%20Geolier%20per%20Mario%20Spedaliere%3A%20%26%238220%3BMetticela%20tutta%2C%20ti%20stiamo%20aspettando%26%238221%3B&urlref=https%3A%2F%2Finternapoli.it%2Ffeed%2F",
+  "titolo": "Il messaggio di Geolier per Mario Spedaliere: “Metticela tutta, ti stiamo aspettando”",
+  "link": "https://internapoli.it/il-messaggio-di-geolier-per-mario-spedaliere-metticela-tutta-ti-stiamo-aspettando/",
+  "fonte": "Internapoli",
+  "data": "Thu, 05 Nov 2026 09:40:47 +0000",
+  "comuni": [],
+  "visto": "2026-11-05T16:35:17+00:00"
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/11/WhatsApp-Image-2026-11-04-at-16.37.13-e1793807084410.jpeg",
+  "titolo": "Palestra solo donne: “Qui uno spazio per rinascere”",
+  "link": "https://www.metropolisweb.it/2026/11/05/palestra-solo-donne-qui-uno-spazio-per-rinascere/",
+  "fonte": "Metropolis",
+  "data": "Thu, 05 Nov 2026 09:30:55 +0000",
+  "comuni": [],
+  "visto": "2026-11-05T16:35:17+00:00"
+ },
+ {
+  "img": "https://cdn13.webmaster360.it/2026/11/covers/bIumV5Um2z2j93321PLZyPT7mYK4fIDyTST3Epz9.jpg",
+  "titolo": "Carabiniere molla tutto e diventa prete",
+  "link": "https://www.ilfattovesuviano.it/2026/11/carabiniere-molla-tutto-e-diventa-prete",
+  "fonte": "Il Fatto Vesuviano",
+  "data": "Thu, 05 Nov 2026 09:30:00 +0000",
+  "comuni": [],
+  "visto": "2026-11-05T16:35:17+00:00"
+ },
+ {
+  "img": "https://www.vesuviolive.it/wp-content/uploads/sites/6/2025/11/luci-salerno-2025-natale.jpg",
+  "titolo": "Inizia il Natale con la magia delle Luci di Salerno: tra fiabe giganti, fiori e stelle luminose",
+  "link": "https://www.vesuviolive.it/eventi/547039-salerno-luci-artista-2026-data-tema-fiabe/",
+  "fonte": "VesuvioLive",
+  "data": "Thu, 05 Nov 2026 09:15:35 +0000",
+  "comuni": [],
+  "visto": "2026-11-05T16:35:17+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://www.ilmediano.com/wp-content/uploads/2026/04/castello-di-cisterna-droga.jpg",
+  "titolo": "Blitz alla Cisternina, trovato con un etto di crack e soldi",
+  "link": "https://www.ilmediano.com/blitz-alla-cisternina-trovato-con-un-etto-di-crack-e-soldi/",
+  "fonte": "Il Mediano",
+  "data": "Thu, 05 Nov 2026 09:01:23 +0000",
+  "comuni": [],
+  "visto": "2026-11-05T16:35:17+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://cdn13.webmaster360.it/2026/11/covers/01M6MYAB4VQ9QSSEJYD5X5RNEH.jpg",
+  "titolo": "Furgone in fiamme mentre è in marcia, panico in strada",
+  "link": "https://www.ilfattovesuviano.it/2026/11/furgone-in-fiamme-mentre-e-in-marcia-panico-in-strada",
+  "fonte": "Il Fatto Vesuviano",
+  "data": "Thu, 05 Nov 2026 09:00:00 +0000",
+  "comuni": [],
+  "visto": "2026-11-05T16:35:17+00:00"
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/11/hamza-1024x683.jpg",
+  "titolo": "Hamza Sarjo, la freccia del Poggiomarino",
+  "link": "https://www.metropolisweb.it/2026/11/05/hamza-sarjo-la-freccia-del-poggiomarino/",
+  "fonte": "Metropolis",
+  "data": "Thu, 05 Nov 2026 08:40:54 +0000",
+  "comuni": [
+   "Poggiomarino"
+  ],
+  "visto": "2026-11-05T16:35:17+00:00"
+ },
+ {
+  "img": "https://www.ilmediano.com/wp-content/uploads/2021/11/acerra-ppolizia-municipale.jpg",
+  "titolo": "Comandante aggredito da 15enne: lo aveva rintracciato dopo fuga senza casco",
+  "link": "https://www.ilmediano.com/comandante-aggredito-da-15enne-lo-aveva-rintracciato-dopo-fuga-senza-casco/",
+  "fonte": "Il Mediano",
+  "data": "Thu, 05 Nov 2026 08:38:43 +0000",
+  "comuni": [],
+  "visto": "2026-11-05T16:35:17+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-04-181732.png",
+  "titolo": "Sorrento si accende per il Capodanno: gara da 44mila euro per la festa in piazza",
+  "link": "https://www.metropolisweb.it/2026/11/05/sorrento-si-accende-per-il-capodanno-gara-da-44mila-euro-per-la-festa-in-piazza/",
+  "fonte": "Metropolis",
+  "data": "Thu, 05 Nov 2026 08:17:11 +0000",
+  "comuni": [],
+  "visto": "2026-11-05T16:35:17+00:00"
+ },
+ {
   "img": "https://www.vesuviolive.it/wp-content/uploads/sites/6/2023/12/ospedale-cto-napoli.jpg",
   "titolo": "Chiede di spostare un’auto per entrare in casa sua, picchiato con la mazza: è in ospedale",
   "link": "https://www.vesuviolive.it/ultime-notizie/547035-napoli-colpito-mazza-baseball-spostare-auto/",
@@ -8,6 +520,15 @@
   "comuni": [],
   "visto": "2026-11-05T08:08:59+00:00",
   "img_provata": true
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/11/863382006_2284566712393729_5269468352640789741_n-scaled-e1793809529333-1024x627.jpeg",
+  "titolo": "Scarpa sulle voci su Rizzetta: «Solo progetti seri per la Juve Stabia»",
+  "link": "https://www.metropolisweb.it/2026/11/05/scarpa-sulle-voci-su-rizzetta-solo-progetti-seri-per-lo-stabia/",
+  "fonte": "Metropolis",
+  "data": "Thu, 05 Nov 2026 08:00:39 +0000",
+  "comuni": [],
+  "visto": "2026-11-05T16:35:17+00:00"
  },
  {
   "img": "https://cdn13.webmaster360.it/2026/11/covers/01KCXQ7EV4YBYYW38JGQN35KH7.jpg",
@@ -50,6 +571,29 @@
   "img_provata": true
  },
  {
+  "img": "https://internapoli.it/mato.clanto.cloud/piwik.php?idsite=6&rec=1&url=https%3A%2F%2Finternapoli.it%2Fspari-dopo-la-lite-con-i-clienti-27enne-ferito-fuori-al-bar-a-boscoreale%2F&action_name=Spari%20dopo%20la%20lite%20con%20i%20clienti%2C%2027enne%20ferito%20fuori%20al%20bar%20a%20Boscoreale&urlref=https%3A%2F%2Finternapoli.it%2Ffeed%2F",
+  "titolo": "Spari dopo la lite con i clienti, 27enne ferito fuori al bar a Boscoreale",
+  "link": "https://internapoli.it/spari-dopo-la-lite-con-i-clienti-27enne-ferito-fuori-al-bar-a-boscoreale/",
+  "fonte": "Internapoli",
+  "data": "Thu, 05 Nov 2026 07:19:25 +0000",
+  "comuni": [
+   "Boscoreale"
+  ],
+  "visto": "2026-11-05T16:35:17+00:00"
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/05/IMG_0262-1024x680.jpeg",
+  "titolo": "Spari nella notte a Boscoreale, 27enne ferito al fianco",
+  "link": "https://www.metropolisweb.it/2026/11/05/spari-nella-notte-a-boscotrecase-27enne-ferito-al-fianco/",
+  "fonte": "Metropolis",
+  "data": "Thu, 05 Nov 2026 07:17:03 +0000",
+  "comuni": [
+   "Boscoreale",
+   "Boscotrecase"
+  ],
+  "visto": "2026-11-05T16:35:17+00:00"
+ },
+ {
   "img": "https://www.cronachedellacampania.it/wp-content/uploads/2024/12/ospedale-boscotrecase.jpg",
   "titolo": "Boscoreale, 27enne ferito da un colpo di pistola dopo una lite vicino a un bar",
   "link": "https://www.cronachedellacampania.it/2026/11/boscoreale-27enne-ferito-colpo-pistola-dopo-lite-vicino-bar/",
@@ -59,6 +603,17 @@
    "Boscoreale"
   ],
   "visto": "2026-11-05T08:08:59+00:00"
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/11/Schermata-2026-11-04-alle-18.26.20-1024x577.png",
+  "titolo": "Ossari e loculi rubati, inchiesta al cimitero di Castellammare",
+  "link": "https://www.metropolisweb.it/2026/11/05/ossari-e-loculi-rubati-inchiesta-al-cimitero-di-castellammare/",
+  "fonte": "Metropolis",
+  "data": "Thu, 05 Nov 2026 07:02:27 +0000",
+  "comuni": [
+   "Castellammare di Stabia"
+  ],
+  "visto": "2026-11-05T16:35:17+00:00"
  },
  {
   "img": "https://cdn13.webmaster360.it/2026/11/covers/jQ9jBkgSgiihiEgsUbg7hylMNgqCtwWZghVaUsDK.jpg",
@@ -79,6 +634,17 @@
    "Boscoreale"
   ],
   "visto": "2026-11-05T08:08:59+00:00"
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/11/Schermata-2026-11-04-alle-22.14.51.png",
+  "titolo": "Gettoni & veleni a Torre del Greco, alta tensione in Comune",
+  "link": "https://www.metropolisweb.it/2026/11/05/gettoni-veleni-a-torre-del-greco-alta-tensione-in-comune/?ta_paidstory",
+  "fonte": "Metropolis",
+  "data": "Thu, 05 Nov 2026 06:55:06 +0000",
+  "comuni": [
+   "Torre del Greco"
+  ],
+  "visto": "2026-11-05T16:35:17+00:00"
  },
  {
   "img": "https://www.loravesuviana.it/wp-content/uploads/2026/11/antonio_bassolino_palazzo_reale.jpg-300x187.jpeg",
