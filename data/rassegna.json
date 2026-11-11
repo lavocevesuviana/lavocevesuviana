@@ -1,5 +1,321 @@
 [
  {
+  "img": "https://www.ilmediano.com/wp-content/uploads/2026/11/d157e66c-ff6f-4715-8ecf-cd8c95fc0521-980x1024.jpeg",
+  "titolo": "Cimitile, Luigi Salomone apre il suo primo ristorante",
+  "link": "https://www.ilmediano.com/cimitile-luigi-salomone-apre-il-suo-primo-ristorante/",
+  "fonte": "Il Mediano",
+  "data": "Wed, 11 Nov 2026 22:12:48 +0000",
+  "comuni": [],
+  "visto": "2026-11-11T22:53:33+00:00"
+ },
+ {
+  "img": "https://cdn13.webmaster360.it/2026/11/covers/01M6J1CKTBE1XECRG4QN7TJ7QK.jpg",
+  "titolo": "Chiusi due depositi di scarti animali",
+  "link": "https://www.ilfattovesuviano.it/2026/11/chiusi-due-depositi-di-scarti-animali",
+  "fonte": "Il Fatto Vesuviano",
+  "data": "Wed, 11 Nov 2026 22:00:00 +0000",
+  "comuni": [],
+  "visto": "2026-11-11T22:53:33+00:00"
+ },
+ {
+  "img": "https://www.vesuvianonews.it/wp-content/uploads/2026/11/Screenshot-2026-11-11-223257.png",
+  "titolo": "San Giorgio a Cremano dopo ‘Quarta Repubblica’: mobilitazione in città, audizione in Commissione Trasparenza",
+  "link": "https://www.vesuvianonews.it/san-giorgio-a-cremano-dopo-il-servizio-quarta-repubblica-mobilitazione-in-citta-audizione-in-commissione-trasparenza/",
+  "fonte": "Vesuviano News",
+  "data": "Wed, 11 Nov 2026 21:37:48 +0000",
+  "comuni": [],
+  "visto": "2026-11-11T22:53:33+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://cdn13.webmaster360.it/2026/11/covers/01M760Z9EBHX4RWC4VP7CH1CX8.jpg",
+  "titolo": "Luana cade in palestra e muore",
+  "link": "https://www.ilfattovesuviano.it/2026/11/luana-cade-in-palestra-e-muore",
+  "fonte": "Il Fatto Vesuviano",
+  "data": "Wed, 11 Nov 2026 21:00:00 +0000",
+  "comuni": [],
+  "visto": "2026-11-11T22:53:33+00:00"
+ },
+ {
+  "img": "https://www.cronachedellacampania.it/wp-content/uploads/2026/11/scafati-automobilista-colto-da-un-malore-finisce-contro-unaltra-auto-un-morto-e-una-donna-ferita-4sdv.jpg",
+  "titolo": "Scafati, automobilista colto da malore finisce contro un’altra auto: un morto e una donna ferita",
+  "link": "https://www.cronachedellacampania.it/2026/11/scafati-automobilista-colto-malore-finisce-unaltra-auto-morto/",
+  "fonte": "Cronache della Campania",
+  "data": "Wed, 11 Nov 2026 20:55:57 +0000",
+  "comuni": [
+   "Scafati"
+  ],
+  "visto": "2026-11-11T22:53:33+00:00"
+ },
+ {
+  "img": "https://www.ilmediano.com/wp-content/uploads/2026/11/1111a.jpg",
+  "titolo": "Premio Drago all’Innovazione a Ilde Passeggio: la stampa 3D apre nuove prospettive nell’impiantistica",
+  "link": "https://www.ilmediano.com/premio-drago-allinnovazione-a-ilde-passeggio-la-stampa-3d-apre-nuove-prospettive-nellimpiantistica/",
+  "fonte": "Il Mediano",
+  "data": "Wed, 11 Nov 2026 20:55:18 +0000",
+  "comuni": [],
+  "visto": "2026-11-11T22:53:33+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://cdn13.webmaster360.it/2026/11/covers/01M75QVDD63S79B741WKHM83TZ.jpg",
+  "titolo": "Mercato, Manna promette: \"Miglioreremo la rosa\"",
+  "link": "https://www.ilfattovesuviano.it/2026/11/mercato-manna-promette-miglioreremo-la-rosa",
+  "fonte": "Il Fatto Vesuviano",
+  "data": "Wed, 11 Nov 2026 20:30:00 +0000",
+  "comuni": [],
+  "visto": "2026-11-11T22:53:33+00:00"
+ },
+ {
+  "img": "https://cdn13.webmaster360.it/2026/11/covers/01M761B0QX58C36KGDHP1Y7N49.jpg",
+  "titolo": "Le maestre usano l'accendino contro il bimbo autistico",
+  "link": "https://www.ilfattovesuviano.it/2026/11/le-maestre-usano-laccendino-contro-il-bimbo-autistico",
+  "fonte": "Il Fatto Vesuviano",
+  "data": "Wed, 11 Nov 2026 20:00:00 +0000",
+  "comuni": [],
+  "visto": "2026-11-11T22:53:33+00:00"
+ },
+ {
+  "img": "https://www.ilmediano.com/wp-content/uploads/2024/12/Gaetano-Palumbo-e-Raffaele-Bene.jpeg",
+  "titolo": "Casoria, M5S lascia maggioranza dopo inchiesta. Pd e Cdx vogliono il voto",
+  "link": "https://www.ilmediano.com/casoria-m5s-lascia-maggioranza-dopo-inchiesta-pd-e-cdx-vogliono-il-voto/",
+  "fonte": "Il Mediano",
+  "data": "Wed, 11 Nov 2026 19:56:09 +0000",
+  "comuni": [],
+  "visto": "2026-11-11T22:53:33+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://cdn13.webmaster360.it/2026/11/covers/01M75QF3MMA66KKWCGP4MN43D3.jpg",
+  "titolo": "Pompei, aperture serali per Villa dei Misteri",
+  "link": "https://www.ilfattovesuviano.it/2026/11/pompei-aperture-serali-per-villa-dei-misteri",
+  "fonte": "Il Fatto Vesuviano",
+  "data": "Wed, 11 Nov 2026 19:30:00 +0000",
+  "comuni": [
+   "Pompei"
+  ],
+  "visto": "2026-11-11T22:53:33+00:00"
+ },
+ {
+  "img": "https://www.ansa.it/webimages/img_1280x720/2026/11/11/e44f4e45dda483b175ab476c001ceab4.jpg",
+  "titolo": "I Neurosis in concerto il 23 giugno all'Anfiteatro di Pompei",
+  "link": "https://www.ansa.it/campania/notizie/2026/11/11/i-neurosis-in-concerto-il-23-giugno-allanfiteatro-di-pompei_3b4abde8-6005-4dd3-ac00-dc5f7635d4fa.html",
+  "fonte": "ANSA Campania",
+  "data": "Wed, 11 Nov 2026 20:20:00 +0100",
+  "comuni": [
+   "Pompei"
+  ],
+  "visto": "2026-11-11T22:53:33+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://cdn13.webmaster360.it/2026/11/covers/6Sv4iVb0AOQQKW40dqHVO8qHlgVuWBKc0ww1IC8E.jpg",
+  "titolo": "Si finge carabiniere e deruba Compro Oro",
+  "link": "https://www.ilfattovesuviano.it/2026/11/si-finge-carabiniere-e-deruba-compro-oro",
+  "fonte": "Il Fatto Vesuviano",
+  "data": "Wed, 11 Nov 2026 19:00:00 +0000",
+  "comuni": [],
+  "visto": "2026-11-11T22:53:33+00:00"
+ },
+ {
+  "img": "https://www.laprovinciaonline.info/wp-content/uploads/2026/11/Sindaco-Franco-Saviano-2026.jpg",
+  "titolo": "SAVIANO, L’AMMINISTRAZIONE: “DALLA MINORANZA SOLO DISTURBO E MISTIFICAZIONI. CHI REMA CONTRO LO SPIEGHI AI SAVIANESI”",
+  "link": "https://www.laprovinciaonline.info/saviano-lamministrazione-dalla-minoranza-solo-disturbo-e-mistificazioni-chi-rema-contro-lo-spieghi-ai-savianesi/",
+  "fonte": "La Provincia Online",
+  "data": "Wed, 11 Nov 2026 18:57:19 +0000",
+  "comuni": [
+   "Saviano"
+  ],
+  "visto": "2026-11-11T22:53:33+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://cdn13.webmaster360.it/2026/11/covers/01KC15YSGCRY5TF3S6686G6H2R.jpg",
+  "titolo": "Agguato fallito, arrestato un 18enne",
+  "link": "https://www.ilfattovesuviano.it/2026/11/agguato-fallito-arresrato-un-18enne",
+  "fonte": "Il Fatto Vesuviano",
+  "data": "Wed, 11 Nov 2026 18:30:00 +0000",
+  "comuni": [],
+  "visto": "2026-11-11T22:53:33+00:00"
+ },
+ {
+  "img": "https://cdn13.webmaster360.it/2026/11/covers/01KC1B3Z449CX4JEZEWBYE48FK.jpg",
+  "titolo": "Vertici Asl Napoli 3 e Soresa verso la sospensione",
+  "link": "https://www.ilfattovesuviano.it/2026/11/vertici-asl-napoli-3-e-soresa-verso-la-sospensione",
+  "fonte": "Il Fatto Vesuviano",
+  "data": "Wed, 11 Nov 2026 18:00:00 +0000",
+  "comuni": [],
+  "visto": "2026-11-11T22:53:33+00:00"
+ },
+ {
+  "img": "https://www.ilmediano.com/wp-content/uploads/2026/11/COMUNEDICASORIA.jpg",
+  "titolo": "M5S, Vignati e Palumbo: “Casoria, il M5S lascia la maggioranza. La città merita una nuova fase”",
+  "link": "https://www.ilmediano.com/m5s-vignati-e-palumbo-casoria-il-m5s-lascia-la-maggioranza-la-citta-merita-una-nuova-fase/",
+  "fonte": "Il Mediano",
+  "data": "Wed, 11 Nov 2026 17:57:36 +0000",
+  "comuni": [],
+  "visto": "2026-11-11T22:53:33+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://www.laprovinciaonline.info/wp-content/uploads/2015/12/logo-2.png",
+  "titolo": "«Un altro mondo è possibile e necessario. Ora»: Vittorio Agnoletto al Festival del Cinema dei Diritti Umani di Napoli",
+  "link": "https://www.laprovinciaonline.info/un-altro-mondo-e-possibile-e-necessario-ora-vittorio-agnoletto-al-festival-del-cinema-dei-diritti-umani-di-napoli/",
+  "fonte": "La Provincia Online",
+  "data": "Wed, 11 Nov 2026 17:48:15 +0000",
+  "comuni": [],
+  "visto": "2026-11-11T22:53:33+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://citynews-napolitoday.stgy.ovh/~media/original-hi/44487730270350/neurosis_bop2027_def-01-jpg.jpeg",
+  "titolo": "Beats of Pompeii 2027, annunciato il secondo grande appuntamento: arrivano i Neurosis",
+  "link": "https://www.napolitoday.it/eventi/neurosis-anfiteatro-scavi-pompei-23-giugno-2027.html",
+  "fonte": "NapoliToday",
+  "data": "Wed, 11 Nov 2026 18:42:46 +0100",
+  "comuni": [
+   "Pompei"
+  ],
+  "visto": "2026-11-11T22:53:33+00:00"
+ },
+ {
+  "img": "https://www.ilmediano.com/wp-content/uploads/2026/11/INCIDENTESAVIANO.jpg",
+  "titolo": "Tragedia a Saviano, anziano travolto e ucciso da un camion",
+  "link": "https://www.ilmediano.com/tragedia-a-saviano-anziano-travolto-e-ucciso-da-un-camion/",
+  "fonte": "Il Mediano",
+  "data": "Wed, 11 Nov 2026 17:33:17 +0000",
+  "comuni": [
+   "Saviano"
+  ],
+  "visto": "2026-11-11T22:53:33+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://cdn13.webmaster360.it/2026/11/covers/o6T75bRmhofyySj7crYax4M1eSPrOxli4ljIXqPi.jpg",
+  "titolo": "Aumenta il costo dell'acqua di casa",
+  "link": "https://www.ilfattovesuviano.it/2026/11/aumenta-il-costo-dellacqua-di-casa",
+  "fonte": "Il Fatto Vesuviano",
+  "data": "Wed, 11 Nov 2026 17:30:00 +0000",
+  "comuni": [],
+  "visto": "2026-11-11T22:53:33+00:00"
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-11-181153.png",
+  "titolo": "Diabete e obesità al centro della XVIII Riunione stabiese di epatologia",
+  "link": "https://www.metropolisweb.it/2026/11/11/diabete-e-obesita-al-centro-della-xviii-riunione-stabiese-di-epatologia/",
+  "fonte": "Metropolis",
+  "data": "Wed, 11 Nov 2026 17:19:24 +0000",
+  "comuni": [],
+  "visto": "2026-11-11T22:53:33+00:00"
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/11/900432939_1550964983735891_6569852275237440264_n-797x1024.jpg",
+  "titolo": "Castellammare | Delegazione di Fratelli d’Italia ricevuta a Palazzo Farnese",
+  "link": "https://www.metropolisweb.it/2026/11/11/castellammare-delegazione-di-fratelli-ditalia-ricevuta-a-palazzo-farnese/",
+  "fonte": "Metropolis",
+  "data": "Wed, 11 Nov 2026 17:08:18 +0000",
+  "comuni": [
+   "Castellammare di Stabia"
+  ],
+  "visto": "2026-11-11T22:53:33+00:00"
+ },
+ {
+  "img": "https://www.ilmediano.com/wp-content/uploads/2026/11/GIFUNISCHIFONESANT.jpg",
+  "titolo": "Nasce ufficialmente il gruppo consiliare di Fratelli d’Italia al Comune di Sant’Anastasia",
+  "link": "https://www.ilmediano.com/nasce-ufficialmente-il-gruppo-consiliare-di-fratelli-ditalia-al-comune-di-santanastasia/",
+  "fonte": "Il Mediano",
+  "data": "Wed, 11 Nov 2026 17:08:16 +0000",
+  "comuni": [
+   "Sant'Anastasia"
+  ],
+  "visto": "2026-11-11T22:53:33+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-11-180026.png",
+  "titolo": "Frode fiscale e riciclaggio: inchiesta con 17 indagati",
+  "link": "https://www.metropolisweb.it/2026/11/11/frode-fiscale-e-riciclaggio-inchiesta-con-17-indagati/",
+  "fonte": "Metropolis",
+  "data": "Wed, 11 Nov 2026 17:02:20 +0000",
+  "comuni": [],
+  "visto": "2026-11-11T22:53:33+00:00"
+ },
+ {
+  "img": "https://cdn13.webmaster360.it/2026/11/covers/FdP6G7iFNRQLAV9ab3Hmv875MuFKgQck5drh2MeA.jpg",
+  "titolo": "Bimba trapiantata morì per infenzione, messa in mora al Monaldi",
+  "link": "https://www.ilfattovesuviano.it/2026/11/bimba-trapiantata-mori-per-infenzione-messa-in-mora-al-monaldi",
+  "fonte": "Il Fatto Vesuviano",
+  "data": "Wed, 11 Nov 2026 17:00:00 +0000",
+  "comuni": [],
+  "visto": "2026-11-11T22:53:33+00:00"
+ },
+ {
+  "img": "https://www.ilmediano.com/wp-content/uploads/2026/11/SENTIERONOCCIOLE.jpg",
+  "titolo": "Marzano di Nola, una passeggiata nel bosco alla scoperta dei colori dell’autunno",
+  "link": "https://www.ilmediano.com/marzano-di-nola-una-passeggiata-nel-bosco-alla-scoperta-dei-colori-dellautunno/",
+  "fonte": "Il Mediano",
+  "data": "Wed, 11 Nov 2026 16:56:43 +0000",
+  "comuni": [
+   "Nola"
+  ],
+  "visto": "2026-11-11T22:53:33+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://www.cronachedellacampania.it/wp-content/uploads/2026/11/volla-il-pentito-rivela-al-comune-tutto-lottizzato-e-gestito-dalla-camorra-cyks.jpg",
+  "titolo": "Volla, il pentito rivela: ‘Al comune tutto lottizzato e gestito dalla camorra’",
+  "link": "https://www.cronachedellacampania.it/2026/11/volla-pentito-rivela-comune-tutto-lottizzato-gestito-camorra/",
+  "fonte": "Cronache della Campania",
+  "data": "Wed, 11 Nov 2026 16:48:37 +0000",
+  "comuni": [
+   "Volla"
+  ],
+  "visto": "2026-11-11T22:53:33+00:00"
+ },
+ {
+  "img": "https://www.laprovinciaonline.info/wp-content/uploads/2026/11/fratelli-italia-sant-anastasia.jpeg",
+  "titolo": "Fratelli d’Italia in consiglio comunale a Sant’Anastasia. Schifone: «Cresce e si consolida la nostra presenza sui territori»",
+  "link": "https://www.laprovinciaonline.info/fratelli-ditalia-in-consiglio-comunale-a-santanastasia-schifone-cresce-e-si-consolida-la-nostra-presenza-sui-territori/",
+  "fonte": "La Provincia Online",
+  "data": "Wed, 11 Nov 2026 16:36:39 +0000",
+  "comuni": [
+   "Sant'Anastasia"
+  ],
+  "visto": "2026-11-11T22:53:33+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://www.ilmediano.com/wp-content/uploads/2019/05/MUSEODIOCESANO.jpg",
+  "titolo": "Nola, il Museo diocesano ospiterà la mostra temporanea “Anima e Materia”",
+  "link": "https://www.ilmediano.com/nola-il-museo-diocesano-ospitera-la-mostra-temporanea-anima-e-materia/",
+  "fonte": "Il Mediano",
+  "data": "Wed, 11 Nov 2026 16:36:23 +0000",
+  "comuni": [
+   "Nola"
+  ],
+  "visto": "2026-11-11T22:53:33+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://cdn13.webmaster360.it/2026/11/covers/01M75Q226XFS32WCNKR6GZRA83.jpg",
+  "titolo": "Campi Flegrei, Zabatta: «Trasformiamo la solidarietà in un aiuto concreto per le comunità colpite dal bradisismo».",
+  "link": "https://www.ilfattovesuviano.it/2026/11/campi-flegrei-zabatta-trasformiamo-la-solidarieta-in-un-aiuto-concreto-per-le-comunita-colpite-dal-bradisismo",
+  "fonte": "Il Fatto Vesuviano",
+  "data": "Wed, 11 Nov 2026 16:29:05 +0000",
+  "comuni": [],
+  "visto": "2026-11-11T22:53:33+00:00"
+ },
+ {
+  "img": "https://www.laprovinciaonline.info/wp-content/uploads/2026/11/egregi-collega.jpeg",
+  "titolo": "“Il cercatore di tornadi” di Claudio Persico il 13 novembre sarà presentato al Centro Impastato-Siani",
+  "link": "https://www.laprovinciaonline.info/il-cercatore-di-tornadi-di-claudio-persico-il-13-novembre-sara-presentato-al-centro-impastato-siani/",
+  "fonte": "La Provincia Online",
+  "data": "Wed, 11 Nov 2026 16:28:26 +0000",
+  "comuni": [],
+  "visto": "2026-11-11T22:53:33+00:00",
+  "img_provata": true
+ },
+ {
   "img": "https://www.laprovinciaonline.info/wp-content/uploads/2026/11/ssc-napoli-si-aggiudica-sfs-award-2026-categoria.jpg",
   "titolo": "SSC Napoli si aggiudica l’SFS Award 2026 nella categoria «Best Content Strategy» per il progetto «Napoli…",
   "link": "https://www.laprovinciaonline.info/ssc-napoli-si-aggiudica-sfs-award-2026-categoria/",
@@ -50,8 +366,8 @@
   "img_provata": true
  },
  {
-  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/11/assessore-zabatta-Cerca-con-Google.png",
-  "titolo": "Rischio maremoti: esercitazione con il coinvolgimento di 64 Comuni della Campania",
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/11/zabatta-Cerca-con-Google.png",
+  "titolo": "Rischio maremoti: esercitazione di 64 Comuni campani",
   "link": "https://www.metropolisweb.it/2026/11/11/rischio-maremoti-esercitazione-con-il-coinvolgimento-di-64-comuni-della-campania/",
   "fonte": "Metropolis",
   "data": "Wed, 11 Nov 2026 15:47:34 +0000",
@@ -105,6 +421,15 @@
   "data": "Wed, 11 Nov 2026 15:30:00 +0000",
   "comuni": [],
   "visto": "2026-11-11T16:25:09+00:00"
+ },
+ {
+  "img": "https://internapoli.it/mato.clanto.cloud/piwik.php?idsite=6&rec=1&url=https%3A%2F%2Finternapoli.it%2Fcolpo-al-mercato-del-pere-e-o-musso-maxi-sequestro-nel-napoletano%2F&action_name=Colpo%20al%20mercato%20del%20%26%238216%3Bpere%20e%20%26%238216%3Bo%20musso%2C%20maxi%20sequestro%20nel%20Napoletano&urlref=https%3A%2F%2Finternapoli.it%2Ffeed%2F",
+  "titolo": "Colpo al mercato del ‘pere e ‘o musso, maxi sequestro nel Napoletano",
+  "link": "https://internapoli.it/colpo-al-mercato-del-pere-e-o-musso-maxi-sequestro-nel-napoletano/",
+  "fonte": "Internapoli",
+  "data": "Wed, 11 Nov 2026 15:27:32 +0000",
+  "comuni": [],
+  "visto": "2026-11-11T22:53:33+00:00"
  },
  {
   "img": "https://www.vesuviolive.it/wp-content/uploads/sites/6/2026/11/prof-ciro-esposito.jpeg",
@@ -386,6 +711,16 @@
   "visto": "2026-11-11T16:25:09+00:00"
  },
  {
+  "img": "https://www.ilmediano.com/wp-content/uploads/2026/11/Screenshot_20261111_132505_Facebook.jpg",
+  "titolo": "Evacuazioni anche nel Vesuviano: studenti fuori. Meloni convoca vertice",
+  "link": "https://www.ilmediano.com/evacuazioni-anche-nel-vesuviano-studenti-fuori-meloni-convoca-vertice/",
+  "fonte": "Il Mediano",
+  "data": "Wed, 11 Nov 2026 12:25:53 +0000",
+  "comuni": [],
+  "visto": "2026-11-11T22:53:33+00:00",
+  "img_provata": true
+ },
+ {
   "img": "https://www.vesuviolive.it/wp-content/uploads/sites/6/2026/11/Chi-e-Michail-Andropov-la-firma-degli-allarmi-bomba.jpg",
   "titolo": "Chi è Mikhail Andropov: la firma delle mail con gli allarmi bomba nelle scuole e sui voli",
   "link": "https://www.vesuviolive.it/ultime-notizie/547264-chi-e-mikhail-andropov-la-firma-delle-mail-con-gli-allarmi-bomba-nelle-scuole-e-sui-voli/",
@@ -442,6 +777,16 @@
   "data": "Wed, 11 Nov 2026 11:57:53 +0000",
   "comuni": [],
   "visto": "2026-11-11T16:25:09+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://www.ilmediano.com/wp-content/uploads/2025/11/auto-polizia-scuola.jpg",
+  "titolo": "Allarme bomba nelle scuole: caos anche a Napoli e provincia",
+  "link": "https://www.ilmediano.com/allarme-bomba-nelle-scuole-caos-anche-a-napoli-e-provincia/",
+  "fonte": "Il Mediano",
+  "data": "Wed, 11 Nov 2026 11:55:26 +0000",
+  "comuni": [],
+  "visto": "2026-11-11T22:53:33+00:00",
   "img_provata": true
  },
  {
