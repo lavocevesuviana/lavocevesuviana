@@ -1,5 +1,24 @@
 [
  {
+  "img": "https://www.laprovinciaonline.info/wp-content/uploads/2026/11/Giada-Masulli.jpg",
+  "titolo": "Diabete di tipo 2: i consigli del medico Giada Masulli per prevenirlo e curarlo",
+  "link": "https://www.laprovinciaonline.info/diabete-di-tipo-2-i-consigli-del-medico-giada-masulli-per-prevenirlo-e-curarlo/",
+  "fonte": "La Provincia Online",
+  "data": "Thu, 12 Nov 2026 02:09:33 +0000",
+  "comuni": [],
+  "visto": "2026-11-12T03:45:12+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/11/Schermata-2026-11-11-alle-14.29.05.png",
+  "titolo": "S.Maria la Carità | Affari con i Casalesi, sequestrata una ditta della Nu",
+  "link": "https://www.metropolisweb.it/2026/11/11/s-maria-la-carita-affari-con-i-casalesi-sequestrata-una-ditta-della-nu/",
+  "fonte": "Metropolis",
+  "data": "Wed, 11 Nov 2026 22:59:58 +0000",
+  "comuni": [],
+  "visto": "2026-11-12T03:45:12+00:00"
+ },
+ {
   "img": "https://www.ilmediano.com/wp-content/uploads/2026/11/d157e66c-ff6f-4715-8ecf-cd8c95fc0521-980x1024.jpeg",
   "titolo": "Cimitile, Luigi Salomone apre il suo primo ristorante",
   "link": "https://www.ilmediano.com/cimitile-luigi-salomone-apre-il-suo-primo-ristorante/",
@@ -65,6 +84,17 @@
   "data": "Wed, 11 Nov 2026 20:30:00 +0000",
   "comuni": [],
   "visto": "2026-11-11T22:53:33+00:00"
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/11/netturbini.png",
+  "titolo": "Dopo lo scandalo appalti scoppia il caos nel cantiere rifiuti di Somma Vesuviana",
+  "link": "https://www.metropolisweb.it/2026/11/11/dopo-lo-scandalo-appalti-scoppia-il-caos-nel-cantiere-rifiuti-di-somma-vesuviana/",
+  "fonte": "Metropolis",
+  "data": "Wed, 11 Nov 2026 20:23:05 +0000",
+  "comuni": [
+   "Somma Vesuviana"
+  ],
+  "visto": "2026-11-12T03:45:12+00:00"
  },
  {
   "img": "https://cdn13.webmaster360.it/2026/11/covers/01M761B0QX58C36KGDHP1Y7N49.jpg",
@@ -298,7 +328,7 @@
  },
  {
   "img": "https://cdn13.webmaster360.it/2026/11/covers/01M75Q226XFS32WCNKR6GZRA83.jpg",
-  "titolo": "Campi Flegrei, Zabatta: «Trasformiamo la solidarietà in un aiuto concreto per le comunità colpite dal bradisismo».",
+  "titolo": "Campi Flegrei, oltre 12mila euro per le comunità colpite: Zabatta e Ceparano incontrano l’Ordine dei Medici",
   "link": "https://www.ilfattovesuviano.it/2026/11/campi-flegrei-zabatta-trasformiamo-la-solidarieta-in-un-aiuto-concreto-per-le-comunita-colpite-dal-bradisismo",
   "fonte": "Il Fatto Vesuviano",
   "data": "Wed, 11 Nov 2026 16:29:05 +0000",
