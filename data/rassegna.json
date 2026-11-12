@@ -1,5 +1,551 @@
 [
  {
+  "img": "https://cdn13.webmaster360.it/2026/11/covers/01KJ63PKVG437M0ZKEAYYT9DYE.jpg",
+  "titolo": "La mamma di Domenico: \"Ho avuto tanta rabbia rivendendo Oppido\"",
+  "link": "https://www.ilfattovesuviano.it/2026/11/la-mamma-di-domenico-ho-avuto-tanta-rabbia-rivendendo-oppido",
+  "fonte": "Il Fatto Vesuviano",
+  "data": "Thu, 12 Nov 2026 19:30:00 +0000",
+  "comuni": [],
+  "visto": "2026-11-12T19:49:47+00:00"
+ },
+ {
+  "img": "https://cdn.positanonews.it/photogallery_new/images/2026/11/quisisana-3475943.jpg",
+  "titolo": "Castellammare di Stabia, emergenza nei boschi di Quisisana: alberi caduti sulle auto in sosta e mandrie allo stato brado in mezzo alla carreggiata",
+  "link": "https://www.positanonews.it/2026/11/castellammare-di-stabia-emergenza-nei-boschi-di-quisisana-alberi-caduti-sulle-auto-in-sosta-e-mandrie-allo-stato-brado-in-mezzo-alla-carreggiata/3865604/",
+  "fonte": "Positano News",
+  "data": "Thu, 12 Nov 2026 19:18:27 +0000",
+  "comuni": [
+   "Castellammare di Stabia"
+  ],
+  "visto": "2026-11-12T19:49:47+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://www.ilmediano.com/wp-content/uploads/2026/06/COMUNESOMMA.jpg",
+  "titolo": "Somma. Rifiuti, la sindaca: “il nostro impegno per la città, senza alibi e senza lezioni”",
+  "link": "https://www.ilmediano.com/rifiuti-la-sindaca-il-nostro-impegno-per-la-citta-senza-alibi-e-senza-lezioni/",
+  "fonte": "Il Mediano",
+  "data": "Thu, 12 Nov 2026 19:15:34 +0000",
+  "comuni": [],
+  "visto": "2026-11-12T19:49:47+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://cdn13.webmaster360.it/2026/11/covers/FfAUBHsCHHcKfNcLSHNU6IqTXVgdBtaDa444Qcky.jpg",
+  "titolo": "Ecoc 97 milioni per le borse di studio in Campania",
+  "link": "https://www.ilfattovesuviano.it/2026/11/ecoc-97-milioni-per-le-borse-di-studio-in-campania",
+  "fonte": "Il Fatto Vesuviano",
+  "data": "Thu, 12 Nov 2026 19:00:00 +0000",
+  "comuni": [],
+  "visto": "2026-11-12T19:49:47+00:00"
+ },
+ {
+  "img": "https://www.laprovinciaonline.info/wp-content/uploads/2026/11/IMG_20261112_110217-236x420.jpg",
+  "titolo": "San Vitaliano. Comunità e carabinieri nel ricordo dei caduti di Nassiriya. Toccante omaggio al brigadiere Giuseppe Coletta FOTO",
+  "link": "https://www.laprovinciaonline.info/san-vitaliano-comunita-e-carabinieri-nel-ricordo-dei-caduti-di-nassiriya-toccante-omaggio-al-brigadiere-giuseppe-coletta-foto/",
+  "fonte": "La Provincia Online",
+  "data": "Thu, 12 Nov 2026 18:59:36 +0000",
+  "comuni": [],
+  "visto": "2026-11-12T19:49:47+00:00"
+ },
+ {
+  "img": "https://cdn13.webmaster360.it/2026/11/covers/01M78CYYBS1VFVZ2J8H1GBGG3G.jpg",
+  "titolo": "Manna prepara la rivoluzione veloce a centrocampo",
+  "link": "https://www.ilfattovesuviano.it/2026/11/manna-prepara-la-rivoluzione-veloce-a-centrocampo",
+  "fonte": "Il Fatto Vesuviano",
+  "data": "Thu, 12 Nov 2026 18:30:00 +0000",
+  "comuni": [],
+  "visto": "2026-11-12T19:49:47+00:00"
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/11/ospedale-del-mare.jpg",
+  "titolo": "Santa Maria la Carità | Cade nel vuoto, grave un operaio 46enne",
+  "link": "https://www.metropolisweb.it/2026/11/12/santa-maria-la-carita-cade-nel-vuoto-grave-un-operaio-46enne/",
+  "fonte": "Metropolis",
+  "data": "Thu, 12 Nov 2026 18:08:09 +0000",
+  "comuni": [],
+  "visto": "2026-11-12T19:49:47+00:00"
+ },
+ {
+  "img": "https://cdn13.webmaster360.it/2026/11/covers/01KVRYQS9AQ94M83Y8WS2AHEJP.jpg",
+  "titolo": "La Campania ha perso 227 scuole in dieci anni",
+  "link": "https://www.ilfattovesuviano.it/2026/11/la-campania-ha-perso-227-scuole-in-dieci-anni",
+  "fonte": "Il Fatto Vesuviano",
+  "data": "Thu, 12 Nov 2026 18:00:00 +0000",
+  "comuni": [],
+  "visto": "2026-11-12T19:49:47+00:00"
+ },
+ {
+  "img": "https://www.cronachedellacampania.it/wp-content/uploads/2026/11/inchiesta-dda-su-volla-il-pd-sospende-cautelativamente-il-sindaco-giuliano-di-costanzo-jg97.jpg",
+  "titolo": "Inchiesta Dda su Volla, il Pd sospende cautelativamente il sindaco Giuliano Di Costanzo",
+  "link": "https://www.cronachedellacampania.it/2026/11/inchiesta-dda-volla-pd-sospende-cautelativamente-sindaco-giuliano/",
+  "fonte": "Cronache della Campania",
+  "data": "Thu, 12 Nov 2026 17:54:17 +0000",
+  "comuni": [
+   "Volla"
+  ],
+  "visto": "2026-11-12T19:49:47+00:00"
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-12-182943.png",
+  "titolo": "Da stalla a villa abusiva con discarica in giardino: sequestrato cantiere a Pompei",
+  "link": "https://www.metropolisweb.it/2026/11/12/da-stalla-a-villa-abusiva-con-discarica-in-giardino-sequestrato-cantiere-a-pompei/",
+  "fonte": "Metropolis",
+  "data": "Thu, 12 Nov 2026 17:48:03 +0000",
+  "comuni": [
+   "Pompei"
+  ],
+  "visto": "2026-11-12T19:49:47+00:00"
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/07/Screenshot-2026-07-16-alle-19.28.17-1024x707.png",
+  "titolo": "Rifiuti e bonifiche: la Regione Campania stanzia 24 milioni di euro",
+  "link": "https://www.metropolisweb.it/2026/11/12/rifiuti-e-bonifiche-la-regione-campania-stanzia-24-milioni-di-euro/",
+  "fonte": "Metropolis",
+  "data": "Thu, 12 Nov 2026 17:46:56 +0000",
+  "comuni": [],
+  "visto": "2026-11-12T19:49:47+00:00"
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/03/domenico-caliendo.png",
+  "titolo": "La mamma di Domenico «rivede» Oppido: «Provo tanta rabbia»",
+  "link": "https://www.metropolisweb.it/2026/11/12/la-mamma-di-domenico-rivede-oppido-provo-tanta-rabbia/",
+  "fonte": "Metropolis",
+  "data": "Thu, 12 Nov 2026 17:37:33 +0000",
+  "comuni": [],
+  "visto": "2026-11-12T19:49:47+00:00"
+ },
+ {
+  "img": "https://cdn13.webmaster360.it/2026/11/covers/c23vIYqKrgHhWEStIWQfc2fPzgpKxXKD4GfcvvMg.jpg",
+  "titolo": "Riconosce il ladro della e-bike e viene accoltellato",
+  "link": "https://www.ilfattovesuviano.it/2026/11/riconosce-il-ladro-della-e-bike-e-viene-accoltellato",
+  "fonte": "Il Fatto Vesuviano",
+  "data": "Thu, 12 Nov 2026 17:30:00 +0000",
+  "comuni": [],
+  "visto": "2026-11-12T19:49:47+00:00"
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/11/790a8e9515be4c147700ec140f34ea65.jpg",
+  "titolo": "Napoli sul mercato, i profili in osservazione",
+  "link": "https://www.metropolisweb.it/2026/11/12/napoli-sul-mercato-i-profili-in-osservazione/",
+  "fonte": "Metropolis",
+  "data": "Thu, 12 Nov 2026 17:28:29 +0000",
+  "comuni": [],
+  "visto": "2026-11-12T19:49:47+00:00"
+ },
+ {
+  "img": "https://www.laprovinciaonline.info/wp-content/uploads/2026/11/Amalfi-PA-Digitale.jpg",
+  "titolo": "Con il PNRR, Amalfi sempre più digitale: attivati 14 nuovi servizi online per cittadini e imprese",
+  "link": "https://www.laprovinciaonline.info/con-il-pnrr-amalfi-sempre-piu-digitale-attivati-14-nuovi-servizi-online-per-cittadini-e-imprese/",
+  "fonte": "La Provincia Online",
+  "data": "Thu, 12 Nov 2026 17:16:04 +0000",
+  "comuni": [],
+  "visto": "2026-11-12T19:49:47+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://www.cronachedellacampania.it/wp-content/uploads/2026/11/palinuro-la-pizza-con-i-pomodorini-del-piennolo-davanti-al-profilo-del-capo.jpg",
+  "titolo": "Palinuro, la pizza con i pomodorini del Piennolo davanti al profilo del Capo",
+  "link": "https://www.cronachedellacampania.it/2026/11/palinuro-pizza-pomodorini-piennolo-davanti-profilo-capo/",
+  "fonte": "Cronache della Campania",
+  "data": "Thu, 12 Nov 2026 17:05:00 +0000",
+  "comuni": [],
+  "visto": "2026-11-12T19:49:47+00:00"
+ },
+ {
+  "img": "https://cdn13.webmaster360.it/2026/11/covers/aMADvUuW2WJ1dlZwH6xsCX6IdqcdI1hVCnv3eckQ.jpg",
+  "titolo": "Minaccia moglie e figli con un coltello: arrestato nel Vesuviano",
+  "link": "https://www.ilfattovesuviano.it/2026/11/minaccia-moglie-e-figli-con-un-coltello-arrestato-nel-vesuviano",
+  "fonte": "Il Fatto Vesuviano",
+  "data": "Thu, 12 Nov 2026 17:00:00 +0000",
+  "comuni": [],
+  "visto": "2026-11-12T19:49:47+00:00"
+ },
+ {
+  "img": "https://www.cronachedellacampania.it/wp-content/uploads/2026/11/video-ercolano-ricorda-salvatore-barbaro-vittima-innocente-della-criminalita-organizzata-5tsd.jpg",
+  "titolo": "Ercolano ricorda Salvatore Barbaro, vittima innocente della criminalità organizzata",
+  "link": "https://www.cronachedellacampania.it/2026/11/video-ercolano-ricorda-salvatore-barbaro-vittima-innocente/",
+  "fonte": "Cronache della Campania",
+  "data": "Thu, 12 Nov 2026 16:45:36 +0000",
+  "comuni": [
+   "Ercolano"
+  ],
+  "visto": "2026-11-12T19:49:47+00:00"
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-12-alle-17.28.47.png",
+  "titolo": "Ucciso a 15 anni durante una faida tra gang: 20 anni ai responsabili",
+  "link": "https://www.metropolisweb.it/2026/11/12/ucciso-a-15-anni-durante-una-faida-tra-gang-20-anni-ai-responsabili/",
+  "fonte": "Metropolis",
+  "data": "Thu, 12 Nov 2026 16:40:40 +0000",
+  "comuni": [],
+  "visto": "2026-11-12T19:49:47+00:00"
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/03/giraud.png",
+  "titolo": "Savoia-Sorrento, arriva il divieto per i tifosi costieri",
+  "link": "https://www.metropolisweb.it/2026/11/12/savoia-sorrento-arriva-il-divieto-per-i-tifosi-costieri/",
+  "fonte": "Metropolis",
+  "data": "Thu, 12 Nov 2026 16:34:13 +0000",
+  "comuni": [],
+  "visto": "2026-11-12T19:49:47+00:00"
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2025/10/568501455_18540792382001889_6402142662649285623_n-e1761567496105-1024x595.jpg",
+  "titolo": "De Bruyne via a gennaio, quali sono i club interessati",
+  "link": "https://www.metropolisweb.it/2026/11/12/de-bruyne-via-a-gennaio-quali-sono-i-club-interessati/",
+  "fonte": "Metropolis",
+  "data": "Thu, 12 Nov 2026 16:32:11 +0000",
+  "comuni": [],
+  "visto": "2026-11-12T19:49:47+00:00"
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/11/WhatsApp-Image-2026-11-12-at-17.09.11-1024x768.jpeg",
+  "titolo": "Sequestrata un’auto carica di rifiuti a Boscoreale",
+  "link": "https://www.metropolisweb.it/2026/11/12/il-sindaco-di-boscoreale-ancora-troppo-diffuso-labbandono-di-rifiuti/",
+  "fonte": "Metropolis",
+  "data": "Thu, 12 Nov 2026 16:19:00 +0000",
+  "comuni": [
+   "Boscoreale"
+  ],
+  "visto": "2026-11-12T19:49:47+00:00"
+ },
+ {
+  "img": "https://cdn13.webmaster360.it/2026/11/covers/DJubtvwFYDeqvgPImlqUnJBgXFptZ8QpL0Teue4q.jpg",
+  "titolo": "Anche case e automobili nel mirino degli hacker",
+  "link": "https://www.ilfattovesuviano.it/2026/11/anche-case-e-automobili-nel-mirino-degli-hacker",
+  "fonte": "Il Fatto Vesuviano",
+  "data": "Thu, 12 Nov 2026 16:00:00 +0000",
+  "comuni": [],
+  "visto": "2026-11-12T19:49:47+00:00"
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-12-164250-1024x536.png",
+  "titolo": "Addio a Toni Capuozzo: scompare uno dei più grandi inviati di guerra italiani",
+  "link": "https://www.metropolisweb.it/2026/11/12/addio-a-toni-capuozzo-scompare-uno-dei-piu-grandi-inviati-di-guerra-italiani/",
+  "fonte": "Metropolis",
+  "data": "Thu, 12 Nov 2026 15:53:27 +0000",
+  "comuni": [],
+  "visto": "2026-11-12T19:49:47+00:00"
+ },
+ {
+  "img": "https://www.laprovinciaonline.info/wp-content/uploads/2026/11/b-p-beats-of-pompeii-iv-edizione-annuncia.jpeg",
+  "titolo": "Musica, i Neurosis arrivano all’Anfiteatro di Pompei per la quarta edizione di B.O.P.",
+  "link": "https://www.laprovinciaonline.info/musica-i-neurosis-arrivano-allanfiteatro-di-pompei-per-la-quarta-edizione-di-b-o-p/",
+  "fonte": "La Provincia Online",
+  "data": "Thu, 12 Nov 2026 15:52:47 +0000",
+  "comuni": [
+   "Pompei"
+  ],
+  "visto": "2026-11-12T19:49:47+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://citynews-napolitoday.stgy.ovh/~media/original-hi/56450093705988/image-3-14.jpg",
+  "titolo": "Andrea Bocelli in concerto alla Reggia di Portici",
+  "link": "https://www.napolitoday.it/eventi/andrea-bocelli-reggia-portici-3-luglio-2027.html",
+  "fonte": "NapoliToday",
+  "data": "Thu, 12 Nov 2026 16:50:43 +0100",
+  "comuni": [
+   "Portici"
+  ],
+  "visto": "2026-11-12T19:49:47+00:00"
+ },
+ {
+  "img": "https://www.laprovinciaonline.info/wp-content/uploads/2026/11/sesso-rose-terapia-teatro-toto-commedia-equivoci-infedelta-1.jpg",
+  "titolo": "«Sesso, rose e terapia», al Teatro Totò la commedia degli equivoci e delle infedeltà",
+  "link": "https://www.laprovinciaonline.info/sesso-rose-terapia-teatro-toto-commedia-equivoci-infedelta/",
+  "fonte": "La Provincia Online",
+  "data": "Thu, 12 Nov 2026 15:49:07 +0000",
+  "comuni": [],
+  "visto": "2026-11-12T19:49:47+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://www.laprovinciaonline.info/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-11-at-09.39.25.jpeg",
+  "titolo": "“Le melodie dell’anima napoletana” al teatro Troisi",
+  "link": "https://www.laprovinciaonline.info/le-melodie-dellanima-napoletana-al-teatro-troisi/",
+  "fonte": "La Provincia Online",
+  "data": "Thu, 12 Nov 2026 15:47:32 +0000",
+  "comuni": [],
+  "visto": "2026-11-12T19:49:47+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://www.laprovinciaonline.info/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-12-at-14.54.03.jpeg",
+  "titolo": "Reati ambientali e lavoro nero nell’Agro Aversano: la Polizia Provinciale sequestra un’officina a Villa di Briano",
+  "link": "https://www.laprovinciaonline.info/reati-ambientali-e-lavoro-nero-nellagro-aversano-la-polizia-provinciale-sequestra-unofficina-a-villa-di-briano/",
+  "fonte": "La Provincia Online",
+  "data": "Thu, 12 Nov 2026 15:43:06 +0000",
+  "comuni": [],
+  "visto": "2026-11-12T19:49:47+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-12-alle-16.44.13-1024x602.png",
+  "titolo": "Al via la quinta edizione di “Vedi Napoli Sacra e Misteriosa e poi Torni”",
+  "link": "https://www.metropolisweb.it/2026/11/12/al-via-la-quinta-edizione-di-vedi-napoli-sacra-e-misteriosa-e-poi-torni/",
+  "fonte": "Metropolis",
+  "data": "Thu, 12 Nov 2026 15:40:57 +0000",
+  "comuni": [],
+  "visto": "2026-11-12T19:49:47+00:00"
+ },
+ {
+  "img": "https://www.laprovinciaonline.info/wp-content/uploads/2026/11/san-felice-nola.jpg",
+  "titolo": "Nola. Torna la Fiera di San Felice: tre giorni di festa",
+  "link": "https://www.laprovinciaonline.info/nola-torna-la-fiera-di-san-felice-tre-giorni-di-festa/",
+  "fonte": "La Provincia Online",
+  "data": "Thu, 12 Nov 2026 15:38:58 +0000",
+  "comuni": [
+   "Nola"
+  ],
+  "visto": "2026-11-12T19:49:47+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/11/Giuliano-Di-Costanzo-sindaco-di-Volla.png",
+  "titolo": "Scandalo mazzette e appalti, il Pd sospende il sindaco di Volla",
+  "link": "https://www.metropolisweb.it/2026/11/12/scandalo-mazzette-e-appalti-il-pd-sospende-il-sindaco-di-volla/",
+  "fonte": "Metropolis",
+  "data": "Thu, 12 Nov 2026 15:35:24 +0000",
+  "comuni": [
+   "Volla"
+  ],
+  "visto": "2026-11-12T19:49:47+00:00"
+ },
+ {
+  "img": "https://www.vesuviolive.it/wp-content/uploads/sites/6/2022/10/gori-acqua.jpeg",
+  "titolo": "GORI, salasso sulle bollette dell’acqua: rincari del 10,25% entro il 2027 nel Vesuviano",
+  "link": "https://www.vesuviolive.it/ultime-notizie/547365-gori-rincari-dellacqua-1025-nel-vesuviano/",
+  "fonte": "VesuvioLive",
+  "data": "Thu, 12 Nov 2026 15:31:41 +0000",
+  "comuni": [],
+  "visto": "2026-11-12T19:49:47+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://cdn13.webmaster360.it/2026/11/covers/m1GAflIjiq5O6Pg8kt6ftCsG31gId0amdCdNkZaS.jpg",
+  "titolo": "Ragazzina violentata in metropolitana",
+  "link": "https://www.ilfattovesuviano.it/2026/11/ragazzina-violentata-in-metropolitana",
+  "fonte": "Il Fatto Vesuviano",
+  "data": "Thu, 12 Nov 2026 15:30:00 +0000",
+  "comuni": [],
+  "visto": "2026-11-12T19:49:47+00:00"
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/11/Istituto2.jpg",
+  "titolo": "Il teatro sociale entra al Liceo Severi di Castellammare",
+  "link": "https://www.metropolisweb.it/2026/11/12/il-teatro-sociale-entra-al-liceo-severi-di-castellammare/",
+  "fonte": "Metropolis",
+  "data": "Thu, 12 Nov 2026 15:22:24 +0000",
+  "comuni": [
+   "Castellammare di Stabia"
+  ],
+  "visto": "2026-11-12T19:49:47+00:00"
+ },
+ {
+  "img": "https://www.vesuviolive.it/wp-content/uploads/sites/6/2026/05/museo-capodimonte-notte.jpg",
+  "titolo": "Meraviglia a Napoli, il Museo e Bosco di Capodimonte apre di sera: ingresso a 5 euro",
+  "link": "https://www.vesuviolive.it/eventi/547363-aperture-serali-museo-real-bosco-capodimonte-napoli-2026/",
+  "fonte": "VesuvioLive",
+  "data": "Thu, 12 Nov 2026 15:18:03 +0000",
+  "comuni": [],
+  "visto": "2026-11-12T19:49:47+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://www.ilmediano.com/wp-content/uploads/2023/07/IMG_20230718_104913.jpg",
+  "titolo": "Inchiesta Soresa, Pd sospende sindaco di Volla. A Casoria si dimette presidente dell’Assise",
+  "link": "https://www.ilmediano.com/inchiesta-soresa-pd-sospende-sindaco-di-volla-a-casoria-si-dimette-presidente-dellassise/",
+  "fonte": "Il Mediano",
+  "data": "Thu, 12 Nov 2026 15:17:45 +0000",
+  "comuni": [
+   "Volla"
+  ],
+  "visto": "2026-11-12T19:49:47+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/11/nunziatella-5-1024x768.jpg",
+  "titolo": "Tra emozione e tradizione, la Nunziatella accoglie i suoi nuovi cadetti: consegnati gli spadini",
+  "link": "https://www.metropolisweb.it/2026/11/12/tra-emozione-e-tradizione-la-nunziatella-accoglie-i-suoi-nuovi-cadetti-consegnati-gli-spadini/",
+  "fonte": "Metropolis",
+  "data": "Thu, 12 Nov 2026 15:09:16 +0000",
+  "comuni": [],
+  "visto": "2026-11-12T19:49:47+00:00"
+ },
+ {
+  "img": "https://cdn13.webmaster360.it/2026/11/covers/01KJZGXRF4GBXAD70JFC4EEER6.jpg",
+  "titolo": "L'anestesista: \"Domenico era ritrapiantabile\"",
+  "link": "https://www.ilfattovesuviano.it/2026/11/lanestesista-domenico-era-ritrapiantabile",
+  "fonte": "Il Fatto Vesuviano",
+  "data": "Thu, 12 Nov 2026 15:00:00 +0000",
+  "comuni": [],
+  "visto": "2026-11-12T19:49:47+00:00"
+ },
+ {
+  "img": "https://www.laprovinciaonline.info/wp-content/uploads/2026/11/Paolo-Siani-Torre-del-Greco.jpg",
+  "titolo": "“Benessere digitale” e “Cyberbullismo”, l’incontro di Paolo Siani a Torre del Greco",
+  "link": "https://www.laprovinciaonline.info/benessere-digitale-e-cyberbullismo-lincontro-di-paolo-siani-a-torre-del-greco/",
+  "fonte": "La Provincia Online",
+  "data": "Thu, 12 Nov 2026 14:46:58 +0000",
+  "comuni": [
+   "Torre del Greco"
+  ],
+  "visto": "2026-11-12T19:49:47+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-11-alle-17.58.27.png",
+  "titolo": "Somma Vesuviana: riparte il servizio di raccolta rifiuti",
+  "link": "https://www.metropolisweb.it/2026/11/12/somma-vesuviana-riparte-il-servizio-di-raccolta-rifiuti/",
+  "fonte": "Metropolis",
+  "data": "Thu, 12 Nov 2026 14:43:53 +0000",
+  "comuni": [
+   "Somma Vesuviana"
+  ],
+  "visto": "2026-11-12T19:49:47+00:00"
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2025/09/fabiano-1-e1758898528939.jpg",
+  "titolo": "Ufficiale, Turris: Francesco Fabiano è il nuovo allenatore",
+  "link": "https://www.metropolisweb.it/2026/11/12/ufficiale-turris-francesco-fabiano-e-il-nuovo-allenatore/",
+  "fonte": "Metropolis",
+  "data": "Thu, 12 Nov 2026 14:21:02 +0000",
+  "comuni": [],
+  "visto": "2026-11-12T19:49:47+00:00"
+ },
+ {
+  "img": "https://www.laprovinciaonline.info/wp-content/uploads/2026/11/IMG-20261110-WA0100-1.jpg",
+  "titolo": "Sonia Sodano, al Polo museale di Roccarainola presenta il suo libro",
+  "link": "https://www.laprovinciaonline.info/sonia-sodano-al-polo-museale-di-roccarainola-presenta-il-suo-libro/",
+  "fonte": "La Provincia Online",
+  "data": "Thu, 12 Nov 2026 14:17:35 +0000",
+  "comuni": [],
+  "visto": "2026-11-12T19:49:47+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://www.vesuviolive.it/wp-content/uploads/sites/6/2026/11/vincenzo-miele.jpg",
+  "titolo": "È di Torre il primo comandante Msc che ha raggiunto l’eccellenza: orgoglio d’Italia nel mondo",
+  "link": "https://www.vesuviolive.it/aree-locali/notizie-di-torre-del-greco/547360-torre-greco-comandante-mele-primato-msc/",
+  "fonte": "VesuvioLive",
+  "data": "Thu, 12 Nov 2026 14:07:31 +0000",
+  "comuni": [
+   "Torre del Greco"
+  ],
+  "visto": "2026-11-12T19:49:47+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://cdn13.webmaster360.it/2026/11/covers/01M77SBXZVF5S91KD0PE9E23S1.jpg",
+  "titolo": "Due officine sequestrate nella Terra dei Fuochi",
+  "link": "https://www.ilfattovesuviano.it/2026/11/due-officine-sequestrate-nella-terra-dei-fuochi",
+  "fonte": "Il Fatto Vesuviano",
+  "data": "Thu, 12 Nov 2026 14:00:00 +0000",
+  "comuni": [],
+  "visto": "2026-11-12T19:49:47+00:00"
+ },
+ {
+  "img": "https://www.laprovinciaonline.info/wp-content/uploads/2026/11/IMG-20261112-WA0014.jpg",
+  "titolo": "Partenope in Short Film Festival, il 14 e 15 dicembre torna a Napoli la rassegna internazionale ideata e diretta da Gianfranco Gallo",
+  "link": "https://www.laprovinciaonline.info/partenope-in-short-film-festival-il-14-e-15-dicembre-torna-a-napoli-la-rassegna-internazionale-ideata-e-diretta-da-gianfranco-gallo/",
+  "fonte": "La Provincia Online",
+  "data": "Thu, 12 Nov 2026 13:58:33 +0000",
+  "comuni": [],
+  "visto": "2026-11-12T19:49:47+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://www.vesuviolive.it/wp-content/uploads/sites/6/2026/01/Tangenziale-di-Napoli.jpg",
+  "titolo": "Malore improvviso alla guida, tragedia sulla Tangenziale di Napoli: è morto un 47enne",
+  "link": "https://www.vesuviolive.it/ultime-notizie/547358-tangenziale-napoli-malore-morto-uomo/",
+  "fonte": "VesuvioLive",
+  "data": "Thu, 12 Nov 2026 13:39:53 +0000",
+  "comuni": [],
+  "visto": "2026-11-12T19:49:47+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://cdn13.webmaster360.it/2026/11/covers/01M77REZ30737T2VXBVR9A7W84.jpg",
+  "titolo": "Sequestrati 5 milioni di euro di prodotti in acciaio",
+  "link": "https://www.ilfattovesuviano.it/2026/11/sequestrati-5-milioni-di-euro-di-prodotti-in-acciaio",
+  "fonte": "Il Fatto Vesuviano",
+  "data": "Thu, 12 Nov 2026 13:30:00 +0000",
+  "comuni": [],
+  "visto": "2026-11-12T19:49:47+00:00"
+ },
+ {
+  "img": "https://cdn13.webmaster360.it/2026/11/covers/01M77QHASQZMCCD2N032SSA0M0.jpg",
+  "titolo": "Eruzione ai Campi Flegrei: riscritta la storia",
+  "link": "https://www.ilfattovesuviano.it/2026/11/eruzione-ai-campi-flegrei-riscritta-la-storia",
+  "fonte": "Il Fatto Vesuviano",
+  "data": "Thu, 12 Nov 2026 13:00:00 +0000",
+  "comuni": [],
+  "visto": "2026-11-12T19:49:47+00:00"
+ },
+ {
+  "img": "https://cdn13.webmaster360.it/2026/11/covers/01M77Q6EBQSB6G0A8PC892B3S6.jpg",
+  "titolo": "Scoperto ordigno bellico nei Paesi Vesuviani",
+  "link": "https://www.ilfattovesuviano.it/2026/11/scoperto-ordigno-bellico-nei-paesi-vesuviani",
+  "fonte": "Il Fatto Vesuviano",
+  "data": "Thu, 12 Nov 2026 12:30:00 +0000",
+  "comuni": [],
+  "visto": "2026-11-12T19:49:47+00:00"
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/11/82272633_mok.jpg",
+  "titolo": "Pennoni di Gragnano al sapore dei Monti Lattari",
+  "link": "https://www.metropolisweb.it/2026/11/12/pennoni-di-gragnano-al-sapore-dei-monti-lattari/",
+  "fonte": "Metropolis",
+  "data": "Thu, 12 Nov 2026 12:24:28 +0000",
+  "comuni": [],
+  "visto": "2026-11-12T19:49:47+00:00"
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/11/048b0b4fefb5f788761fd9854c301d04.jpg",
+  "titolo": "Castellammare | Stuprata in una cantina: via all’incidente probatorio",
+  "link": "https://www.metropolisweb.it/2026/11/12/castellammare-stuprata-in-una-cantina-via-allincidente-probatorio/",
+  "fonte": "Metropolis",
+  "data": "Thu, 12 Nov 2026 12:23:51 +0000",
+  "comuni": [
+   "Castellammare di Stabia"
+  ],
+  "visto": "2026-11-12T19:49:47+00:00"
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/11/cc-torre.jpeg",
+  "titolo": "Torre Annunziata: la truffa dei falsi carabinieri, della rapina e dell’oro",
+  "link": "https://www.metropolisweb.it/2026/11/12/torre-annunziata-truffa-falsi-carabinieri-rapina-oro/",
+  "fonte": "Metropolis",
+  "data": "Thu, 12 Nov 2026 12:03:30 +0000",
+  "comuni": [
+   "Torre Annunziata"
+  ],
+  "visto": "2026-11-12T19:49:47+00:00"
+ },
+ {
+  "img": "https://www.vesuviolive.it/wp-content/uploads/sites/6/2026/09/scuola-classe.jpg",
+  "titolo": "Nuovi allarmi bomba anche a Napoli: scuole evacuate dopo la seconda mail di minaccia",
+  "link": "https://www.vesuviolive.it/ultime-notizie/547356-nuovi-allarmi-bomba-scuole-napoli-seconda-mail/",
+  "fonte": "VesuvioLive",
+  "data": "Thu, 12 Nov 2026 12:02:36 +0000",
+  "comuni": [],
+  "visto": "2026-11-12T19:49:47+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://cdn13.webmaster360.it/2026/11/covers/01M1C5ZT5BT9HMR4NHR0R647N0.jpg",
+  "titolo": "Calci e pugni alla moglie incinta, arrestato a Terzigno",
+  "link": "https://www.ilfattovesuviano.it/2026/11/calci-e-pugni-alla-moglie-incinta-arrestato-a-terzigno",
+  "fonte": "Il Fatto Vesuviano",
+  "data": "Thu, 12 Nov 2026 12:00:00 +0000",
+  "comuni": [
+   "Terzigno"
+  ],
+  "visto": "2026-11-12T19:49:47+00:00"
+ },
+ {
   "img": "https://www.ilmediano.com/wp-content/uploads/2021/09/coltello.jpg",
   "titolo": "San Giorgio, minaccia moglie e figli con un coltello dopo una lite in famiglia",
   "link": "https://www.ilmediano.com/san-giorgio-minaccia-moglie-e-figli-con-un-coltello-dopo-una-lite-in-famiglia/",
@@ -17,6 +563,15 @@
   "data": "Thu, 12 Nov 2026 11:42:54 +0000",
   "comuni": [],
   "visto": "2026-11-12T11:54:13+00:00"
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-12-alle-12.42.24.png",
+  "titolo": "Nuovo allarme bomba: evacuate numerose scuole in Campania",
+  "link": "https://www.metropolisweb.it/2026/11/12/nuovo-allarme-bomba-evacuate-numerose-scuole-in-campania/",
+  "fonte": "Metropolis",
+  "data": "Thu, 12 Nov 2026 11:42:41 +0000",
+  "comuni": [],
+  "visto": "2026-11-12T19:49:47+00:00"
  },
  {
   "img": "https://cdn13.webmaster360.it/2026/11/covers/HWd7c3Nm3bvHdV4KEXxtYiYxNfGMjlCCzKzuxbzf.jpg",
@@ -193,7 +748,7 @@
  },
  {
   "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/11/lione-1030-1024x678.jpg",
-  "titolo": "MAROCCO: A LIONE CONFERENZA SU PARTENARIATO CON FRANCIA",
+  "titolo": "Marocco: a Lione conferenza su partenariato con Francia",
   "link": "https://www.metropolisweb.it/2026/11/12/marocco-a-lione-conferenza-su-partenariato-con-francia/",
   "fonte": "Metropolis",
   "data": "Thu, 12 Nov 2026 10:25:21 +0000",
@@ -360,6 +915,15 @@
   "comuni": [],
   "visto": "2026-11-12T11:54:13+00:00",
   "img_provata": true
+ },
+ {
+  "img": "https://cdn13.webmaster360.it/2026/11/covers/01M77ZF9Z48VJFKTCYNAK1TZNQ.jpg",
+  "titolo": "Lo chef stellato premia l'area nolano-vesuviana con il suo nuovo locale",
+  "link": "https://www.ilfattovesuviano.it/2026/11/lo-chef-stellato-premia-larea-nolano-vesuviana-con-il-suo-nuovo-locale",
+  "fonte": "Il Fatto Vesuviano",
+  "data": "Thu, 12 Nov 2026 08:34:08 +0000",
+  "comuni": [],
+  "visto": "2026-11-12T19:49:47+00:00"
  },
  {
   "img": "https://www.ilmediano.com/wp-content/uploads/2026/04/polizia_a.jpg",
