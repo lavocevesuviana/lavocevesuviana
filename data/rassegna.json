@@ -1,5 +1,535 @@
 [
  {
+  "img": "https://www.laprovinciaonline.info/wp-content/uploads/2026/11/IMG-20261116-WA0085.jpg",
+  "titolo": "Saviano lavori corso Italia, la Vice Sindaca Lucia Liguori: interventi in fase avanzata per garantire sicurezza e regolarità traffico",
+  "link": "https://www.laprovinciaonline.info/saviano-lavori-corso-italia-la-vice-sindaca-lucia-liguori-interventi-in-fase-avanzata-per-garantire-sicurezza-e-regolarita-traffico/",
+  "fonte": "La Provincia Online",
+  "data": "Mon, 16 Nov 2026 16:08:28 +0000",
+  "comuni": [
+   "Saviano"
+  ],
+  "visto": "2026-11-16T16:09:24+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://cdn13.webmaster360.it/2026/11/covers/01M7HSSTZVNP9ENGGNCSA0AN24.jpg",
+  "titolo": "Ruba in stazione e si nasconde leggendo il giornale al contrario",
+  "link": "https://www.ilfattovesuviano.it/2026/11/ruba-in-stazione-e-si-nasconde-leggendo-il-giornale-al-contrario",
+  "fonte": "Il Fatto Vesuviano",
+  "data": "Mon, 16 Nov 2026 16:00:00 +0000",
+  "comuni": [],
+  "visto": "2026-11-16T16:09:24+00:00"
+ },
+ {
+  "img": "https://www.vesuviolive.it/wp-content/uploads/sites/6/2026/11/Il-renderig-originario-della-bonifica-a-Bagnoli.jpg",
+  "titolo": "Report, le bugie sulla colmata a Bagnoli: “messa in sicurezza” valida solo per 18 mesi",
+  "link": "https://www.vesuviolive.it/aree-locali/notizie-di-napoli/547558-report-le-bugie-sulla-colmata-a-bagnoli-messa-in-sicurezza-valida-solo-per-18-mesi/",
+  "fonte": "VesuvioLive",
+  "data": "Mon, 16 Nov 2026 15:50:39 +0000",
+  "comuni": [],
+  "visto": "2026-11-16T16:09:24+00:00"
+ },
+ {
+  "img": "https://www.cronachedellacampania.it/wp-content/uploads/2026/11/scafati-sequestrate-migliaia-di-pedane-di-legno-con-marchio-epal-contraffatto-teep.jpg",
+  "titolo": "Scafati, sequestrate migliaia di pedane di legno con marchio Epal contraffatto",
+  "link": "https://www.cronachedellacampania.it/2026/11/scafati-sequestrate-migliaia-pedane-legno-marchio-epal/",
+  "fonte": "Cronache della Campania",
+  "data": "Mon, 16 Nov 2026 15:45:48 +0000",
+  "comuni": [
+   "Scafati"
+  ],
+  "visto": "2026-11-16T16:09:24+00:00"
+ },
+ {
+  "img": "https://www.vesuviolive.it/wp-content/uploads/sites/6/2026/11/pista-ciclabile-torre-annunziata-2.jpg",
+  "titolo": "Torre Annunziata, si allaga la pista ciclabile: un altro flop dei 150 metri di asfalto",
+  "link": "https://www.vesuviolive.it/aree-locali/notizie-di-torre-annunziata/547556-torre-annunziata-la-pista-ciclabile-si-allaga-dopo-il-maltempo/",
+  "fonte": "VesuvioLive",
+  "data": "Mon, 16 Nov 2026 15:45:44 +0000",
+  "comuni": [
+   "Torre Annunziata"
+  ],
+  "visto": "2026-11-16T16:09:24+00:00"
+ },
+ {
+  "img": "https://www.laprovinciaonline.info/wp-content/uploads/2015/12/logo-2.png",
+  "titolo": "Da “casa vacanze” a “casa vacante”, Ditto: “Il turismo a Napoli si scopre ‘Capodichinocentrico’”",
+  "link": "https://www.laprovinciaonline.info/da-casa-vacanze-a-casa-vacante-ditto-il-turismo-a-napoli-si-scopre-capodichinocentrico/",
+  "fonte": "La Provincia Online",
+  "data": "Mon, 16 Nov 2026 15:41:13 +0000",
+  "comuni": [],
+  "visto": "2026-11-16T16:09:24+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://cdn13.webmaster360.it/2026/11/covers/01M7J7J1W1E6QR8CH1BMHCVQ9F.jpg",
+  "titolo": "Sarno in festa: Adam torna a casa dopo il coma",
+  "link": "https://www.ilfattovesuviano.it/2026/11/sarno-in-festa-adam-torna-a-casa-dopo-il-coma",
+  "fonte": "Il Fatto Vesuviano",
+  "data": "Mon, 16 Nov 2026 15:30:00 +0000",
+  "comuni": [
+   "Sarno"
+  ],
+  "visto": "2026-11-16T16:09:24+00:00"
+ },
+ {
+  "img": "https://cdn13.webmaster360.it/2026/11/covers/01KJDNWQCVXFHXEG6X94TEZ29H.jpg",
+  "titolo": "Troppi pericolo sul territorio: allerta frane in Campania",
+  "link": "https://www.ilfattovesuviano.it/2026/11/troppi-pericolo-sul-territorio-allerta-frane-in-campania",
+  "fonte": "Il Fatto Vesuviano",
+  "data": "Mon, 16 Nov 2026 15:30:00 +0000",
+  "comuni": [],
+  "visto": "2026-11-16T16:09:24+00:00"
+ },
+ {
+  "img": "https://www.ansa.it/webimages/img_1280x720/2026/11/16/817e82f40f98efc634e296ae4ce3f0f5.jpg",
+  "titolo": "A Torre del Greco i Buoni spesa contro il disagio economico",
+  "link": "https://www.ansa.it/campania/notizie/2026/11/16/a-torre-del-greco-i-buoni-spesa-contro-il-disagio-economico_c6dad849-4a6e-47da-b25e-b1dce7267580.html",
+  "fonte": "ANSA Campania",
+  "data": "Mon, 16 Nov 2026 16:25:54 +0100",
+  "comuni": [
+   "Torre del Greco"
+  ],
+  "visto": "2026-11-16T16:09:24+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://www.loravesuviana.it/wp-content/uploads/2026/11/Napolitano-02-200x300.jpeg",
+  "titolo": "Marco Napolitano presenta il suo Panettone Profitterol e a gennaio 2027 le celebrazioni per i 100 anni della millefoglie, il dolce che ha ispirato il libro «Millefoglie di me».",
+  "link": "https://www.loravesuviana.it/news/marco-napolitano-presenta-il-suo-panettone-profitterol.html/",
+  "fonte": "L'Ora Vesuviana",
+  "data": "Mon, 16 Nov 2026 15:17:00 +0000",
+  "comuni": [],
+  "visto": "2026-11-16T16:09:24+00:00"
+ },
+ {
+  "img": "https://www.vesuviolive.it/wp-content/uploads/sites/6/2026/11/lulu-premio-camera.jpeg",
+  "titolo": "Unisce l’Italia al mondo arabo da 20 anni: Lulù premiata alla Camera dei Deputati",
+  "link": "https://www.vesuviolive.it/ultime-notizie/547559-luana-teresa-ciavolino-lulu-premiata-camera-deputati/",
+  "fonte": "VesuvioLive",
+  "data": "Mon, 16 Nov 2026 15:03:22 +0000",
+  "comuni": [],
+  "visto": "2026-11-16T16:09:24+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://cdn13.webmaster360.it/2026/11/covers/01M7J1SJTKKBZHV06S9WJD4VFD.jpg",
+  "titolo": "Allarme bomba, nuova mail alle scuole: \"Ci avete ignorato\"",
+  "link": "https://www.ilfattovesuviano.it/2026/11/allarme-bomba-nuova-mail-alle-scuole-ci-avete-ignorato",
+  "fonte": "Il Fatto Vesuviano",
+  "data": "Mon, 16 Nov 2026 15:00:00 +0000",
+  "comuni": [],
+  "visto": "2026-11-16T16:09:24+00:00"
+ },
+ {
+  "img": "https://cdn.positanonews.it/photogallery_new/images/2015/02/auto-polizia1-jpg-213582.jpg",
+  "titolo": "Controlli della Polizia di Stato ad Ottaviano",
+  "link": "https://www.positanonews.it/2026/11/controlli-della-polizia-di-stato-ad-ottaviano-6/3866170/",
+  "fonte": "Positano News",
+  "data": "Mon, 16 Nov 2026 14:50:54 +0000",
+  "comuni": [
+   "Ottaviano"
+  ],
+  "visto": "2026-11-16T16:09:24+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://www.vesuviolive.it/wp-content/uploads/sites/6/2026/11/lina-mamma-intervento-federico-ii.jpeg",
+  "titolo": "Incinta rischia di morire, il miracolo a Napoli: salvi mamma e figlio desiderato per 16 anni",
+  "link": "https://www.vesuviolive.it/ultime-notizie/547554-rischiava-morire-gravidanza-napoli-federico-ii/",
+  "fonte": "VesuvioLive",
+  "data": "Mon, 16 Nov 2026 14:47:11 +0000",
+  "comuni": [],
+  "visto": "2026-11-16T16:09:24+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://citynews-napolitoday.stgy.ovh/~media/original-hi/44341483521038/cooperativa-sociale-giada.jpg",
+  "titolo": "Inaugurato il centro antiviolenza comunale: assistenza alle donne 24 ore su 24",
+  "link": "https://www.napolitoday.it/attualita/centro-antiviolenza-torre-del-greco-orari-contatti.html",
+  "fonte": "NapoliToday",
+  "data": "Mon, 16 Nov 2026 15:27:46 +0100",
+  "comuni": [
+   "Torre del Greco"
+  ],
+  "visto": "2026-11-16T16:09:24+00:00"
+ },
+ {
+  "img": "https://citynews-napolitoday.stgy.ovh/~media/original-hi/27011645102088/maria-bagno-elena.jpg",
+  "titolo": "Il Bagno Elena perde la sua anima: addio alla signora Maria",
+  "link": "https://www.napolitoday.it/cronaca/morta-maria-bagno-elena-castellammare.html",
+  "fonte": "NapoliToday",
+  "data": "Mon, 16 Nov 2026 15:26:43 +0100",
+  "comuni": [
+   "Castellammare di Stabia"
+  ],
+  "visto": "2026-11-16T16:09:24+00:00"
+ },
+ {
+  "img": "https://www.vesuviolive.it/wp-content/uploads/sites/6/2026/11/san-marzano-sul-sarno.jpeg",
+  "titolo": "San Marzano sommersa, l’allarme di Rete difesa del Sarno: «Una bomba a orologeria»",
+  "link": "https://www.vesuviolive.it/ultime-notizie/547541-allagamenti-san-marzano-sul-sarno-bomba-a-orologeria/",
+  "fonte": "VesuvioLive",
+  "data": "Mon, 16 Nov 2026 14:10:20 +0000",
+  "comuni": [
+   "Sarno"
+  ],
+  "visto": "2026-11-16T16:09:24+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://cdn13.webmaster360.it/2026/11/covers/hb8E8NaskYSBztrTptzozVtrqas4dEJi1ekbyDx8.jpg",
+  "titolo": "Uccide la moglie allettata, poi prova a togliersi la vita",
+  "link": "https://www.ilfattovesuviano.it/2026/11/uccide-la-moglie-allettata-poi-prova-a-togliersi-la-vita",
+  "fonte": "Il Fatto Vesuviano",
+  "data": "Mon, 16 Nov 2026 14:00:00 +0000",
+  "comuni": [],
+  "visto": "2026-11-16T16:09:24+00:00"
+ },
+ {
+  "img": "https://www.vesuvianonews.it/wp-content/uploads/2026/06/italia_rotta.jpg",
+  "titolo": "Sud, Pil ed occupazione in crescita, ma salari reali in calo, più lavoratori poveri e giovani emigranti verso il Nord Italia ed Europa",
+  "link": "https://www.vesuvianonews.it/sud-pil-ed-occupazione-in-crescita-ma-salari-reali-in-calo-piu-lavoratori-poveri-e-giovani-emigranti-verso-il-nord-italia-ed-europa/",
+  "fonte": "Vesuviano News",
+  "data": "Mon, 16 Nov 2026 13:41:33 +0000",
+  "comuni": [],
+  "visto": "2026-11-15T14:40:35+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://www.ilmediano.com/wp-content/uploads/2026/03/squadra-mobileps.jpg",
+  "titolo": "Allenatore abusa in auto del suo calciatore 13enne: Polizia lo porta in cella",
+  "link": "https://www.ilmediano.com/allenatore-abusa-in-auto-del-suo-calciatore-13enne-polizia-lo-porta-in-cella/",
+  "fonte": "Il Mediano",
+  "data": "Mon, 16 Nov 2026 13:30:18 +0000",
+  "comuni": [],
+  "visto": "2026-11-16T16:09:24+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://cdn13.webmaster360.it/2026/11/covers/JVUY702uZM7iqZs9HF0l4MyYT2MULfp4u5qHHPVi.jpg",
+  "titolo": "Allenatore di scuola calcio in carcere: ha abusato di un 13enne",
+  "link": "https://www.ilfattovesuviano.it/2026/11/allenatore-di-scuola-calcio-in-carcere-ha-abusato-di-un-13enne",
+  "fonte": "Il Fatto Vesuviano",
+  "data": "Mon, 16 Nov 2026 13:30:00 +0000",
+  "comuni": [],
+  "visto": "2026-11-16T16:09:24+00:00"
+ },
+ {
+  "img": "https://www.vesuviolive.it/wp-content/uploads/sites/6/2026/11/albero-natale-caposele.jpg",
+  "titolo": "In Campania si accende l’albero di Natale più alto d’Europa: oltre 30 metri, via ai mercatini",
+  "link": "https://www.vesuviolive.it/eventi/547538-caposele-albero-natale-alto-europa-mercatino-2026/",
+  "fonte": "VesuvioLive",
+  "data": "Mon, 16 Nov 2026 13:29:44 +0000",
+  "comuni": [],
+  "visto": "2026-11-16T16:09:24+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://cdn13.webmaster360.it/2026/11/covers/01M3QT8ZCQ4A4MT83BK8RS11EH.jpg",
+  "titolo": "Brucia fabbrica, distrutta vasca per lavorare i metalli fusi",
+  "link": "https://www.ilfattovesuviano.it/2026/11/brucia-fabbrica-distrutta-vasca-per-lavorare-i-metalli-fusi",
+  "fonte": "Il Fatto Vesuviano",
+  "data": "Mon, 16 Nov 2026 13:00:00 +0000",
+  "comuni": [],
+  "visto": "2026-11-16T16:09:24+00:00"
+ },
+ {
+  "img": "https://www.ilmediano.com/wp-content/uploads/2026/11/IMG-20261116-WA0015.jpg",
+  "titolo": "Forza Italia, lasciano vice segretario provinciale e il gruppo di Sant’Antimo",
+  "link": "https://www.ilmediano.com/forza-italia-lasciano-vice-segretario-provinciale-e-il-gruppo-di-santantimo/",
+  "fonte": "Il Mediano",
+  "data": "Mon, 16 Nov 2026 12:45:23 +0000",
+  "comuni": [],
+  "visto": "2026-11-16T16:09:24+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://cdn13.webmaster360.it/2026/11/covers/SXPYKEqmhvtEdPbgHAIb1bAjkOkm2NKNJ0JF5Wnz.jpg",
+  "titolo": "Operaio folgorato, c'è un supertestimone",
+  "link": "https://www.ilfattovesuviano.it/2026/11/operaio-folgorato-ce-un-supertestimone",
+  "fonte": "Il Fatto Vesuviano",
+  "data": "Mon, 16 Nov 2026 12:30:00 +0000",
+  "comuni": [],
+  "visto": "2026-11-16T16:09:24+00:00"
+ },
+ {
+  "img": "https://www.ansa.it/webimages/img_1280x720/2025/6/14/fc2250500fea1804e7f1e55d2e091a83.jpg",
+  "titolo": "Via libera Euipo a prime due Igp italiane per corallo e il cammeo di Torre del Greco",
+  "link": "https://www.ansa.it/campania/notizie/2026/11/16/via-libera-euipo-a-prime-due-igp-italiane-per-corallo-e-il-cammeo_e97fa902-ce1b-450c-8cd0-8c0d1010c675.html",
+  "fonte": "ANSA Campania",
+  "data": "Mon, 16 Nov 2026 13:23:50 +0100",
+  "comuni": [
+   "Torre del Greco"
+  ],
+  "visto": "2026-11-16T16:09:24+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://www.vesuviolive.it/wp-content/uploads/sites/6/2026/11/A-Napoli-gli-ambulanti-abusivi-con-il-pos.jpg",
+  "titolo": "Napoli, ambulanti abusivi con il pos: pagamenti tracciabili per merce falsa e attività illegali",
+  "link": "https://www.vesuviolive.it/aree-locali/notizie-di-napoli/547518-napoli-ambulanti-abusivi-con-il-pos-pagamenti-tracciabili-per-merce-falsa-e-attivita-illegali/",
+  "fonte": "VesuvioLive",
+  "data": "Mon, 16 Nov 2026 12:15:11 +0000",
+  "comuni": [],
+  "visto": "2026-11-16T16:09:24+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://www.vesuviolive.it/wp-content/uploads/sites/6/2023/06/carabinieri-scientifica.jpg",
+  "titolo": "Ha ucciso la moglie malata, poi ha tentato di togliersi la vita: la tragedia in Campania",
+  "link": "https://www.vesuviolive.it/ultime-notizie/547533-omicidio-suicidio-salerno-moglie-marito/",
+  "fonte": "VesuvioLive",
+  "data": "Mon, 16 Nov 2026 12:08:48 +0000",
+  "comuni": [],
+  "visto": "2026-11-16T16:09:24+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://cdn13.webmaster360.it/2026/11/covers/AGqXfddI13xWlWGEUDfX5HFyZbsdbKyXvNcZwYQA.jpg",
+  "titolo": "Maltempo, treni sospesi verso Salerno",
+  "link": "https://www.ilfattovesuviano.it/2026/11/maltempo-treni-sospesi-verso-salerno",
+  "fonte": "Il Fatto Vesuviano",
+  "data": "Mon, 16 Nov 2026 12:00:00 +0000",
+  "comuni": [],
+  "visto": "2026-11-16T16:09:24+00:00"
+ },
+ {
+  "img": "https://cdn13.webmaster360.it/2026/11/covers/TUBzp10zB9RX0T6m8DHdNuUu7PNE7fGoGRc8vcDy.jpg",
+  "titolo": "Angri, giovane ammazza la mamma",
+  "link": "https://www.ilfattovesuviano.it/2026/11/angri-giovane-ammazza-la-mamma",
+  "fonte": "Il Fatto Vesuviano",
+  "data": "Mon, 16 Nov 2026 11:30:00 +0000",
+  "comuni": [],
+  "visto": "2026-11-16T16:09:24+00:00"
+ },
+ {
+  "img": "https://www.vesuviolive.it/wp-content/uploads/sites/6/2026/11/Chi-e-Michail-Andropov-la-firma-degli-allarmi-bomba.jpg",
+  "titolo": "Allarme bomba, la nuova mail alle scuole: “L’esplosione ci sarà. Miscela tossica nel cibo”",
+  "link": "https://www.vesuviolive.it/ultime-notizie/547525-allarme-bomba-nuova-mail-scuole-mensa/",
+  "fonte": "VesuvioLive",
+  "data": "Mon, 16 Nov 2026 11:28:45 +0000",
+  "comuni": [],
+  "visto": "2026-11-16T16:09:24+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://www.vesuviolive.it/wp-content/uploads/sites/6/2026/11/anna-boffa-insegnante-salerno.jpeg",
+  "titolo": "Salerno, insegnante di 36 anni morta in ospedale: “Una vita che si è interrotta troppo presto”",
+  "link": "https://www.vesuviolive.it/ultime-notizie/547500-salerno-insegnante-di-36-anni-morta-in-ospedale-una-vita-che-si-e-interrotta-troppo-presto/",
+  "fonte": "VesuvioLive",
+  "data": "Mon, 16 Nov 2026 11:21:15 +0000",
+  "comuni": [],
+  "visto": "2026-11-16T16:09:24+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://www.ansa.it/webimages/img_1280x720/2026/11/16/156445e6c3f6070ec2b2b4896f1a2896.jpg",
+  "titolo": "Dal Vesuvio a Brera, inaugurata a Milano la personale di Antonio Carotenuto",
+  "link": "https://www.ansa.it/campania/notizie/2026/11/16/dal-vesuvio-a-brera-inaugurata-a-milano-la-personale-di-antonio-carotenuto_84c86266-caa4-4518-94e3-5496ffa20635.html",
+  "fonte": "ANSA Campania",
+  "data": "Mon, 16 Nov 2026 12:17:48 +0100",
+  "comuni": [],
+  "visto": "2026-11-16T16:09:24+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://cdn13.webmaster360.it/2026/11/covers/01M7J17A15SBC1JV40YG2PPKHW.jpg",
+  "titolo": "Palma Campania, da oggi tre giorni dedicati alla Rivoluzione del 1799: in scena la storia di Vincenzo Russo",
+  "link": "https://www.ilfattovesuviano.it/2026/11/palma-campania-da-oggi-tre-giorni-dedicati-alla-rivoluzione-del-1799-in-scena-la-storia-di-vincenzo-russo",
+  "fonte": "Il Fatto Vesuviano",
+  "data": "Mon, 16 Nov 2026 11:17:36 +0000",
+  "comuni": [
+   "Palma Campania"
+  ],
+  "visto": "2026-11-16T16:09:24+00:00"
+ },
+ {
+  "img": "https://cdn13.webmaster360.it/2026/11/covers/01M7H6DJWNN1HKMQM0M785CXE7.jpg",
+  "titolo": "Quintali di cavi privati del rame gettati in strada",
+  "link": "https://www.ilfattovesuviano.it/2026/11/quintali-di-cavi-privati-del-rame-gettati-in-strada",
+  "fonte": "Il Fatto Vesuviano",
+  "data": "Mon, 16 Nov 2026 11:00:00 +0000",
+  "comuni": [],
+  "visto": "2026-11-16T16:09:24+00:00"
+ },
+ {
+  "img": "https://www.vesuviolive.it/wp-content/uploads/sites/6/2026/11/programma-Santa-Croce-1.jpg",
+  "titolo": "Basilica di Santa Croce, dalla festa di San Vincenzo all’Immacolata e Natale: ecco il programma sacro",
+  "link": "https://www.vesuviolive.it/aree-locali/notizie-di-torre-del-greco/547449-immacolata-attesa-programma-fede/",
+  "fonte": "VesuvioLive",
+  "data": "Mon, 16 Nov 2026 10:44:11 +0000",
+  "comuni": [
+   "Torre del Greco"
+  ],
+  "visto": "2026-11-16T16:09:24+00:00"
+ },
+ {
+  "img": "https://www.laprovinciaonline.info/wp-content/uploads/2015/12/logo-2.png",
+  "titolo": "IA, l’avvocato Marco Panichi: «Aziende italiane in ritardo, il rischio sanzioni è dietro l’angolo»",
+  "link": "https://www.laprovinciaonline.info/ia-lavvocato-marco-panichi-aziende-italiane-in-ritardo-il-rischio-sanzioni-e-dietro-langolo/",
+  "fonte": "La Provincia Online",
+  "data": "Mon, 16 Nov 2026 10:35:39 +0000",
+  "comuni": [],
+  "visto": "2026-11-16T16:09:24+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://cdn13.webmaster360.it/2026/11/covers/4F5DE2kCtVZJ8YywfUk4E06bLsj27dAfCOXLuNc3.jpg",
+  "titolo": "\"Mi hai rubato 300 euro\": 17enne spara al padre",
+  "link": "https://www.ilfattovesuviano.it/2026/11/mi-hai-rubato-300-euro-17enne-spara-al-padre",
+  "fonte": "Il Fatto Vesuviano",
+  "data": "Mon, 16 Nov 2026 10:30:00 +0000",
+  "comuni": [],
+  "visto": "2026-11-16T16:09:24+00:00"
+ },
+ {
+  "img": "https://www.vesuviolive.it/wp-content/uploads/sites/6/2024/11/Operaio-al-lavoro.jpeg",
+  "titolo": "Operaio morto folgorato a Quarto, svolta nelle indagini: spunta un supertestimone",
+  "link": "https://www.vesuviolive.it/ultime-notizie/547471-operaio-morto-folgorato-a-quarto-spunta-un-supertestimone/",
+  "fonte": "VesuvioLive",
+  "data": "Mon, 16 Nov 2026 10:26:54 +0000",
+  "comuni": [],
+  "visto": "2026-11-16T16:09:24+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://www.vesuviolive.it/wp-content/uploads/sites/6/2026/11/Morelli.png",
+  "titolo": "Torre del Greco, “La prevenzione scende in campo”: al via il progetto di Ishtar per i giovani del territorio",
+  "link": "https://www.vesuviolive.it/aree-locali/notizie-di-torre-del-greco/547163-la-prevenzione-scende-in-campo-progetto-ishtar-aps-giovani/",
+  "fonte": "VesuvioLive",
+  "data": "Mon, 16 Nov 2026 10:26:18 +0000",
+  "comuni": [
+   "Torre del Greco"
+  ],
+  "visto": "2026-11-16T16:09:24+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://www.vesuviolive.it/wp-content/uploads/sites/6/2026/11/55647020781_d6c0ac6aaf_k.jpg",
+  "titolo": "Clementina Sasso, l’astrofisica premiata da Sole 24 Ore e Financial Times: eccellenza contro gli stereotipi di genere",
+  "link": "https://www.vesuviolive.it/aree-locali/notizie-di-torre-del-greco/547453-astrofisica-divulgatrice-scienza-stem-women-clementina-sasso/",
+  "fonte": "VesuvioLive",
+  "data": "Mon, 16 Nov 2026 10:15:18 +0000",
+  "comuni": [
+   "Torre del Greco"
+  ],
+  "visto": "2026-11-16T16:09:24+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://cdn13.webmaster360.it/2026/11/covers/01M7H663241TGM2SWNRN6XJGZR.jpg",
+  "titolo": "Liceale con disabilità picchiata da un compagno di classe",
+  "link": "https://www.ilfattovesuviano.it/2026/11/liceale-con-disabilita-picchiata-da-un-compagno-di-classe",
+  "fonte": "Il Fatto Vesuviano",
+  "data": "Mon, 16 Nov 2026 10:00:00 +0000",
+  "comuni": [],
+  "visto": "2026-11-16T16:09:24+00:00"
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-16-alle-10.37.39.png",
+  "titolo": "Operaio morì folgorato, spunta un supertestimone",
+  "link": "https://www.metropolisweb.it/2026/11/16/operaio-mori-folgorato-spunta-un-supertestimone/",
+  "fonte": "Metropolis",
+  "data": "Mon, 16 Nov 2026 09:38:50 +0000",
+  "comuni": [],
+  "visto": "2026-11-16T16:09:24+00:00"
+ },
+ {
+  "img": "https://cdn13.webmaster360.it/2026/11/covers/01M7H5ZH6XF501D3BG3A90QSMF.jpg",
+  "titolo": "Pino secolare si abbatte sulla casa delle suore",
+  "link": "https://www.ilfattovesuviano.it/2026/11/pino-secolare-si-abbatte-sulla-casa-delle-suore",
+  "fonte": "Il Fatto Vesuviano",
+  "data": "Mon, 16 Nov 2026 09:30:00 +0000",
+  "comuni": [],
+  "visto": "2026-11-16T16:09:24+00:00"
+ },
+ {
+  "img": "https://internapoli.it/mato.clanto.cloud/piwik.php?idsite=6&rec=1&url=https%3A%2F%2Finternapoli.it%2Fladro-ubriacone-nel-locale-giapponese-a-ercolano-si-chiama-liberato-ma-viene-arrestato%2F&action_name=Ladro%20ubriacone%20nel%20locale%20giapponese%20a%20Ercolano%2C%20si%20chiama%20Liberato%20ma%20viene%20arrestato&urlref=https%3A%2F%2Finternapoli.it%2Ffeed%2F",
+  "titolo": "Ladro ubriacone nel locale giapponese a Ercolano, si chiama Liberato ma viene arrestato",
+  "link": "https://internapoli.it/ladro-ubriacone-nel-locale-giapponese-a-ercolano-si-chiama-liberato-ma-viene-arrestato/",
+  "fonte": "Internapoli",
+  "data": "Mon, 16 Nov 2026 09:23:58 +0000",
+  "comuni": [
+   "Ercolano"
+  ],
+  "visto": "2026-11-16T16:09:24+00:00"
+ },
+ {
+  "img": "https://cdn13.webmaster360.it/2026/11/covers/01M7H5M7MV78FN118P0J1J861Q.jpg",
+  "titolo": "Scippata della collana mentre è alla guida",
+  "link": "https://www.ilfattovesuviano.it/2026/11/scippata-della-collana-mentre-e-alla-guida",
+  "fonte": "Il Fatto Vesuviano",
+  "data": "Mon, 16 Nov 2026 09:00:00 +0000",
+  "comuni": [],
+  "visto": "2026-11-16T16:09:24+00:00"
+ },
+ {
+  "img": "https://www.vesuviolive.it/wp-content/uploads/sites/6/2026/11/Sigfrido-Ranucci-a-Napoli-per-la-presentazione-del-suo-libro.-Co-nla-partecipazione-di-de-Magistris-2.jpg",
+  "titolo": "Ranucci a Napoli: “Siamo un Paese a democrazia limitata”. Da Report agli attacchi passando per Bagnoli",
+  "link": "https://www.vesuviolive.it/aree-locali/notizie-di-napoli/547467-ranucci-a-napoli-siamo-un-paese-a-democrazia-limitata-da-report-agli-attacchi-passando-per-bagnoli/",
+  "fonte": "VesuvioLive",
+  "data": "Mon, 16 Nov 2026 08:57:40 +0000",
+  "comuni": [],
+  "visto": "2026-11-16T16:09:24+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://www.ilmediano.com/wp-content/uploads/2021/09/rilievi-carabinieri-omicidio-300x225-1.webp",
+  "titolo": "Minorenne spara al padre dopo lite per 300 euro: arrestato per tentato omicidio",
+  "link": "https://www.ilmediano.com/minorenne-spara-al-padre-dopo-lite-per-300-euro-arrestato-per-tentato-omicidio/",
+  "fonte": "Il Mediano",
+  "data": "Mon, 16 Nov 2026 08:25:39 +0000",
+  "comuni": [],
+  "visto": "2026-11-16T16:09:24+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://cdn13.webmaster360.it/2026/11/covers/hb2fBcKl6XQLNwe1i7Kh4UehSDPIi640RROtIro2.jpg",
+  "titolo": "Investito mentre è sul marciapiedi: è grave",
+  "link": "https://www.ilfattovesuviano.it/2026/11/investito-mentre-e-sul-marciapiedi-e-grave",
+  "fonte": "Il Fatto Vesuviano",
+  "data": "Mon, 16 Nov 2026 08:00:00 +0000",
+  "comuni": [],
+  "visto": "2026-11-16T16:09:24+00:00"
+ },
+ {
+  "img": "https://www.loravesuviana.it/wp-content/uploads/2026/11/908481937_122154872019115681_3547446772032013720_n-268x300.jpg",
+  "titolo": "ADDIO ALLE STAMPELLE ROSSE – La comunità della sinistra, non solo vesuviana, è orfana di Vincenzo Sannino. L’attivista politico e sociale si è spento tra l’affetto dei suoi cari",
+  "link": "https://www.loravesuviana.it/news/addio-alle-stampelle-rosse-la-comunita-della-sinistra-non-solo-vesuviana-e-orfana-di-vincenzo-sannino-lattivista-politico-e-sociale-si-e-spento-tra-laffetto-dei-suoi-cari.html/",
+  "fonte": "L'Ora Vesuviana",
+  "data": "Mon, 16 Nov 2026 07:55:09 +0000",
+  "comuni": [],
+  "visto": "2026-11-16T16:09:24+00:00"
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/11/890048046_18117482867035447_3428860844749169059_n-e1794661850959-1024x604.jpg",
+  "titolo": "La condensa ferma il basket a La Salle: sospesa Cittadella-Ponte Basket",
+  "link": "https://www.metropolisweb.it/2026/11/16/la-condensa-ferma-il-basket-a-la-salle-sospesa-cittadella-ponte-basket/",
+  "fonte": "Metropolis",
+  "data": "Mon, 16 Nov 2026 07:42:39 +0000",
+  "comuni": [],
+  "visto": "2026-11-16T16:09:24+00:00"
+ },
+ {
+  "img": "https://cdn13.webmaster360.it/2026/11/covers/EzeQNGwfXURMHu9FQPJw5mk8KbAGBlxkTnnhmN5N.jpg",
+  "titolo": "Arrestato con cocaina e hashish",
+  "link": "https://www.ilfattovesuviano.it/2026/11/arrestato-con-cocaina-e-hashish",
+  "fonte": "Il Fatto Vesuviano",
+  "data": "Mon, 16 Nov 2026 07:30:00 +0000",
+  "comuni": [],
+  "visto": "2026-11-16T16:09:24+00:00"
+ },
+ {
+  "img": "https://cdn13.webmaster360.it/2026/11/covers/01M7H47DYNFM0QS9EVXK8Q232V.jpg",
+  "titolo": "Anna la prof è morta dopo una cura del ginecologo",
+  "link": "https://www.ilfattovesuviano.it/2026/11/anna-la-prof-e-morta-dopo-una-cura-del-ginecologo",
+  "fonte": "Il Fatto Vesuviano",
+  "data": "Mon, 16 Nov 2026 07:00:00 +0000",
+  "comuni": [],
+  "visto": "2026-11-16T16:09:24+00:00"
+ },
+ {
   "img": "https://cdn13.webmaster360.it/2026/11/covers/5fYlPX4kA6FiauvZbI1jRVe1lb7NvT6AOw9eCuqu.jpg",
   "titolo": "Il Castello delle Cerimonie fermo costa 14mila euro al mese",
   "link": "https://www.ilfattovesuviano.it/2026/11/il-castello-delle-cerimonie-fermo-costa-14mila-euro-al-mese",
@@ -379,16 +909,6 @@
   "comuni": [
    "Somma Vesuviana"
   ],
-  "visto": "2026-11-15T14:40:35+00:00",
-  "img_provata": true
- },
- {
-  "img": "https://www.vesuvianonews.it/wp-content/uploads/2026/06/italia_rotta.jpg",
-  "titolo": "Sud, Pil ed occupazione in crescita, ma salari reali in calo, più lavoratori poveri e giovani emigranti verso il Nord Italia ed Europa",
-  "link": "https://www.vesuvianonews.it/sud-pil-ed-occupazione-in-crescita-ma-salari-reali-in-calo-piu-lavoratori-poveri-e-giovani-emigranti-verso-il-nord-italia-ed-europa/",
-  "fonte": "Vesuviano News",
-  "data": "Sun, 15 Nov 2026 11:23:54 +0000",
-  "comuni": [],
   "visto": "2026-11-15T14:40:35+00:00",
   "img_provata": true
  },
