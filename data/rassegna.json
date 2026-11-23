@@ -1,5 +1,497 @@
 [
  {
+  "img": "https://cdn13.webmaster360.it/2026/11/covers/7LbVnOxJGZX1MqBt7RGRW3tr975K7JcEzLFwIUig.jpg",
+  "titolo": "Malamovida, preso ragazzo con una katana",
+  "link": "https://www.ilfattovesuviano.it/2026/11/malamovida-preso-ragazzo-con-una-katana",
+  "fonte": "Il Fatto Vesuviano",
+  "data": "Mon, 23 Nov 2026 12:00:00 +0000",
+  "comuni": [],
+  "visto": "2026-11-23T12:13:12+00:00"
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2024/12/salvini.jpg",
+  "titolo": "Condono edilizio, Salvini: «Decideranno i Comuni»",
+  "link": "https://www.metropolisweb.it/2026/11/23/condono-edilizio-salvini-decideranno-i-comuni/",
+  "fonte": "Metropolis",
+  "data": "Mon, 23 Nov 2026 11:42:04 +0000",
+  "comuni": [],
+  "visto": "2026-11-23T12:13:12+00:00"
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/10/f275f5b7347e9c56feb1b737369a6676.jpg",
+  "titolo": "Spari contro l’auto dopo una lite a Pagani: due indagati dalla procura",
+  "link": "https://www.metropolisweb.it/2026/11/23/spari-contro-lauto-dopo-una-lite-a-pagani-due-indagati-dalla-procura/",
+  "fonte": "Metropolis",
+  "data": "Mon, 23 Nov 2026 11:37:03 +0000",
+  "comuni": [],
+  "visto": "2026-11-23T12:13:12+00:00"
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-23-123150.png",
+  "titolo": "Sorrento, torna a brillare la cappella di San Giovanni in Fontibus: il ricordo di Lucio Dalla per il restauro in Cattedrale",
+  "link": "https://www.metropolisweb.it/2026/11/23/sorrento-torna-a-brillare-la-cappella-di-san-giovanni-in-fontibus-il-ricordo-di-lucio-dalla-per-il-restauro-in-cattedrale/",
+  "fonte": "Metropolis",
+  "data": "Mon, 23 Nov 2026 11:32:46 +0000",
+  "comuni": [],
+  "visto": "2026-11-23T12:13:12+00:00"
+ },
+ {
+  "img": "https://cdn13.webmaster360.it/2026/11/covers/01M83KZ1N3BBJ7DX0MAR4C3H7R.jpg",
+  "titolo": "Addio a Shadia, con il marito raccontava la vita da non vedenti",
+  "link": "https://www.ilfattovesuviano.it/2026/11/addio-a-shadia-con-il-marito-raccontava-la-vita-da-non-vedenti",
+  "fonte": "Il Fatto Vesuviano",
+  "data": "Mon, 23 Nov 2026 11:30:00 +0000",
+  "comuni": [],
+  "visto": "2026-11-23T12:13:12+00:00"
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-23-alle-12.24.45.png",
+  "titolo": "Torre Annunziata: trenta in marcia contro la camorra, politica e città assenti",
+  "link": "https://www.metropolisweb.it/2026/11/23/torre-annunziata-marcia-anticamorra-politica-assente/",
+  "fonte": "Metropolis",
+  "data": "Mon, 23 Nov 2026 11:27:01 +0000",
+  "comuni": [
+   "Torre Annunziata"
+  ],
+  "visto": "2026-11-23T12:13:12+00:00"
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/11/Schermata-2026-11-20-alle-18.58.54-1024x536.png",
+  "titolo": "Castellammare. Niente falò dell’Immacolata sull’arenile",
+  "link": "https://www.metropolisweb.it/2026/11/23/castellammare-niente-falo-dellimmacolata-sullarenile/",
+  "fonte": "Metropolis",
+  "data": "Mon, 23 Nov 2026 11:21:28 +0000",
+  "comuni": [
+   "Castellammare di Stabia"
+  ],
+  "visto": "2026-11-23T12:13:12+00:00"
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-23-121514.png",
+  "titolo": "A Vico Equense nasce «Todos, todos, todos»: la nuova casa diocesana per i giovani",
+  "link": "https://www.metropolisweb.it/2026/11/23/a-vico-equense-nasce-todos-todos-todos-la-nuova-casa-diocesana-per-i-giovani/",
+  "fonte": "Metropolis",
+  "data": "Mon, 23 Nov 2026 11:16:20 +0000",
+  "comuni": [],
+  "visto": "2026-11-23T12:13:12+00:00"
+ },
+ {
+  "img": "https://www.vesuviolive.it/wp-content/uploads/sites/6/2026/11/Raccolta-delle-olive.jpg",
+  "titolo": "Crolla il prezzo delle olive, la crisi travolge il Sud: il Governo non risponde, così il Mezzogiorno muore",
+  "link": "https://www.vesuviolive.it/ultime-notizie/economia/547915-crolla-il-prezzo-delle-olive-la-crisi-travolge-il-sud-il-governo-non-risponde-cosi-il-mezzogiorno-muore/",
+  "fonte": "VesuvioLive",
+  "data": "Mon, 23 Nov 2026 11:13:23 +0000",
+  "comuni": [],
+  "visto": "2026-11-23T12:13:12+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://www.loravesuviana.it/wp-content/uploads/2026/11/vincenzo-saviano.png-1024x641.webp",
+  "titolo": "Una battuta di caccia nell’avellinese finisce in tragedia: com’è morto Vincenzo Saviano?",
+  "link": "https://www.loravesuviana.it/news/vincenzo-saviano.html/",
+  "fonte": "L'Ora Vesuviana",
+  "data": "Mon, 23 Nov 2026 11:08:55 +0000",
+  "comuni": [
+   "Saviano"
+  ],
+  "visto": "2026-11-23T12:13:12+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2025/10/Screenshot-2025-09-19-111710.png",
+  "titolo": "San Giuseppe Vesuviano: ora è ufficiale Forza Italia «blinda» la poltrona di Sepe",
+  "link": "https://www.metropolisweb.it/2026/11/23/san-giuseppe-vesuviano-ora-e-ufficiale-forza-italia-blinda-la-poltrona-di-sepe/",
+  "fonte": "Metropolis",
+  "data": "Mon, 23 Nov 2026 11:07:19 +0000",
+  "comuni": [
+   "San Giuseppe Vesuviano"
+  ],
+  "visto": "2026-11-23T12:13:12+00:00"
+ },
+ {
+  "img": "https://www.laprovinciaonline.info/wp-content/uploads/2015/12/logo-2.png",
+  "titolo": "Festival del Cinema dei Diritti Umani di Napoli: i vincitori della XVIII edizione",
+  "link": "https://www.laprovinciaonline.info/festival-del-cinema-dei-diritti-umani-di-napoli-i-vincitori-della-xviii-edizione/",
+  "fonte": "La Provincia Online",
+  "data": "Mon, 23 Nov 2026 11:02:17 +0000",
+  "comuni": [],
+  "visto": "2026-11-23T12:13:12+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://cdn13.webmaster360.it/2026/11/covers/HZj0EeVADLBQ3z6UeLJrTjsxgMbSRPSzVh0C1FZM.jpg",
+  "titolo": "Muore a caccia, Ottaviano piange Vincenzo",
+  "link": "https://www.ilfattovesuviano.it/2026/11/muore-a-caccia-ottaviano-piange-vincenzo",
+  "fonte": "Il Fatto Vesuviano",
+  "data": "Mon, 23 Nov 2026 11:00:00 +0000",
+  "comuni": [
+   "Ottaviano"
+  ],
+  "visto": "2026-11-23T12:13:12+00:00"
+ },
+ {
+  "img": "https://www.loravesuviana.it/wp-content/uploads/2026/11/g01-300x169.jpg",
+  "titolo": "Criminalità economico-finanziaria, istituito un gruppo di lavoro in Procura Generale supportato da Agenzia delle Entrate e Guardia di Finanza",
+  "link": "https://www.loravesuviana.it/news/criminalita-economico-finanziaria-istituito-un-gruppo-di-lavoro-in-procura-generale.html/",
+  "fonte": "L'Ora Vesuviana",
+  "data": "Mon, 23 Nov 2026 10:56:14 +0000",
+  "comuni": [],
+  "visto": "2026-11-23T12:13:12+00:00"
+ },
+ {
+  "img": "https://www.loravesuviana.it/wp-content/uploads/2026/11/1e654ea218e28202344906a9cb990cbd.webp",
+  "titolo": "Eav rafforza l’offerta sulle linee vesuvianeIl collegamento alle 5,54 via Ottaviano per Napoli",
+  "link": "https://www.loravesuviana.it/news/orari-circumvesuviiana.html/",
+  "fonte": "L'Ora Vesuviana",
+  "data": "Mon, 23 Nov 2026 10:32:37 +0000",
+  "comuni": [
+   "Ottaviano"
+  ],
+  "visto": "2026-11-23T12:13:12+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/11/Foto-Box-Grande-gli-chef.jpeg",
+  "titolo": "Il 25 all’Ostaria Pignatelli si parte dal vino per una cena costruita con il giusto abbinamento",
+  "link": "https://www.metropolisweb.it/2026/11/23/il-25-allostaria-pignatelli-si-parte-dal-vino-per-una-cena-costruita-con-il-giusto-abbinamento/",
+  "fonte": "Metropolis",
+  "data": "Mon, 23 Nov 2026 10:31:23 +0000",
+  "comuni": [],
+  "visto": "2026-11-23T12:13:12+00:00"
+ },
+ {
+  "img": "https://www.vesuviolive.it/wp-content/uploads/sites/6/2024/11/presepe-vivente-pimonte.jpg",
+  "titolo": "Apre il Presepe Vivente Napoletano, oltre 2 km di incanto: sembrerà di stare a Betlemme",
+  "link": "https://www.vesuviolive.it/eventi/547914-presepe-vivente-pimonte-2026-biglietti-date/",
+  "fonte": "VesuvioLive",
+  "data": "Mon, 23 Nov 2026 10:28:11 +0000",
+  "comuni": [],
+  "visto": "2026-11-23T12:13:12+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://www.loravesuviana.it/wp-content/uploads/2026/11/fr1-9212A214288C-E6F0-CDB2-D33F-5D5F7ECFE75D-1024x640-1.jpg",
+  "titolo": "Camera di Commercio Napoli: il ministro Urso dispone l’ispezione. “Piena chiarezza a tutela delle imprese, agiremo con il massimo rigore”",
+  "link": "https://www.loravesuviana.it/news/camera-di-commercio-napoli-il-ministro-urso-dispone-lispezione.html/",
+  "fonte": "L'Ora Vesuviana",
+  "data": "Mon, 23 Nov 2026 10:26:13 +0000",
+  "comuni": [],
+  "visto": "2026-11-23T12:13:12+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://www.loravesuviana.it/wp-content/uploads/2022/10/violenza-minori.jpg",
+  "titolo": "Abusi su 12enne a Casalnuovo, il processo si celebrerà con rito immediato: ilGip di Nola accoglie l’istanza del pm e fissa l’udienza per il primo dicembre",
+  "link": "https://www.loravesuviana.it/news/abusi-su-12enne-a-casalnuovo.html/",
+  "fonte": "L'Ora Vesuviana",
+  "data": "Mon, 23 Nov 2026 10:22:39 +0000",
+  "comuni": [
+   "Nola"
+  ],
+  "visto": "2026-11-23T12:13:12+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://www.loravesuviana.it/wp-content/uploads/2026/11/f5da58b1249b7dd3cf489b2587725b16.webp",
+  "titolo": "Champions league: il romeno Kovács arbitra Manchester City-Napoli, per Como-Aek Atene designato lo spagnolo Alberola Rojas",
+  "link": "https://www.loravesuviana.it/news/manchester-city-napoli.html/",
+  "fonte": "L'Ora Vesuviana",
+  "data": "Mon, 23 Nov 2026 10:19:09 +0000",
+  "comuni": [],
+  "visto": "2026-11-23T12:13:12+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://www.loravesuviana.it/wp-content/uploads/2026/11/image-3-1024x768.webp",
+  "titolo": "Colpo in gioielleria a Pomigliano d’Arco, indagano i carabinieri",
+  "link": "https://www.loravesuviana.it/news/colpo-in-gioielleria-a-pomigliano-darco.html/",
+  "fonte": "L'Ora Vesuviana",
+  "data": "Mon, 23 Nov 2026 10:17:23 +0000",
+  "comuni": [],
+  "visto": "2026-11-23T12:13:12+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/11/Ritratto-Renatook.jpg",
+  "titolo": "Dal 26 sul canale Food “La Sfida delle Torte” con Renato Ardovino e Valeria Graci",
+  "link": "https://www.metropolisweb.it/2026/11/23/dal-26-sul-canale-food-la-sfida-delle-torte-con-renato-ardovino-e-valeria-graci/",
+  "fonte": "Metropolis",
+  "data": "Mon, 23 Nov 2026 10:07:50 +0000",
+  "comuni": [],
+  "visto": "2026-11-23T12:13:12+00:00"
+ },
+ {
+  "img": "https://cdn13.webmaster360.it/2026/11/covers/01M83KF79V8X2N5RTKK11JQHYZ.jpg",
+  "titolo": "I reflui finiscono in strada, scatta l'allarme ambientale",
+  "link": "https://www.ilfattovesuviano.it/2026/11/i-reflui-finiscono-in-strada-scatta-lallarme-ambientale",
+  "fonte": "Il Fatto Vesuviano",
+  "data": "Mon, 23 Nov 2026 10:00:00 +0000",
+  "comuni": [],
+  "visto": "2026-11-23T12:13:12+00:00"
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/11/unnamed-1024x768.jpg",
+  "titolo": "Il nuovo album di Daniel Seven vola fino in Giappone",
+  "link": "https://www.metropolisweb.it/2026/11/23/il-nuovo-album-di-daniel-seven-vola-fino-in-giappone/",
+  "fonte": "Metropolis",
+  "data": "Mon, 23 Nov 2026 09:32:47 +0000",
+  "comuni": [],
+  "visto": "2026-11-23T12:13:12+00:00"
+ },
+ {
+  "img": "https://cdn13.webmaster360.it/2026/11/covers/IX7jBjaKIO8lG23pIiuBGtByqvtopJGo0YE1eLk2.jpg",
+  "titolo": "Videochiamata con la foto del carabiniere rubata, truffa in atto",
+  "link": "https://www.ilfattovesuviano.it/2026/11/videochiamata-con-la-foto-del-carabiniere-rubata-truffa-in-atto",
+  "fonte": "Il Fatto Vesuviano",
+  "data": "Mon, 23 Nov 2026 09:30:00 +0000",
+  "comuni": [],
+  "visto": "2026-11-23T12:13:12+00:00"
+ },
+ {
+  "img": "https://www.vesuviolive.it/wp-content/uploads/sites/6/2026/01/largo-maradona-nuovo.jpg",
+  "titolo": "Apre al pubblico il nuovo Largo Maradona: rinasce uno dei posti più famosi di Napoli",
+  "link": "https://www.vesuviolive.it/ultime-notizie/547912-largo-maradona-quartieri-spagnoli-napoli/",
+  "fonte": "VesuvioLive",
+  "data": "Mon, 23 Nov 2026 09:19:41 +0000",
+  "comuni": [],
+  "visto": "2026-11-23T12:13:12+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/11/policastro.jpg",
+  "titolo": "Nasce un pool contro la criminalità economico finanziaria",
+  "link": "https://www.metropolisweb.it/2026/11/23/nasce-un-pool-contro-la-criminalita-economico-finanziaria/",
+  "fonte": "Metropolis",
+  "data": "Mon, 23 Nov 2026 09:08:07 +0000",
+  "comuni": [],
+  "visto": "2026-11-23T12:13:12+00:00"
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-23-alle-10.01.14.png",
+  "titolo": "Maxi tamponamento sulla Napoli-Salerno, traffico in tilt",
+  "link": "https://www.metropolisweb.it/2026/11/23/maxi-tamponamento-sulla-napoli-salerno-traffico-in-tilt/",
+  "fonte": "Metropolis",
+  "data": "Mon, 23 Nov 2026 09:01:59 +0000",
+  "comuni": [],
+  "visto": "2026-11-23T12:13:12+00:00"
+ },
+ {
+  "img": "https://cdn13.webmaster360.it/2026/11/covers/01M83JZ764JS4S6B9Z9YM15XKN.jpg",
+  "titolo": "Nasce la candelina sospesa: ogni bambino ha diritto alla torta di compleanno",
+  "link": "https://www.ilfattovesuviano.it/2026/11/nasce-la-candelina-sospesa-ogni-bambino-ha-diritto-alla-torta-di-compleanno",
+  "fonte": "Il Fatto Vesuviano",
+  "data": "Mon, 23 Nov 2026 09:00:00 +0000",
+  "comuni": [],
+  "visto": "2026-11-23T12:13:12+00:00"
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/11/Enrico-Ditto-1024x682.jpg",
+  "titolo": "Violenza giovanile, Ditto: «Prendersela con GTA è come dare a Super Mario la colpa delle tubature rotte»",
+  "link": "https://www.metropolisweb.it/2026/11/23/violenza-giovanile-ditto-prendersela-con-gta-e-come-dare-a-super-mario-la-colpa-delle-tubature-rotte/",
+  "fonte": "Metropolis",
+  "data": "Mon, 23 Nov 2026 08:49:23 +0000",
+  "comuni": [],
+  "visto": "2026-11-23T12:13:12+00:00"
+ },
+ {
+  "img": "https://www.vesuviolive.it/wp-content/uploads/sites/6/2026/11/telescopio-giordano-bruno-federico-ii.jpg",
+  "titolo": "A Napoli l’eccellenza dell’astrofisica: arriva uno dei Telescopi più grandi d’Europa",
+  "link": "https://www.vesuviolive.it/ultime-notizie/547909-napoli-telescopi-grandi-europa-monte-santangelo/",
+  "fonte": "VesuvioLive",
+  "data": "Mon, 23 Nov 2026 08:37:09 +0000",
+  "comuni": [],
+  "visto": "2026-11-23T12:13:12+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://www.ilmediano.com/wp-content/uploads/2017/09/CACCIA.jpg",
+  "titolo": "Ottaviano sotto choc, muore durante una battuta di caccia: colpito alla testa da un proiettile",
+  "link": "https://www.ilmediano.com/ottaviano-sotto-choc-muore-durante-una-battuta-di-caccia-colpito-alla-testa-da-un-proiettile/",
+  "fonte": "Il Mediano",
+  "data": "Mon, 23 Nov 2026 08:32:08 +0000",
+  "comuni": [
+   "Ottaviano"
+  ],
+  "visto": "2026-11-23T12:13:12+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://cdn13.webmaster360.it/2026/11/covers/01M82MFXN2RDW1MQ0W01TNM6R3.jpg",
+  "titolo": "Camera degli ospiti compatta: scegliere tra letto singolo e posto estraibile",
+  "link": "https://www.ilfattovesuviano.it/2026/11/camera-degli-ospiti-compatta-scegliere-tra-letto-singolo-e-posto-estraibile",
+  "fonte": "Il Fatto Vesuviano",
+  "data": "Mon, 23 Nov 2026 08:30:00 +0000",
+  "comuni": [],
+  "visto": "2026-11-23T12:13:12+00:00"
+ },
+ {
+  "img": "https://www.vesuviolive.it/wp-content/uploads/sites/6/2026/11/ricercatori-federico-ii.jpeg",
+  "titolo": "Napoli prima in Italia per gli scienziati più influenti al mondo 2026: chi sono",
+  "link": "https://www.vesuviolive.it/ultime-notizie/547906-napoli-scienziati-federico-ii-influenti-mondo-classifica-2026/",
+  "fonte": "VesuvioLive",
+  "data": "Mon, 23 Nov 2026 08:15:51 +0000",
+  "comuni": [],
+  "visto": "2026-11-23T12:13:12+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/11/00d5eb8c9d07c66c677597e7da47cfc4.jpg",
+  "titolo": "Banditi assaltano una gioielleria a Pomigliano, vetrine spaccate e collane rubate",
+  "link": "https://www.metropolisweb.it/2026/11/23/banditi-assaltano-una-gioielleria-a-pomigliano-vetrine-spaccate-e-collane-rubate/",
+  "fonte": "Metropolis",
+  "data": "Mon, 23 Nov 2026 08:10:58 +0000",
+  "comuni": [],
+  "visto": "2026-11-23T12:13:12+00:00"
+ },
+ {
+  "img": "https://www.cronachedellacampania.it/wp-content/uploads/2026/11/crossroads-vesuvius-a-torre-del-greco-il-set-europeo-che-porta-il-vesuvio-sul-grande-schermo.jpg",
+  "titolo": "Crossroads Vesuvius a Torre del Greco: il set europeo che porta il Vesuvio sul grande schermo",
+  "link": "https://www.cronachedellacampania.it/2026/11/crossroads-vesuvius-torre-greco-set-europeo-porta-vesuvio-grande/",
+  "fonte": "Cronache della Campania",
+  "data": "Mon, 23 Nov 2026 08:10:43 +0000",
+  "comuni": [
+   "Torre del Greco"
+  ],
+  "visto": "2026-11-23T12:13:12+00:00"
+ },
+ {
+  "img": "https://internapoli.it/mato.clanto.cloud/piwik.php?idsite=6&rec=1&url=https%3A%2F%2Finternapoli.it%2Flutto-nel-napoletano-vincenzo-ucciso-dal-colpo-di-fucile-durante-la-caccia%2F&action_name=Lutto%20nel%20Napoletano%2C%20Vincenzo%20ucciso%20dal%20colpo%20di%20fucile%20durante%20la%20caccia&urlref=https%3A%2F%2Finternapoli.it%2Ffeed%2F",
+  "titolo": "Lutto nel Napoletano, Vincenzo ucciso dal colpo di fucile durante la caccia",
+  "link": "https://internapoli.it/lutto-nel-napoletano-vincenzo-ucciso-dal-colpo-di-fucile-durante-la-caccia/",
+  "fonte": "Internapoli",
+  "data": "Mon, 23 Nov 2026 08:09:02 +0000",
+  "comuni": [],
+  "visto": "2026-11-23T12:13:12+00:00"
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2025/06/CARABINIERI-5-1024x682.jpg",
+  "titolo": "Il finto carabiniere mostra un falso profilo whatsapp e svuota la cassaforte della vittima",
+  "link": "https://www.metropolisweb.it/2026/11/23/il-finto-carabiniere-mostra-un-falso-profilo-whatsapp-e-svuota-la-cassaforte-della-vittima/",
+  "fonte": "Metropolis",
+  "data": "Mon, 23 Nov 2026 08:03:08 +0000",
+  "comuni": [],
+  "visto": "2026-11-23T12:13:12+00:00"
+ },
+ {
+  "img": "https://cdn13.webmaster360.it/2026/11/covers/zJcNv4LHvdnfnsWOLMSBl3UWSNM2IkvOI3Nq09Hs.jpg",
+  "titolo": "Assicurazioni per gli avvocato verso il salasso, aumentano i massimali",
+  "link": "https://www.ilfattovesuviano.it/2026/11/assicurazioni-per-gli-avvocato-verso-il-salasso-aumentano-i-massimali",
+  "fonte": "Il Fatto Vesuviano",
+  "data": "Mon, 23 Nov 2026 08:00:00 +0000",
+  "comuni": [],
+  "visto": "2026-11-23T12:13:12+00:00"
+ },
+ {
+  "img": "https://www.ilmediano.com/wp-content/uploads/2021/11/ladri.jpg",
+  "titolo": "Castello di Cisterna, assalto alla gioielleria: sfondano la vetrina e fuggono con i preziosi",
+  "link": "https://www.ilmediano.com/castello-di-cisterna-assalto-alla-gioielleria-sfondano-la-vetrina-e-fuggono-con-i-preziosi/",
+  "fonte": "Il Mediano",
+  "data": "Mon, 23 Nov 2026 07:50:13 +0000",
+  "comuni": [],
+  "visto": "2026-11-23T12:13:12+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://cdn13.webmaster360.it/2026/11/covers/7rEAGdgEq2yavGtqhZKJmT07ZjbLEciPcbQ9qFFk.jpg",
+  "titolo": "Disoccupati, partono i tirocini da 600 euro al mese",
+  "link": "https://www.ilfattovesuviano.it/2026/11/disoccupati-partono-i-tirocini-da-600-euro-al-mese",
+  "fonte": "Il Fatto Vesuviano",
+  "data": "Mon, 23 Nov 2026 07:30:00 +0000",
+  "comuni": [],
+  "visto": "2026-11-23T12:13:12+00:00"
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/11/5ae884de-e98c-44b6-ae41-b0021dc883e9.jpeg",
+  "titolo": "La Cittadella rompe il digiuno: prima vittoria stagionale",
+  "link": "https://www.metropolisweb.it/2026/11/23/la-cittadella-rompe-il-digiuno-prima-vittoria-stagionale/",
+  "fonte": "Metropolis",
+  "data": "Mon, 23 Nov 2026 07:20:39 +0000",
+  "comuni": [],
+  "visto": "2026-11-23T12:13:12+00:00"
+ },
+ {
+  "img": "https://cdn13.webmaster360.it/2026/11/covers/01M83JB1RKHAPBSNZYAMF5N9PS.jpg",
+  "titolo": "Violento frontale tra auto e furgone tra San Giuseppe e Poggiomarino",
+  "link": "https://www.ilfattovesuviano.it/2026/11/violento-frontale-tra-auto-e-furgone-tra-san-giuseppe-e-poggiomarino",
+  "fonte": "Il Fatto Vesuviano",
+  "data": "Mon, 23 Nov 2026 07:00:00 +0000",
+  "comuni": [
+   "Poggiomarino"
+  ],
+  "visto": "2026-11-23T12:13:12+00:00"
+ },
+ {
+  "img": "https://www.ilmediano.com/wp-content/uploads/2026/11/OLIMPIADIMAT-scaled.jpg",
+  "titolo": "Olimpiadi del sapere “Ambrosiane”, a Pomigliano D’Arco una sfida tra cultura, logica e creatività",
+  "link": "https://www.ilmediano.com/olimpiadi-del-sapere-ambrosiane-a-pomigliano-darco-una-sfida-tra-cultura-logica-e-creativita/",
+  "fonte": "Il Mediano",
+  "data": "Mon, 23 Nov 2026 06:55:16 +0000",
+  "comuni": [],
+  "visto": "2026-11-23T12:13:12+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://cdn13.webmaster360.it/2026/11/covers/01M8300VZ6AV0CH66RR22GNYAR.jpg",
+  "titolo": "Rissa in campo, arrivano le ambulanze",
+  "link": "https://www.ilfattovesuviano.it/2026/11/rissa-in-campo-arrivano-le-ambulanze",
+  "fonte": "Il Fatto Vesuviano",
+  "data": "Mon, 23 Nov 2026 06:00:00 +0000",
+  "comuni": [],
+  "visto": "2026-11-23T12:13:12+00:00"
+ },
+ {
+  "img": "https://www.cronachedellacampania.it/wp-content/uploads/2026/11/c-7xti.jpg",
+  "titolo": "Morte del cacciatore di Ottaviano, la Procura apre un fascicolo: traiettoria e posizioni al setaccio",
+  "link": "https://www.cronachedellacampania.it/2026/11/morte-cacciatore-ottaviano-procura-apre-fascicolo-traiettoria/",
+  "fonte": "Cronache della Campania",
+  "data": "Mon, 23 Nov 2026 05:58:44 +0000",
+  "comuni": [
+   "Ottaviano"
+  ],
+  "visto": "2026-11-23T12:13:12+00:00"
+ },
+ {
+  "img": "https://www.ilmediano.com/wp-content/uploads/2026/11/CECEREPANETTONECIOCCOLATO.jpg",
+  "titolo": "Il panettone al cioccolato più buono del mondo nasce nell’area nord di Napoli: trionfa Gianluca Cecere",
+  "link": "https://www.ilmediano.com/il-panettone-al-cioccolato-piu-buono-del-mondo-nasce-nellarea-nord-di-napoli-trionfa-gianluca-cecere/",
+  "fonte": "Il Mediano",
+  "data": "Mon, 23 Nov 2026 05:50:54 +0000",
+  "comuni": [],
+  "visto": "2026-11-23T12:13:12+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://www.ilmediano.com/wp-content/uploads/2026/11/SAMARIACASTELLO.jpg",
+  "titolo": "Universo Castello: una nuova visione per restituire futuro, bellezza e identità a Somma Vesuviana",
+  "link": "https://www.ilmediano.com/universo-castello-una-nuova-visione-per-restituire-futuro-bellezza-e-identita-a-somma-vesuviana/",
+  "fonte": "Il Mediano",
+  "data": "Mon, 23 Nov 2026 05:50:02 +0000",
+  "comuni": [
+   "Somma Vesuviana"
+  ],
+  "visto": "2026-11-23T12:13:12+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://www.ilmediano.com/wp-content/uploads/2025/07/rubrica-benessere-e-salute-peppe-auriemma.jpg",
+  "titolo": "Il corpo delle donne tra mente, cultura, storia e diritto alla parola",
+  "link": "https://www.ilmediano.com/il-corpo-delle-donne-tra-mente-cultura-storia-e-diritto-alla-parola/",
+  "fonte": "Il Mediano",
+  "data": "Mon, 23 Nov 2026 05:47:45 +0000",
+  "comuni": [],
+  "visto": "2026-11-23T12:13:12+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://cdn13.webmaster360.it/2026/11/covers/01M82ZVZ44T950ZTGHMHFVM31Z.jpg",
+  "titolo": "Morto a San Valentino Torio, la vittima aveva 40 anni",
+  "link": "https://www.ilfattovesuviano.it/2026/11/morto-a-san-valentino-torio-la-vittima-aveva-40-anni",
+  "fonte": "Il Fatto Vesuviano",
+  "data": "Mon, 23 Nov 2026 05:00:00 +0000",
+  "comuni": [],
+  "visto": "2026-11-23T12:13:12+00:00"
+ },
+ {
   "img": "https://www.cronachedellacampania.it/wp-content/uploads/2026/11/Comune-di-Terzigno-concorso-pubblico-per-Istruttore-Amminis-1795393374.jpg",
   "titolo": "Comune di Terzigno: concorso pubblico per Istruttore Amministrativo nell’Ufficio di Staff, scadenza 26 novembre 2026",
   "link": "https://www.cronachedellacampania.it/2026/11/comune-terzigno-concorso-pubblico-istruttore-amministrativo/",
@@ -366,7 +858,7 @@
   "visto": "2026-11-22T17:03:22+00:00"
  },
  {
-  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/11/caccia.jpg",
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/11/vincenzo-saviano-1024x641.png",
   "titolo": "Incidente di caccia, 62enne di Ottaviano morto in Irpinia",
   "link": "https://www.metropolisweb.it/2026/11/22/incidente-di-caccia-un-uomo-di-60-anni-del-napoletano-morto-in-irpinia/",
   "fonte": "Metropolis",
