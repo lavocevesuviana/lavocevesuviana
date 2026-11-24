@@ -140,6 +140,11 @@ def guscio(titolo, contenuto, prof=0, social="", canonico=""):
 <link rel="stylesheet" href="{su}style.css?v={ver}">
 <link rel="icon" href="{su}favicon.png">
 {canonico}{social}
+<!-- Conteggio delle letture. Non usa cookie e non identifica nessuno, quindi
+     non serve la fascia del consenso. Se un giorno si volesse spegnere, basta
+     togliere questa riga: il sito funziona identico. -->
+<script data-goatcounter="https://lavocevesuviana.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>
 </head><body>
 <header class="testata">
   <a class="marchio" href="{su}index.html">
