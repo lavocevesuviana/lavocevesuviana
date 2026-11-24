@@ -1,5 +1,674 @@
 [
  {
+  "img": "https://www.vesuvianonews.it/wp-content/uploads/2026/11/9c08a214-83c6-4188-8b6a-4ae8ffcf0489-324x400.jpg",
+  "titolo": "A Ottaviano il Mercato della Terra Panìere Vesuviano: domenica prodotti locali, laboratori e attività per bambini",
+  "link": "https://www.vesuvianonews.it/mercato-della-terra-ottaviano-paniere-vesuviano-29-novembre/",
+  "fonte": "Vesuviano News",
+  "data": "Mon, 23 Nov 2026 22:48:56 +0000",
+  "comuni": [
+   "Ottaviano"
+  ],
+  "visto": "2026-11-24T00:06:51+00:00"
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/03/Penisola-Sorrentina-Paesaggio.jpg",
+  "titolo": "Blitz ai Di Martino, il gip: «A Vico Equense comanda la cosca di Iuvani»",
+  "link": "https://www.metropolisweb.it/2026/11/23/blitz-ai-di-martino-il-gip-a-vico-equense-comanda-la-cosca-di-iuvani/",
+  "fonte": "Metropolis",
+  "data": "Mon, 23 Nov 2026 22:30:17 +0000",
+  "comuni": [],
+  "visto": "2026-11-24T00:06:51+00:00"
+ },
+ {
+  "img": "https://www.loravesuviana.it/wp-content/uploads/2026/11/912348663_1192879980360273_2024299701763294823_n.jpg",
+  "titolo": "VOLLA, COOPERATIVA ZAGARA IN LIQUIDAZIONE COATTA: QUALI CONSEGUENZE PER I PROPRIETARI DI PARCO ZAGARA?",
+  "link": "https://www.loravesuviana.it/news/cooperativa-zagara-in-liquidazione-coatta.html/",
+  "fonte": "L'Ora Vesuviana",
+  "data": "Mon, 23 Nov 2026 22:27:53 +0000",
+  "comuni": [
+   "Volla"
+  ],
+  "visto": "2026-11-24T00:06:51+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://www.vesuvianonews.it/wp-content/uploads/2026/11/Presentazione-Libro-Afghanistan-incontro-culturale-a-Palazzo-Cassano.png",
+  "titolo": "Portici, l’Afghanistan al centro di un incontro culturale con l’ambasciatore e gli studenti del liceo Flacco",
+  "link": "https://www.vesuvianonews.it/afghanistan-incontro-culturale-portici-palazzo-cassano/",
+  "fonte": "Vesuviano News",
+  "data": "Mon, 23 Nov 2026 22:25:57 +0000",
+  "comuni": [
+   "Portici"
+  ],
+  "visto": "2026-11-24T00:06:51+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://www.vesuvianonews.it/wp-content/uploads/2026/11/Buoni-libro-a-Pollena-Trocchia.png",
+  "titolo": "Pollena Trocchia, al via la consegna dei buoni libro per l’anno scolastico 2026/27",
+  "link": "https://www.vesuvianonews.it/pollena-trocchia-consegna-buoni-libro-2026-2027/",
+  "fonte": "Vesuviano News",
+  "data": "Mon, 23 Nov 2026 22:20:03 +0000",
+  "comuni": [
+   "Pollena Trocchia"
+  ],
+  "visto": "2026-11-24T00:06:51+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://www.vesuvianonews.it/wp-content/uploads/2026/11/i-mostri-di-ponticelli.jpg",
+  "titolo": "Massacro di Ponticelli, a San Giorgio a Cremano un incontro per riaprire il dibattito sulla vicenda giudiziaria",
+  "link": "https://www.vesuvianonews.it/massacro-ponticelli-incontro-san-giorgio-a-cremano/",
+  "fonte": "Vesuviano News",
+  "data": "Mon, 23 Nov 2026 22:12:24 +0000",
+  "comuni": [],
+  "visto": "2026-11-24T00:06:51+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://www.laprovinciaonline.info/wp-content/uploads/2015/12/logo-2.png",
+  "titolo": "Violenza giovanile, Ditto: «Prendersela con GTA VI è come dare a Super Mario la colpa delle tubature rotte»",
+  "link": "https://www.laprovinciaonline.info/violenza-giovanile-ditto-prendersela-con-gta-vi-e-come-dare-a-super-mario-la-colpa-delle-tubature-rotte/",
+  "fonte": "La Provincia Online",
+  "data": "Mon, 23 Nov 2026 21:59:48 +0000",
+  "comuni": [],
+  "visto": "2026-11-24T00:06:51+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://www.cronachedellacampania.it/wp-content/uploads/2024/09/mariarosariaboccia.jpg",
+  "titolo": "Truffò un amico per un progetto ‘fantasma’: a Pisa inizia il processo per Lady Boccia",
+  "link": "https://www.cronachedellacampania.it/2026/11/truffo-amico-progetto-fantasma-pisa-inizia-processo-lady-boccia/",
+  "fonte": "Cronache della Campania",
+  "data": "Mon, 23 Nov 2026 19:34:53 +0000",
+  "comuni": [],
+  "visto": "2026-11-24T00:06:51+00:00"
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/11/villa-delle-ginestre-giorno-1024x643.jpg",
+  "titolo": "«Se vi va chiamatemi Giacomino»: a Torre del Greco spettacolo gratuito a Villa delle Ginestre in memoria di Leopardi",
+  "link": "https://www.metropolisweb.it/2026/11/23/se-vi-va-chiamatemi-giacomino-a-torre-del-greco-spettacolo-gratuito-a-villa-delle-ginestre-in-memoria-di-leopardi/",
+  "fonte": "Metropolis",
+  "data": "Mon, 23 Nov 2026 19:24:17 +0000",
+  "comuni": [
+   "Torre del Greco"
+  ],
+  "visto": "2026-11-24T00:06:51+00:00"
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/11/Giovanna-Romano-2-1024x768.jpg",
+  "titolo": "Torre del Greco, il Lions Club premia l’attore Mahieux come «eccellenza del territorio»",
+  "link": "https://www.metropolisweb.it/2026/11/23/torre-del-greco-il-lions-club-premia-lattore-mahieux-come-eccellenza-del-territorio/",
+  "fonte": "Metropolis",
+  "data": "Mon, 23 Nov 2026 19:21:14 +0000",
+  "comuni": [
+   "Torre del Greco"
+  ],
+  "visto": "2026-11-24T00:06:51+00:00"
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/11/Schermata-2026-11-21-alle-13.07.58-1.png",
+  "titolo": "Castellammare | Bambino morto, la famiglie chiede un milione all’Asl",
+  "link": "https://www.metropolisweb.it/2026/11/23/castellammare-bambino-morto-la-famiglie-chiede-un-milione-allasl/",
+  "fonte": "Metropolis",
+  "data": "Mon, 23 Nov 2026 19:00:17 +0000",
+  "comuni": [
+   "Castellammare di Stabia"
+  ],
+  "visto": "2026-11-24T00:06:51+00:00"
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/11/WhatsApp-Image-2026-11-23-at-19.20.46-769x1024.jpeg",
+  "titolo": "Gragnano, il sindaco D’Auria premia il coraggio di Chiara",
+  "link": "https://www.metropolisweb.it/2026/11/23/gragnano-il-sindaco-dauria-premia-il-coraggio-di-chiara/",
+  "fonte": "Metropolis",
+  "data": "Mon, 23 Nov 2026 18:49:00 +0000",
+  "comuni": [],
+  "visto": "2026-11-24T00:06:51+00:00"
+ },
+ {
+  "img": "https://www.cronachedellacampania.it/wp-content/uploads/2026/07/polizia-di-stato-controlli-rafforzati-nei-quartieri-spagnoli-100-identificate-e-33-veicoli-ispezionati.jpg",
+  "titolo": "Torre del Greco, 19enne arrestato con targa contraffatta e falso tesserino delle forze dell’ordine",
+  "link": "https://www.cronachedellacampania.it/2026/11/torre-greco-19enne-arrestato-targa-contraffatta-falso-tesserino/",
+  "fonte": "Cronache della Campania",
+  "data": "Mon, 23 Nov 2026 18:42:35 +0000",
+  "comuni": [
+   "Torre del Greco"
+  ],
+  "visto": "2026-11-24T00:06:51+00:00"
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/11/Schermata-2026-11-23-alle-19.23.17.png",
+  "titolo": "Casola | Nuovo parroco alla chiesa di Sant’Andrea",
+  "link": "https://www.metropolisweb.it/2026/11/23/casola-nuovo-parroco-alla-chiesa-di-santandrea/",
+  "fonte": "Metropolis",
+  "data": "Mon, 23 Nov 2026 18:23:39 +0000",
+  "comuni": [],
+  "visto": "2026-11-24T00:06:51+00:00"
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/11/Schermata-2026-11-21-alle-12.07.05-1.png",
+  "titolo": "Pimonte | Ok in consiglio al nuovo Peba",
+  "link": "https://www.metropolisweb.it/2026/11/23/pimonte-ok-in-consiglio-al-nuovo-peba/",
+  "fonte": "Metropolis",
+  "data": "Mon, 23 Nov 2026 18:16:07 +0000",
+  "comuni": [],
+  "visto": "2026-11-24T00:06:51+00:00"
+ },
+ {
+  "img": "https://www.ilmediano.com/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-23-at-10.00.03.jpeg",
+  "titolo": "Acerra al voto, si presenta la segreteria locale di Progetto Civico Italia",
+  "link": "https://www.ilmediano.com/acerra-al-voto-si-presenta-la-segreteria-locale-di-progetto-civico-italia/",
+  "fonte": "Il Mediano",
+  "data": "Mon, 23 Nov 2026 18:02:19 +0000",
+  "comuni": [],
+  "visto": "2026-11-24T00:06:51+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://internapoli.it/mato.clanto.cloud/piwik.php?idsite=6&rec=1&url=https%3A%2F%2Finternapoli.it%2Ffinto-carabiniere-tenta-di-sfuggire-alla-polizia-con-la-targa-contraffatta-beccato-nel-napoletano%2F&action_name=Finto%20carabiniere%20tenta%20di%20sfuggire%20alla%20polizia%20con%20la%20targa%20contraffatta%2C%20beccato%20nel%20Napoletano&urlref=https%3A%2F%2Finternapoli.it%2Ffeed%2F",
+  "titolo": "Finto carabiniere tenta di sfuggire alla polizia con la targa contraffatta, beccato nel Napoletano",
+  "link": "https://internapoli.it/finto-carabiniere-tenta-di-sfuggire-alla-polizia-con-la-targa-contraffatta-beccato-nel-napoletano/",
+  "fonte": "Internapoli",
+  "data": "Mon, 23 Nov 2026 17:41:07 +0000",
+  "comuni": [],
+  "visto": "2026-11-24T00:06:51+00:00"
+ },
+ {
+  "img": "https://www.laprovinciaonline.info/wp-content/uploads/2026/11/IMG-20261123-WA0064.jpg",
+  "titolo": "Prestigioso riconoscimento per il tenore ottavianese Aniello Sepe, premiato dal Lions Club tra le eccellenze del territorio",
+  "link": "https://www.laprovinciaonline.info/prestigioso-riconoscimento-per-il-tenore-ottavianese-aniello-sepe-premiato-dal-lions-club-tra-le-eccellenze-del-territorio/",
+  "fonte": "La Provincia Online",
+  "data": "Mon, 23 Nov 2026 17:38:22 +0000",
+  "comuni": [],
+  "visto": "2026-11-24T00:06:51+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2025/03/carotenuto-e1740831210500-1024x584.jpg",
+  "titolo": "A Boscotrecase una panchina rossa nel ricordo di Giulia e Thiago",
+  "link": "https://www.metropolisweb.it/2026/11/23/a-boscotrecase-una-panchina-rossa-nel-ricordo-di-giulia-e-thiago/",
+  "fonte": "Metropolis",
+  "data": "Mon, 23 Nov 2026 17:26:58 +0000",
+  "comuni": [
+   "Boscotrecase"
+  ],
+  "visto": "2026-11-24T00:06:51+00:00"
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/11/Unknown-2-2-1024x473.jpeg",
+  "titolo": "Torre Annunziata, fu ucciso dai clan: riapre il negozio di Raffaele Pastore",
+  "link": "https://www.metropolisweb.it/2026/11/23/torre-annunziata-fu-ucciso-dai-clan-riapre-il-negozio-di-raffaele-pastore/",
+  "fonte": "Metropolis",
+  "data": "Mon, 23 Nov 2026 17:22:35 +0000",
+  "comuni": [
+   "Torre Annunziata"
+  ],
+  "visto": "2026-11-24T00:06:51+00:00"
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/11/Schermata-2026-11-23-alle-18.07.08.png",
+  "titolo": "Riprendeva la figlia di nascosto e mandava tutto all’amante",
+  "link": "https://www.metropolisweb.it/2026/11/23/riprendeva-la-figlia-di-nascosto-e-mandava-tutto-allamante/",
+  "fonte": "Metropolis",
+  "data": "Mon, 23 Nov 2026 17:08:01 +0000",
+  "comuni": [],
+  "visto": "2026-11-24T00:06:51+00:00"
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-23-175526.png",
+  "titolo": "Salute: concluso il primo percorso formativo di psicologi di base",
+  "link": "https://www.metropolisweb.it/2026/11/23/salute-concluso-il-primo-percorso-formativo-di-psicologi-di-base/",
+  "fonte": "Metropolis",
+  "data": "Mon, 23 Nov 2026 17:06:18 +0000",
+  "comuni": [],
+  "visto": "2026-11-24T00:06:51+00:00"
+ },
+ {
+  "img": "https://www.ilmediano.com/wp-content/uploads/2026/11/IMG_7096.jpeg",
+  "titolo": "Somma, la maestra Pia Vecchione compie 100 anni: una vita dedicata alla scuola e a generazioni di studenti",
+  "link": "https://www.ilmediano.com/somma-la-maestra-pia-vecchione-compie-100-anni-una-vita-dedicata-alla-scuola-e-a-generazioni-di-studenti/",
+  "fonte": "Il Mediano",
+  "data": "Mon, 23 Nov 2026 17:02:25 +0000",
+  "comuni": [],
+  "visto": "2026-11-24T00:06:51+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://www.ilmediano.com/wp-content/uploads/2026/11/Screenshot_20261123_102717_Facebook-scaled.jpg",
+  "titolo": "Terzigno, mercatino abusivo: strade bloccate da 3 mila persone",
+  "link": "https://www.ilmediano.com/terzigno-mercatino-abusivo-strade-bloccate-da-3-mila-persone/",
+  "fonte": "Il Mediano",
+  "data": "Mon, 23 Nov 2026 16:50:05 +0000",
+  "comuni": [
+   "Terzigno"
+  ],
+  "visto": "2026-11-24T00:06:51+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-23-174657.png",
+  "titolo": "Startup under 30, Napoli prima in Italia. Manfredi: «Creeremo le condizioni per favorire gli investimenti»",
+  "link": "https://www.metropolisweb.it/2026/11/23/startup-under-30-napoli-prima-in-italia-manfredi-creeremo-le-condizioni-per-favorire-gli-investimenti/",
+  "fonte": "Metropolis",
+  "data": "Mon, 23 Nov 2026 16:47:37 +0000",
+  "comuni": [],
+  "visto": "2026-11-24T00:06:51+00:00"
+ },
+ {
+  "img": "https://www.ilmediano.com/wp-content/uploads/2026/11/4e47628d-c5e3-467f-87a1-779989418467-724x1024.jpeg",
+  "titolo": "Marigliano, il Rossi Doria apre le porte alla Festa dell’Autunno tra natura e innovazione",
+  "link": "https://www.ilmediano.com/marigliano-il-rossi-doria-apre-le-porte-alla-festa-dellautunno-tra-natura-e-innovazione/",
+  "fonte": "Il Mediano",
+  "data": "Mon, 23 Nov 2026 16:40:56 +0000",
+  "comuni": [
+   "Marigliano"
+  ],
+  "visto": "2026-11-24T00:06:51+00:00"
+ },
+ {
+  "img": "https://www.laprovinciaonline.info/wp-content/uploads/2026/11/IMG-20261123-WA0084.jpg",
+  "titolo": "Giornata internazionale per l’eliminazione della violenza contro le donne: 14 Comuni insieme per promuovere azioni di supporto e sensibilizzazione",
+  "link": "https://www.laprovinciaonline.info/giornata-internazionale-per-leliminazione-della-violenza-contro-le-donne-14-comuni-insieme-per-promuovere-azioni-di-supporto-e-sensibilizzazione/",
+  "fonte": "La Provincia Online",
+  "data": "Mon, 23 Nov 2026 16:37:23 +0000",
+  "comuni": [],
+  "visto": "2026-11-24T00:06:51+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://www.ilmediano.com/wp-content/uploads/2026/11/c29c54de-8618-45f4-b9d3-c0b8693f9927-724x1024.jpeg",
+  "titolo": "Nola, “Oltre la violenza”: 14 Comuni in campo per la libertà delle donne",
+  "link": "https://www.ilmediano.com/nola-oltre-la-violenza-14-comuni-in-campo-per-la-liberta-delle-donne/",
+  "fonte": "Il Mediano",
+  "data": "Mon, 23 Nov 2026 16:35:56 +0000",
+  "comuni": [
+   "Nola"
+  ],
+  "visto": "2026-11-24T00:06:51+00:00"
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/11/Antonio-Sorrentino1.jpeg",
+  "titolo": "Schianto in scooter, muore a 18 anni: s’indaga per omicidio stradale",
+  "link": "https://www.metropolisweb.it/2026/11/23/schianto-in-scooter-muore-a-18-anni-sindaga-per-omicidio-stradale/",
+  "fonte": "Metropolis",
+  "data": "Mon, 23 Nov 2026 16:29:14 +0000",
+  "comuni": [],
+  "visto": "2026-11-24T00:06:51+00:00"
+ },
+ {
+  "img": "https://www.laprovinciaonline.info/wp-content/uploads/2026/11/miuli-cala-poker-conquista-vetta.png",
+  "titolo": "Il Miuli cala il poker e conquista la vetta",
+  "link": "https://www.laprovinciaonline.info/miuli-cala-poker-conquista-vetta/",
+  "fonte": "La Provincia Online",
+  "data": "Mon, 23 Nov 2026 16:26:02 +0000",
+  "comuni": [],
+  "visto": "2026-11-24T00:06:51+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-23-172018.png",
+  "titolo": "Un “golpe” silente cambia gli equilibri a Scampia: il nuovo clan subentra agli Scissionisti",
+  "link": "https://www.metropolisweb.it/2026/11/23/un-golpe-silente-cambia-gli-equilibri-a-scampia-il-nuovo-clan-subentra-agli-scissionisti/",
+  "fonte": "Metropolis",
+  "data": "Mon, 23 Nov 2026 16:20:59 +0000",
+  "comuni": [],
+  "visto": "2026-11-24T00:06:51+00:00"
+ },
+ {
+  "img": "https://www.vesuviolive.it/wp-content/uploads/sites/6/2026/11/1280px-4433_SantElmo.jpg",
+  "titolo": "Nuova fermata della funicolare a Castel Sant’Elmo: delibera approvata, ma nessuna certezza sui tempi",
+  "link": "https://www.vesuviolive.it/aree-locali/notizie-di-napoli/547965-nuova-fermata-della-funicolare-a-castel-santelmo-delibera-approvata-ma-nessuna-certezza-sui-tempi/",
+  "fonte": "VesuvioLive",
+  "data": "Mon, 23 Nov 2026 16:16:04 +0000",
+  "comuni": [],
+  "visto": "2026-11-24T00:06:51+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/11/Schermata-2026-11-23-alle-17.07.04.png",
+  "titolo": "Castellammare. Il tesoriere Pd: «Così s’intercettano gli investimenti»",
+  "link": "https://www.metropolisweb.it/2026/11/23/castellammare-il-tesoriere-pd-cosi-sintercettano-gli-investimenti/",
+  "fonte": "Metropolis",
+  "data": "Mon, 23 Nov 2026 16:08:14 +0000",
+  "comuni": [
+   "Castellammare di Stabia"
+  ],
+  "visto": "2026-11-24T00:06:51+00:00"
+ },
+ {
+  "img": "https://www.vesuvianonews.it/wp-content/uploads/2026/11/IMG-20261123-WA0000-320x400.jpg",
+  "titolo": "Torna a Ottaviano il Mercato della Terra Paniere Vesuviano: domenica 29 novembre tra sapori, tradizione e famiglie",
+  "link": "https://www.vesuvianonews.it/torna-a-ottaviano-il-mercato-della-terra-paniere-vesuviano-domenica-29-novembre-tra-sapori-tradizione-e-famiglie/",
+  "fonte": "Vesuviano News",
+  "data": "Mon, 23 Nov 2026 16:04:19 +0000",
+  "comuni": [
+   "Ottaviano"
+  ],
+  "visto": "2026-11-24T00:06:51+00:00"
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-23-165840-2.png",
+  "titolo": "Sorrento nella top ten nazionale per l’imposta di soggiorno: 9,3 milioni in un anno",
+  "link": "https://www.metropolisweb.it/2026/11/23/sorrento-nella-top-ten-nazionale-per-limposta-di-soggiorno-93-milioni-in-un-anno/",
+  "fonte": "Metropolis",
+  "data": "Mon, 23 Nov 2026 16:00:26 +0000",
+  "comuni": [],
+  "visto": "2026-11-24T00:06:51+00:00"
+ },
+ {
+  "img": "https://www.vesuviolive.it/wp-content/uploads/sites/6/2025/05/vortice-ciclone-meteo.jpg",
+  "titolo": "Arrivano Vortice e Perturbazione Atlantica in arrivo: la Campania tra le Regioni più colpite",
+  "link": "https://www.vesuviolive.it/ultime-notizie/547961-previsioni-meteo-vortice-mediterraneo-perturbazione-atlantica-novembre-2026/",
+  "fonte": "VesuvioLive",
+  "data": "Mon, 23 Nov 2026 15:51:10 +0000",
+  "comuni": [],
+  "visto": "2026-11-24T00:06:51+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://www.vesuviolive.it/wp-content/uploads/sites/6/2026/11/Grafico-Cappella-Orefici_page-0001.jpg",
+  "titolo": "Torre del Greco, 22 nuovi parcheggi a Cappella Nuova. Guarino: «Risolto un problema di 40 anni»",
+  "link": "https://www.vesuviolive.it/aree-locali/notizie-di-torre-del-greco/547942-torre-del-greco-22-nuovi-parcheggi-a-cappella-nuova/",
+  "fonte": "VesuvioLive",
+  "data": "Mon, 23 Nov 2026 15:50:13 +0000",
+  "comuni": [
+   "Torre del Greco"
+  ],
+  "visto": "2026-11-24T00:06:51+00:00"
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/05/DSC_2901-e1779989683247-1024x660.jpg",
+  "titolo": "Napoli, uomini contati. A Manchester serve un’impresa",
+  "link": "https://www.metropolisweb.it/2026/11/23/napoli-uomini-contati-a-manchester-serve-unimpresa/",
+  "fonte": "Metropolis",
+  "data": "Mon, 23 Nov 2026 15:47:11 +0000",
+  "comuni": [],
+  "visto": "2026-11-24T00:06:51+00:00"
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-23-alle-16.37.16.png",
+  "titolo": "L’Atlante dell’Arca del Gusto sbarca a Sorrento: protagonisti gli studenti dell’Alberghiero “San Paolo” di Sorrento",
+  "link": "https://www.metropolisweb.it/2026/11/23/latlante-dellarca-del-gusto-sbarca-a-sorrento-protagonisti-gli-studenti-dellalberghiero-san-paolo-di-sorrento/",
+  "fonte": "Metropolis",
+  "data": "Mon, 23 Nov 2026 15:42:33 +0000",
+  "comuni": [],
+  "visto": "2026-11-24T00:06:51+00:00"
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-23-162407.png",
+  "titolo": "Terziario in sofferenza in Campania: chiusi 23mila negozi in dieci anni. Nasce Federeventi",
+  "link": "https://www.metropolisweb.it/2026/11/23/terziario-in-sofferenza-in-campania-chiusi-23mila-negozi-in-dieci-anni-nasce-federeventi/",
+  "fonte": "Metropolis",
+  "data": "Mon, 23 Nov 2026 15:29:33 +0000",
+  "comuni": [],
+  "visto": "2026-11-24T00:06:51+00:00"
+ },
+ {
+  "img": "https://www.vesuviolive.it/wp-content/uploads/sites/6/2026/11/valle-natale-torre.jpg",
+  "titolo": "A Torre il magico villaggio con la Baita del vero Babbo Natale: è tra i più belli d’Europa",
+  "link": "https://www.vesuviolive.it/aree-locali/notizie-di-torre-del-greco/547953-valle-natale-torre-greco-2026-villaggio/",
+  "fonte": "VesuvioLive",
+  "data": "Mon, 23 Nov 2026 15:26:18 +0000",
+  "comuni": [
+   "Torre del Greco"
+  ],
+  "visto": "2026-11-24T00:06:51+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/11/0042e4b93110ea530e7d6cbedd3584ec.jpg",
+  "titolo": "Castellammare | Infermieri trasferiti, ultimatum dei sindacati",
+  "link": "https://www.metropolisweb.it/2026/11/23/castellammare-infermieri-trasferiti-ultimatum-dei-sindacati/",
+  "fonte": "Metropolis",
+  "data": "Mon, 23 Nov 2026 15:22:02 +0000",
+  "comuni": [
+   "Castellammare di Stabia"
+  ],
+  "visto": "2026-11-24T00:06:51+00:00"
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/11/Schermata-2026-11-23-alle-16.18.11.png",
+  "titolo": "Maltempo a Torre del Greco, si stacca una tettoia da un palazzo e crolla sulla strada",
+  "link": "https://www.metropolisweb.it/2026/11/23/maltempo-a-torre-del-greco-si-stacca-una-tettoia-da-un-palazzo-e-crolla-sulla-strada/",
+  "fonte": "Metropolis",
+  "data": "Mon, 23 Nov 2026 15:20:05 +0000",
+  "comuni": [
+   "Torre del Greco"
+  ],
+  "visto": "2026-11-24T00:06:51+00:00"
+ },
+ {
+  "img": "https://citynews-napolitoday.stgy.ovh/~media/original-hi/21078977233838/181125_premio_landolfo_25_ph_alessia_della_ragione_web_dsc0791-copia.jpg",
+  "titolo": "Premio “Francesco Landolfo” 2026: menzione speciale per il Dossier di NapoliToday sugli immobili abusivi sul Vesuvio",
+  "link": "https://www.napolitoday.it/eventi/premio-giornalismo-francesco-landolfo-2026-vincitori.html",
+  "fonte": "NapoliToday",
+  "data": "Mon, 23 Nov 2026 16:09:08 +0100",
+  "comuni": [],
+  "visto": "2026-11-24T00:06:51+00:00"
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-23-160444.png",
+  "titolo": "Lo striscione su Palazzo Matteotti: “Mai bandiera bianca”",
+  "link": "https://www.metropolisweb.it/2026/11/23/lo-striscione-su-palazzo-matteotti-mai-bandiera-bianca/",
+  "fonte": "Metropolis",
+  "data": "Mon, 23 Nov 2026 15:05:54 +0000",
+  "comuni": [],
+  "visto": "2026-11-24T00:06:51+00:00"
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2025/04/FASCIO-1024x682.jpg",
+  "titolo": "Castellammare. Palazzo del Fascio: «Ritardi inaccettabili»",
+  "link": "https://www.metropolisweb.it/2026/11/23/castellammare-palazzo-del-fascio-ritardi-inaccettabili/",
+  "fonte": "Metropolis",
+  "data": "Mon, 23 Nov 2026 14:57:58 +0000",
+  "comuni": [
+   "Castellammare di Stabia"
+  ],
+  "visto": "2026-11-24T00:06:51+00:00"
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-23-155515-1024x572.png",
+  "titolo": "«Mozart a Pompei» accende la Villa dei Misteri: musica classica, jazz e alta cucina per la serata del 26 novembre",
+  "link": "https://www.metropolisweb.it/2026/11/23/mozart-a-pompei-accende-la-villa-dei-misteri-musica-classica-jazz-e-alta-cucina-per-la-serata-del-26-novembre/",
+  "fonte": "Metropolis",
+  "data": "Mon, 23 Nov 2026 14:55:43 +0000",
+  "comuni": [
+   "Pompei"
+  ],
+  "visto": "2026-11-24T00:06:51+00:00"
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/11/Schermata-2026-11-23-alle-15.30.12.png",
+  "titolo": "Vertice Regione-Cisl sul fisco, Pirulli: «Inaccettabile chiedere altri sacrifici a lavoratori e pensionati»",
+  "link": "https://www.metropolisweb.it/2026/11/23/vertice-regione-cisl-sul-fisco-pirulli-inaccettabile-chiedere-altri-sacrifici-a-lavoratori-e-pensionati/",
+  "fonte": "Metropolis",
+  "data": "Mon, 23 Nov 2026 14:51:29 +0000",
+  "comuni": [],
+  "visto": "2026-11-24T00:06:51+00:00"
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/11/Polizia-Pompei.png",
+  "titolo": "Maltrattamenti in famiglia a Pompei, divieto di avvicinamento per un 46enne",
+  "link": "https://www.metropolisweb.it/2026/11/23/maltrattamenti-in-famiglia-a-pompei-divieto-di-avvicinamento-per-un-46enne/",
+  "fonte": "Metropolis",
+  "data": "Mon, 23 Nov 2026 14:40:54 +0000",
+  "comuni": [
+   "Pompei"
+  ],
+  "visto": "2026-11-24T00:06:51+00:00"
+ },
+ {
+  "img": "https://www.vesuviolive.it/wp-content/uploads/sites/6/2015/02/La-Certosa-di-San-Martino.jpg",
+  "titolo": "Meraviglia a Napoli: Castel Sant’Elmo e Certosa di San Martino aprono gratis per le donne",
+  "link": "https://www.vesuviolive.it/eventi/547943-villa-floridiana-castel-santelmo-certosa-san-martino-gratis-donne-2026/",
+  "fonte": "VesuvioLive",
+  "data": "Mon, 23 Nov 2026 14:26:58 +0000",
+  "comuni": [],
+  "visto": "2026-11-24T00:06:51+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-23-152002.png",
+  "titolo": "Sorrento riparte dal verde, cinquanta nuovi alberi l’anno",
+  "link": "https://www.metropolisweb.it/2026/11/23/sorrento-riparte-dal-verde-cinquanta-nuovi-alberi-lanno/",
+  "fonte": "Metropolis",
+  "data": "Mon, 23 Nov 2026 14:26:27 +0000",
+  "comuni": [],
+  "visto": "2026-11-24T00:06:51+00:00"
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/11/IMG-20261123-WA0027-1024x683.jpg",
+  "titolo": "Stati Generali dello Sport in Campania, Zabatta: «Un successo»",
+  "link": "https://www.metropolisweb.it/2026/11/23/stati-generali-dello-sport-in-campania-zabatta-un-successo/",
+  "fonte": "Metropolis",
+  "data": "Mon, 23 Nov 2026 14:22:23 +0000",
+  "comuni": [],
+  "visto": "2026-11-24T00:06:51+00:00"
+ },
+ {
+  "img": "https://www.laprovinciaonline.info/wp-content/uploads/2026/11/pietro-fabbrocino-lettera-aperta-carcere-rovigo-lancia-appello-212x300.jpg",
+  "titolo": "Camorra, Pietro Fabbrocino scrive una lettera dal carcere di Rovigo ai giovani «Studiate!»",
+  "link": "https://www.laprovinciaonline.info/pietro-fabbrocino-lettera-aperta-carcere-rovigo-lancia-appello/",
+  "fonte": "La Provincia Online",
+  "data": "Mon, 23 Nov 2026 14:16:14 +0000",
+  "comuni": [],
+  "visto": "2026-11-24T00:06:51+00:00"
+ },
+ {
+  "img": "https://www.vesuviolive.it/wp-content/uploads/sites/6/2026/11/Le-difficolta-nel-rinnovo-del-contratto-di-McTominay.jpg",
+  "titolo": "Prima Kvara, ora McTominay: il Napoli non riesce a rinnovare. Ma gli stipendi del CDA sono aumentati del 26%",
+  "link": "https://www.vesuviolive.it/calcio-napoli/547934-prima-kvara-ora-mctominay-il-napoli-non-riesce-a-rinnovare-ma-gli-stipendi-del-cda-sono-aumentati-del-26/",
+  "fonte": "VesuvioLive",
+  "data": "Mon, 23 Nov 2026 13:56:34 +0000",
+  "comuni": [],
+  "visto": "2026-11-24T00:06:51+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://www.laprovinciaonline.info/wp-content/uploads/2026/11/sequestro-nr-7-serpenti-grano-rinvenuti-pacco-postale.jpg",
+  "titolo": "Salvati 7 serpenti del Grano rinvenuti in un pacco postale dai carabinieri Cites",
+  "link": "https://www.laprovinciaonline.info/sequestro-nr-7-serpenti-grano-rinvenuti-pacco-postale/",
+  "fonte": "La Provincia Online",
+  "data": "Mon, 23 Nov 2026 13:49:29 +0000",
+  "comuni": [],
+  "visto": "2026-11-24T00:06:51+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/01/ec7dc0fb-c896-4e3d-a8bb-3d0e959e7ee2-1024x640.jpeg",
+  "titolo": "Castellammare. I Socialisti: «Cinque regole per le prossime elezioni»",
+  "link": "https://www.metropolisweb.it/2026/11/23/castellammare-i-socialisti-cinque-regole-per-le-prossime-elezioni/",
+  "fonte": "Metropolis",
+  "data": "Mon, 23 Nov 2026 13:43:10 +0000",
+  "comuni": [
+   "Castellammare di Stabia"
+  ],
+  "visto": "2026-11-24T00:06:51+00:00"
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/11/image-5.jpeg",
+  "titolo": "Torre Annunziata: flash mob contro la violenza sulle donne",
+  "link": "https://www.metropolisweb.it/2026/11/23/torre-annunziata-flash-mob-femminicidio-maximall/",
+  "fonte": "Metropolis",
+  "data": "Mon, 23 Nov 2026 13:33:13 +0000",
+  "comuni": [
+   "Torre Annunziata"
+  ],
+  "visto": "2026-11-24T00:06:51+00:00"
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/08/Schermata-2026-08-07-alle-17.15.11-e1786115746195.png",
+  "titolo": "Napoli. Lungo stop per Vergara, tornerà nel 2027",
+  "link": "https://www.metropolisweb.it/2026/11/23/napoli-lungo-stop-per-vergara-tornera-nel-2027/",
+  "fonte": "Metropolis",
+  "data": "Mon, 23 Nov 2026 13:32:36 +0000",
+  "comuni": [],
+  "visto": "2026-11-24T00:06:51+00:00"
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-23-alle-14.27.56-1024x894.png",
+  "titolo": "Forza Italia: Martusciello nomina Losacco responsabile di ‘Storie di successo’",
+  "link": "https://www.metropolisweb.it/2026/11/23/forza-italia-martusciello-nomina-losacco-responsabile-di-storie-di-successo/",
+  "fonte": "Metropolis",
+  "data": "Mon, 23 Nov 2026 13:29:47 +0000",
+  "comuni": [],
+  "visto": "2026-11-24T00:06:51+00:00"
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-23-alle-14.20.10.png",
+  "titolo": "Sud, Sbarra: “Zes unica vale 23 miliardi e 80mila posti di lavoro”",
+  "link": "https://www.metropolisweb.it/2026/11/23/sud-sbarra-zes-unica-vale-23-miliardi-e-80mila-posti-di-lavoro/",
+  "fonte": "Metropolis",
+  "data": "Mon, 23 Nov 2026 13:20:54 +0000",
+  "comuni": [],
+  "visto": "2026-11-24T00:06:51+00:00"
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/03/domenico-caliendo.png",
+  "titolo": "La morte di Domenico, legale: “Per periti gip si doveva considerare Berlin Heart”",
+  "link": "https://www.metropolisweb.it/2026/11/23/la-morte-di-domenico-legale-per-periti-gip-si-doveva-considerare-berlin-heart/",
+  "fonte": "Metropolis",
+  "data": "Mon, 23 Nov 2026 13:11:37 +0000",
+  "comuni": [],
+  "visto": "2026-11-24T00:06:51+00:00"
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-23-alle-14.04.10.png",
+  "titolo": "La truffa dello spoofing bancario: arrestato finto poliziotto",
+  "link": "https://www.metropolisweb.it/2026/11/23/la-truffa-dello-spoofing-bancario-arrestato-finto-poliziotto/",
+  "fonte": "Metropolis",
+  "data": "Mon, 23 Nov 2026 13:05:04 +0000",
+  "comuni": [],
+  "visto": "2026-11-24T00:06:51+00:00"
+ },
+ {
+  "img": "https://www.laprovinciaonline.info/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-23-at-13.51.17.jpeg",
+  "titolo": "Assalto in gioielleria a Pomigliano: sfondata la vetrina, caccia ai ladri",
+  "link": "https://www.laprovinciaonline.info/assalto-in-gioielleria-a-pomigliano-sfondata-la-vetrina-caccia-ai-ladri/",
+  "fonte": "La Provincia Online",
+  "data": "Mon, 23 Nov 2026 12:52:08 +0000",
+  "comuni": [],
+  "visto": "2026-11-24T00:06:51+00:00",
+  "img_provata": true
+ },
+ {
+  "img": "https://www.vesuviolive.it/wp-content/uploads/sites/6/2026/11/natale-2026-luci-bacoli.jpg",
+  "titolo": "Villaggi di Natale più belli da vedere gratis a Napoli e in Campania: alcuni sono già aperti",
+  "link": "https://www.vesuviolive.it/eventi/547927-villaggi-natale-2026-gratis-napoli-campania/",
+  "fonte": "VesuvioLive",
+  "data": "Mon, 23 Nov 2026 12:37:51 +0000",
+  "comuni": [],
+  "visto": "2026-11-24T00:06:51+00:00"
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-23-alle-13.29.53-1024x680.png",
+  "titolo": "Estorsioni in penisola sorrentina: 10mila euro alle ditte edili",
+  "link": "https://www.metropolisweb.it/2026/11/23/estorsioni-in-penisola-sorrentina-10mila-euro-alle-ditte-edili/",
+  "fonte": "Metropolis",
+  "data": "Mon, 23 Nov 2026 12:30:47 +0000",
+  "comuni": [],
+  "visto": "2026-11-24T00:06:51+00:00"
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/11/IMG-20261123-WA0017-1024x857.jpg",
+  "titolo": "Sette serpenti spediti in un pacco postale, la scoperta a Napoli",
+  "link": "https://www.metropolisweb.it/2026/11/23/sette-serpenti-spediti-in-un-pacco-postale-la-scoperta-a-napoli/",
+  "fonte": "Metropolis",
+  "data": "Mon, 23 Nov 2026 12:13:36 +0000",
+  "comuni": [],
+  "visto": "2026-11-24T00:06:51+00:00"
+ },
+ {
+  "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-23-alle-13.00.59-1024x619.png",
+  "titolo": "Premio Landolfo: tutti i premiati della quindicesima edizione",
+  "link": "https://www.metropolisweb.it/2026/11/23/premio-landolfo-tutti-i-premiati-della-quindicesima-edizione/",
+  "fonte": "Metropolis",
+  "data": "Mon, 23 Nov 2026 12:04:15 +0000",
+  "comuni": [],
+  "visto": "2026-11-24T00:06:51+00:00"
+ },
+ {
   "img": "https://cdn13.webmaster360.it/2026/11/covers/7LbVnOxJGZX1MqBt7RGRW3tr975K7JcEzLFwIUig.jpg",
   "titolo": "Malamovida, preso ragazzo con una katana",
   "link": "https://www.ilfattovesuviano.it/2026/11/malamovida-preso-ragazzo-con-una-katana",
@@ -99,7 +768,7 @@
  },
  {
   "img": "https://www.metropolisweb.it/metropolisweb/news/wp-content/uploads/sites/2/2025/10/Screenshot-2025-09-19-111710.png",
-  "titolo": "San Giuseppe Vesuviano: ora è ufficiale Forza Italia «blinda» la poltrona di Sepe",
+  "titolo": "San Giuseppe Vesuviano: ora è ufficiale Forza Italia e Risveglio Popolare «blindano» la poltrona di Sepe",
   "link": "https://www.metropolisweb.it/2026/11/23/san-giuseppe-vesuviano-ora-e-ufficiale-forza-italia-blinda-la-poltrona-di-sepe/",
   "fonte": "Metropolis",
   "data": "Mon, 23 Nov 2026 11:07:19 +0000",
@@ -380,6 +1049,16 @@
   "data": "Mon, 23 Nov 2026 08:00:00 +0000",
   "comuni": [],
   "visto": "2026-11-23T12:13:12+00:00"
+ },
+ {
+  "img": "https://www.ilmediano.com/wp-content/uploads/2021/11/ladri.jpg",
+  "titolo": "Assalto alla gioielleria: sfondano la vetrina e fuggono con i preziosi",
+  "link": "https://www.ilmediano.com/assalto-alla-gioielleria-sfondano-la-vetrina-e-fuggono-con-i-preziosi/",
+  "fonte": "Il Mediano",
+  "data": "Mon, 23 Nov 2026 07:50:13 +0000",
+  "comuni": [],
+  "visto": "2026-11-24T00:06:51+00:00",
+  "img_provata": true
  },
  {
   "img": "https://www.ilmediano.com/wp-content/uploads/2021/11/ladri.jpg",
