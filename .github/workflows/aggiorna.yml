@@ -17,6 +17,14 @@ on:
       - "data/**"
   workflow_dispatch:
 
+# Una consegna a GitHub Pages per volta. Se due esecuzioni arrivano insieme
+# al passaggio finale, una delle due viene respinta e il sito resta indietro
+# pur essendo stato costruito: e' quello che e' successo il 24 novembre. Con
+# questo accorgimento la seconda aspetta il proprio turno invece di fallire.
+concurrency:
+  group: pagine
+  cancel-in-progress: false
+
 permissions:
   contents: write
   pages: write
@@ -48,8 +56,22 @@ jobs:
           git config user.name  "La Voce Vesuviana (bot)"
           git config user.email "bot@users.noreply.github.com"
           git add data/
-          git diff --staged --quiet || git commit -m "aggiornamento fonti $(date +'%d/%m %H:%M')"
-          git push
+          git diff --staged --quiet && exit 0
+          git commit -m "aggiornamento fonti $(date +'%d/%m %H:%M')"
+          # Se nel frattempo su GitHub e' arrivato dell'altro - un articolo
+          # nuovo, oppure un'altra esecuzione che ha gia' salvato le fonti -
+          # il nostro invio viene respinto e tutto si ferma, consegna del sito
+          # compresa. E' quello che e' successo il 24 novembre. Invece di
+          # arrenderci, riprendiamo il lavoro altrui e riproviamo.
+          for tentativo in 1 2 3; do
+            if git pull --rebase origin main && git push; then
+              exit 0
+            fi
+            echo "Tentativo $tentativo non riuscito, riprovo."
+            sleep 5
+          done
+          echo "Non sono riuscito a salvare le fonti dopo tre tentativi." >&2
+          exit 1
 
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
